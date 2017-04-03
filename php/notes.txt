@@ -1,0 +1,80 @@
+Update 1/5 (late night)
+-Adding to database seems to be working, OTHER THAN serialFirst and serialLast
+	-Works when set and inserting integers, but not when trying to insert null
+	-Make 2 separate sql statements, one if numbering is true which includes both fields, one excluding serialfirst/last if not numbered?
+-Will have to clear information from twins_pc table after dont thoroughly testing
+
+Update 1/5
+-Getting pretty close to writing to database from addCard.php
+-Think there's errors in checkboxes that are unchecked
+	-Go thru each and set them. i.e.
+		-if $numbered
+			$numberedDB = ___ (1 works i think)
+		else
+			$numberedDB = ___ (0 i think)
+	-Need to find what they are supposed to be set to
+
+	-Would be much more efficient to change all tinyint fields to bit fields
+		BIT(1)
+		Set to 1 (true) or 0 (false)
+
+Update 1/2
+-Need to reorganize addCard.php
+	-Only do anything if the password is correct- Move that if statement up to the top
+-Image data working, can upload an image and get it stored correctly, then take the path and display it in plain html
+-Todo
+	-Figure out database side of things: Have infomation stored in the database when form is submitted
+
+Notes as of 1/1/17
+
+-Successfully figured out how to upload images
+-Successfully figured out how to password protect form-entering actions
+        -(Only do stuff with the form data if the password was correct)
+
+-Todo
+        -Figure out how to enter cards to database on form submission
+        -Add in file picker to form to handle images
+                -Add image storage from upload.php to addCard.php
+                        -(So images are stored correctly)
+                -Manipulate form data so that the image is put in the correct place
+                        -2010 Topps Gold Justin Morneau 10 should be stored in .../twins_pc/2010/Topps/Gold/10_Justin_Morneau.jpg
+                                -(Or something similar)
+                                -Will I have 2 of the same cards with different serial numbers?
+                                        -.../2010/Topps/Gold/10_Justin_Morneau_0789_2010.jpg
+                                        -.../2010/Topps/Gold/10_Justin_Morneau_1234_2010.jpg
+                                        -Above 2 bullet points idea for storing Morneau golds 0789/2010 and 1234/2010
+                                -Graded cards in file path?
+                                        -.../2010/Topps/Gold/10_Justin_Morenau_1234_2010_BGS_95.jpg
+                                                -A grade of 9.5 would case issues
+                                                -Strip grade of periods
+                                                        -Other instances of avoiding periods, slashes, etc?
+                                -Biggest issue: How to handle 2 of the same card
+                                        -Think including serial numbers is the way to go
+                                        -Grading info probably not necessary to include
+                                                -Will be able to see it's graded from rest of card info
+                                                -Path is just how to get to the image, maybe no need to make it so detailed
+                                -How to handle empty fields
+                                        -Need to make 2010 Topps Gold into .../2010/Topps/Gold/...
+                                        -Need to make sure 2010 Topps doesn't become .../2010/Topps//...
+                                                -Double slash would cause issues
+                                        -Idea: Use PHP ifs and variables: $subset = "Gold/" or $subset = ""
+                                                -Empty string wouldn't add an unnecessary slash and mess things up
+                                                -Use ifs- If data is set, make it "data/", otherwise make it ""
+		-Summary of everything above: Replace text path to picture field with file picker and
+			code the correct path to where the image will be saved (string manipulation?)
+        -Finalize form fields
+                -Consider adding:
+                        -SP
+                        -VAR
+                -How to handle cards with multiple players?
+
+_____Order_____
+1. Finalize form fields/handle multi-player cards
+        -(Consider other weird situations too)
+2. Play with image file path, make sure it's going to something that makes sense COMPLETED
+	-(1 and 2 can be done in either order, but must be done before 3)
+3. Enter form data to database on form submission
+4. Put it all together
+5. Have fun entering cards
+6. Figure out how to combine getting info from the database (PHP(?)) with showing the images (HTML- check Bootstrap too)
+

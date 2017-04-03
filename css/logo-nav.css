@@ -1,0 +1,40 @@
+/* Look at .navbar-fixed-top in bootstrap.css to see what's being styled
+     Move those rules to this file so can stop using bootstrap.css
+     Removing bootstrap.css from style rules keeps logo alright but messes up the li elements of the actual nav
+     Will likely have to find style rules for li elements, positioning rules, maybe background color
+     Once everything is in the correct spot, can make those dropdowns appear on hover
+*/
+
+/*
+ * Start Bootstrap - Logo Nav (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+.navbar-fixed-top {
+    /* This code block was implemented by me, maybe shouldn't be there. Position relative does make it scrollable, however */
+    background-color: black;
+    position: relative; /* Makes nav scrollable, but not in the right position */
+}
+
+.navbar-fixed-top .nav {
+    padding: 15px 0;
+}
+
+.navbar-fixed-top .navbar-brand {
+    padding: 0 15px;
+}
+
+@media(min-width:768px) {
+    body {
+        padding-top: 80px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    }
+
+    .navbar-fixed-top .navbar-brand {
+        padding: 15px 0;
+    }
+}

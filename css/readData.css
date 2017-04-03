@@ -1,0 +1,31 @@
+table {
+	border: 1px solid black;
+//	border-collapse: collapse;
+}
+
+table tr {
+	border: 1px solid black;
+//	border-collapse: collapse;
+}
+
+table tr td {
+	padding-left: 1rem;
+	padding-right: 1rem;
+	padding-top: 0.25rem;
+	padding-bottom: 0.25rem;
+}
+
+table tr td.oddRow {
+	background-color: #e6e6e6;
+}
+
+table tr td div img {
+	display: none;
+}
+
+table tr td:hover div img {
+	display: block;
+	position: absolute;
+	border: 10px solid black;
+	height: 350px;
+}
