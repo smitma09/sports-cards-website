@@ -24,6 +24,7 @@
 			<li>Undo button for typos after card upload</li>
 			<li>API for deleting records from database</li>
 			<li>Admin section for adding cards, deleting cards, etc</li>
+			<li>Fix password stuff</li>
 		</ul>
 		<h3>Test section</h3>
 	</body>

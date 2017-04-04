@@ -3,12 +3,10 @@
 		<h1>Testing</h1>
 
 	<?php
-		$servername = "localhost";
-		$username = "hollywood42";
-		$password = "Pass4Database";
-		$dbname = "cardCollections";
 
-		$conn = new mysqli($servername, $username, $password, $dbname);
+		include "/var/www/admin.php";
+
+		$conn = new mysqli($dbServername, $dbUsername, $dbPass, $dbName);
 		if ($conn->connect_error) {
 			echo "<p>Connection failed :(</p>";
 		} else {
