@@ -29,6 +29,12 @@
 				<li>Text of actual wants</li>
 				<li>Decide on best layout</li>
 				<li>Style</li>
+				<ul>
+					<li>Each individual set listing</li>
+					<li>Hardcode bold/underline or use external CSS file?</li>
+					<li>Image headers for each year- Rotate horizontally</li>
+					<li>Set name as hyperlink to search for those cards in gallery?</li>
+				</ul>
 			</ul>
 		</ul>
 		<h3>Test section</h3>
