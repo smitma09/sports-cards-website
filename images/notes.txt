@@ -1,5 +1,0 @@
-Note- Images will need a+r permissions in order to show up on pages. They haven't defaulted to have those permissions in the past
-
-
-Question- Security issue to have rwx permissions for all on the images directory? Need it to be in order to upload pictures to it, but may not be safe
-	Idea- Set up non-http accessable directory with rwx permissions for all and upload to there- See if images are still attainable by html
