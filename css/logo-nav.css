@@ -18,7 +18,7 @@ body {
 .navbar-fixed-top {
     /* This code block was implemented by me, maybe shouldn't be there. Position relative does make it scrollable, however */
     background-color: black;
-    position: relative; /* Makes nav scrollable, but not in the right position */
+    position: relative; /* Makes nav scrollable, but not in the right position- Update not sure if this is true */
 }
 
 .navbar-fixed-top .nav {

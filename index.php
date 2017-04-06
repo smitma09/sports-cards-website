@@ -11,7 +11,6 @@
 				<li>Get it positioned correctly</li>
 				<li>Figure out what rules are being used</li>
 				<li>Narrow it down to one file and modify/customize from there</li>
-				<li>Investigate why it doesn't appear styled in certain directories</li>
 			</ul>
 			<li>Continue adding cards to database</li>
 			<li>Set up galleries page</li>
