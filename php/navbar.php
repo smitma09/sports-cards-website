@@ -8,8 +8,8 @@
 <html>
 
 <head>
-    <link href="./../css/bootstrap.css" rel="stylesheet">
-    <link href="./../css/logo-nav.css" rel="stylesheet">
+    <link href="/css/bootstrap.css" rel="stylesheet"> <!-- Link relative to home dir of website -->
+    <link href="/css/logo-nav.css" rel="stylesheet">
 </head>
 
 <body>
@@ -22,7 +22,7 @@
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
                 <a class="navbar-brand" href="/">
-                    <img src="./../images/logos/logoNavbar.png" alt="Hollywood42_logo">
+                    <img src="/images/logos/logoNavbar.png" alt="Hollywood42_logo"> <!-- Link relative to home dir of website -->
                 </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
