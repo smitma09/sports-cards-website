@@ -6,6 +6,8 @@
 <body>
 	<h1> Twins PC wants- 2010s</h1>
 
+	<img href="https://sportscardalbum.com/c/s7thn926x250.JPG" alt="Berrios" src="https://sportscardalbum.com/c/s7thn926x250.JPG">
+
 	<p>Set name<br>
 	Base: 1, 2, 3, 4, 5<br>
 	Insert 1: 1, 2, 3, 4, 5<br>
