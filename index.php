@@ -23,7 +23,7 @@
 			<li>Undo button for typos after card upload</li>
 			<li>API for deleting records from database</li>
 			<li>Admin section for adding cards, deleting cards, etc</li>
-			<li>Fix password stuff</li>
+			<li>Fix password/slow ssh stuff</li>
 			<li>Fill in wantlist pages</li>
 			<ul>
 				<li>Text of actual wants</li>
