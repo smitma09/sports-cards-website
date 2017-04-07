@@ -26,6 +26,10 @@
 			<li>Fill in wantlist pages</li>
 			<ul>
 				<li>Text of actual wants</li>
+				<ul>
+					<li>Copy/paste from old site</li>
+					<li>Edit offline (find and replace, easier copy/paste), paste online</li>
+				</ul>
 				<li>Style</li>
 				<ul>
 					<li>Each individual set listing</li>

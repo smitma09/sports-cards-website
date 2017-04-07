@@ -89,9 +89,72 @@
 	<b>Sophomore Standouts Blue (#/150):</b> 2<br>
 	<b>Sophomore Standouts Green (#/99):</b> 2<br>
 	<b>Sophomore Standouts Orange (#/25):</b> 2<br>
-	<b>Turn Two: BJ</p>
+	<b>Turn Two:</b> BJ</p>
 
 	<br>
+
+	<p><u>2016 Bowman Platinum</u><br>
+	<b>Base:</b> 22, 37, 71, 81 84, 93<br>
+	<b>Green (#/99):</b> 22, 37, 71, 81 84, 93<br>
+	<b>Ice:</b> 22, 37, 71, 81 84, 93<br>
+	<b>Orange (#/25):</b> 22, 37, 71, 81 84, 93<br>
+	<b>Purple (#/250):</b> 22, 37, 71, 81 84, 93<br>
+	<b>Top Prospects:</b> ABW, NG, TJ, WJ<br>
+	<b>Top Prospects Green (#/99):</b> ABW, NG, TJ, WJ<br>
+	<b>Top Prospects Ice:</b> ABW, NG, TJ, WJ<br>
+	<b>Top Prospects Orange (#/25):</b> ABW, NG, TJ, WJ<br>
+	<b>Top Prospects Purple (#/250):</b> ABW, NG, TJ, WJ<br>
+	<b>Next Generation:</b> 17<br>
+	<b>Next Generation Green (#/99):</b> 17<br>
+	<b>Next Generation Orange (#/25):</b> 17<br>
+	<b>Next Generation Purple (#/250):</b> 17<br>
+	<b>Next Generation Prospects:</b> 17<br>
+	<b>Next Generation Prospects Green (#/99):</b> 17<br>
+	<b>Next Generation Prospects Orange (#/25):</b> 17<br>
+	<b>Next Generation Prospects Purple (#/250):</b> 17</p>
+
+	<br>
+
+	<p><u>2016 Bowman Chrome</u><br>
+	<b>Base:</b> 7, 27, 55, 94<br>
+	<b>Refractors:</b> 7, 27, 55, 94<br>
+	<b>Blue Refractors (#/150):</b> 7, 27, 55, 94<br>
+	<b>Gold Refractors (#/50):</b> 7, 27, 55, 94<br>
+	<b>Green Refractors (#/99):</b> 7, 27, 55, 94<br>
+	<b>Orange Refractors (#/25):</b> 7, 27, 55, 94<br>
+	<b>Purple Refractors (#/250):</b> 7, 27, 55, 94<br>
+	<b>Chrome Prospects (BCP):</b> 185, 197, 226, 230, 237<br>
+	<b>Chrome Prospects Black & Gold (BCP):</b> 185, 197, 226, 230, 237<br>
+	<b>Chrome Prospects Blue Shimmer (BCP):</b> 185, 197, 226, 230, 237<br>
+	<b>Chrome Prospects Orange Shimmer (BCP):</b> 185, 197, 226, 230, 237<br>
+	<b>Chrome Prospects Refractors (BCP):</b> 185, 197, 226, 230, 237<br>
+	<b>Chrome Prospects Blue Refractors (BCP #/150):</b> 185, 197, 226, 230, 237<br>
+	<b>Chrome Prospects Gold Refractors (BCP, #/50):</b> 185, 197, 226, 230, 237<br>
+	<b>Chrome Prospects Green Refractors (BCP, #/99):</b> 185, 197, 226, 230, 237<br>
+	<b>Chrome Prospects Orange Refractors (BCP, #/25):</b> 185, 197, 226, 230, 237<br>
+	<b>AFL Fall Stars Game:</b> ABW<br>
+	<b>AFL Fall Stars Game Blue Refractors (#/150):</b> ABW<br>
+	<b>AFL Fall Stars Game Gold Refractors (#/50):</b> ABW<br>
+	<b>AFL Fall Stars Game Orange Refractors (#/25):</b> ABW<br>
+	<b>Out of the Gate:</b> 8<br>
+	<b>Out of the Gate Blue Refractors (#/150):</b> 8<br>
+	<b>Out of the Gate Gold Refractors (#/50):</b> 8<br>
+	<b>Out of the Gate Orange Refractors (#/25):</b> 8<br>
+	<b>Vending Box Chrome Base:</b> 52, 53, 140, 147</p>
+
+	<br>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <body>
 <html>
