@@ -24,15 +24,16 @@
 			<li>API for deleting records from database</li>
 			<li>Admin section for adding cards, deleting cards, etc</li>
 			<li>Fix password/slow ssh stuff</li>
+			<ul>
+				<li><i>Fixed?</i></li>
+			</ul>
 			<li>Fill in wantlist pages</li>
 			<ul>
 				<li>Text of actual wants</li>
-				<li>Decide on best layout</li>
 				<li>Style</li>
 				<ul>
 					<li>Each individual set listing</li>
 					<li>Hardcode bold/underline or use external CSS file?</li>
-					<li>Image headers for each year- Rotate horizontally</li>
 					<li>Set name as hyperlink to search for those cards in gallery?</li>
 				</ul>
 			</ul>

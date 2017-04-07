@@ -279,11 +279,7 @@
 				echo "<p>Want to <a href='/databaseForms/twins_pcForm.php'>enter another card</a>?</p>";
 
 			//Connecting to database
-				$server = "localhost";
-				$username = "hollywood42";
-				$password = "Pass4Database";
-				$db = "cardCollections";
-				$conn = new mysqli($server, $username, $password, $db);
+				$conn = new mysqli($dbServername, $dbUsername, $dbPass, $dbName);
 			//Check connection
 				if ($conn->connect_error) {
 					echo "<h1>Database error</h1><p>Connection to database failed</p>";

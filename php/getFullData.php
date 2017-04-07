@@ -8,7 +8,7 @@
 <?php
 	include "/var/www/admin.php";
 
-	$conn = new mysqli($dbServername, $dbUsername, $dbPass, $dbName);
+	$conn = new mysqli($dbServername, $publicdbUsername, $publicdbPass, $dbName);
 	if ($conn->connect_error) {
 		echo "<h1>Connection error</h1>";
 		echo "<p>There was an error in connecting to the database. Please try again</p>";
