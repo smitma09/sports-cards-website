@@ -12,7 +12,8 @@
  */
 
 body {
-    padding-top: 50px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    padding-top: 5px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes.
+	--------- Previously 50px */
 }
 
 .navbar-fixed-top {
@@ -31,7 +32,8 @@ body {
 
 @media(min-width:768px) {
     body {
-        padding-top: 80px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+        padding-top: 5px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes.
+		--------- Previously 80 */
     }
 
     .navbar-fixed-top .navbar-brand {
