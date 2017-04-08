@@ -32,10 +32,12 @@
                     <li><a href="/databaseForms/twins_pcForm.php">Database entry</a></li>
                     <li><a href="/galleries/tempGalleryHome.html">Galleries</a></li>
 		    <li><a href="/pull-info.php">Have lists</a></li>
-	<!--        <ul class="navHover">
+		    <li><a href="/wantlists">Wantlists</a></li>
+<!--	        <ul class="navHover">
 		 	<li>Placeholder</li>
 			<li>Placeholder 2</li>
-		    </ul> -->
+		    </ul>
+-->
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
