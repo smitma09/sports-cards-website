@@ -1,0 +1,9 @@
+div .setTitle {
+	text-decoration: underline;
+	display: inline;
+}
+
+div .subsetTitle {
+	font-weight: bold;
+	display: inline;
+}
