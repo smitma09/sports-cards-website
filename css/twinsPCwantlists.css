@@ -1,9 +1,9 @@
-div .setTitle {
+div .title {
 	text-decoration: underline;
 	display: inline;
 }
 
-div .subsetTitle {
+div .ssTitle {
 	font-weight: bold;
 	display: inline;
 }
