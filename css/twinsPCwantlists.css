@@ -1,9 +1,9 @@
-div .title {
+div.title {
 	text-decoration: underline;
 	display: inline;
 }
 
-div .ssTitle {
+div.ssTitle {
 	font-weight: bold;
 	display: inline;
 }
