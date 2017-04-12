@@ -7,3 +7,10 @@ div.ssTitle {
 	font-weight: bold;
 	display: inline;
 }
+
+hr {
+	/* All 3 rules needed to cover different browsers */
+	color: #e6e6e6;
+	border-color: #e6e6e6;
+	background-color: #e6e6e6;
+}

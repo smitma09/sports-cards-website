@@ -33,6 +33,7 @@
 				<li>Style- Set name as hyperlink to search for those cards in gallery?</li>
 			</ul>
 			<li>Main home landing page- Big Target Field image, links to different things?</li>
+			<li>Move hr CSS color rule to somewhere it will style across the site</li>
 		</ul>
 		<h3>Test section</h3>
 			<p><i>To be used for misc. testing when needed</i></p>
