@@ -10,6 +10,7 @@
 			<ul>
 				<li>Figure out what rules are being used</li>
 				<li>Narrow it down to one file and modify/customize from there(?)</li>
+				<li>Figure out expanded dropdown links on hover</li>
 			</ul>
 			<li>Continue adding cards to database</li>
 			<li>Set up galleries page</li>
