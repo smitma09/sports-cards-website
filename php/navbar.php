@@ -33,11 +33,13 @@
                     <li><a href="/galleries/tempGalleryHome.html">Galleries</a></li>
 		    <li><a href="/pull-info.php">Have lists</a></li>
 		    <li><a href="/wantlists">Wantlists</a></li>
-<!--	        <ul class="navHover">
-		 	<li>Placeholder</li>
-			<li>Placeholder 2</li>
-		    </ul>
--->
+<!--		    <div class="dropdown">
+			<li>Dropdown test</li>
+			    <div class="dropdown-content">
+			       <a href="#">Link 1</a>
+			       <a href="#">Link 2</a>
+			    </div>
+		    </div> -->
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
