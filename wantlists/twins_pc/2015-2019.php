@@ -536,5 +536,341 @@
 	
 	<hr>
 
+	<h1>2015</h1>
+
+	<br>
+
+	<p><div class=title>2015 Bowman Draft</div><br>
+	<i>Completed- Fantasy Impact, Teams of Tomorrow Die Cut, Teams of Tomorrow Die Cut Orange</i><br>
+	<div class=ssTitle>Base:</div> 48, 128<br>
+	<div class=ssTitle>Blue (#/150):</div> 48, 128, 136, 148, 198<br>
+	<div class=ssTitle>Gold (#/50):</div> 48, 128, 136, 148, 198<br>
+	<div class=ssTitle>Green (#/99):</div> 48, 128, 136, 148<br>
+	<div class=ssTitle>Orange (#/25):</div> 48, 128, 136, 148, 198<br>
+	<div class=ssTitle>Silver (#/499):</div> 48, 128, 136, 148, 198<br>
+	<div class=ssTitle>Chrome:</div> 48, 128, 148, 198<br>
+	<div class=ssTitle>Chrome Refractor:</div> 198<br>
+	<div class=ssTitle>Chrome Blue Refractor (#/150):</div> 48, 128, 136, 148, 198<br>
+	<div class=ssTitle>Chrome Gold Refractor (#/50):</div> 48, 128, 136, 148, 198<br>
+	<div class=ssTitle>Chrome Green Refractor (#/99):</div> 48, 128, 136, 148, 198<br>
+	<div class=ssTitle>Chrome Purple Refractor (#/250):</div> 48, 128, 136, 198<br>
+	<div class=ssTitle>Chrome Orange Refractor (#/25):</div> 48, 128, 136, 148, 198<br>
+	<div class=ssTitle>Chrome Sky Blue Refractor:</div> 48, 128, 136, 198<br>
+	<div class=ssTitle>Initiation:</div> 5<br>
+	<div class=ssTitle>Initiation Gold (#/25):</div> 5<br>
+	<div class=ssTitle>Teams of Tomorrow Die Cut Gold (#/???):</div> 6<br>
+	<div class=ssTitle>Top of the Class Box Topper:</div> TJ<br>
+	<div class=ssTitle>Top of the Class Box Topper Orange Wave (#/25):</div> TJ</p>
+
+	<br>
+
+	<p><div class=title>2015 Bowman's Best</div><br>
+	<div class=ssTitle>Base:</div> 27, 38, 40, 44<br>
+	<div class=ssTitle>Refractors:</div> 27, 44<br>
+	<div class=ssTitle>Atomic Refractors:</div> 27, 38, 40, 44<br>
+	<div class=ssTitle>Blue Refractors (#ed/150):</div> 27, 38, 40, 44<br>
+	<div class=ssTitle>Green Refractors (#ed/99):</div> 27, 38, 40, 44<br>
+	<div class=ssTitle>Gold Refractors (#ed/50):</div> 27, 38, 40, 44<br>
+	<div class=ssTitle>Orange Refractors (#ed/25):</div> 27, 38, 44<br>
+	<div class=ssTitle>Top Prospects (TP):</div> 2, 22<br>
+	<div class=ssTitle>Top Prospects Atomic Refractors (TP):</div> 2, 22, 36<br>
+	<div class=ssTitle>Top Prospects Blue Refractors (TP, #ed/150):</div> 2, 22, 36<br>
+	<div class=ssTitle>Top Prospects Green Refractors (TP, #ed/99):</div> 2, 22, 36<br>
+	<div class=ssTitle>Top Prospects Gold Refractors (TP, #ed/50):</div> 2, 22, 36<br>
+	<div class=ssTitle>First Impressions (FI):</div> TJ<br>
+	<div class=ssTitle>First Impressions Atomic Refractors (FI):</div> TJ<br>
+	<div class=ssTitle>First Impressions Orange Refractors (FI, #ed/25):</div> TJ<br>
+	<div class=ssTitle>Hi-Def Heritage (HDH):</div> BB, MS, NG<br>
+	<div class=ssTitle>Hi-Def Heritage Atomic Refractors (HDH):</div> BB, MS, NG<br>
+	<div class=ssTitle>Hi-Def Heritage Orange Refractors (HDH, #ed/25):</div> BB, MS, NG<br>
+	<div class=ssTitle>Mirror Image (MI):</div> 8, 12</p>
+
+	<br>
+
+	<p><div class=title>2015 Diamond Kings</div><br>
+	<div class=ssTitle>Base:</div> 34, 74, 85, 168b (black jersey SP), 182<br>
+	<div class=ssTitle>DK Minis:</div> 34, 62, 74, 85, 168, 182, 206<br>
+	<div class=ssTitle>Framed Blue (#/99):</div> 34, 62, 74, 85, 168, 182<br>
+	<div class=ssTitle>Framed Red:</div> 34, 62, 74, 85, 168, 182<br>
+	<div class=ssTitle>Gold (#/25):</div> 34, 62, 74, 85, 168, 182<br>
+	<div class=ssTitle>Silver (#/99):</div> 34, 62, 74, 85, 168, 182<br>
+	<div class=ssTitle>HOF Sluggers:</div> 3<br>
+	<div class=ssTitle>HOF Sluggers Sapphire (#/25):</div> 3<br>
+	<div class=ssTitle>Rookie Sapphire (#/25):</div> 168b (black jersey)</p>
+
+	<br>
+
+	<p><div class=title>2015 Donruss</div><br>
+	<i>Completed- Elite, Studio</i><br>
+	<div class=ssTitle>Base:</div> 187b ("Puck")<br>
+	<div class=ssTitle>Blue Platinum Press Proof (#/199):</div> 211<br>
+	<div class=ssTitle>Bronze Press Proof (#/299):</div> 211<br>
+	<div class=ssTitle>Career Stat Line:</div> (#ing varies):</div> 17, 36, 118, 119, 120, 121, 187<br>
+	<div class=ssTitle>Gold Die Cut (#/25):</div> 17<br>
+	<div class=ssTitle>Gold Press Proof (#/99):</div> 17, 36, 118, 120, 121, 187<br>
+	<div class=ssTitle>Hot of the Press:</div> 17, 36, 118, 119, 120, 121, 187, 211<br>
+	<div class=ssTitle>Season Stat Line (#ing varies):</div> 17, 36, 118, 119, 120, 121, 187<br>
+	<div class=ssTitle>Silver Press Proof (#/199):</div> 17, 36, 118, 119, 120, 121, 187<br>
+	<div class=ssTitle>All-Time Diamond Kings:</div> 10<br>
+	<div class=ssTitle>All-Time Diamond Kings Silver Press Proof (#/49):</div> 10<br>
+	<div class=ssTitle>Donruss Preferred:</div> 5<br>
+	<div class=ssTitle>Donruss Preferred Black (#/99):</div> 5, 39<br>
+	<div class=ssTitle>Donruss Preferred Bronze Cut to the Chase (#/49):</div> 5, 7, 39<br>
+	<div class=ssTitle>Donruss Preferred Gold (#/299):</div> 5, 7, 39<br>
+	<div class=ssTitle>Donruss Preferred Gold Cut to the Chase (#/25):</div> 5, 7, 39<br>
+	<div class=ssTitle>Donruss Preferred Red (#/199):</div> 5, 7, 39<br>
+	<div class=ssTitle>Elite Gold Status Die Cut (#/49):</div> 17, 35<br>
+	<div class=ssTitle>Elite Red Status Die Cut (#/25):</div> 17, 35<br>
+	<div class=ssTitle>Elite Dominator (#/999):</div> 21<br>
+	<div class=ssTitle>The Elite Series (#/999):</div> 21<br>
+	<div class=ssTitle>Studio Silver Press Proof (#/49):</div> 2</p>
+
+	<br>
+
+	<p><div class=title>2015 Finest</div><br>
+	<i>Completed- Base, Finest Firsts, Finest Firsts Refractors /25, Finest Firsts Red Refractors /5</i><br>
+	<div class=ssTitle>Refractors:</div> 10, 66, 99<br>
+	<div class=ssTitle>Black Refractors:</div> 10, 66, 99<br>
+	<div class=ssTitle>Blue Refractor (#/150):</div> 10, 66, 82, 99<br>
+	<div class=ssTitle>Gold Refractor (#/50):</div> 10, 66, 99<br>
+	<div class=ssTitle>Green Refractors (#/99):</div> 10, 66, 99<br>
+	<div class=ssTitle>Orange Refractor (#/25):</div> 10, 66, 99<br>
+	<div class=ssTitle>Prism Refractors:</div> 10, 82, 99<br>
+	<div class=ssTitle>Purple Refractors (#/250):</div> 10, 66, 99<br>
+	<div class=ssTitle>Red Refractors (#/5)- HAVE:</div> 82<br>
+	<div class=ssTitle>Finest Generations:</div> 31<br>
+	<div class=ssTitle>Finest Generations Refractors (#/25):</div> 31</p>
+
+	<br>
+
+	<p><div class=title>2015 Panini Elite</div><br>
+	<i>Completed- All-Star Salutes, Hype</i><br>
+	<div class=ssTitle>Base:</div> 28, 52, 108, 139, 162<br>
+	<div class=ssTitle>21st Century Green (#/211):</div> 28, 52, 108, 109, 139, 162<br>
+	<div class=ssTitle>Gold Status (#/49):</div> 28, 52, 108, 109, 139, 162<br>
+	<div class=ssTitle>Inspirations Die Cut:</div> 28 (#/25), 52 (#/93), 108 (#/52), 109 (#/85), 139 (#/55), 162 (#/81)<br>
+	<div class=ssTitle>Status Die Cut:</div> 28 (#/65), 52 (#/7), 108 (#/48), 109 (#/15), 139 (#/45), 162 (#/19)<br>
+	<div class=ssTitle>All-Star Salutes Gold (#/25):</div> 23<br>
+	<div class=ssTitle>Gold Stars:</div> 11<br>
+	<div class=ssTitle>Gold Stars Gold (#/25):</div> 11<br>
+	<div class=ssTitle>Hype Gold (#/25):</div> 3, 6</p>
+
+	<br>
+
+	<p><div class=title>2015 Panini Prizm</div><br>
+	<i>Completed- Field Pass Prizms, Fresh Faces</i><br>
+	<div class=ssTitle>Base:</div> 52, 85, 163, 173, 198<br>
+	<div class=ssTitle>Prizms:</div> 36, 52, 85, 129, 163, 173, 198<br>
+	<div class=ssTitle>Prizms Black and White Checker (#/149):</div> 36, 52, 85, 129, 163, 173, 198<br>
+	<div class=ssTitle>Prizms Blue (#/75):</div> 36, 52, 85, 129, 163, 173, 198<br>
+	<div class=ssTitle>Prizms Blue Baseball:</div> 36, 52, 85, 129, 163, 173, 198<br>
+	<div class=ssTitle>Prizms Camo (#/199):</div> 52, 85, 129, 163, 173, 198<br>
+	<div class=ssTitle>Prizms Jackie Robinson (#/42):</div> 36, 85, 129, 163, 173, 198<br>
+	<div class=ssTitle>Prizms Orange (#60):</div> 36, 52, 85, 129, 163, 173, 198<br>
+	<div class=ssTitle>Prizms Purple Flash (#/99):</div> 36, 52, 129, 163, 173, 198<br>
+	<div class=ssTitle>Prizms Red Baseball:</div> 52, 85, 129, 163, 173, 198<br>
+	<div class=ssTitle>Prizms Red Power (#/125):</div> 36, 52, 85, 129, 163, 173, 198<br>
+	<div class=ssTitle>Prizms Red White and Blue Mojo:</div> 36, 85, 163, 173, 198<br>
+	<div class=ssTitle>Prizms Tie Dyed (#/50):</div> 36, 52, 85, 129, 163, 173, 198<br>
+	<div class=ssTitle>Field Pass:</div> 7<br>
+	<div class=ssTitle>Field Pass Prizms Flash (#/100):</div> 7<br>
+	<div class=ssTitle>Fresh Faces Prizms:</div> 11<br>
+	<div class=ssTitle>Fresh Faces Prizms Flash (#/100):</div> 11<br>
+	<div class=ssTitle>Passion:</div> 10<br>
+	<div class=ssTitle>Passion Prizms:</div> 2, 10<br>
+	<div class=ssTitle>Passion Prizms Flash (#/100):</div> 2, 10</p>
+
+	<br>
+
+	<p><div class=title>2015 Topps</div><br>
+	<i>Completed- First Home Run, Inspired Play</i><br>
+	<div class=ssTitle>Base:</div> 219b (flexing SP)<br>
+	<div class=ssTitle>Black (#/64):</div> 41, 55, 128, 185, 197, 204, 219, 259, 288, 322, 330<br>
+	<div class=ssTitle>Gold (#/2015):</div> 41, 55, 128, 185, 204, 219, 288, 322, 330<br>
+	<div class=ssTitle>Pink (#/50):</div> 41, 55, 128, 185, 197, 204, 219, 259, 288, 322, 330<br>
+	<div class=ssTitle>Rainbow Foil:</div> 128, 185, 204, 219, 259, 288, 322, 330<br>
+	<div class=ssTitle>Snow Camo (#/99):</div> 41, 55, 128, 185, 197, 204, 219, 288, 322, 330<br>
+	<div class=ssTitle>Toys-R-Us Purple:</div> 41, 55, 128, 185, 197, 204, 219, 259, 288, 322, 330<br>
+	<div class=ssTitle>First Home Run Gold:</div> 29<br>
+	<div class=ssTitle>First Home Run Silver:</div> 29</p>
+
+	<br>
+
+	<p><div class=title>2015 Topps Series 2</div><br>
+	<i>Completed- 'Til It's Over</i><br>
+	<div class=ssTitle>Base:</div> 399, 415b (sparkle SP), 426, 457, 509, 590b (sparkle SP), 700b (dugout view SP)<br>
+	<div class=ssTitle>Black (#/64):</div> 373, 415, 426, 457, 499, 504, 509, 590, 604, 632, 632, 700<br>
+	<div class=ssTitle>Gold (#/2015):</div> 373, 399, 415, 457, 499, 504, 509, 590, 604, 632, 632, 700<br>
+	<div class=ssTitle>Rainbow Foil:</div> 373, 399, 415, 426, 457, 499, 504, 509, 590, 604, 632, 632, 700<br>
+	<div class=ssTitle>Snow Camo (#/99):</div> 373, 399, 415, 426, 457, 499, 504, 509, 590, 604, 632, 632, 700<br>
+	<div class=ssTitle>Toys-R-Us Purple:</div> 373, 399, 415, 426, 457, 499, 504, 509, 590, 604, 632, 632, 700<br>
+	<div class=ssTitle>First Home Run:</div> 16<br>
+	<div class=ssTitle>First Home Run Gold:</div> 16<br>
+	<div class=ssTitle>First Home Run Silver:</div> 16</p>
+
+	<br>
+
+	<p><div class=title>2015 Topps Allen & Ginter</div><br>
+	<i>Completed- Base, Minis</i><br>
+	<div class=ssTitle>Mini A&G Back:</div> 158, 189, 195<br>
+	<div class=ssTitle>Mini Black:</div> 158, 174, 189, 195, 240<br>
+	<div class=ssTitle>Mini No Number (PR 50):</div> 156 (Dozier), 158 (Suzuki), 160 (Santana), 174 (Mauer), 189 (Vargas), 195 (Hunter), 240 (May)<br>
+	<div class=ssTitle>Mini Red (#/40):</div> 156, 158, 160, 174, 189, 195, 240, 272<br>
+	<div class=ssTitle>Mini Flag Back (#/25):</div> 158, 160, 174, 189, 195, 240, 272<br>
+	<div class=ssTitle>Mini EXT (Found in rip cards):</div> 374<br>
+	<div class=ssTitle>Double Rip Cards (May be ripped or unripped):</div> 8<br>
+	<div class=ssTitle>Rip Cards (May be ripped or unripped):</div> 54, 55<br>
+	<div class=ssTitle>Starting Point:</div> 11, 48, 50, 51</p>
+
+	<br>
+
+	<p><div class=title>2015 Topps Archives</div><br>
+	<i>Completed- 1968 Topps Game Inserts, 1990 Topps All-Star Rookies, 1990 Topps #1 Draft Picks</i><br>
+	<div class=ssTitle>Base:</div> 33, 87, 155, 181, 219, 286<br>
+	<div class=ssTitle>Silver (#/199):</div> 13, 33, 55, 63, 87, 155, 181, 219, 243, 286<br>
+	<div class=ssTitle>Gold (#/50):</div> 13, 33, 55, 63, 87, 155, 181, 219, 243, 286</p>
+
+	<br>
+
+	<p><div class=title>2015 Topps Chrome</div><br>
+	<i>Completed- Chrome Commencements, Future Stars</i><br>
+	<div class=ssTitle>Base:</div> 4, 203<br>
+	<div class=ssTitle>Refractors:</div> 156, 167<br>
+	<div class=ssTitle>Blue Refractors (#/150):</div> 4, 109, 118, 156, 185<br>
+	<div class=ssTitle>Gold Refractors (#/50):</div> 4, 109, 118, 156, 167, 185<br>
+	<div class=ssTitle>Green Refractors (#/99):</div> 4, 109, 118, 156, 167, 185<br>
+	<div class=ssTitle>Orange Refractors (#/25):</div> 4, 109, 118, 156, 185<br>
+	<div class=ssTitle>Pink Refractors:</div> 4, 109<br>
+	<div class=ssTitle>Prism Refractors:</div> 4, 109, 118, 156, 185<br>
+	<div class=ssTitle>Purple Refractors (#/250):</div> 4, 109, 118, 156, 167, 185<br>
+	<div class=ssTitle>Sepia Refractors:</div> 4, 109, 118, 156, 167, 185<br>
+	<div class=ssTitle>Chrome Culminations:</div> DO, JM</p>
+
+	<br>
+
+	<p><div class=title>2015 Topps Gypsy Queen</div><br>
+	<i>Completed- Framed Bronze (#/499), Glove Stories, The Queen's Throwbacks</i><br>
+	<div class=ssTitle>Base:</div> 66, 152<br>
+	<div class=ssTitle>Mini:</div> 66, 152, 172, 251<br>
+	<div class=ssTitle>Mini Box Variations:</div> 42, 152<br>
+	<div class=ssTitle>Mini Gold (#/99):</div> 42, 66, 152, 172, 251, 287<br>
+	<div class=ssTitle>Mini Red (#/50):</div> 42, 66, 152, 172, 251, 287<br>
+	<div class=ssTitle>Mini Red (#/199):</div> 42, 66, 152, 172, 251, 287<br>
+	<div class=ssTitle>Framed White:</div> 42, 66</p>
+
+	<br>
+
+	<p><div class=title>2015 Topps Heritage</div><br>
+	<div class=ssTitle>Base:</div> 173, 378, 400b (Throwback uniform SP), 416<br>
+	<div class=ssTitle>Blue Back:</div> 40, 87, 89, 120, 165, 173, 190, 240, 246, 264, 347, 378, 400, 416<br>
+	<div class=ssTitle>Gum Stained Back:</div> 40, 87, 89, 120, 165, 173, 190, 240, 246, 264, 347, 378, 400, 416<br>
+	<div class=ssTitle>Chrome (#/999):</div> 400<br>
+	<div class=ssTitle>Chrome Refractor (#/566):</div> 400<br>
+	<div class=ssTitle>Chrome Black Refractor (#/66):</div> 400<br>
+	<div class=ssTitle>Chrome Purple Refractor:</div> 400<br>
+	<div class=ssTitle>Chrome Retail Foil:</div> 400<br>
+	<div class=ssTitle>Mini (#/100):</div> 400<br>
+	<div class=ssTitle>Then and Now:</div> 1<br>
+	<div class=ssTitle>'66 Punchboards (#/50):</div> 13<br>
+	<div class=ssTitle>'66 Topps Buybacks:</div> 3, 22, 41, 56, 73, 97, 120, 181, 190, 207, 216, 220, 224, 240, 264, 283, 305, 327, 345, 367, 388, 400, 445, 450, 473, 493, 526, 546, 563, 582</p>
+
+	<br>
+
+	<p><div class=title>2015 Topps Heritage High Number</div><br>
+	<div class=ssTitle>Base:</div> 547, 577, 606, 607, 656, 674, 677, 724a, 724c (color swap)<br>
+	<div class=ssTitle>Black & White:</div> 547, 577, 606, 607, 656, 674, 677, 724<br>
+	<div class=ssTitle>Blue Back:</div> 547, 577, 606, 607, 656, 674, 677, 724<br>
+	<div class=ssTitle>Glossy Back:</div> 547, 577, 606, 607, 656, 674, 677, 724<br>
+	<div class=ssTitle>Gum Stain:</div> 547, 577, 606, 607, 656, 674, 677, 724<br>
+	<div class=ssTitle>Chrome (#/999):</div> 674, 724<br>
+	<div class=ssTitle>Chrome Refractor (#/566):</div> 674, 724<br>
+	<div class=ssTitle>Chrome Black Refractor (#/66):</div> 674, 724<br>
+	<div class=ssTitle>Chrome Purple Refractor:</div> 724<br>
+	<div class=ssTitle>Mini (#/100):</div> 674, 724<br>
+	<div class=ssTitle>1966 Bazooka:</div> BB<br>
+	<div class=ssTitle>1966 Punchboards:</div> 27<br>
+	<div class=ssTitle>Now and Then:</div> 11<br>
+	<div class=ssTitle>Rookie Performers:</div> 10</p>
+
+	<br>
+
+	<p><div class=title>2015 Topps High Tek</div><br>
+	This listing is not fully complete, I need to revise this later<br>
+	<div class=ssTitle>Base:</div> BB, JM<br>
+	<div class=ssTitle>Purple Rainbow:</div> BB, JM<br>
+	<div class=ssTitle>Confetti Diffractor (#/99):</div> BB, JM<br>
+	<div class=ssTitle>Tidal Diffractor (#/75):</div> BB, JM<br>
+	<div class=ssTitle>Gold Rainbow (#/35):</div> BB, JM<br>
+	<div class=ssTitle>Clouds Diffractor (#/25):</div> BB, JM</p>
+
+	<br>
+
+	<p><div class=title>2015 Topps Museum Collection</div><br>
+	<div class=ssTitle>Canvas Collection:</div> 20</p>
+
+	<br>
+
+	<p><div class=title>2015 Topps Opening Day</div><br>
+	<i>Completed- Opening Day Stars</i><br>
+	<div class=ssTitle>Base:</div> 30a, 30b (Dugout SP) 68b (High-5 SP)<br>
+	<div class=ssTitle>Blue:</div> 30, 68, 89, 126, 168<br>
+	<div class=ssTitle>Toys-R-Us Purple:</div> 30, 89, 126, 168<br>
+	<div class=ssTitle>Franchise Flashbacks:</div> 15<br>
+	<div class=ssTitle>Mascots:</div> 15<br>
+	<div class=ssTitle>Stadium Scenes:</div> LM, TV<br>
+	<div class=ssTitle>Team Spirit:</div> 8</p>
+
+	<br>
+
+	<p><div class=title>2015 Topps Stadium Club</div><br>
+	<i>Completed- True Colors Refractors</i><br>
+	<div class=ssTitle>Base:</div> 103, 159, 289<br>
+	<div class=ssTitle>Black Foil (Print run 201):</div> 49, 61, 103, 131, 159, 277, 289<br>
+	<div class=ssTitle>Foilboard (#/25):</div> 49, 61, 103, 131, 159, 277, 289, 293<br>
+	<div class=ssTitle>Gold Foil:</div> 103, 131, 159, 277, 289, 293<br>
+	<div class=ssTitle>True Colors:</div> 18<br>
+	<div class=ssTitle>True Colors Refractors:</div> 18<br>
+	<div class=ssTitle>True Colors Gold Refractors:</div> 18<br>
+	<div class=ssTitle>True Colors Electric Refractors (#/15):</div> 18</p>
+
+	<br>
+
+	<p><div class=title>2015 Topps Tribute</div><br>
+	<div class=ssTitle>Base:</div> 2<br>
+	<div class=ssTitle>Green (#/99):</div> 2<br>
+	<div class=ssTitle>Black (#/50):</div> 2</p>
+
+	<br>
+
+	<p><div class=title>2015 Topps Triple Threads</div><br>
+	<div class=ssTitle>Base:</div> 95<br>
+	<div class=ssTitle>Amethyst (#/354):</div> 35, 95<br>
+	<div class=ssTitle>Emerald (#/250):</div> 95<br>
+	<div class=ssTitle>Amber (#/125):</div> 35, 95<br>
+	<div class=ssTitle>Gold (#/99):</div> 35, 95<br>
+	<div class=ssTitle>Onyx (#/50):</div> 35, 95<br>
+	<div class=ssTitle>Sapphire (#/25):</div> 35, 95</p>
+
+	<br>
+
+	<p><div class=title>2015 Topps Update</div><br>
+	<i>Completed- Highlight of the Year, Rarities</i><br>
+	<i>Note to self- Check back for more SPs in the checklist later</i><br>
+	<div class=ssTitle>Base:</div> 25, 258<br>
+	<div class=ssTitle>Rainbow Foil:</div> 25, 136, 141, 206, 223, 258, 341, 345<br>
+	<div class=ssTitle>Gold (#/2015):</div> 1, 25, 62, 136, 141, 152, 211, 258, 341, 345<br>
+	<div class=ssTitle>Snow Camo (#/99):</div> 1, 25, 62, 136, 141, 152, 206, 211, 223, 258, 341, 345<br>
+	<div class=ssTitle>Black (#/64):</div> 1, 25, 62, 136, 141, 152, 206, 211, 223, 258, 341, 345<br>
+	<div class=ssTitle>Pink (#/50):</div> 1, 25, 62, 136, 141, 152, 206, 211, 223, 258, 341, 345<br>
+	<div class=ssTitle>Saber Stats SP:</div> 141<br>
+	<div class=ssTitle>Sparkle SP:</div> 25, 341<br>
+	<div class=ssTitle>First Home Run:</div> 26<br>
+	<div class=ssTitle>First Home Run Silver:</div> 26<br>
+	<div class=ssTitle>First Home Run Gold:</div> 26<br>
+	<div class=ssTitle>Highlight of the Year:</div> 74<br>
+	<div class=ssTitle>Rarities:</div> 10</p>
+
+	<hr>
+
 <body>
 <html>
