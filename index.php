@@ -10,7 +10,6 @@
 			<ul>
 				<li>Figure out what rules are being used</li>
 				<li>Narrow it down to one file and modify/customize from there(?)</li>
-				<li>Move things within the nav a bit to the left?</li>
 			</ul>
 			<li>Continue adding cards to database</li>
 			<li>Set up galleries page</li>
@@ -30,13 +29,9 @@
 					<li>Copy/paste from old site</li>
 					<li>Edit offline (find and replace, easier copy/paste), paste online</li>
 				</ul>
-				<li>Style</li>
-				<ul>
-					<li>Each individual set listing</li>
-					<li>Hardcode bold/underline or use external CSS file?</li>
-					<li>Set name as hyperlink to search for those cards in gallery?</li>
-				</ul>
+				<li>Style- Set name as hyperlink to search for those cards in gallery?</li>
 			</ul>
+			<li>Main home landing page- Big Target Field image, links to different things?</li>
 		</ul>
 		<h3>Test section</h3>
 			<p><i>To be used for misc. testing when needed</i></p>

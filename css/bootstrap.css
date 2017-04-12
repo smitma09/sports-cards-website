@@ -1088,6 +1088,9 @@ textarea {
   font-size: inherit;
   line-height: inherit;
 }
+.nav > li > a {
+  color: #147aff;
+}
 a {
   color: #337ab7;
   text-decoration: none;
@@ -3979,8 +3982,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .nav > li > a:hover,
 .nav > li > a:focus {
+  color: #000;
   text-decoration: none;
-  background-color: #eee;
+  background-color: white; /* e6e6e6 */
 }
 .nav > li.disabled > a {
   color: #777;
