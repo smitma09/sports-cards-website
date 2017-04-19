@@ -12,6 +12,12 @@
 				<li>Narrow it down to one file and modify/customize from there(?)</li>
 				<li>Figure out expanded dropdown links on hover</li>
 			</ul>
+			<li>Come up with site theme/style</li>
+			<ul>
+				<li>Something that will be consistent from page to page</li>
+				<li>Outside of bootstrap.css, ideally</li>
+				<li>Grayish border background with lighter inset?</li>
+			</ul>
 			<li>Continue adding cards to database</li>
 			<li>Set up galleries page</li>
 			<li>Clean up full info page</li>

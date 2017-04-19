@@ -12,7 +12,8 @@
 		} else {
 			echo "<p>Connection succeeded :)</p>";
 		}
-
 	?>
+
+
 	</body>
 </html>
