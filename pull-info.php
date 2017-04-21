@@ -1,5 +1,8 @@
+<?php
+	include_once("./php/navbar.php");
+?>
+
 <html>
-	<?php include_once("./php/navbar.php"); ?>
 	<body>
 		<h1>Database info</h1>
 		<p>

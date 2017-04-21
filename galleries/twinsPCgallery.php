@@ -1,4 +1,6 @@
-<?php include_once("./../php/navbar.php"); ?>
+<?php
+	include_once("./../php/navbar.php");
+?>
 
 <html>
 <body>

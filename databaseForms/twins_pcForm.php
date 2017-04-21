@@ -1,9 +1,8 @@
+<?php
+	include_once("./../php/navbar.php");
+?>
+
 <html>
-
-    <?php
-        include_once("./../php/navbar.php");
-    ?>
-
     <body>
         <h1>Add card to Twins PC</h1>
 	<p>Enter card information and an image to add a card to your Twins PC. If there are multiple players on a card, don't put anything into the first and last name field and instead enter all players that appeared on the card in the appropriate field, separated by commas (i.e. "Joe Mauer, Justin Morneau"). If the card is a team card, you can enter the team into that field as well. If the card doesn't have information for the field or attribute, leave the appropriate sections blank or unchecked.</p>

@@ -1,8 +1,11 @@
+<?php
+	include_once("navbar.php");
+?>
+
 <html>
 	<head>
 		<link rel="stylesheet" href="./../css/readData.css">
 	</head>
-	<?php include_once("navbar.php"); ?>
 	<body>
 
 <?php
