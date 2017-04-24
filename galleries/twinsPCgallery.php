@@ -16,7 +16,7 @@
                 echo "<p>There was an error in connecting to the database. Please try again</p>";
         } else {
 		//Successfully connected to database
-		echo "<p>The following are pictures of my Twins PC. Still a lot of work to be done here (searching/sorting/styling), but for now enjoy a big page with pictures of all the different cards in my PC (update- only showing cards from 2016 for now while building this page.</p>";
+		echo "<p>The following are pictures of my Twins PC. Still a lot of work to be done here (searching/sorting/styling), but for now enjoy a big page with pictures of all the different cards in my PC (update- only showing cards from 2016 for now while building this page. Also going to need to add some styling rules for the selectors.</p>";
 
 		echo "<div display='inline-block'>";
 			$sql = "select year from twins_pc group by year order by year desc";
@@ -24,7 +24,7 @@
                 	if ($result->num_rows == 0) {
                 	        echo "<p>Whoops</p>";
                 	} else {
-                	        echo "Year: <select>";
+                	        echo "Year: <select><option>All years</option>";
                 	        while ($row = $result->fetch_assoc()) {
 					$year = $row["year"];
 					echo "<option>".$year."</option>";
@@ -36,7 +36,7 @@
                         if ($result->num_rows == 0) {
                                 echo "<p>Whoops</p>";
                         } else {
-                                echo "Set: <select>";
+                                echo "Set: <select><option>All sets</option>";
                                 while ($row = $result->fetch_assoc()) {
                                         $cardSet = $row["cardSet"];
                                         echo "<option>".$cardSet."</option>";
@@ -48,14 +48,14 @@
 			if ($result->num_rows == 0) {
 				echo "<p>Whoops</p>";
 			} else {
-				echo "Player: <select>";
+				echo "Player: <select><option>All players</option>";
 				while ($row = $result->fetch_assoc()) {
 					$playerName = $row["playerFirst"] . " " . $row["playerLast"];
 					echo "<option>".$playerName."</option>";
 				}
 				echo "</select>";
 			}
-			$sql = "select cardNum from twins_pc group by cardNum order by cardNum+00000000000000000000 desc";
+	/*		$sql = "select cardNum from twins_pc group by cardNum order by cardNum+00000000000000000000 desc";
 			$result = $conn->query($sql);
 			if ($result->num_rows == 0) {
 				echo "<p>Whoops</p>";
@@ -66,30 +66,23 @@
 					echo "<option>".$cardNum."</option>";
 				}
 				echo "</select>";
-			}
+			} */
+			echo "Card num: <input type='text'>
+			<br>
+			Auto <input type='checkbox' value='auto'>
+                	Relic <input type='checkbox' value='relic'>
+                	Patch <input type='checkbox' value='patch'>
+                	Manu. relic <input type='checkbox' value='manuRelic'>
+                	RC <input type='checkbox' value='rc'>
+                	#ed <input type='checkbox' value='serial'>
+                	1/1 <input type='checkbox' value='oneofone'>
+                	HOF <input type='checkbox' value='hof'>
+                	SP/VAR <input type='checkbox' value ='spVar'>
+                	Graded/slabbed <input type='checkbox' value='gradedSlabbed'>";
+
 
 
 		echo "</div><hr>";
-
-		echo "<div display='inline-block'>
-		Year <input type='text'>
-		Set <input type='text'>
-		Subset <input type='text'>
-		Player <input type='text'>
-		Card # <input type='text'>
-		Auto <input type='checkbox'>
-		Relic <input type='checkbox'>
-		Patch <input type='checkbox'>
-		Manu. relic <input type='checkbox'>
-		RC <input type='checkbox'>
-		#ed <input type='checkbox'>
-		1/1 <input type='checkbox'>
-		HOF <input type='checkbox'>
-		SP/VAR <input type='checkbox'>
-		Graded/slabbed <input type='checkbox'>
-		</div>";
-
-		echo "<hr>";
 
 		$sql = "select fullCardInfo, pathToPic, year, cardSet, subset, cardNum from twins_pc where year=2016 order by year desc, cardSet, subset, cardNum+0";
                 $result = $conn->query($sql);

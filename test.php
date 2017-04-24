@@ -12,6 +12,13 @@
 		} else {
 			echo "<p>Connection succeeded :)</p>";
 		}
+
+		echo "<form><select>
+			<option>One</option>
+			<option>Two</option>
+			<option>Three</option>
+			</select></form>";
+
 	?>
 
 
