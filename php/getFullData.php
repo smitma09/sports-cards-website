@@ -26,11 +26,12 @@
 			echo "<tr class='header'>
 				<td>Year</td>
 				<td>Set</td>
-				<td>Subset</td>
-				<td>Player first</td>
+				<td>Subset</td>";
+		/*		<td>Player first</td>
 				<td>Player last</td>
-				<td>All players</td>
-				<td>Card #</td>
+				<td>All players</td> */
+			echo "<td>Player/s</td>";
+			echo "<td>Card #</td>
 				<td>Auto</td>
 				<td>Relic</td>
 				<td>Patch</td>
@@ -56,11 +57,19 @@
 */
 					echo "<tr class='oddRow'><td>" . $row["year"] . "</td>
 						<td>" . $row["cardSet"] . "</td>
-						<td>" . $row["subset"] . "</td>
+						<td>" . $row["subset"] . "</td>";
+					if (!$row["allPlayers"]) {
+						echo "<td>" . $row["playerFirst"] . " " . $row["playerLast"] . "</td>";
+					} else {
+						echo "<td>" . $row["allPlayers"] . "</td>";
+					}
+					/* Leaving next 3 rows as comments (was original code before if/else block above
+						in case I want to be able to sort by first or last name- Not sure how that would work
+						in the if/else block above (same goes for next set of <tr> below
 						<td>" . $row["playerFirst"] . "</td>
 						<td>" . $row["playerLast"] . "</td>
-						<td>" . $row["allPlayers"] . "</td>
-						<td>" . $row["cardNum"] . "</td>
+						<td>" . $row["allPlayers"] . "</td> */
+					echo "<td>" . $row["cardNum"] . "</td>
 						<td>" . $row["auto"] . "</td >
 						<td>" . $row["relic"] . "</td>
 						<td>" . $row["patch"] . "</td>
@@ -83,11 +92,16 @@
 				} else {
 					echo "<tr'><td>" . $row["year"] . "</td>
 						<td>" . $row["cardSet"] . "</td>
-						<td>" . $row["subset"] . "</td>
-						<td>" . $row["playerFirst"] . "</td>
+						<td>" . $row["subset"] . "</td>";
+					if (!$row["allPlayers"]) {
+                                                echo "<td>" . $row["playerFirst"] . " " . $row["playerLast"] . "</td>";
+                                        } else {
+                                                echo "<td>" . $row["allPlayers"] . "</td>";
+                                        }
+					/*	<td>" . $row["playerFirst"] . "</td>
 						<td>" . $row["playerLast"] . "</td>
-						<td>" . $row["allPlayers"] . "</td>
-						<td>" . $row["cardNum"] . "</td>
+						<td>" . $row["allPlayers"] . "</td> */
+					echo "<td>" . $row["cardNum"] . "</td>
 						<td>" . $row["auto"] . "</td>
 						<td>" . $row["relic"] . "</td>
 						<td>" . $row["patch"] . "</td>
