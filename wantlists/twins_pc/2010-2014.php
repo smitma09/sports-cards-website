@@ -9,7 +9,7 @@
 <body>
         <h1> Twins PC wants- 2010-2014</h1>
 
-        <p>This page will be used to list all of my wants from sets in the 2010s (2010-2014). This is currently a work in progress as a slowly move my set wants over from my old website to this one. Please note that autographs and relics will not be included on these wants- I still would be interested in them if you have any, but I'm not listing them here in order to save space. Cards numbered to less than 25 will also not be listed. I would like those as well, so please let me know if you have any available.</p>
+	<p>This page will be used to list all of my wants from sets in the 2010s (2010-2019). Please note that autographs and relics will not be included on these wants- I still would be interested in them if you have any, but I'm not listing them here in order to save space. Cards numbered to less than 25 will also not be listed, unless I have a card from that certain set (in which case I will list the cards I have from that particular set). I would like those as well, so please let me know if you have any available.</p>
 
 	<h1>2014</h1>
 
@@ -1931,8 +1931,6 @@
 	<div class=ssTitle>Supreme Green:</div> 26<br>
 	<div class=ssTitle>Supreme Red:</div> 26, 27<br>
 	<div class=ssTitle>Tape Measure Shots:</div> 22</p>
-
-	<hr>
 
 </body>
 </html>

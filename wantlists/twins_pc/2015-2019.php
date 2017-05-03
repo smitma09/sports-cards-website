@@ -9,10 +9,9 @@
 <body>
 	<h1> Twins PC wants- 2010s</h1>
 
-	<p>This page will be used to list all of my wants from sets in the 2010s (2010-2019). This is currently a work in progress as a slowly move my set wants over from my old website to this one. Please note that autographs and relics will not be included on these wants- I still would be interested in them if you have any, but I'm not listing them here in order to save space. Cards numbered to less than 25 will also not be listed. I would like those as well, so please let me know if you have any available.</p>
+	<p>This page will be used to list all of my wants from sets in the 2010s (2010-2019). Please note that autographs and relics will not be included on these wants- I still would be interested in them if you have any, but I'm not listing them here in order to save space. Cards numbered to less than 25 will also not be listed, unless I have a card from that certain set (in which case I will list the cards I have from that particular set). I would like those as well, so please let me know if you have any available.</p>
 
 	<img alt="Temp. card pic (test)" src="https://sportscardalbum.com/c/i2z53s58.JPG">
-	
 
 	<h1>2017</h1>
 
