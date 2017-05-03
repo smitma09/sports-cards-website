@@ -11,6 +11,10 @@
 			<li>Figure out what rules are being used</li>
 			<li>Narrow it down to one file and modify/customize from there(?)</li>
 			<li>Figure out expanded dropdown links on hover</li>
+			<ul>
+				<li>Have it working, just need to get it styled correctly</li>
+				<li>Going to have to look at both CSS files (bootstrap and logo-nav)</li>
+			</ul>
 		</ul>
 		<li>Come up with site theme/style</li>
 		<ul>
@@ -22,7 +26,7 @@
 		<li>Set up galleries page</li>
 		<li>Clean up full info page</li>
 		<ul>
-			<li>Better display for empty fields</li>
+			<li>Better display for empty fields- Follow current pattern in readFullData with rc and numbered</li>
 			<li>Search/sort</li>
 			<li>Likely applicable to galleries search/sort as well</li>
 		</ul>

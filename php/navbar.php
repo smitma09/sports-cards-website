@@ -10,6 +10,18 @@
 <head>
     <link href="/css/bootstrap.css" rel="stylesheet"> <!-- Link relative to home dir of website -->
     <link href="/css/logo-nav.css" rel="stylesheet">
+    <style>
+	.dropdown {
+	    position: relative;
+	    display: inline-block;
+	}
+	.dropdown-content {
+	    display: none;
+	}
+	.dropdown:hover .dropdown-content {
+	    display: block;
+	}
+    </style>
 </head>
 
 <body>
@@ -33,6 +45,10 @@
                     <li><a href="/galleries">Galleries</a></li>
 		    <li><a href="/pull-info.php">Have lists</a></li>
 		    <li><a href="/wantlists">Wantlists</a></li>
+<div class=dropdown>
+		    <li><a href="#">Hover here</a></li>
+		    <ul class=dropdown-content><li>Hello!</li></ul>
+</div>
 <!--		    <div class="dropdown">
 			<li>Dropdown test</li>
 			    <div class="dropdown-content">

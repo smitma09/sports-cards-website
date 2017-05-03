@@ -34,7 +34,7 @@
 				<td>Auto</td>
 				<td>Relic</td>
 				<td>Patch</td>
-				<td>Manufactured relic</td>
+				<td>Manu. relic</td>
 				<td>RC</td>
 				<td>Numbered</td>
 				<td>1/1</td>
@@ -61,13 +61,21 @@
 						<td>" . $row["playerLast"] . "</td>
 						<td>" . $row["allPlayers"] . "</td>
 						<td>" . $row["cardNum"] . "</td>
-						<td>" . $row["auto"] . "</td>
+						<td>" . $row["auto"] . "</td >
 						<td>" . $row["relic"] . "</td>
 						<td>" . $row["patch"] . "</td>
-						<td>" . $row["manuRelic"] . "</td>
-						<td>" . $row["rc"] . "</td>
-						<td>" . $row["serialFirst"] . "/" . $row["serialLast"] . "</td>
-						<td>" . $row["oneofone"] . "</td>
+						<td>" . $row["manuRelic"] . "</td>";
+					if (!$row["rc"]) {
+						echo "<td></td>";
+					} else {
+						echo "<td>X</td>";
+					}
+					if (!$row["serialFirst"]) {
+						echo "<td></td>";
+					} else {
+						echo "<td>" . $row["serialFirst"] . "/" . $row["serialLast"] . "</td>";
+					}
+					echo "<td>" . $row["oneofone"] . "</td>
 						<td>" . $row["hof"] . "</td>
 						<td>" . $row["spVar"] . "</td>
 						<td>" . $row["graded"] . "</td></tr>";
@@ -83,10 +91,18 @@
 						<td>" . $row["auto"] . "</td>
 						<td>" . $row["relic"] . "</td>
 						<td>" . $row["patch"] . "</td>
-						<td>" . $row["manuRelic"] . "</td>
-						<td>" . $row["rc"] . "</td>
-						<td>" . $row["serialFirst"] . "/" . $row["serialLast"] . "</td>
-						<td>" . $row["oneofone"] . "</td>
+						<td>" . $row["manuRelic"] . "</td>";
+					if (!$row["rc"]) {
+                                                echo "<td></td>";
+                                        } else {
+                                                echo "<td>X</td>";
+                                        }
+					if (!$row["serialFirst"]) {
+                                                echo "<td></td>";
+                                        } else {
+                                                echo "<td>" . $row["serialFirst"] . "/" . $row["serialLast"] . "</td>";
+                                        }
+					echo "<td>" . $row["oneofone"] . "</td>
 						<td>" . $row["hof"] . "</td>
 						<td>" . $row["spVar"] . "</td>
 						<td>" . $row["graded"] . "</td></tr>";
