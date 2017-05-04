@@ -1050,7 +1050,7 @@
 	<div class=ssTitle>Generation Now Refractors:</div> 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 213, 214, 215, 216<br>
 	<div class=ssTitle>Generation Now Blue Refractors:</div> 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 213, 214, 215, 216<br>
 	<div class=ssTitle>Generation Now Red Refractors:</div> 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 213, 214, 215, 216<br>
-	Generation Now White Refractors:117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 213, 214, 216 (Something went wrong in a python file)<br>
+	<div class=ssTitle>Generation Now White Refractors:</div> 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 213, 214, 216<br>
 	</p>
 
 	<br>
@@ -1082,18 +1082,18 @@
 	<br>
 
 	<p><div class=title>2007 Topps Moments and Milestones</div><br>
-	Please note that these wants are listed by player, not subset (Something went wrong in a python file)<br>
-	Also, I am interested in building the Blue (#/10) and Red (#/1) sets, but I am not listing them here. Please let me know if you have any available (Something went wrong in a python file)<br>
-	Finally, the first number (before Base or Black) is the number of the card on the back. The listings (1, 2, 3, etc) are the number on the front of the card) (Something went wrong in a python file)<br>
-	Francisco Liriano (Something went wrong in a python file)<br>
+	<i>Please note that these wants are listed by player, not subset, due to ease</i><br>
+	<i>Also, I am interested in building the Blue (#/10) and Red (#/1) sets, but I am not listing them here. Please let me know if you have any available</i><br>
+	<i>Finally, the first number (before Base or Black) is the number of the card on the back. The listings (1, 2, 3, etc) are the number on the front of the card)</i><br>
+	<u>Francisco Liriano</u><br>
 	<div class=ssTitle>65 Base (#/150):</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12<br>
 	<div class=ssTitle>65 Black (#/29):</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12<br>
 	<div class=ssTitle>66 Base (#/150):</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144<br>
 	<div class=ssTitle>66 Black (#/29):</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144<br>
-	Joe Mauer Moments and Milestones (Something went wrong in a python file)<br>
+	<u>Joe Mauer Moments and Milestones</u><br>
 	<div class=ssTitle>114 Base (#/150):</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144<br>
 	<div class=ssTitle>114 Black (#/29):</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144<br>
-	Johan Santana Moments and Milestones (Something went wrong in a python file)<br>
+	<u>Johan Santana Moments and Milestones</u><br>
 	<div class=ssTitle>147 Base (#/150):</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20<br>
 	<div class=ssTitle>147 Black (#/29):</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20<br>
 	</p>
@@ -1127,7 +1127,7 @@
 	<br>
 
 	<p><div class=title>2007 Topps Turkey Red</div><br>
-	Not sure if 159b exists or not- if you have info, please let me know! (Something went wrong in a python file)<br>
+	<i>Not sure if 159b exists or not- if you have info, please let me know!</i><br>
 	<div class=ssTitle>Base:</div> 8, 74, 159, 159b (is this card real?)<br>
 	<div class=ssTitle>Chrome:</div> 8, 74, 90, 147, 148, 159, 159b (is this card real?)<br>
 	<div class=ssTitle>Chrome Refractors:</div> 8, 74, 90, 147, 148, 159, 159b (is this card real?)<br>
@@ -1505,7 +1505,7 @@
 	<div class=ssTitle>Debut Flashbacks Chrome (#/1952):</div> 9<br>
 	<div class=ssTitle>Debut Flashbacks Chrome Refractors (#/552):</div> 9<br>
 	<div class=ssTitle>Debut Flashbacks Chrome Gold Refractors (#/52):</div> 9<br>
-	Dynamic Duos 6 (Something went wrong in a python file)<br>
+	<div class=ssTitle>Dynamic Duos:</div> 6<br>
 	</p>
 
 	<br>
@@ -1536,7 +1536,6 @@
 	<br>
 
 	<p><div class=title>2006 Topps Co-Signers</div><br>
-	As always, I am interested in building all the parallels numbered to less than 25, they just will not be listed here to save space (Something went wrong in a python file)<br>
 	<div class=ssTitle>Base:</div> 16, 40<br>
 	<div class=ssTitle>Changing Faces Blue (#/125):</div> 16a (Hunter/Santana), 16b (Hunter Morneau), 16c (Hunter Mauer), 40a (Santana/Mauer), 40b (Santana/Hunter), 40c (Santana/Morneau), 48a (Mauer/Morneau), 48b (Mauer/Santana), 48c (Mauer/Hunter), 84a (Morneau/Hunter), 84b (Morneau/Mauer), 84c (Morneau/Santana)<br>
 	<div class=ssTitle>Changing Faces Bronze (#/150):</div> 16a (Hunter/Santana), 16b (Hunter Morneau), 16c (Hunter Mauer), 40a (Santana/Mauer), 40b (Santana/Hunter), 40c (Santana/Morneau), 48a (Mauer/Morneau), 48b (Mauer/Santana), 48c (Mauer/Hunter), 84a (Morneau/Hunter), 84b (Morneau/Mauer)<br>
@@ -1914,7 +1913,7 @@
 	<br>
 
 	<p><div class=title>2005 Donruss Stat Line Career/Season</div><br>
-	Looking for any you have, list coming soon (Something went wrong in a python file)<br>
+	<i>Looking for any you have, list coming soon</i><br>
 	</p>
 
 	<br>
@@ -2275,7 +2274,7 @@
 	<br>
 
 	<p><div class=title>2005 Studio</div><br>
-	I didn't list all of the Portraits/Color/B/W/5,000 subsets (crazy, right). If you have any that aren't listed, I am still interested, please just let me know that you have some (Something went wrong in a python file)<br>
+	<i>I didn't list all of the Portraits/Color/B/W/5,000 subsets (crazy, right?). If you have any that aren't listed, I am still interested, please just let me know that you have some</i><br>
 	<div class=ssTitle>Base:</div> 169, 169, 170, 171, 172, 173, 174, 175, 176, 177<br>
 	<div class=ssTitle>Proofs Gold (#/25):</div> 169, 169, 170, 171, 172, 173, 174, 175, 176, 177<br>
 	<div class=ssTitle>Proofs Silver (#/100):</div> 169, 169, 170, 171, 172, 173, 174, 175, 176, 177<br>

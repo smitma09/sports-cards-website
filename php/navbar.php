@@ -11,14 +11,27 @@
     <link href="/css/bootstrap.css" rel="stylesheet"> <!-- Link relative to home dir of website -->
     <link href="/css/logo-nav.css" rel="stylesheet">
     <style>
-	.dropdown {
-	    position: relative;
-	    display: inline-block;
+	.dropdown ul { /* Removes bullets on dropdown items */
+	    list-style: none;
 	}
-	.dropdown-content {
-	    display: none;
+	.dropdown-content { /* Dropdown area as a whole */
+	    display: none; /* Hides downdown content when not hovering on parent */
+	    position: absolute; /* Don't expand black area */
 	}
-	.dropdown:hover .dropdown-content {
+	.dropdown-content li { /* Each specific li in dropdown */
+	    display: block;
+	    color: #147aaf;
+	    background-color: #e6e6e6;
+	    padding-top: 15px;
+	    padding-bottom: 15px;
+	    width: 100%;
+	    float: left;
+	    /* Need to figure out how to get individual lis to be the same width as parent li. Not sure if width and float are doing anything here */
+	}
+	.dropdown-content a:hover { /* Changes link color on hover- Want color and link to be for entire box tho */
+	    color: green;
+	}
+	.dropdown:hover .dropdown-content { /* Show dropdown content on hover */
 	    display: block;
 	}
     </style>
@@ -45,17 +58,13 @@
                     <li><a href="/galleries">Galleries</a></li>
 		    <li><a href="/pull-info.php">Have lists</a></li>
 		    <li><a href="/wantlists">Wantlists</a></li>
-<div class=dropdown>
-		    <li><a href="#">Hover here</a></li>
-		    <ul class=dropdown-content><li>Hello!</li></ul>
-</div>
-<!--		    <div class="dropdown">
-			<li>Dropdown test</li>
-			    <div class="dropdown-content">
-			       <a href="#">Link 1</a>
-			       <a href="#">Link 2</a>
-			    </div>
-		    </div> -->
+		    <li class="dropdown"><a href="#">Hover here</a>
+			<ul class=dropdown-content>
+			    <li><a href="#">Test!</a></li>
+			    <li><a href="#">Longer title</a></li>
+			</ul>
+		    </li> <!-- End parent dropdown -->
+		    </div>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
