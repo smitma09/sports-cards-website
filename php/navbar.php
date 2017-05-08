@@ -12,27 +12,27 @@
     <link href="/css/logo-nav.css" rel="stylesheet">
     <style>
 	.dropdown ul { /* Removes bullets on dropdown items */
-	    list-style: none;
+		list-style: none;
 	}
 	.dropdown-content { /* Dropdown area as a whole */
-	    display: none; /* Hides downdown content when not hovering on parent */
-	    position: absolute; /* Don't expand black area */
+		display: none; /* Hides downdown content when not hovering on parent */
+		position: absolute; /* Don't expand black area */
+		background-color: #e6e6e6;
 	}
 	.dropdown-content li { /* Each specific li in dropdown */
-	    display: block;
-	    color: #147aaf;
-	    background-color: #e6e6e6;
-	    padding-top: 15px;
-	    padding-bottom: 15px;
-	    width: 100%;
-	    float: left;
-	    /* Need to figure out how to get individual lis to be the same width as parent li. Not sure if width and float are doing anything here */
+		display: block;
+		color: #147aaf;
+		padding-top: 15px;
+		padding-bottom: 15px;
 	}
 	.dropdown-content a:hover { /* Changes link color on hover- Want color and link to be for entire box tho */
-	    color: green;
+		color: black;
+	}
+	.dropdown-content:hover { /* Changes entire ul background on hover- Change so only hover element background changes */
+		background-color: blue;
 	}
 	.dropdown:hover .dropdown-content { /* Show dropdown content on hover */
-	    display: block;
+		display: block;
 	}
     </style>
 </head>
