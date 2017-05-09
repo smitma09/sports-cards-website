@@ -10,11 +10,6 @@
 		<ul>
 			<li>Figure out what rules are being used</li>
 			<li>Narrow it down to one file and modify/customize from there(?)</li>
-			<li>Figure out expanded dropdown links on hover</li>
-			<ul>
-				<li>Have it working, just need to get it styled correctly</li>
-				<li>Going to have to look at both CSS files (bootstrap and logo-nav)</li>
-			</ul>
 		</ul>
 		<li>Come up with site theme/style</li>
 		<ul>
@@ -31,9 +26,8 @@
 			<li>Likely applicable to galleries search/sort as well</li>
 		</ul>
 		<li>Undo button for typos after card upload</li>
-		<li>API for deleting records from database</li>
+		<li>API for deleting records from database- May need CMS for this</li>
 		<li>Admin section for adding cards, deleting cards, etc</li>
-		<li>Fill in wantlist pages</li>
 		<li>Main home landing page- Big Target Field image, links to different things?</li>
 		<li>Move hr CSS color rule to somewhere it will style across the site</li>
 	</ul>
