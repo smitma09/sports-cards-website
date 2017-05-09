@@ -10,7 +10,41 @@
 <head>
     <link href="/css/bootstrap.css" rel="stylesheet"> <!-- Link relative to home dir of website -->
     <link href="/css/logo-nav.css" rel="stylesheet">
-    <style>
+	<style>
+	.nav li {
+		display: inline-block;
+		position: relative;
+	}
+	.dropdown-content {
+		display: none;
+		position: absolute;
+	}
+	.dropdown-content {
+		list-style: none;
+		padding-left: 0;
+		min-width: 100%;
+	}
+	.dropdown-content li {
+		width: 100%;
+	}
+	.dropdown-content a {
+		display: block;
+		padding-top: 15px;
+		padding-bottom: 15px;
+		background-color: #e6e6e6;
+		width: 100%;
+		text-decoration: none;
+		text-align: center;
+	}
+	.dropdown-content a:hover {
+		color: black;
+		background-color: #b7b7b7;
+	}
+	.dropdown:hover .dropdown-content {
+		display: block;
+	}
+	</style>
+<!--    <style>
 	.dropdown ul { /* Removes bullets on dropdown items */
 		list-style: none;
 	}
@@ -24,6 +58,10 @@
 		color: #147aaf;
 		padding-top: 15px;
 		padding-bottom: 15px;
+		background-color: #e6e6e6;
+	}
+	.dropdown-content li:hover {
+		background-color: yellow;
 	}
 	.dropdown-content a:hover { /* Changes link color on hover- Want color and link to be for entire box tho */
 		color: black;
@@ -35,6 +73,7 @@
 		display: block;
 	}
     </style>
+-->
 </head>
 
 <body>
@@ -57,19 +96,15 @@
                     <li><a href="/databaseForms/twins_pcForm.php">Database entry</a></li>
                     <li><a href="/galleries">Galleries</a></li>
 		    <li><a href="/pull-info.php">Have lists</a></li>
-		    <li><a href="/wantlists">Wantlists</a></li>
-		    <li class="dropdown"><a href="#">Hover here</a>
-			<ul class=dropdown-content>
-			    <li><a href="#">Test!</a></li>
-			    <li><a href="#">Longer title</a></li>
+		    <li class="dropdown"><a href="/wantlists">Wantlists</a>
+			<ul class="dropdown-content">
+			    <li><a href="/wantlists/twins_pc">Twins PC</a></li>
+			    <li><a href="#">Temp</a></li>
 			</ul>
-		    </li> <!-- End parent dropdown -->
-		    </div>
+		   </li> <!-- End dropdown parent -->
                 </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
+            </div>       <!-- /.navbar-collapse -->
+        </div>   <!-- /.container -->
     </nav>
 
 </body>

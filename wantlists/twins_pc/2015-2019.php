@@ -1,3 +1,5 @@
+<!-- I want to add a rotate class to header images for each year, so I can rotate the images horizontally, but the positioning of the image and the surrounding elements gets messed up when adding CSS for rotate 90 deg. Going to have to mess with transform-origin some and see if I can find a way to get rid of the extra spacing around the image after it's rotated -->
+
 <?php
 	include_once("/var/www/html/php/navbar.php");
 ?>
@@ -5,6 +7,21 @@
 <html>
 <head>
 	<link href="/css/twinsPCwantlists.css" rel="stylesheet">
+	<style>
+	.rotate {
+/*		position: block;
+		-webkit-transform: rotate(90deg);
+		-moz-transform: rotate(90deg);
+		-o-transform: rotate(90deg);
+		-ms-transform: rotate(90deg);
+		transform: rotate(90deg);
+		-webkit-transform-origin: ;
+		-moz-transform-origin: ;
+		-ms-transform-origin: ;
+		-o-transform-origin: ;
+		transform-origin: ;
+*/	}
+	</style>
 </head>
 <body>
 	<h1> Twins PC wants- 2010s</h1>
@@ -54,6 +71,8 @@
         <hr>
 
         <h1>2016</h1>
+
+	<img alt="2016 Topps Chrome Brian Dozier Blue Wave Refractor /75" src="/images/twins_pc/2016/Topps_Chrome/Blue_Wave_Refractors/183_Brian_Dozier_46_75.jpg" height="300px" class="rotate"> <!--width="350px"-->
 
         <br>
 
