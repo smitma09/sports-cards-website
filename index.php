@@ -6,11 +6,6 @@
 <body>
 	<h1>Todos:</h1>
 	<ul>
-		<li>Nav bar styling</li>
-		<ul>
-			<li>Figure out what rules are being used</li>
-			<li>Narrow it down to one file and modify/customize from there(?)</li>
-		</ul>
 		<li>Come up with site theme/style</li>
 		<ul>
 			<li>Something that will be consistent from page to page</li>
@@ -19,6 +14,7 @@
 		</ul>
 		<li>Continue adding cards to database</li>
 		<li>Set up galleries page</li>
+		<li>Continue learning/implementing Ajax</li>
 		<li>Clean up full info page</li>
 		<ul>
 			<li>Better display for empty fields- Follow current pattern in readFullData with rc and numbered</li>
