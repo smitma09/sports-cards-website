@@ -99,7 +99,7 @@
 		    <li class="dropdown"><a href="/wantlists">Wantlists</a>
 			<ul class="dropdown-content">
 			    <li><a href="/wantlists/twins_pc">Twins PC</a></li>
-			    <li><a href="#">Temp</a></li>
+			    <li><a href="/wantlists/chris_herrmann">Chris Herrmann</a></li>
 			</ul>
 		   </li> <!-- End dropdown parent -->
                 </ul>
