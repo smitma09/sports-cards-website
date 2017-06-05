@@ -2739,7 +2739,7 @@
 	<br>
 
 	<p><div class=title>2000 Fleer Tradition Update</div><br>
-	<div class=ssTitle>Base:</div> 43, 45, 103<br>
+	<div class=ssTitle>Base (U):</div> 45, 103<br>
 	</p>
 
 	<br>

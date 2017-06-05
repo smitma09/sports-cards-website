@@ -157,7 +157,7 @@
 	<div class=ssTitle>Base:</div> 78, 79, 80, 81, 82<br>
 	<div class=ssTitle>Premiere Date (#ed/49):</div> 78, 79, 80, 81, 82<br>
 	<div class=ssTitle>Red (#ed/299):</div> 78, 79, 80, 81, 82<br>
-	<div class=ssTitle>Shadow Series (#ed/99):</div> 78, 79, 80, 81, 82<br>
+	<div class=ssTitle>Shadow Series (#ed/99):</div> 78, 79, 81, 82<br>
 	</p>
 
 	<br>

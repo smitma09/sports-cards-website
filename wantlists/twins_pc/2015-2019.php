@@ -39,7 +39,7 @@
         <div class=ssTitle>Black (#/67):</div> 8, 27, 126, 201, 227, 304, 305, 313, 336<br>
         <div class=ssTitle>Blue (#/50):</div> 8, 27, 126, 201, 227, 304, 305, 313, 336<br>
         <div class=ssTitle>Camo (#/25):</div> 8, 27, 126, 201, 227, 304, 305, 313, 336<br>
-        <div class=ssTitle>Gold (#/2,017):</div> 8, 27, 126, 201, 227, 304, 305, 313, 336<br>
+        <div class=ssTitle>Gold (#/2,017):</div> 8, 27, 201, 227, 304, 305, 313, 336<br>
         <div class=ssTitle>Negative:</div> 8, 27, 126, 201, 227, 304, 305, 313, 336<br>
         <div class=ssTitle>Pink (#/50):</div> 8, 27, 126, 201, 227, 304, 305, 313, 336<br>
         <div class=ssTitle>Rainbow Foil:</div> 8, 27, 126, 201, 227, 304, 305, 313, 336<br>
@@ -67,6 +67,17 @@
         <div class=ssTitle>Chrome Blue Refractor (#/68):</div> 436, 465<br>
         <div class=ssTitle>Chrome Purple Refractor:</div> 436, 465<br>
         <div class=ssTitle>Mini (#/100):</div> 220, 243, 436, 465</p>
+
+	<br>
+
+	<p><div class=title>2017 Topps Inception</div><br>
+	<div class=ssTitle>Base:</div> 17<br>
+	<div class=ssTitle>Blue (#/25):</div> 17, 60, 81<br>
+	<div class=ssTitle>Green:</div> 81<br>
+	<div class=ssTitle>Magenta (#/99):</div> 17, 60<br>
+	<div class=ssTitle>Orange (#/50):</div> 17, 81<br>
+	<div class=ssTitle>Purple (#/150):</div> 17, 81<br>
+	<div class=ssTitle>Red (#/75):</div> 17, 60, 81</p>
 
         <hr>
 
@@ -100,10 +111,10 @@
         <div class=ssTitle>Prospects Purple (BP, #/250):</div> 32, 61, 97, 135<br>
         <div class=ssTitle>Prospects Silver (BP):</div> 32, 61, 97, 135<br>
         <div class=ssTitle>Prospects Yellow (BP):</div> 32, 61, 97, 135<br>
-        <div class=ssTitle>Bowman Scout's Top 100:</div> 2, 12, 78, 82<br>
-        <div class=ssTitle>Bowman Scout's Top 100 Gold (#/50):</div> 2, 12, 29, 78, 82<br>
-        <div class=ssTitle>Bowman Scout's Top 100 Green (#/99):</div> 2, 12, 29, 78, 82<br>
-        <div class=ssTitle>Bowman Scout's Top 100 Orange (#/25):</div> 2, 12, 29, 78, 82<br>
+        <div class=ssTitle>Bowman Scouts' Top 100:</div> 12, 78, 82<br>
+        <div class=ssTitle>Bowman Scouts' Top 100 Gold (#/50):</div> 2, 12, 29, 78, 82<br>
+        <div class=ssTitle>Bowman Scouts' Top 100 Green (#/99):</div> 2, 12, 29, 78, 82<br>
+        <div class=ssTitle>Bowman Scouts' Top 100 Orange (#/25):</div> 2, 12, 29, 78, 82<br>
         <div class=ssTitle>International Ink:</div> WJ<br>
         <div class=ssTitle>International Ink Blue (#/150):</div> WJ<br>
         <div class=ssTitle>International Ink Green (#/99):</div> WJ<br>
@@ -366,16 +377,15 @@
         <br>
 
         <p><div class=title>2016 Topps Chrome</div><br>
-        <i>Completed- Base, Refractors</i><br>
+        <i>Completed- Base, Refractors, Prism Refractors</i><br>
         <div class=ssTitle>Black Refractors:</div> 13, 83, 99, 104<br>
-        <div class=ssTitle>Blue Refractors (#/150):</div> 13, 82, 83, 99, 104, 138<br>
-        <div class=ssTitle>Blue Wave Refractors (#/75):</div> 13, 82, 83, 99, 104, 138<br>
+        <div class=ssTitle>Blue Refractors (#/150):</div> 13, 82, 99, 138<br>
+        <div class=ssTitle>Blue Wave Refractors (#/75):</div> 82, 83, 99, 104, 138<br>
         <div class=ssTitle>Green Refractors (#/99):</div> 13, 82, 83, 99, 104, 138, 183<br>
         <div class=ssTitle>Gold Refractors (#/50):</div> 13, 82, 99, 104, 138, 183<br>
         <div class=ssTitle>Orange Refractors (#/25):</div> 82, 83, 99, 104, 138, 183<br>
-        <div class=ssTitle>Pink Refractors:</div> 82, 99, 104<br>
-        <div class=ssTitle>Prism Refractors:</div> 82, 104, 183<br>
-        <div class=ssTitle>Purple Refractors (#/275):</div> 13, 82, 83, 99, 104, 138, 183<br>
+        <div class=ssTitle>Pink Refractors:</div> 82, 99<br>
+        <div class=ssTitle>Purple Refractors (#/275):</div> 13, 82, 83, 99<br>
         <div class=ssTitle>Sepia Refractors:</div> 99, 104, 138<br>
         <div class=ssTitle>Future Stars:</div> 11<br>
         <div class=ssTitle>Future Stars Green:</div> 11<br>
@@ -384,6 +394,11 @@
         <div class=ssTitle>Youth Impact:</div> 2, 6, 19<br>
         <div class=ssTitle>Youth Impact Green:</div> 2, 6, 19<br>
         <div class=ssTitle>Youth Impact Orange (#/25):</div> 2, 6</p>
+
+	<br>
+
+	<p><div class=title>2016 Topps Chrome Sapphire</div><br>
+	<div class=ssTitle>Blue Sapphire:</div> 76, 78, 129, 161, 181, 208, 235, 262, 286, 308, 360, 528, 534, 546, 560, 561, 576, 591, 624, 645</p>
 
         <br>
 
@@ -449,6 +464,17 @@
         <div class=ssTitle>Rookie Performers:</div> JB, MS</p>
 
         <br>
+
+	<p><div class=title>2016 Topps Hi Tek</div><br>
+	<div class=ssTitle>Base:</div> BHP, ER, JBE, MK, MS<br>
+	<div class=ssTitle>Gold Rainbow (#/?):</div> BHP, ER, JBE, MK, MS<br>
+	<div class=ssTitle>Green Rainbow (#/99):</div> BHP, ER, JBE, MS<br>
+	<div class=ssTitle>Orange Magma Diffractor (#/25):</div> BHP, ER, JBE, MK, MS<br>
+	<div class=ssTitle>Red Orbit Diffractor:</div> BHP, ER, JBE, MK, MS<br>
+	<div class=ssTitle>Tidal Diffractor:</div> BHP, ER, JBE, MK, MS<br>
+	<div class=ssTitle>Bright Horizons (#/50):</div> BP, MS</p>
+
+	<br>
 
         <p><div class=title>2016 Topps Marketside Pizza</div><br>
         <div class=ssTitle>Base:</div> 14, 42</p>
@@ -606,13 +632,13 @@
 	<br>
 
 	<p><div class=title>2015 Diamond Kings</div><br>
+	<i>Completed- HOF Sluggers</i><br>
 	<div class=ssTitle>Base:</div> 34, 74, 85, 168b (black jersey SP), 182<br>
 	<div class=ssTitle>DK Minis:</div> 34, 62, 74, 85, 168, 182, 206<br>
 	<div class=ssTitle>Framed Blue (#/99):</div> 34, 62, 74, 85, 168, 182<br>
 	<div class=ssTitle>Framed Red:</div> 34, 62, 74, 85, 168, 182<br>
 	<div class=ssTitle>Gold (#/25):</div> 34, 62, 74, 85, 168, 182<br>
 	<div class=ssTitle>Silver (#/99):</div> 34, 62, 74, 85, 168, 182<br>
-	<div class=ssTitle>HOF Sluggers:</div> 3<br>
 	<div class=ssTitle>HOF Sluggers Sapphire (#/25):</div> 3<br>
 	<div class=ssTitle>Rookie Sapphire (#/25):</div> 168b (black jersey)</p>
 
