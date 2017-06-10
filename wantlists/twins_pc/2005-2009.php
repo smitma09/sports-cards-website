@@ -542,7 +542,7 @@
 
 	<p><div class=title>2008 Topps</div><br>
 	<i>Completed- Stars, Trading Card History</i><br>
-	<div class=ssTitle>Base:</div> 115, 337, 621<br>
+	<div class=ssTitle>Base:</div> 115, 337<br>
 	<div class=ssTitle>Black:</div> 12, 33, 109, 110, 115, 117, 161, 203, 287, 322, 346, 348, 393, 411, 417, 433, 434, 452, 467, 532, 546, 561, 574, 583, 618, 621, 626<br>
 	<div class=ssTitle>Gold:</div> 12, 33, 109, 110, 115, 117, 161, 203, 287, 322, 346, 348, 411, 417, 433, 434, 452, 467, 532, 546, 561, 574, 583, 618, 626<br>
 	<div class=ssTitle>Gold Foil (Gold lettering on front):</div> 12, 33, 109, 110, 115, 117, 161, 203, 322, 346, 348, 393, 433, 434, 467, 532, 574, 583, 618, 626<br>

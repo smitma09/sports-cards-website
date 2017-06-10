@@ -72,7 +72,7 @@
 
 	<p><div class=title>2017 Topps Inception</div><br>
 	<div class=ssTitle>Base:</div> 17<br>
-	<div class=ssTitle>Blue (#/25):</div> 17, 60, 81<br>
+	<div class=ssTitle>Blue (#/25):</div> 60, 81<br>
 	<div class=ssTitle>Green:</div> 81<br>
 	<div class=ssTitle>Magenta (#/99):</div> 17, 60<br>
 	<div class=ssTitle>Orange (#/50):</div> 17, 81<br>
@@ -123,28 +123,6 @@
         <div class=ssTitle>Sophomore Standouts Green (#/99):</div> 2<br>
         <div class=ssTitle>Sophomore Standouts Orange (#/25):</div> 2<br>
         <div class=ssTitle>Turn Two:</div> BJ</p>
-
-        <br>
-
-        <p><div class=title>2016 Bowman Platinum</div><br>
-        <div class=ssTitle>Base:</div> 22, 37, 71, 81 84, 93<br>
-        <div class=ssTitle>Green (#/99):</div> 22, 37, 71, 81 84, 93<br>
-        <div class=ssTitle>Ice:</div> 22, 37, 71, 81 84, 93<br>
-        <div class=ssTitle>Orange (#/25):</div> 22, 37, 71, 81 84, 93<br>
-        <div class=ssTitle>Purple (#/250):</div> 22, 37, 71, 81 84, 93<br>
-        <div class=ssTitle>Top Prospects:</div> ABW, NG, TJ, WJ<br>
-        <div class=ssTitle>Top Prospects Green (#/99):</div> ABW, NG, TJ, WJ<br>
-        <div class=ssTitle>Top Prospects Ice:</div> ABW, NG, TJ, WJ<br>
-        <div class=ssTitle>Top Prospects Orange (#/25):</div> ABW, NG, TJ, WJ<br>
-        <div class=ssTitle>Top Prospects Purple (#/250):</div> ABW, NG, TJ, WJ<br>
-        <div class=ssTitle>Next Generation:</div> 17<br>
-        <div class=ssTitle>Next Generation Green (#/99):</div> 17<br>
-        <div class=ssTitle>Next Generation Orange (#/25):</div> 17<br>
-        <div class=ssTitle>Next Generation Purple (#/250):</div> 17<br>
-        <div class=ssTitle>Next Generation Prospects:</div> 17<br>
-        <div class=ssTitle>Next Generation Prospects Green (#/99):</div> 17<br>
-        <div class=ssTitle>Next Generation Prospects Orange (#/25):</div> 17<br>
-        <div class=ssTitle>Next Generation Prospects Purple (#/250):</div> 17</p>
 
         <br>
 
@@ -459,7 +437,7 @@
         <div class=ssTitle>Ad Panels:</div> Coming soon!<br>
         <div class=ssTitle>Chrome (#/999):</div> 708, 709, 717<br>
         <div class=ssTitle>Chrome Refractor (#/567):</div> 708, 709, 717<br>
-        <div class=ssTitle>Chrome Black (#/67):</div> 708, 709, 717<br>
+        <div class=ssTitle>Chrome Black Refractor (#/67):</div> 709, 717<br>
         <div class=ssTitle>Chrome Purple Refractor:</div> 708, 709, 717<br>
         <div class=ssTitle>Rookie Performers:</div> JB, MS</p>
 
@@ -584,8 +562,76 @@
 
 	<br>
 
+	<p><div class=title>2015 Bowman</div><br>
+	<i>Completed- Base, The Farm's Finest Mini</i><br>
+	<div class=ssTitle>Black-Red:</div> 34, 40, 85, 92, 140<br>
+	<div class=ssTitle>Blue (#/150):</div> 34, 40, 85, 140<br>
+	<div class=ssTitle>Gold (#/50):</div> 34, 40, 85, 92, 140<br>
+	<div class=ssTitle>Green (#/99):</div> 34, 40, 85, 92, 140<br>
+	<div class=ssTitle>Orange (#/25):</div> 34, 40, 85, 92, 140<br>
+	<div class=ssTitle>Purple (#/250):</div> 34, 40, 85, 92, 140<br>
+	<div class=ssTitle>Purple Ice (#/50):</div> 34, 40, 85, 92, 140<br>
+	<div class=ssTitle>Silver (#/499):</div> 34, 40, 85, 92, 140<br>
+	<div class=ssTitle>Silver Ice:</div> 34, 40, 85, 92, 140<br>
+	<div class=ssTitle>Yellow:</div> 34, 40, 85, 92, 140<br>
+	<div class=ssTitle>Chrome Prospects (BCP):</div> 91, 112<br>
+	<div class=ssTitle>Chrome Prospects Refractors (BCP, #/499):</div> 33, 36, 75, 91, 105, 112<br>
+	<div class=ssTitle>Chrome Prospects Black Refractors (BCP):</div> 33, 36, 75, 91, 105, 112<br>
+	<div class=ssTitle>Chrome Prospects Blue Refractors (BCP, #/150):</div> 33, 36, 75, 91, 105, 112<br>
+	<div class=ssTitle>Chrome Prospects Blue Wave Refractors (BCP):</div> 33, 36, 75, 91, 105, 112<br>
+	<div class=ssTitle>Chrome Prospects Gold Refractors (BCP, #/50):</div> 33, 36, 75, 91, 105, 112<br>
+	<div class=ssTitle>Chrome Prospects Green Refractors (BCP, #/99):</div> 33, 36, 75, 91, 105, 112<br>
+	<div class=ssTitle>Chrome Prospects Orange Refractors (BCP, #/25):</div> 33, 36, 75, 91, 105, 112<br>
+	<div class=ssTitle>Chrome Prospects Orange Wave Refractors (BCP):</div> 33, 36, 75, 91, 105, 112<br>
+	<div class=ssTitle>Chrome Prospects Purple Refractors (BCP, #/250):</div> 33, 36, 75, 91, 105, 112<br>
+	<div class=ssTitle>Prospects (BP):</div> 33, 36<br>
+	<div class=ssTitle>Prospects Blue (BP, #/150):</div> 33, 36, 75, 91, 105, 112<br>
+	<div class=ssTitle>Prospects Gold (BP, #/50):</div> 33, 36, 75, 91, 105, 112<br>
+	<div class=ssTitle>Prospects Green (BP, #/99):</div> 33, 36, 75, 91, 105, 112<br>
+	<div class=ssTitle>Prospects Orange (BP #/25):</div> 33, 36, 75, 91, 105, 112<br>
+	<div class=ssTitle>Prospects Purple (BP, #/250):</div> 33, 36, 75, 91, 105, 112<br>
+	<div class=ssTitle>Prospects Purple Ice (BP, #/50):</div> 33, 36, 75, 91, 105, 112<br>
+	<div class=ssTitle>Prospects Silver (BP, #/499):</div> 33, 36, 75, 91, 105, 112<br>
+	<div class=ssTitle>Prospects Silver Ice (BP):</div> 33, 36, 75, 91, 105, 112<br>
+	<div class=ssTitle>Prospects Yellow (BP):</div> 33, 75, 91, 112<br>
+	<div class=ssTitle>The Farm's Finest Mini Blue Shimmer Refractor (#/150):</div> BB, JB, MS, NG<br>
+	<div class=ssTitle>The Farm's Finest Mini Gold Shimmer Refractor (#/50):</div> BB, JB, KST, MS, NG<br>
+	<div class=ssTitle>The Farm's Finest Mini Green Shimmer Refractor (#/99):</div> BB, JB, KST, MS, NG<br>
+	<div class=ssTitle>The Farm's Finest Mini Orange Shimmer Refractor (#/25):</div> BB, JB, KST, MS, NG<br>
+	<div class=ssTitle>The Farm's Finest Mini Purple Shimmer Refractor (#/250):</div> BB, JB, MS, NG<br>
+	<div class=ssTitle>Scout's Top 100:</div> 1, 26, 48, 51, 82<br>
+	<div class=ssTitle>Scout's Top 100 Die Cut (#/99):</div> 1, 8, 26, 48, 51, 82</p>
+
+	<br>
+
+	<p><div class=title>2015 Bowman Chrome</div><br>
+	<i>Completed- Prospect Profiles, Series Next Die Cut</i><br>
+	<div class=ssTitle>Base:</div> 4, 52, 120<br>
+	<div class=ssTitle>Refractors (#/499):</div> 4, 39, 52, 152, 159, 176<br>
+	<div class=ssTitle>Purple Refractors (#/250):</div> 4, 39, 52, 120, 176<br>
+	<div class=ssTitle>Blue Refractors (#/150):</div> 4, 39, 52, 152, 159, 176<br>
+	<div class=ssTitle>Green Refractors (#/99):</div> 4, 39, 52, 120, 159, 176<br>
+	<div class=ssTitle>Gold Refractors (#/50):</div> 4, 52, 120, 152, 159, 176<br>
+	<div class=ssTitle>Orange Refractors (#/25):</div> 4, 39, 52, 120, 152, 159<br>
+	<div class=ssTitle>Red Refractors (#/5)- HAVE:</div> 152<br>
+	<div class=ssTitle>Prospects:</div> 232<br>
+	<div class=ssTitle>Prospects Refractors (#/499):</div> 191, 197, 232<br>
+	<div class=ssTitle>Prospects Wave Refractors:</div> 191, 197, 232<br>
+	<div class=ssTitle>Prospects Purple Refractors (#/250):</div> 191, 197, 232<br>
+	<div class=ssTitle>Prospects Blue Refractors (#/150):</div> 191, 197, 232<br>
+	<div class=ssTitle>Prospects Green Refractors (#/99):</div> 191, 197, 232<br>
+	<div class=ssTitle>Prospects Gold Refractors (#/50):</div> 191, 197, 232<br>
+	<div class=ssTitle>Prospects Orange Refractors (#/25):</div> 191, 197, 232<br>
+	<div class=ssTitle>Prospect Profiles Green Refractor (#/99):</div> 1, 19, 25<br>
+	<div class=ssTitle>Prospect Profiles Gold Refractor (#/50):</div> 1, 8, 19, 25<br>
+	<div class=ssTitle>Prospect Profiles Orange Refractor (#/25):</div> 1, 8, 19, 25<br>
+	<div class=ssTitle>Series Next Die Cut Haze Refractor (#/???):</div> KV<br>
+	<div class=ssTitle>Series Next Die Cut Vapor Refractor (#/25):</div> KV<br>
+
+	<br>
+
 	<p><div class=title>2015 Bowman Draft</div><br>
-	<i>Completed- Fantasy Impact, Teams of Tomorrow Die Cut, Teams of Tomorrow Die Cut Orange</i><br>
+	<i>Completed- Chrome Refractor, Fantasy Impact, Teams of Tomorrow Die Cut, Teams of Tomorrow Die Cut Orange</i><br>
 	<div class=ssTitle>Base:</div> 48, 128<br>
 	<div class=ssTitle>Blue (#/150):</div> 48, 128, 136, 148, 198<br>
 	<div class=ssTitle>Gold (#/50):</div> 48, 128, 136, 148, 198<br>
@@ -593,7 +639,6 @@
 	<div class=ssTitle>Orange (#/25):</div> 48, 128, 136, 148, 198<br>
 	<div class=ssTitle>Silver (#/499):</div> 48, 128, 136, 148, 198<br>
 	<div class=ssTitle>Chrome:</div> 48, 128, 148, 198<br>
-	<div class=ssTitle>Chrome Refractor:</div> 198<br>
 	<div class=ssTitle>Chrome Blue Refractor (#/150):</div> 48, 128, 136, 148, 198<br>
 	<div class=ssTitle>Chrome Gold Refractor (#/50):</div> 48, 128, 136, 148, 198<br>
 	<div class=ssTitle>Chrome Green Refractor (#/99):</div> 48, 128, 136, 148, 198<br>
@@ -635,7 +680,7 @@
 	<i>Completed- HOF Sluggers</i><br>
 	<div class=ssTitle>Base:</div> 34, 74, 85, 168b (black jersey SP), 182<br>
 	<div class=ssTitle>DK Minis:</div> 34, 62, 74, 85, 168, 182, 206<br>
-	<div class=ssTitle>Framed Blue (#/99):</div> 34, 62, 74, 85, 168, 182<br>
+	<div class=ssTitle>Framed Blue (#/99):</div> 34, 62, 74, 85, 182<br>
 	<div class=ssTitle>Framed Red:</div> 34, 62, 74, 85, 168, 182<br>
 	<div class=ssTitle>Gold (#/25):</div> 34, 62, 74, 85, 168, 182<br>
 	<div class=ssTitle>Silver (#/99):</div> 34, 62, 74, 85, 168, 182<br>
@@ -839,10 +884,14 @@
 	<br>
 
 	<p><div class=title>2015 Topps High Tek</div><br>
-	This listing is not fully complete, I need to revise this later<br>
-	<div class=ssTitle>Base:</div> BB, JM<br>
+	<div class=ssTitle>Pattern 1 (Grass):</div> BB<br>
+	<div class=sstitle>Pattern 2 (Spiral):</div> BB, JM<br>
+	<div class=ssTitle>Pattern 3 (Circuit Board):</div> BB, JM<br>
+	<div class=ssTitle>Pattern 4 (Cubes):</div> BB, JM<br>
+	<div class=ssTitle>Pattern 5 (Pyramids):</div> BB, JM<br>
+	<div class=ssTitle>Pattern 6 (Stripes):</div> BB, JM<br>
+	<div class=ssTitle>Pattern 7 (Blade):</div> BB, JM<br>
 	<div class=ssTitle>Purple Rainbow:</div> BB, JM<br>
-	<div class=ssTitle>Confetti Diffractor (#/99):</div> BB, JM<br>
 	<div class=ssTitle>Tidal Diffractor (#/75):</div> BB, JM<br>
 	<div class=ssTitle>Gold Rainbow (#/35):</div> BB, JM<br>
 	<div class=ssTitle>Clouds Diffractor (#/25):</div> BB, JM</p>

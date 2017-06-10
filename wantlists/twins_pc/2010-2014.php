@@ -795,7 +795,7 @@
 	<br>
 
 	<p><div class=title>2013 Topps</div><br>
-	<i>Completed- Making Their Mark(?), World Baseball Classic</i><br>
+	<i>Completed- World Baseball Classic</i><br>
 	<div class=ssTitle>Base:</div> 216b (Out of bounds SP)<br>
 	<div class=ssTitle>Black:</div> 88, 102, 107, 216, 335, 346, 446, 451, 460, 467, 528, 547, 575, 590, 596, 629, 636, 656<br>
 	<div class=ssTitle>Camo (#/99):</div> 88, 107, 216, 335, 346, 446, 451, 460, 467, 528, 547, 575, 590, 596, 629, 636<br>
@@ -853,6 +853,13 @@
 	<div class=ssTitle>Red Refractors:</div> 38, 87, 179, 186, 217<br>
 	<div class=ssTitle>Sepia Refractors (#/75):</div> 38, 87, 186<br>
 	<div class=ssTitle>X-Fractors:</div> 87, 179</p>
+
+	<br>
+
+	<p><div class=title>2013 Topps Chrome Update</div><br>
+	<div class=ssTitle>Base:</div> 38<br>
+	<div class=ssTitle>Black Refractors (#/99):</div> 38, 40<br>
+	<dic class=ssTitle>Gold Refractors (#/250):</div>38 40</p>
 
 	<br>
 
@@ -947,6 +954,7 @@
 	<br>
 
 	<p><div class=title>2013 Topps Update</div><br>
+	<i>Completed- Making Their Mark</i><br>
 	<div class=ssTitle>Base:</div> 38, 209<br>
 	<div class=ssTitle>Black (#/62):</div> 38, 70, 113, 204, 209, 244, 289, 317, 324<br>
 	<div class=ssTitle>Camo (#/99):</div> 38, 70, 113, 154, 204, 209, 244, 289, 317, 324<br>
@@ -1227,6 +1235,7 @@
 	<div class=ssTitle>Base:</div> 73, 119, 121, 140<br>
 	<div class=ssTitle>Framed Black:</div> 73, 119, 121, 140<br>
 	<div class=ssTitle>Framed Blue:</div> 73, 119, 121, 140<br>
+	<div class=sstitle>Framed Gold:</div>73, 119, 121<br>
 	<div class=ssTitle>Mini:</div> 140<br>
 	<div class=ssTitle>Mini Black:</div> 73, 119, 121, 140<br>
 	<div class=ssTitle>Mini Green:</div> 73, 119, 121, 140<br>
@@ -1490,7 +1499,7 @@
 	<div class=ssTitle>Black:</div> 4, 21, 54, 99, 109, 132, 186, 253, 272, 281, 288, 293, 293b (Killebrew), 304, 339, 350, 354, 366, 387, 390, 408, 485, 501, 550, 570b (Blyleven), 614, 657<br>
 	<div class=ssTitle>Diamond Annivesary:</div> 4, 21, 99, 132, 186, 281, 293b (Killebrew), 339, 350, 354, 366, 387, 390, 408, 485, 570b (Blyleven)<br>
 	<div class=ssTitle>Cognac Diamond Anniversary:</div> 54, 99, 109, 132, 186, 272, 281, 293, 293b (Killebrew), 339, 350, 366, 408, 485, 501, 550, 657<br>
-	<div class=ssTitle>Factory Set Diamond Anniversary:</div> 4, 21, 253, 272, 293b (Killebrew), 304, 550, 570b (Blyleven), 614<br>
+	<div class=ssTitle>Factory Set Diamond Anniversary:</div> 253, 272, 293b (Killebrew), 304, 550, 570b (Blyleven), 614<br>
 	<div class=ssTitle>Factory Set Red Border:</div> 4, 21, 54, 99, 109, 132, 186, 253, 272, 281, 288, 293, 293b (Killebrew), 304, 339, 350, 354, 366, 387, 390, 408, 485, 501, 550, 570b (Blyleven), 614, 657<br>
 	<div class=ssTitle>Gold (#/2,011):</div> 4, 54, 99, 109, 132, 186, 253, 272, 281, 288, 293b (Killebrew), 339, 350, 354, 366, 390, 485, 501, 550, 570b (Blyleven), 657<br>
 	<div class=ssTitle>Hope Diamond Anniversary (#ed/60):</div> 4, 21, 54, 99, 109, 132, 186, 253, 272, 281, 288, 293b (Killebrew), 304, 339, 350, 354, 366, 387, 390, 485, 501, 550, 570b (Blyleven), 614, 657<br>
@@ -1654,6 +1663,7 @@
 	<br>
 
 	<p><div class=title>2010 Bowman</div><br>
+	<i>Complete- Prospects (BP)</i><br>
 	<div class=ssTitle>Base:</div> 8, 16, 116, 137<br>
 	<div class=ssTitle>Blue (#/520):</div> 8, 16, 34, 79, 116, 137, 169, 176<br>
 	<div class=ssTitle>Gold:</div> 8, 16, 34, 79, 116, 130, 137, 169, 176<br>
@@ -1664,7 +1674,6 @@
 	<div class=ssTitle>Chrome Prospects Gold Refractors (BCP, #/50):</div> 76, 127, 159, 183a (no auto), 202a (no auto), 203a (no auto), 205a (no auto)<br>
 	<div class=ssTitle>Chrome Prospects Orange Refractors (BCP, #/25):</div> 76, 127, 159, 183a (no auto), 202a (no auto), 203a (no auto), 205a (no auto)<br>
 	<div class=ssTitle>Chrome Prospects Purple Refractors (BCP, #/999 or 899):</div> 76, 127, 159, 183a (no auto), 202a (no auto), 203a (no auto), 205a (no auto)<br>
-	<div class=ssTitle>Prospects (BP):</div> 76<br>
 	<div class=ssTitle>Prospects Blue (BP, #/520):</div> 76<br>
 	<div class=ssTitle>Prospects Orange (BP, #/250):</div> 76<br>
 	<div class=ssTitle>1992 Bowman Throwbacks:</div> 9, 13, 99<br>
