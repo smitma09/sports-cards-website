@@ -26,6 +26,7 @@
 		<li>Admin section for adding cards, deleting cards, etc</li>
 		<li>Main home landing page- Big Target Field image, links to different things?</li>
 		<li>Move hr CSS color rule to somewhere it will style across the site</li>
+		<li>Figure out admin password matching for admin section</li>
 	</ul>
 
 	<h3>Test section</h3>

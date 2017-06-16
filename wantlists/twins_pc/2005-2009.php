@@ -541,7 +541,7 @@
 	<br>
 
 	<p><div class=title>2008 Topps</div><br>
-	<i>Completed- Stars, Trading Card History</i><br>
+	<i>Completed- Factory Set Rookie Bonus, Stars, Trading Card History</i><br>
 	<div class=ssTitle>Base:</div> 115, 337<br>
 	<div class=ssTitle>Black:</div> 12, 33, 109, 110, 115, 117, 161, 203, 287, 322, 346, 348, 393, 411, 417, 433, 434, 452, 467, 532, 546, 561, 574, 583, 618, 621, 626<br>
 	<div class=ssTitle>Gold:</div> 12, 33, 109, 110, 115, 117, 161, 203, 287, 322, 346, 348, 411, 417, 433, 434, 452, 467, 532, 546, 561, 574, 583, 618, 626<br>
@@ -995,7 +995,7 @@
 
 	<p><div class=title>2007 Topps</div><br>
 	<i>Completed- Stars</i><br>
-	<div class=ssTitle>Base:</div> 29, 86, 91, 171, 198, 248, 293, 321, 358, 430, 480, 543, 569<br>
+	<div class=ssTitle>Base:</div> 29, 86, 91, 198, 248, 321, 430, 480, 543<br>
 	<div class=ssTitle>Copper:</div> 29, 80, 86, 91, 96, 119, 171, 179, 198, 248, 293, 307, 321, 323, 325, 358, 388, 418, 430, 449, 480, 503, 512, 543, 569, 602, 621<br>
 	<div class=ssTitle>First Edition:</div> 29, 80, 86, 91, 96, 119, 171, 179, 198, 248, 293, 307, 321, 323, 325, 358, 388, 418, 430, 449, 480, 503, 512, 543, 569, 602, 621<br>
 	<div class=ssTitle>Gold:</div> 29, 80, 86, 91, 96, 119, 171, 179, 198, 248, 293, 307, 321, 323, 325, 358, 388, 418, 430, 449, 480, 503, 512, 543, 569, 602, 621<br>
@@ -1010,7 +1010,7 @@
 	<div class=ssTitle>Opening Day Team vs. Team:</div> 12<br>
 	<div class=ssTitle>Own the Game:</div> 21<br>
 	<div class=ssTitle>Wal-Mart:</div> 22, 30<br>
-	<div class=ssTitle>World Dominiation:</div> 2<br>
+	<div class=ssTitle>World Domination:</div> 2<br>
 	</p>
 
 	<br>
@@ -1478,7 +1478,7 @@
 	<br>
 
 	<p><div class=title>2006 Topps</div><br>
-	<div class=ssTitle>Base:</div> 55, 86, 96, 122, 127, 194, 309, 334, 458, 468, 489, 506, 539, 576, 598, 643, 647<br>
+	<div class=ssTitle>Base:</div> 309, 468, 506, 598<br>
 	<div class=ssTitle>Black:</div> 334, 350, 458, 468, 479, 489, 506, 539, 576, 598, 643, 647<br>
 	<div class=ssTitle>Gold:</div> 55, 78, 86, 96, 122, 127, 194, 234, 248, 282, 309, 334, 350, 458, 468, 479, 489, 506, 539, 576, 598, 643, 647<br>
 	<div class=ssTitle>Box Bottoms:</div> 194 (Hunter), 468 (Santana)<br>
@@ -2435,7 +2435,7 @@
 	<br>
 
 	<p><div class=title>2005 Topps Cracker Jack</div><br>
-	<div class=ssTitle>Base:</div> 84a (Throwing), 85b (Portrait SP), 194<br>
+	<div class=ssTitle>Base:</div> 84a (Throwing), 85b (Portrait SP)<br>
 	<div class=ssTitle>Mini Blue (#/50):</div> 14, 36, 84a (Throwing), 85b (Portrait SP), 98, 194<br>
 	<div class=ssTitle>Mini Gray (#/25):</div> 14, 36, 84a (Throwing), 85b (Portrait SP), 98, 194<br>
 	<div class=ssTitle>Mini Red:</div> 14, 36, 84a (Throwing), 85b (Portrait SP), 98, 194<br>

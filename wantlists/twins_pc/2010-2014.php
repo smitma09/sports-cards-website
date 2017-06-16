@@ -9,7 +9,7 @@
 <body>
         <h1> Twins PC wants- 2010-2014</h1>
 
-	<p>This page will be used to list all of my wants from sets in the 2010s (2010-2019). Please note that autographs and relics will not be included on these wants- I still would be interested in them if you have any, but I'm not listing them here in order to save space. Cards numbered to less than 25 will also not be listed, unless I have a card from that certain set (in which case I will list the cards I have from that particular set). I would like those as well, so please let me know if you have any available.</p>
+	<p>This page will be used to list all of my wants from sets in the 2010s (2010-2014). Please note that autographs and relics will not be included on these wants- I still would be interested in them if you have any, but I'm not listing them here in order to save space. Cards numbered to less than 25 will also not be listed, unless I have a card from that certain set (in which case I will list the cards I have from that particular set). I would like those as well, so please let me know if you have any available.</p>
 
 	<h1>2014</h1>
 
@@ -163,7 +163,7 @@
 	<div class=ssTitle>Chrome Prospects Blue Refractors (#/199):</div> 5, 10, 11, 34, 36<br>
 	<div class=ssTitle>Chrome Prospects Gold Refractors (#/50):</div> 5, 10, 11, 34, 36<br>
 	<div class=ssTitle>Chrome Prospects Green Refractors (#/399):</div> 5, 10, 11, 34, 36<br>
-	<div class=ssTitle>Chrome Prospects Japan Fractors (#/35):</div> 5, 10, 11, 34, 36<br>
+	<div class=ssTitle>Chrome Prospects Japan Fractors (#/35):</div> 5, 10<br>
 	<div class=ssTitle>Chrome Prospects Purple Refractors:</div> 5, 10, 11<br>
 	<div class=ssTitle>Chrome Prospects Red Refractors (#/25):</div> 5, 10, 11, 34, 36<br>
 	<div class=ssTitle>Chrome Prospects X-Fractors:</div> 5, 10, 34<br>
@@ -468,7 +468,7 @@
 	<div class=ssTitle>Camo (#/99):</div> 125, 153, 182, 184, 224, 230, 237, 249, 257, 282, 319<br>
 	<div class=ssTitle>Gold (#/2014):</div> 125, 153, 182, 224, 237, 257, 282, 319<br>
 	<div class=ssTitle>Pink (#/50):</div> 125, 153, 182, 184, 224, 230, 237, 249, 257, 282, 319<br>
-	<div class=ssTitle>Red Hot Foil:</div> 125, 153, 182, 224, 230, 237, 249, 282, 319<br>
+	<div class=ssTitle>Red Hot Foil:</div> 125, 153, 182, 224, 230, 249, 282, 319<br>
 	<div class=ssTitle>Target Red:</div> 125, 153, 182, 184, 224, 230, 237, 249, 257, 282, 319<br>
 	<div class=ssTitle>Wal-Mart Blue:</div> 125, 182, 224, 230, 257, 282, 319</p>
 
@@ -818,8 +818,7 @@
 	<br>
 
 	<p><div class=title>2013 Topps Allen & Ginter</div><br>
-	<i>Completed- Across the Years</i><br>
-	<div class=ssTitle>Base:</div> 135<br>
+	<i>Completed- Base, Across the Years</i><br>
 	<div class=ssTitle>Mini:</div> 52,135, 145, 323<br>
 	<div class=ssTitle>Mini A&G Back:</div> 52, 135, 145, 323, 324<br>
 	<div class=ssTitle>Mini A&G Red Back (#/25):</div> 52, 128, 135, 145, 196, 323, 324<br>
@@ -851,7 +850,7 @@
 	<div class=ssTitle>Orange Refractors:</div> 87, 179, 186, 217<br>
 	<div class=ssTitle>Purple Refractors:</div> 87, 186<br>
 	<div class=ssTitle>Red Refractors:</div> 38, 87, 179, 186, 217<br>
-	<div class=ssTitle>Sepia Refractors (#/75):</div> 38, 87, 186<br>
+	<div class=ssTitle>Sepia Refractors (#/75):</div> 38, 186<br>
 	<div class=ssTitle>X-Fractors:</div> 87, 179</p>
 
 	<br>
@@ -954,15 +953,14 @@
 	<br>
 
 	<p><div class=title>2013 Topps Update</div><br>
-	<i>Completed- Making Their Mark</i><br>
-	<div class=ssTitle>Base:</div> 38, 209<br>
-	<div class=ssTitle>Black (#/62):</div> 38, 70, 113, 204, 209, 244, 289, 317, 324<br>
-	<div class=ssTitle>Camo (#/99):</div> 38, 70, 113, 154, 204, 209, 244, 289, 317, 324<br>
-	<div class=ssTitle>Emerald:</div> 38, 113, 154, 204, 209, 244, 289, 317, 324<br>
-	<div class=ssTitle>Gold (#/2013):</div> 38, 70, 154, 204, 209, 244, 289, 317, 324<br>
-	<div class=ssTitle>Pink (#/50):</div> 38, 70, 113, 154, 204, 209, 244, 289, 317, 324<br>
-	<div class=ssTitle>Sapphire (#/25):</div> 38, 70, 113, 154, 204, 209, 244, 289, 317, 324<br>
-	<div class=ssTitle>Wal-Mart Blue:</div> 38, 70, 113, 154, 204, 209, 244, 289, 317<br>
+	<i>Completed- Base, Making Their Mark</i><br>
+	<div class=ssTitle>Black (#/62):</div> 48, 70, 113, 204, 209, 244, 289, 317, 324<br>
+	<div class=ssTitle>Camo (#/99):</div> 48, 70, 113, 154, 204, 209, 244, 289, 317, 324<br>
+	<div class=ssTitle>Emerald:</div> 48, 113, 154, 204, 209, 244, 289, 317, 324<br>
+	<div class=ssTitle>Gold (#/2013):</div> 48, 70, 154, 204, 209, 244, 289, 317, 324<br>
+	<div class=ssTitle>Pink (#/50):</div> 48, 70, 113, 154, 204, 209, 244, 289, 317, 324<br>
+	<div class=ssTitle>Sapphire (#/25):</div> 48, 70, 113, 154, 204, 209, 244, 289, 317, 324<br>
+	<div class=ssTitle>Wal-Mart Blue:</div> 48, 70, 113, 154, 204, 209, 244, 289, 317<br>
 	<div class=ssTitle>1971 Topps Minis:</div> 8<br>
 	<div class=ssTitle>League Leaders Pins:</div></p>
 
@@ -980,8 +978,7 @@
 	<br>
 
 	<p><div class=title>2012 Bowman</div><br>
-	<i>Completed- Prospects</i><br>
-	<div class=ssTitle>Base:</div> 87<br>
+	<i>Completed- Base, Prospects</i><br>
 	<div class=ssTitle>Blue:</div> 65, 87, 208, 215, 219<br>
 	<div class=ssTitle>Gold:</div> 73, 208, 219<br>
 	<div class=ssTitle>International:</div> 65, 73, 87, 208, 215, 219<br>
@@ -1515,8 +1512,7 @@
 	<br>
 
 	<p><div class=title>2011 Topps Allen & Ginter</div><br>
-	<i>Completed- Baseball Highlight Sketches, Hometown Heroes</i><br>
-	<div class=ssTitle>Base:</div> 350<br>
+	<i>Completed- Base, Baseball Highlight Sketches, Hometown Heroes</i><br>
 	<div class=ssTitle>Code Card Parallels:</div> 48, 67, 128, 178, 192, 204, 206, 254, 344<br>
 	<div class=ssTitle>Glossy:</div> 48, 67, 128, 178, 192, 204, 206, 224, 254, 305, 344, 350<br>
 	<div class=ssTitle>Rip Cards (Can be ripped or unripped):</div> 27, 53, 56, 74<br>
@@ -1544,7 +1540,7 @@
 	<div class=ssTitle>Canary Anniversary Refractors (#/1)- HAVE:</div> 142<br>
 	<div class=ssTitle>Gold Refractors (#/50):</div> 41, 59, 80, 118, 154, 171, 207<br>
 	<div class=ssTitle>Orange Refractors:</div> 41, 118, 154, 171, 207<br>
-	<div class=ssTitle>Purple Refractors:</div> 41, 59, 80, 118, 154, 171, 207<br>
+	<div class=ssTitle>Purple Refractors (#/499):</div> 41, 59, 80, 118, 171, 207<br>
 	<div class=ssTitle>Red Refractors (#/25):</div> 41, 59, 80, 118, 171, 207<br>
 	<div class=ssTitle>Sepia Refractors (#/99):</div> 41, 59, 80, 118, 154, 171, 207<br>
 	<div class=ssTitle>Superfractors (#/1)- HAVE:</div> 154<br>
