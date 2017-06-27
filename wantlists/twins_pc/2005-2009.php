@@ -2564,7 +2564,7 @@
 	<div class=ssTitle>UD Promos:</div> 42, 47, 62, 98<br>
 	<div class=ssTitle>Classic Counterparts (#/1999):</div> KH<br>
 	<div class=ssTitle>Fantasy Team (#/36):</div> 9<br>
-	<div class=ssTitle>Moments (#/1999):</div> JM, PM<br>
+	<div class=ssTitle>Moments (#/1999):</div> PM<br>
 	<div class=ssTitle>Post Season Performers (#/999):</div> JM, KH<br>
 	</p>
 

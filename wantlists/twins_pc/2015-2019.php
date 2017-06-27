@@ -50,7 +50,37 @@
         <div class=ssTitle>Bowman Then & Now:</div> 9<br>
         <div class=ssTitle>Five Tool:</div> 41<br>
         <div class=ssTitle>Jackie Robinson Day:</div> 10, 18<br>
-        <div class=ssTitle>Jackie Robinson Day Red (#/25):</div> 10, 18</p>
+        <div class=ssTitle>Jackie Robinson Day Red (#/25):</div> 10, 18<br>
+	<div class=ssTitle>1987 Silver Pack Promo Chrome:</div> BB<br>
+	<div class=ssTitle>1987 Silver Pack Promo Chrome Blue Refractor (#/99):</div> BB<br>
+	<div class=ssTitle>1987 Silver Pack Promo Chrome Gold Refractor (#/50):</div> BB<br>
+	<div class=ssTitle>1987 Silver Pack Promo Chrome Green Refractor (#/150):</div> BB<br>
+	<div class=ssTitle>1987 Silver Pack Promo Chrome Orange Refractor (#/75):</div> BB</p>
+
+	<br>
+
+	<p><div class=title>2017 Topps Series 2</div><br>
+	<div class=ssTitle>Base:</div> 379, 404a (white jersey), 404b (blue jersey), 405, 407, 453, 491, 543, 554, 568, 590, 606, 609, 678, 684<br>
+	<div class=ssTitle>Black (#/66):</div> 379, 404, 405,407, 453, 491, 542, 554, 568, 590, 606, 609,678, 684<br>
+	<div class=ssTitle>Father's Day Blue (#/50):</div> 379, 404, 405, 407, 453, 491, 542, 554, 568, 590, 606, 609,678, 684<br>
+	<div class=ssTitle>Gold (#/2,017):</div> 379, 404, 405, 407, 453, 491, 542, 554, 568, 590, 606, 609,678, 684<br>
+	<div class=ssTitle>Memorial Day (#/25):</div>379, 404, 405, 407, 453, 491, 542, 554, 568, 590, 606, 609,678, 684<br>
+	<div class=ssTitle>Mother's Day Pink (#/50):</div> 379, 404, 405, 407, 453, 491, 542, 554, 568, 590, 606, 609,678, 684<br>
+	<div class=ssTitle>Negative:</div> 379, 404, 405, 407, 453, 491, 542, 554, 568, 590, 606, 609,678, 684<br>
+	<div class=ssTitle>Rainbow Foil:</div> 379, 404, 405, 407, 453, 491, 542, 554, 568, 590, 606, 609,678, 684<br>
+	<div class=ssTitle>Vintage Stock (#/99):</div> 379, 404, 405, 407, 453, 491, 542, 554, 568, 590, 606, 609,678, 684<br>
+	<div class=ssTitle>Clear (#/10):</div> 404, 543<br>
+	<div class=ssTitle>All-Time All-Stars:</div> 13, 15<br>
+	<div class=ssTitle>First Pitch:</div> 38<br>
+	<div class=ssTitle>Home Run Derby Champ:</div> 13<br>
+	<div class=ssTitle>Independence Day:</div> 13, 28<br>
+	<div class=ssTitle>Salute:</div> 122, 142, 143<br>
+	<div class=ssTitle>Salute Red (#/25):</div> 122, 142, 143<br>
+	<div class=ssTitle>1987 Silver Pack Promo Chrome:</div> MSA<br>
+	<div class=ssTitle>1987 Silver Pack Promo Chrome Blue Refractor (#/115):</div> MSA<br>
+	<div class=ssTitle>1987 Silver Pack Promo Chrome Orange Refractor (#/99):</div> MSA<br>
+	<div class=ssTitle>1987 Silver Pack Promo Chrome Gold Refractor (#/50):</div> MSA<br>
+	<div class=ssTitle>1987 Silver Pack Promo Chrome Green Refractor (#/175):</div> MSA</p>
 
         <br>
 
@@ -78,6 +108,18 @@
 	<div class=ssTitle>Orange (#/50):</div> 17, 81<br>
 	<div class=ssTitle>Purple (#/150):</div> 17, 81<br>
 	<div class=ssTitle>Red (#/75):</div> 17, 60, 81</p>
+
+	<br>
+
+	<p><div class=title>2017 Topps Now</div><br>
+	<i>Checklist updated thru 6/17</i><br>
+	<i>Due to the day by day release nature of this set, I'm listing each card I need on a new line for clarity. I need the following cards-</i><br>
+	<div class=ssTitle>49</div> Ervin Santana complete game 1-hit shutout (PR 217)<br>
+	<div class=ssTitle>113</div> Joe Mauer 1st career walkoff home run (PR 290)<br>
+	<div class=ssTitle>160</div> Jose Berrios 10 strikeout game (PR 293)<br>
+	<div class=ssTitle>174</div> Ervin Santana complete game 2-hit shutout (PR 163)<br>
+	<div class=ssTitle>206</div> Miguel Sano, Brian Dozier, Joe Mauer turn triple play (PR 342)<br>
+	<div class=ssTitle>223</div> Ervin Santana "Maddux" win (PR 212)</p>
 
         <hr>
 
@@ -153,6 +195,24 @@
         <div class=ssTitle>Out of the Gate Orange Refractors (#/25):</div> 8<br>
         <div class=ssTitle>Vending Box Chrome Base:</div> 52, 53, 140, 147</p>
 
+	<br>
+
+	<p><div class=title>2016 Bowman Draft</div><br>
+	<div class=ssTitle>Base (BD):</div> 90, 101, 122, 134<br>
+	<div class=ssTitle>Blue (BD, #/150):</div> 90, 101, 122, 134<br>
+	<div class=ssTitle>Green (BD, #/99):</div> 90, 101, 122, 134<br>
+	<div class=ssTitle>Gold (BD, #/50):</div> 90, 101, 122, 134<br>
+	<div class=ssTitle>Orange (BD, #/25):</div> 90, 101, 122, 134<br>
+	<div class=ssTitle>Silver (BD, #/499):</div> 90, 101, 122, 134<br>
+	<div class=ssTitle>Chrome (BDC):</div> 90, 101, 122, 134<br>
+	<div class=ssTitle>Chrome Refractor (BDC):</div> 90, 101, 122, 134<br>
+	<div class=ssTitle>Chrome Blue Refractor (BDC, #/150):</div> 90, 101, 122, 134<br>
+	<div class=ssTitle>Chrome Green Refractor (BDC, #/99):</div> 90, 101, 122, 134<br>
+	<div class=ssTitle>Chrome Gold Refractor (BDC, #/50):</div> 90, 101, 122, 134<br>
+	<div class=ssTitle>Chrome Orange Refractor (BDC, #/25):</div> 90, 101, 122, 134<br>
+	<div class=ssTitle>Chrome Purple Refractor (BDC, #/250):</div> 90, 101, 122, 134<br>
+	<div class=ssTitle>Chrome Sky Blue Refractor (BDC):</div> 90, 101, 122, 134</p>
+
         <br>
 
         <p><div class=title>2016 Bowman Platinum</div><br>
@@ -174,6 +234,30 @@
         <div class=ssTitle>Next Generation Prospects Green (#/99):</div> 17<br>
         <div class=ssTitle>Next Generation Prospects Orange (#/25:</div> 17<br>
         <div class=ssTitle>Next Generation Prospects Purple (#/250):</div> 17</p>
+
+	<br>
+
+	<div class=title>2016 Bowman's Best</div><br>
+	<div class=ssTitle>Base:</div> 15, 36<br>
+	<div class=ssTitle>Refractor:</div> 15, 36<br>
+	<div class=ssTitle>Atomic Refractor:</div> 15, 36<br>
+	<div class=ssTitle>Blue Refactor (#/250):</div> 15, 36<br>
+	<div class=ssTitle>Green Refractor (#/99):</div> 15, 36<br>
+	<div class=ssTitle>Gold Refractor (#/50):</div> 15, 36<br>
+	<div class=ssTitle>Orange Refractor (#/35):</div> 15, 36<br>
+	<div class=ssTitle>Top Prospects (TP):</div> 27<br>
+	<div class=ssTitle>Top Prospects Refractor (TP):</div> 27<br>
+	<div class=ssTitle>Top Prospects Atomic Refractor (TP):</div> 27<br>
+	<div class=ssTitle>Top Prospects Blue Refractor (TP, #/250):</div> 27<br>
+	<div class=ssTitle>Top Prospects Green Refractor (TP, #/99):</div> 27<br>
+	<div class=ssTitle>Top Prospects Gold Refractor (TP, #/50):</div> 27<br>
+	<div class=ssTitle>Top Prospects Orange Refractor (TP, #/35):</div> 27<br>
+	<div class=ssTitle>1996 Bowman's Best:</div> JB<br>
+	<div class=ssTitle>1996 Bowman's Best Atomic Refractor:</div> JB<br>
+	<div class=ssTitle>1996 Bowman's Best Orange Refractor (#/35):</div> JB<br>
+	<div class=ssTitle>Mirror Image:</div> 10<br>
+	<div class=ssTitle>Mirror Image Atomic Refractor:</div> 10<br>
+	<div class=ssTitle>Mirror Image Orange Refractor (#/35):</div> 10</p>
 
         <br>
 
@@ -378,6 +462,15 @@
 	<p><div class=title>2016 Topps Chrome Sapphire</div><br>
 	<div class=ssTitle>Blue Sapphire:</div> 76, 78, 129, 161, 181, 208, 235, 262, 286, 308, 360, 528, 534, 546, 560, 561, 576, 591, 624, 645</p>
 
+	<br>
+
+	<div class=title>2016 Topps Chrome Update</div><br>
+	<div class=ssTitle>Base (HMT):</div> 4, 15, 37<br>
+	<div class=ssTitle>Refractor (#/250):</div> 4, 15, 37<br>
+	<div class=ssTitle>Gold Refractor (#/50):</div> 4, 15, 37<br>
+	<div class=ssTitle>Xfractor (#/99):</div> 4, 15, 37<br>
+	<div class=ssTitle>3,000 Hits Club:</div> 6</p>
+
         <br>
 
         <p><div class=title>2016 Topps Finest</div><br>
@@ -393,6 +486,19 @@
         <div class=ssTitle>Finest Firsts Orange Refractor (#/25):</div> MS<br>
         <div class=ssTitle>Franchise Finest:</div> BD<br>
         <div class=ssTitle>Franchise Finest Orange Refractor (#/25):</div> BD</p>
+
+	<br>
+
+	<div class=title>2016 Topps Gold Label</div><br>
+	<div class=ssTitle>Class 1:</div> 43, 55, 63<br>
+	<div class=ssTitle>Class 1 Blue:</div> 43, 55, 63<br>
+	<div class=ssTitle>Class 1 Red (#/100):</div> 43, 55, 63<br>
+	<div class=ssTitle>Class 2:</div> 43, 55, 63<br>
+	<div class=ssTitle>Class 2 Blue:</div> 43, 55, 63<br>
+	<div class=ssTitle>Class 2 Red (#/50):</div> 43, 55, 63<br>
+	<div class=ssTitle>Class 3:</div> 43, 55, 63<br>
+	<div class=ssTitle>Class 3 Blue:</div> 43, 55, 63<br>
+	<div class=ssTitle>Class 3 Red (#/25):</div> 43, 55, 63</p>
 
         <br>
 
@@ -451,6 +557,12 @@
 	<div class=ssTitle>Red Orbit Diffractor:</div> BHP, ER, JBE, MK, MS<br>
 	<div class=ssTitle>Tidal Diffractor:</div> BHP, ER, JBE, MK, MS<br>
 	<div class=ssTitle>Bright Horizons (#/50):</div> BP, MS</p>
+
+	<br>
+
+	<p><div class=title>2016 Topps Holiday</div><br>
+	<div class=ssTitle>Base (HMW):</div> 2, 22, 40, 107, 154<br>
+	<div class=ssTitle>Metallic Snowflake:</div> 2, 22, 40, 107, 15	</p>
 
 	<br>
 
@@ -517,6 +629,11 @@
         <div class=ssTitle>Triumvirates Luminous:</div> 6a (Sano)<br>
         <div class=ssTitle>Triumvirates Luminescent:</div> 6a (Sano)<br>
         <div class=ssTitle>Triumvirates Illuminator:</div> 6a (Sano)</p>
+
+	<br>
+
+	<div class=title>2016 Topps Throwback Thursday</div><br>
+	<div class=ssTitle>Base:</div> 91 (PR 644), 103 (PR 374)</p>
 
         <br>
 
@@ -644,7 +761,7 @@
 	<div class=ssTitle>Chrome Green Refractor (#/99):</div> 48, 128, 136, 148, 198<br>
 	<div class=ssTitle>Chrome Purple Refractor (#/250):</div> 48, 128, 136, 198<br>
 	<div class=ssTitle>Chrome Orange Refractor (#/25):</div> 48, 128, 136, 148, 198<br>
-	<div class=ssTitle>Chrome Sky Blue Refractor:</div> 48, 128, 136, 198<br>
+	<div class=ssTitle>Chrome Sky Blue Refractor:</div> 48, 136, 198<br>
 	<div class=ssTitle>Initiation:</div> 5<br>
 	<div class=ssTitle>Initiation Gold (#/25):</div> 5<br>
 	<div class=ssTitle>Teams of Tomorrow Die Cut Gold (#/???):</div> 6<br>

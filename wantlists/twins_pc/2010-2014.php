@@ -546,7 +546,7 @@
 	<div class=ssTitle>Draft Picks (BDPP):</div> 2, 76, 118<br>
 	<div class=ssTitle>Draft Picks Refractors (BDPP):</div> 2, 49, 58, 76, 85, 111, 118<br>
 	<div class=ssTitle>Draft Picks Black Refractors (BDPP #/35):</div> 2, 49, 58, 76, 85, 96, 100, 111, 118<br>
-	<div class=ssTitle>Draft Picks Black Wave Refractors (BDPP):</div> 2, 58, 76, 85, 96, 100, 111, 118<br>
+	<div class=ssTitle>Draft Picks Black Wave Refractors (BDPP):</div> 2, 76, 85, 96, 100, 111, 118<br>
 	<div class=ssTitle>Draft Picks Blue Refractors (BDPP #/99):</div> 2, 49, 58, 85, 96, 100, 111, 118<br>
 	<div class=ssTitle>Draft Picks Blue Wave Refractors (BDPP):</div> 2, 49, 76, 85, 96, 100, 111, 118<br>
 	<div class=ssTitle>Draft Picks Gold Refractors (BDPP #/50):</div> 2, 49, 58, 76, 85, 96, 100, 111, 118<br>
@@ -590,7 +590,7 @@
 	<div class=ssTitle>Draft Picks (BDPP):</div> 2, 49, 58, 76, 85, 96, 100, 111, 118<br>
 	<div class=ssTitle>Draft Picks Blue (BDPP, #/500):</div> 2, 49, 58, 76, 85, 96, 100, 111, 118<br>
 	<div class=ssTitle>Draft Picks Orange (BDPP, #/250):</div> 2, 49, 58, 76, 85, 96, 100, 111, 118<br>
-	<div class=ssTitle>Draft Picks Red Ice (BDPP, #/25):</div> 2, 49, 58, 76, 85, 96, 100, 111, 118<br>
+	<div class=ssTitle>Draft Picks Red Ice (BDPP, #/25):</div> 2, 49, 58, 76, 85, 96, 100, 118<br>
 	<div class=ssTitle>Draft Picks Silver Ice (BDPP):</div> 2, 49, 58, 76, 85, 96, 100, 111, 118<br>
 	<div class=ssTitle>Future of the Franchise:</div> BB<br>
 	<div class=ssTitle>Future of the Franchise Blue (#/250):</div> BB<br>
@@ -1581,18 +1581,17 @@
 	<br>
 
 	<p><div class=title>2011 Topps Lineage</div><br>
+	<i>Completed- 3D, Venezuelan</i><br>
 	<div class=ssTitle>Base:</div> 20<br>
 	<div class=ssTitle>1975 Mini:</div> 8, 24, 130, 168, 190<br>
 	<div class=ssTitle>Cloth Stickers:</div> 8, 20, 24, 130, 168, 190<br>
-	<div class=ssTitle>Diamond Anniversary:</div> 8, 20, 24, 130, 168, 190<br>
+	<div class=ssTitle>Diamond Anniversary:</div> 8, 24, 130, 168, 190<br>
 	<div class=ssTitle>Diamond Anniversary Refractor:</div> 20, 24, 168<br>
 	<div class=ssTitle>Platinum Diamond:</div> 8, 20, 24, 130, 168, 190<br>
-	<div class=ssTitle>3D:</div> 5<br>
 	<div class=ssTitle>3D Lineagraph Black Back:</div> 5<br>
 	<div class=ssTitle>Giant Box Loaders:</div> 4<br>
 	<div class=ssTitle>Rookies:</div> 14<br>
-	<div class=ssTitle>Stand-Ups:</div> 18<br>
-	<div class=ssTitle>Venezuelan:</div> 17</p>
+	<div class=ssTitle>Stand-Ups:</div> 18</p>
 
 	<br>
 

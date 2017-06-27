@@ -661,7 +661,7 @@
 	<div class=ssTitle>Refractors:</div> 32, 60, 91, 115, 128, 131, 175, 177, 182, 202, 306, 315, 337, 359, 372, 379, 416<br>
 	<div class=ssTitle>Black Refractors:</div> 32, 60, 91, 115, 128, 131, 175, 177, 182, 202, 306, 315, 337, 359, 372, 379, 416<br>
 	<div class=ssTitle>Gold Refractors:</div> 32, 60, 91, 115, 128, 131, 175, 177, 182, 202, 306, 315, 337, 359, 372, 379, 416<br>
-	<div class=ssTitle>Red X-Fractors (#/63 or 61):</div> 32, 60, 91, 115, 128, 131, 175, 177, 182, 202, 306, 315, 337, 359, 372, 379, 416<br>
+	<div class=ssTitle>Red X-Fractors (#/63 or 61):</div> 32, 60, 91, 115, 128, 131, 177, 182, 202, 306, 315, 337, 359, 372, 379, 416<br>
 	</p>
 
 	<br>
@@ -1757,7 +1757,7 @@
 	<br>
 
 	<p><div class=title>2002 Fleer Box Score</div><br>
-	<div class=ssTitle>Base:</div> 43, 53, 67, 85, 99, 119, 224, 239, 388, 306<br>
+	<div class=ssTitle>Base:</div> 43, 53, 67, 85, 99, 119, 224, 239, 388<br>
 	<div class=ssTitle>First Edition (#/100):</div> 43, 53, 67, 85, 99, 119, 224, 239, 388, 306<br>
 	<div class=ssTitle>Amazing Greats:</div> 10<br>
 	<div class=ssTitle>Classic Miniatures:</div> 99<br>
