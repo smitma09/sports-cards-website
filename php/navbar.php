@@ -93,7 +93,6 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li><a href="/">Home</a></li>
-                    <li><a href="/databaseForms/twins_pcForm.php">Database entry</a></li>
                     <li><a href="/galleries">Galleries</a></li>
 		    <li><a href="/pull-info.php">Have lists</a></li>
 		    <li class="dropdown"><a href="/wantlists">Wantlists</a>

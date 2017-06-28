@@ -14,7 +14,6 @@
 		</ul>
 		<li>Continue adding cards to database</li>
 		<li>Set up galleries page</li>
-		<li>Continue learning/implementing Ajax</li>
 		<li>Clean up full info page</li>
 		<ul>
 			<li>Better display for empty fields- Follow current pattern in readFullData with rc and numbered</li>
@@ -22,11 +21,8 @@
 			<li>Likely applicable to galleries search/sort as well</li>
 		</ul>
 		<li>Undo button for typos after card upload</li>
-		<li>API for deleting records from database- May need CMS for this</li>
-		<li>Admin section for adding cards, deleting cards, etc</li>
 		<li>Main home landing page- Big Target Field image, links to different things?</li>
 		<li>Move hr CSS color rule to somewhere it will style across the site</li>
-		<li>Figure out admin password matching for admin section</li>
 	</ul>
 
 	<h3>Test section</h3>
