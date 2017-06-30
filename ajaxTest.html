@@ -1,8 +1,8 @@
 <html>
 <head>
 	<script>
-	function showPlayer(str) {
-	if (str == "") {
+	function changeParams() {
+/*	if (str == "") {
 		document.getElementById("test").innerHTML = "";
 		return;
 	} else {
@@ -10,24 +10,44 @@
 			xmlhttp = new XMLHttpRequest();
 		} else {
 			xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
-		}
-		xmlhttp.onreadystatechange = function() {
-			if (this.readyState == 4 && this.status == 200) {
-				document.getElementById("test").innerHTML = this.responseText;
-			}
-		};
-		xmlhttp.open("GET", "getPlayer.php?q="+str, true);
-		xmlhttp.send();
+		} */
+	if (window.XMLHttpRequest) {
+		xmlhttp = new XMLHttpRequest();
+	} else {
+		xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
 	}
+	xmlhttp.onreadystatechange = function() {
+		if (this.readyState == 4 && this.status == 200) {
+			document.getElementById("test").innerHTML = this.responseText;
+		}
+	};
+		year = document.getElementById("years_select").value;
+		player = document.getElementById("players_select").value;
+		url = "getPlayer.php?year="+year+"&player="+player;
+/*		if (year != "All") {
+			url = url + "year=" + year;
+		}
+		if (player != "All") {
+			url = url +"&player=" + player;
+		}*/
+		xmlhttp.open("GET", url, true);
+		//xmlhttp.open("GET", "getPlayer.php?year="+year+"&player="+player, true);
+		xmlhttp.send();
 	} /* End function */
 	</script>
 </head>
 <body>
 	<h1>Ajax test</h1>
-	<p>Testing out Ajax for the first time</p>
+	<p>Testing out some Ajax</p>
+	<p>NOTE! Will need to play with both the URL that gets sent to the PHP file (in terms of both ?year=___ and &player=___), as well as the SQL statement in the PHP file (if no player is selected, want to show all players). Currently sending a blank select as "All" to MySQL and dealing with it on that side, but will need to figure out a more elegant solution in the future. Currently works if one or both of the above selects have a value, but I'll need to look for better solutions too</p>
 	<form>
-		<select onchange="showPlayer(this.value)" name="players">
-			<option value=""></option>
+		<select onchange="changeParams()" name="years" id="years_select">
+			<option value="All"></option>
+			<option value="2017">2017</option>
+			<option value="2016">2016</option>
+		</select>
+		<select onchange="changeParams()" name="players" id="players_select">
+			<option value="All"></option>
 			<option value="Brian">Brian Dozier</option>
 			<option value="Joe">Joe Mauer</option>
 			<option value="Miguel">Miguel Sano</option>
