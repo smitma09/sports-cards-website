@@ -606,7 +606,7 @@
         <br>
 
         <p><div class=title>2016 Topps Opening Day</div><br>
-        <i>Completed- Base</i><br>
+	<div class=ssTitle>Base:</div> 52b (sunglasses, blue warmup SP)<br>
         <div class=ssTitle>Blue Foil:</div> 43, 52, 97, 124, 140<br>
         <div class=ssTitle>Purple Foil:</div> 43, 52, 97, 124, 140<br>
         <div class=ssTitle>Alternate Reality (AR):</div> 10<br>
@@ -1064,8 +1064,8 @@
 	<br>
 
 	<p><div class=title>2015 Topps Update</div><br>
-	<i>Completed- Base, Highlight of the Year, Rarities</i><br>
-	<i>Note to self- Check back for more SPs in the checklist later</i><br>
+	<i>Completed- Highlight of the Year, Rarities</i><br>
+	<div class=ssTitle>Base:</div> 25b (sparkle), 141b (Saber stats SP), 341b (sparkle)<br>
 	<div class=ssTitle>Rainbow Foil:</div> 25, 136, 141, 206, 223, 258, 341, 345<br>
 	<div class=ssTitle>Gold (#/2015):</div> 1, 25, 62, 136, 141, 152, 211, 258, 341, 345<br>
 	<div class=ssTitle>Snow Camo (#/99):</div> 1, 25, 62, 136, 141, 152, 206, 211, 223, 258, 341, 345<br>
