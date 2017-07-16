@@ -28,7 +28,7 @@
 	<div class=ssTitle>Silver Ice:</div> 6, 173, 189<br>
 	<div class=ssTitle>Yellow (#/99):</div> 6, 173, 189<br>
 	<div class=ssTitle>Bowman Scout Top 5 Mini Refractors:</div> 1, 2, 3, 4<br>
-	<div class=ssTitle>Bowman Scout Top 5 Mini Blue Refractors (#/250):</div> 1, 2, 4<br>
+	<div class=ssTitle>Bowman Scout Top 5 Mini Blue Refractors (#/250):</div> 1, 4<br>
 	<div class=ssTitle>Bowman Scout Top 5 Mini Gold Refractors (#/25):</div> 1, 2, 3, 4<br>
 	<div class=ssTitle>Bowman Scout Top 5 Mini Orange Refractors (#/50):</div> 1, 2, 3, 4, 5<br>
 	<div class=ssTitle>Bowman Scout Top 5 Mini Purple Refractors (#/99):</div> 1, 3, 4, 5<br>
@@ -124,7 +124,7 @@
 	<div class=ssTitle>Chrome Black Wave Refractors (CDP):</div> 44, 93, 121, 126<br>
 	<div class=ssTitle>Chrome Blue Refractors (CDP, #/399):</div> 44, 93, 121, 126<br>
 	<div class=ssTitle>Chrome Blue Wave Refractors (CDP):</div> 44, 93, 121, 126<br>
-	<div class=ssTitle>Chrome Gold Refractors (CDP, #/50):</div> 44, 93, 121, 126<br>
+	<div class=ssTitle>Chrome Gold Refractors (CDP, #/50):</div> 44, 93, 126<br>
 	<div class=ssTitle>Chrome Green Refractors (CDP, #/150):</div> 44, 93, 121, 126<br>
 	<div class=ssTitle>Chrome Red Wave Refractors (CDP, #/25):</div> 44, 93, 121, 126<br>
 	<div class=ssTitle>Chrome Silver Wave Refractors (CDP, #/25):</div> 44, 93, 121, 126<br>
@@ -573,10 +573,12 @@
 	<div class=ssTitle>Base:</div> 1, 57, 59, 66, 107, 110, 151, 168, 241, 244, 280, 281, 293<br>
 	<div class=ssTitle>Refractors (#/125):</div> 1, 57, 59, 66, 107, 110, 151, 168, 241, 244, 280, 281, 293<br>
 	<div class=ssTitle>Black Refractors (#/25):</div> 1, 57, 59, 66, 107, 110, 151, 168, 241, 244, 280, 281, 293<br>
-	<div class=ssTitle>Blue Refractors (#/99):</div> 1, 57, 59, 66, 107, 110, 151, 168, 241, 280, 281, 293<br>
+	<div class=ssTitle>Blue Refractors (#/99):</div> 1, 57, 59, 107, 110, 151, 168, 241, 280, 281, 293<br>
 	<div class=ssTitle>Gold Refractors (#/50):</div> 1, 57, 59, 66, 107, 110, 151, 168, 241, 244, 280, 281, 293<br>
 	<div class=ssTitle>Green Refractors (#/75):</div> 1, 57, 59, 66, 107, 110, 151, 168, 244, 280, 281, 293<br>
-	<div class=ssTitle>X-Fractors (#/100):</div> 1, 57, 59, 66, 107, 110, 151, 168, 241, 244, 280, 281, 293</p>
+	<div class=ssTitle>Orange Refractors (#/15)- HAVE:</div> 293<br>
+	<div class=ssTitle>Red Refractors (#/10)- HAVE:</div> 151<br>
+	<div class=ssTitle>X-Fractors (#/100):</div> 1, 57, 59, 66, 110, 151, 168, 241, 244, 281</p>
 
 	<br>
 
@@ -1566,9 +1568,9 @@
 	<i>Completed- Baseball Flashbacks, New Age Performers</i><br>
 	<div class=ssTitle>Base:</div> 102, 451, 473, 482, 498<br>
 	<div class=ssTitle>Black:</div> 11, 21, 51, 70, 84, 98, 102, 124, 166, 180, 230, 250, 272, 283, 298, 316, 351, 386, 451, 473, 482, 498<br>
-	<div class=ssTitle>Blue Tint:</div> 11, 21, 51, 70, 84, 98, 102, 124, 166, 180, 230, 250, 272, 283, 298, 316, 351, 386, 451, 473, 482, 498<br>
-	<div class=ssTitle>Green Tint:</div> 11, 21, 51, 70, 84, 98, 102, 124, 166, 180, 230, 250, 272, 283, 298, 316, 351, 386, 451, 473, 482, 498<br>
-	<div class=ssTitle>Red Tint:</div> 11, 21, 51, 70, 84, 98, 102, 124, 166, 180, 230, 250, 272, 283, 298, 316, 351, 386, 451, 473, 482, 498<br>
+	<div class=ssTitle>Blue Tint:</div> 124, 166, 180<br>
+	<div class=ssTitle>Green Tint:</div> 124, 166, 180<br>
+	<div class=ssTitle>Red Tint:</div> 124, 166, 180<br>
 	<div class=ssTitle>Chrome (#/1962):</div> 2, 59, 74, 83, 95<br>
 	<div class=ssTitle>Chrome Refractors (#/562):</div> 2, 59, 74, 83, 95<br>
 	<div class=ssTitle>Chrome Black Refractors (#/62):</div> 2, 59, 67, 74, 83, 95<br>
@@ -1585,9 +1587,8 @@
 	<div class=ssTitle>Base:</div> 20<br>
 	<div class=ssTitle>1975 Mini:</div> 8, 24, 130, 168, 190<br>
 	<div class=ssTitle>Cloth Stickers:</div> 8, 20, 24, 130, 168, 190<br>
-	<div class=ssTitle>Diamond Anniversary:</div> 8, 24, 130, 168, 190<br>
-	<div class=ssTitle>Diamond Anniversary Refractor:</div> 20, 24, 168<br>
-	<div class=ssTitle>Platinum Diamond:</div> 8, 20, 24, 130, 168, 190<br>
+	<div class=ssTitle>Diamond Anniversary:</div> 20, 24, 168<br>
+	<div class=ssTitle>Platinum Diamond:</div> 8, 24, 130, 168, 190<br>
 	<div class=ssTitle>3D Lineagraph Black Back:</div> 5<br>
 	<div class=ssTitle>Giant Box Loaders:</div> 4<br>
 	<div class=ssTitle>Rookies:</div> 14<br>
@@ -1658,17 +1659,18 @@
 	<br>
 
 	<p><div class=title>2010 Bowman</div><br>
-	<i>Complete- Prospects (BP)</i><br>
+	<i>Completed- Prospects Black</i><br>
 	<div class=ssTitle>Base:</div> 8, 16, 116, 137<br>
 	<div class=ssTitle>Blue (#/520):</div> 8, 16, 34, 79, 116, 137, 169, 176<br>
 	<div class=ssTitle>Gold:</div> 8, 16, 34, 79, 116, 130, 137, 169, 176<br>
 	<div class=ssTitle>Orange (#/250):</div> 8, 16, 34, 79, 116, 130, 137, 169, 176<br>
-	<div class=ssTitle>Chrome Prospects (BCP):</div> 76, 159, 183a (no auto), 203a (no auto), 205a (no auto)<br>
-	<div class=ssTitle>Chrome Prospects Refractors (BCP #/777 or 500):</div> 76, 127, 159, 183a (no auto), 202a (no auto), 203a (no auto), 205a (no auto)<br>
-	<div class=ssTitle>Chrome Prospects Blue Refractors (BCP, #/250 or 150):</div> 76, 127, 159, 183a (no auto), 202a (no auto), 203a (no auto), 205a (no auto)<br>
-	<div class=ssTitle>Chrome Prospects Gold Refractors (BCP, #/50):</div> 76, 127, 159, 183a (no auto), 202a (no auto), 203a (no auto), 205a (no auto)<br>
-	<div class=ssTitle>Chrome Prospects Orange Refractors (BCP, #/25):</div> 76, 127, 159, 183a (no auto), 202a (no auto), 203a (no auto), 205a (no auto)<br>
-	<div class=ssTitle>Chrome Prospects Purple Refractors (BCP, #/999 or 899):</div> 76, 127, 159, 183a (no auto), 202a (no auto), 203a (no auto), 205a (no auto)<br>
+	<div class=ssTitle>Chrome Prospects (BCP):</div> 76<br>
+	<div class=ssTitle>Chrome Prospects Refractors (BCP #/777):</div> 76<br>
+	<div class=ssTitle>Chrome Prospects Blue Refractors (BCP, #/250):</div> 76<br>
+	<div class=ssTitle>Chrome Prospects Gold Refractors (BCP, #/50):</div> 76<br>
+	<div class=ssTitle>Chrome Prospects Orange Refractors (BCP, #/25):</div> 76<br>
+	<div class=ssTitle>Chrome Prospects Purple Refractors (BCP, #/999):</div> 76<br>
+	<div class=ssTitle>Prospects (BP):</div> 76<br>
 	<div class=ssTitle>Prospects Blue (BP, #/520):</div> 76<br>
 	<div class=ssTitle>Prospects Orange (BP, #/250):</div> 76<br>
 	<div class=ssTitle>1992 Bowman Throwbacks:</div> 9, 13, 99<br>
@@ -1683,10 +1685,16 @@
 	<div class=ssTitle>Blue Refractors (#/150):</div> 57, 76, 85, 106, 126, 133, 148, 181, 209, 212<br>
 	<div class=ssTitle>Gold Refractors (#/50):</div> 57, 78, 85, 106, 126, 133, 148, 150, 181, 209, 212<br>
 	<div class=ssTitle>Orange Refractors (#/25):</div> 57, 78, 85, 106, 126, 133, 148, 150, 181, 209, 212<br>
-	<div class=ssTitle>Prospects Green X-Fractors (BCP):</div> 127, 159, 183, 202, 205<br>
+	<div class=ssTitle>Prospects (BCP):</div> 159, 183, 203, 205<br>
+	<div class=ssTitle>Prospects Refractors (BCP, #/500):</div> 127, 159, 183, 202, 203, 205<br> 
+	<div class=ssTitle>Prospects Blue Refractors (BCP, #/150):</div> 127, 159, 183, 202, 203, 205<br> 
+	<div class=ssTitle>Prospects Gold Refractors (BCP, #/50):</div> 127, 159, 183, 202, 203, 205<br> 
+	<div class=ssTitle>Prospects Green X-Fractors (BCP):</div> 127, 159, 183, 202, 205<br> 
+	<div class=ssTitle>Prospects Orange Refractors (BCP, #/25):</div> 127, 159, 183, 202, 203, 205<br> 
+	<div class=ssTitle>Prospects Purple Refractor (BCP, #/899):</div> 127, 159, 183, 202, 203, 205<br> 
 	<div class=ssTitle>Topps 100 Prospects (#/999):</div> 59, 76, 94<br>
 	<div class=ssTitle>Topps 100 Prospects Refractors (#/499):</div> 59, 76, 94<br>
-	<div class=ssTitle>Topps 100 Prospects Gold Refractors  (#/50):</div> 59, 76, 94</p>
+	<div class=ssTitle>Topps 100 Prospects Gold Refractors  (#/50):</div> 59, 76, 94</p> 
 
 	<br>
 

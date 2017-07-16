@@ -119,7 +119,7 @@
 	<br>
 
 	<p><div class=title>1968 O-Pee-Chee</div><br>
-	<div class=ssTitle>Base: 4, 6, 10, 12, 28, 44, 64, 80, 91, 111, 137, 165, 181<br>
+	<div class=ssTitle>Base:</div> 4, 6, 10, 12, 28, 44, 64, 80, 91, 111, 137, 165, 181<br>
 	</p>
 
 	<br>
@@ -133,7 +133,7 @@
 	<p><div class=title>1968 Topps</div><br>
 	<div class=ssTitle>Base:</div> 5, 6, 10a (ERR- Lonborg spelled wrong on back), 10b (CORR), 12, 28, 67, 80, 137, 165, 220, 243, 255, 276, 301, 322, 335, 352, 361, 363, 371, 393, 420, 435, 450, 473, 480, 490, 534, 557, 589<br>
 	<div class=ssTitle>Action Stickers:</div> 2b (Killebrew), 4a (Robin-Lefebvre-Chance), 7c (Carew-Gonzalez-Williams), 9a (Killebrew-Fregosi-Wilson), 11a (Oliva-Veale-Freehan), 13a (Robinson-Fefebvre-Chance), 14b (Killebrew)<br>
-	<div class=ssTitle>Game:</div> 5, 16, 21, 29<br>
+	<div class=ssTitle>Game:</div> 5, 16, 21<br>
 	<div class=ssTitle>Giant Stand Ups:</div> 6, 12<br>
 	<div class=ssTitle>Milton Bradley:</div> 44, 64, 80, 165<br>
 	<div class=ssTitle>Plaks:</div> 2, 7<br>
@@ -150,7 +150,7 @@
         <br>
 
 
-ass=title>1967 Ashland Oil</div><br>
+	<p><div class=title>1967 Ashland Oil</div><br>
 	<div class=ssTitle>Base:</div> 4 (Killebrew)<br>
 	</p>
 
