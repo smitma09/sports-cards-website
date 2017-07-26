@@ -1783,10 +1783,10 @@
 	<br>
 
 	<p><div class=title>2010 Topps</div><br>
-	<i>Completed- 20-20, Attax Code Cards, Legendary Lineage, Peak Performances, Ticket to Toppstown, Ticket to Toppstown Gold</i><br>
+	<i>Completed- 2020, Attax Code Cards, Legendary Lineage, Peak Performances, Ticket to Toppstown, Ticket to Toppstown Gold</i><br>
 	<div class=ssTitle>Base:</div> 11, 101, 413<br>
 	<div class=ssTitle>Black:</div> 8, 11, 22, 93, 101, 102, 150, 161, 172, 273, 313, 360, 407, 413, 434, 464, 468, 469, 471, 519, 537, 548, 626, 635, 659<br>
-	<div class=ssTitle>Copper:</div> 8, 11, 22, 93, 101, 102, 150, 161, 172, 273, 313, 360, 407, 413, 434, 464, 468, 469, 471, 519, 537, 548, 626, 635, 659<br>
+	<div class=ssTitle>Copper:</div> 360, 407, 413, 434, 464, 468, 469, 471, 519, 537, 548, 626, 635, 659<br>
 	<div class=ssTitle>Gold:</div> 8, 11, 22, 93, 101, 102, 150, 161, 172, 273, 313, 360, 407, 413, 434, 468, 469, 471, 519, 537, 548, 635<br>
 	<div class=ssTitle>Red Border:</div> 8, 11, 22, 93, 101, 102, 150, 161, 172, 273, 313, 360, 407, 413, 434, 464, 468, 469, 471, 519, 537, 548, 626, 635, 659<br>
 	<div class=ssTitle>Target:</div> 8, 11, 22, 93, 101, 102, 150, 161, 172, 273, 313, 360, 407, 413, 434, 464, 468, 469, 471, 519, 537, 548, 626, 635, 659<br>
@@ -1855,8 +1855,8 @@
 	<br>
 
 	<p><div class=title>2010 Topps Heritage</div><br>
-	Complete- New Age Performers<br>
-	<div class=ssTitle>Base:</div> 2b (Dice back), 2c (Black team/name plate), 4, 42, 186, 226, 328, 456, 493<br>
+	<i>Complete- New Age Performers</i><br>
+	<div class=ssTitle>Base:</div> 2b (Mauer dice back), 2c (Mauer black team/name box), 4, 42, 186, 226, 328, 456, 493<br>
 	<div class=ssTitle>Chrome:</div> 2, 53, 107<br>
 	<div class=ssTitle>Chrome Refractors:</div> 2, 53, 107, 142, 145<br>
 	<div class=ssTitle>Chrome Black Refractors:</div> 2, 53, 107, 142, 145<br>

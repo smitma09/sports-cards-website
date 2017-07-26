@@ -22,49 +22,56 @@
 <?php
 	include("/var/www/admin.php");
 	$year = $_GET['year'];
-	$player = $_GET['player'];
+	$playerFirst = $_GET['playerFirst'];
 
 	$conn = mysqli_connect($dbServername, $publicdbUsername, $publicdbPass, $dbName);
 	if (!$conn) {
 	    die('Could not connect: ' . mysqli_error($conn));
 	}
 
-	echo "<p>Year: " . $year . " </p>";
-	echo "<p>Player: " . $player . " </p>";
+/*	echo "<p>Year: " . $year . " </p>";
+	echo "<p>Player first: " . $playerFirst . " </p>";
+*/
 
 	$sql = 'select * from twins_pc';
-
+	
+/**/
 	$clauses = 0;
 	if ($year != "All") {
-		$clauses = $clauses + 1;
-	}
-	if ($player != "All") {
-		$clauses = $clauses + 1;
-	}
-
-	if ($clauses > 1) {
-		//Both year and player is set
-		$sql = $sql . ' where year = "' . $year . '" and playerFirst = "' . $player . '"';
-	} else {
-		//Only year or player is set
-		if ($year != "All") {
-			//Year is set but not player
-			$sql = $sql . ' where year = "' . $year . '"';
+		if ($clauses == 0) {
+			$sql = $sql . ' where year = "' . $year . '" and';
+			$clauses = $clauses + 1;
 		} else {
-			//Player is set but not year
-			$sql = $sql . ' where playerFirst = "' . $player . '"';
+		$sql = $sql . ' year = "' . $year . '" and';
 		}
 	}
+	if ($playerFirst != "All") {
+		if ($clauses == 0) {
+			$sql = $sql . ' where playerFirst = "' . $playerFirst . '" and';
+			$clauses = $clauses + 1;
+		} else {
+			$sql = $sql . ' playerFirst = "' . $playerFirst . '" and';
+		}
+	}/* */
 
-	// (old query) $sql = 'select * from twins_pc where playerFirst = "'. $player . '" and year = "' . $year . '"';
+	
+// Under this method, need to chop of the last ' and' from the sql statement
+	$sql = substr($sql, 0, -4);
+	$sql = $sql . ' order by year desc, cardset asc, subset asc, cardNum';
+
 	$result = mysqli_query($conn, $sql);
-	echo "<table><tr><td><b>Card</b></td></tr>";
-	while ($row = mysqli_fetch_array($result)) {
+	$num_cards = mysqli_num_rows($result);
+	if ($num_cards == 0) {
+		echo "<p>No cards matched your query</p>";
+	} else {
+		echo "<table><tr><td><b>Card</b></td></tr>";
+		while ($row = mysqli_fetch_array($result)) {
 //		$pic = $row['pathToPic'];
 //		$wwwImg = substr($pic, 13);
-		echo "<tr><td>" . $row['fullCardInfo'] . "</td></tr>";// . "<div><img src=" . $wwwImg . "></div></td></tr>";
+			echo "<tr><td>" . $row['fullCardInfo'] . "</td></tr>";//<div><img src=" . $wwwImg . "></div></td></tr>";
+		}
+		echo "</table>";
 	}
-	echo "</table>";
 	mysqli_close($conn);
 ?>
 </body>
