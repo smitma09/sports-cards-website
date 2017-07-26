@@ -16,6 +16,15 @@
 	        border: 10px solid black;
 	        height: 350px;
 	}
+	#aCard .text {
+		position: absolute;
+		visibility: hidden;
+	}
+	#aCard:hover .text {
+		visibility: visible;
+		background-color: white;
+		border: 2px solid black;
+	}
 	</style>
 </head>
 <body>
@@ -23,6 +32,7 @@
 	include("/var/www/admin.php");
 	$year = $_GET['year'];
 	$playerFirst = $_GET['playerFirst'];
+	$playerLast = $_GET['playerLast'];
 
 	$conn = mysqli_connect($dbServername, $publicdbUsername, $publicdbPass, $dbName);
 	if (!$conn) {
@@ -53,6 +63,14 @@
 			$sql = $sql . ' playerFirst = "' . $playerFirst . '" and';
 		}
 	}/* */
+	if ($playerLast != "All") {
+		if ($clauses == 0) {
+			$sql = $sql . ' where playerLast = "' . $playerLast . '" and';
+			$clauses = $clauses + 1;
+		} else {
+			$sql = $sql . ' playerLast = "' . $playerLast . '" and';
+		}
+	}
 
 	
 // Under this method, need to chop of the last ' and' from the sql statement
@@ -64,13 +82,18 @@
 	if ($num_cards == 0) {
 		echo "<p>No cards matched your query</p>";
 	} else {
-		echo "<table><tr><td><b>Card</b></td></tr>";
+		echo "<p>" . $num_cards . " cards matched your query</p>"; 
+//		echo "<table><tr><td><b>Card</b></td></tr>";
+		echo "<div>";
 		while ($row = mysqli_fetch_array($result)) {
-//		$pic = $row['pathToPic'];
-//		$wwwImg = substr($pic, 13);
-			echo "<tr><td>" . $row['fullCardInfo'] . "</td></tr>";//<div><img src=" . $wwwImg . "></div></td></tr>";
+		$pic = $row['pathToPic'];
+		$wwwImg = substr($pic, 13);
+		//	echo "<tr><td>" . $row['fullCardInfo'] . "</td></tr>";//<div><img src=" . $wwwImg . "></div></td></tr>";
+			echo "<span id=aCard><img src=" . $wwwImg . " height ='250px'>";
+			echo "<span class=text>" . $row['fullCardInfo'] . "</span></span>";
 		}
-		echo "</table>";
+		echo "</div>";
+//		echo "</table>";
 	}
 	mysqli_close($conn);
 ?>
