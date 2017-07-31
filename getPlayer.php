@@ -33,19 +33,21 @@
 	$year = $_GET['year'];
 	$playerFirst = $_GET['playerFirst'];
 	$playerLast = $_GET['playerLast'];
+	$cardSet = $_GET['cardSet'];
+	$subset = $_GET['subset'];
+	$search = $_GET['search'];
+//	$auto = $_GET['auto'];
+
+//	echo "<h3>" . $auto . "</h3>";
 
 	$conn = mysqli_connect($dbServername, $publicdbUsername, $publicdbPass, $dbName);
 	if (!$conn) {
 	    die('Could not connect: ' . mysqli_error($conn));
 	}
 
-/*	echo "<p>Year: " . $year . " </p>";
-	echo "<p>Player first: " . $playerFirst . " </p>";
-*/
-
 	$sql = 'select * from twins_pc';
 	
-/**/
+	/* ---------- Creating SQL statement ---------- */
 	$clauses = 0;
 	if ($year != "All") {
 		if ($clauses == 0) {
@@ -55,45 +57,66 @@
 		$sql = $sql . ' year = "' . $year . '" and';
 		}
 	}
+	if ($cardSet != "All") {
+		if ($clauses == 0) {
+			$sql = $sql . ' where cardSet = "' . $cardSet . '" and';
+			$clauses = $clauses + 1;
+		} else {
+			$sql = $sql . ' cardSet = "' . $cardSet . '" and';
+		}
+	}
+	if ($subset != "All") {
+		if ($clauses == 0) {
+			$sql = $sql . ' where subset = "' . $subset . '" and';
+			$clauses = $clauses + 1;
+		} else {
+			$sql = $sql . ' subset = "' . $subset . '" and';
+		}
+	}
 	if ($playerFirst != "All") {
 		if ($clauses == 0) {
-			$sql = $sql . ' where playerFirst = "' . $playerFirst . '" and';
+			$sql = $sql . " where (playerFirst = '" . $playerFirst . "' or allPlayers like '%" . $playerFirst . " %') and";
 			$clauses = $clauses + 1;
 		} else {
-			$sql = $sql . ' playerFirst = "' . $playerFirst . '" and';
+			$sql = $sql . " (playerFirst = '" . $playerFirst . "' or allPlayers like '%" . $playerFirst . " %') and";
 		}
-	}/* */
+	}
 	if ($playerLast != "All") {
 		if ($clauses == 0) {
-			$sql = $sql . ' where playerLast = "' . $playerLast . '" and';
+			$sql = $sql . " where (playerLast = '" . $playerLast . "' or allPlayers like '% " . $playerLast . "%') and";
 			$clauses = $clauses + 1;
 		} else {
-			$sql = $sql . ' playerLast = "' . $playerLast . '" and';
+			$sql = $sql . " (playerLast = '" . $playerLast . "' or allPlayers like '% " . $playerLast . "%') and";
+		}
+	} if ($search != "") {
+		if ($clauses == 0) {
+			$sql = $sql . ' where fullCardInfo like "%' . $search . '%" and';
+			$clauses = $clauses + 1;
+		} else {
+			$sql = $sql . ' fullCardInfo like "%' . $search . '%" and';
 		}
 	}
 
 	
-// Under this method, need to chop of the last ' and' from the sql statement
+
+	// Need to chop of the last ' and' from the sql statement
 	$sql = substr($sql, 0, -4);
 	$sql = $sql . ' order by year desc, cardset asc, subset asc, cardNum';
 
 	$result = mysqli_query($conn, $sql);
 	$num_cards = mysqli_num_rows($result);
 	if ($num_cards == 0) {
-		echo "<p>No cards matched your query</p>";
+		echo "<h3>No cards matched your query</h3><p>Try another search to get some results!</p>";
 	} else {
 		echo "<p>" . $num_cards . " cards matched your query</p>"; 
-//		echo "<table><tr><td><b>Card</b></td></tr>";
 		echo "<div>";
 		while ($row = mysqli_fetch_array($result)) {
 		$pic = $row['pathToPic'];
 		$wwwImg = substr($pic, 13);
-		//	echo "<tr><td>" . $row['fullCardInfo'] . "</td></tr>";//<div><img src=" . $wwwImg . "></div></td></tr>";
 			echo "<span id=aCard><img src=" . $wwwImg . " height ='250px'>";
 			echo "<span class=text>" . $row['fullCardInfo'] . "</span></span>";
 		}
 		echo "</div>";
-//		echo "</table>";
 	}
 	mysqli_close($conn);
 ?>

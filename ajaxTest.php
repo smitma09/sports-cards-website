@@ -1,16 +1,11 @@
+<?php
+	include_once("./php/navbar.php");
+?>
+
 <html>
 <head>
 	<script>
 	function changeParams() {
-/*	if (str == "") {
-		document.getElementById("test").innerHTML = "";
-		return;
-	} else {
-		if (window.XMLHttpRequest) {
-			xmlhttp = new XMLHttpRequest();
-		} else {
-			xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
-		} */
 	if (window.XMLHttpRequest) {
 		xmlhttp = new XMLHttpRequest();
 	} else {
@@ -24,27 +19,25 @@
 		year = document.getElementById("years_select").value;
 		playerFirst = document.getElementById("players_select_first").value;
 		playerLast = document.getElementById("players_select_last").value;
-		url = "getPlayer.php?year="+year+"&playerFirst="+playerFirst+"&playerLast="+playerLast;
-/*		if (year != "All") {
-			url = url + "year=" + year;
-		}
-		if (player != "All") {
-			url = url +"&player=" + player;
-		}*/
+		set = document.getElementById("set_select").value;
+		subset = document.getElementById("subset_select").value;
+		search = document.getElementById("search").value;
+	//	auto = document.getElementById("auto").checked;
+
+		url = "getPlayer.php?year="+year+"&playerFirst="+playerFirst+"&playerLast="+playerLast+"&cardSet="+set+"&subset="+subset+"&search="+search;//+"&auto="+auto;
 		xmlhttp.open("GET", url, true);
-		//xmlhttp.open("GET", "getPlayer.php?year="+year+"&player="+player, true);
 		xmlhttp.send();
 	} /* End function */
 	</script>
 </head>
 <body>
-	<h1>Ajax test</h1>
-	<p>Testing out some Ajax</p>
-	<p>NOTE! Will need to play with both the URL that gets sent to the PHP file (in terms of both ?year=___ and &player=___), as well as the SQL statement in the PHP file (if no player is selected, want to show all players). Currently sending a blank select as "All" to MySQL and dealing with it on that side, but will need to figure out a more elegant solution in the future. Currently works if one or both of the above selects have a value, but I'll need to look for better solutions too</p>
-	<form>
+	<h1>Temporary Gallery</h1>
+	<p>Working on a gallery page to show off the cards in my Twins PC. Use the below dropdown menus to filter cards</p>
+	<form>Card details:
+		<!-- -------------------- Year -------------------- -->
 		<select onchange="changeParams()" name="years" id="years_select">
-			<option value="All"></option>
-<?php
+			<option value="All">Year</option>
+	<?php
 		include("/var/www/admin.php");
                 $conn = mysqli_connect($dbServername, $publicdbUsername, $publicdbPass, $dbName);
                 if (!$conn) {
@@ -53,15 +46,58 @@
                 $sql = "select year from twins_pc group by year order by year desc";
                 $result = mysqli_query($conn, $sql);
                 while ($row = mysqli_fetch_array($result)) {
-                                echo "<option value=" . $row['year'] . ">" . $row['year'] . "</option>";
+			echo "<option value=" . $row['year'] . ">" . $row['year'] . "</option>";
                 }
                 mysqli_close($conn);
         ?>
-<!--			<option value="2017">2017</option>
-			<option value="2016">2016</option> -->
 		</select>
+		<!-- -------------------- Set -------------------- -->
+		<select onchange="changeParams()" name="set" id="set_select">
+			<option value="All">Set</option>
+	<?php
+		include("/var/www/admin.php");
+                $conn = mysqli_connect($dbServername, $publicdbUsername, $publicdbPass, $dbName);
+                if (!$conn) {
+                    die('Could not connect: ' . mysqli_error($conn));
+                }
+                $sql = "select cardSet from twins_pc group by cardSet order by cardSet";
+                $result = mysqli_query($conn, $sql);
+                while ($row = mysqli_fetch_array($result)) {
+			if ($row['cardSet'] == "Topps Allen & Ginter") {
+				echo "<option value='Topps Allen %26 Ginter'>Topps Allen & Ginter</option>";
+			} else {
+				echo '<option value="' . $row['cardSet'] . '">' . $row['cardSet'] . '</option>';
+			}
+                }
+                mysqli_close($conn);
+        ?>
+		</select>
+		<!-- -------------------- Subset -------------------- -->
+		<select onchange="changeParams()" name="subset" id="subset_select">
+			<option value="All">Subset</option>
+	<?php
+		include("/var/www/admin.php");
+                $conn = mysqli_connect($dbServername, $publicdbUsername, $publicdbPass, $dbName);
+                if (!$conn) {
+                    die('Could not connect: ' . mysqli_error($conn));
+                }
+                $sql = "select subset from twins_pc group by subset order by subset";
+                $result = mysqli_query($conn, $sql);
+                while ($row = mysqli_fetch_array($result)) {
+			if ($row['subset'] != "") {
+				if ($row['subset'] == "Minis A&G Back") {
+					echo '<option value="Minis A%26G Back">Minis A&G Back</option>';
+				} else {
+					echo '<option value="' . $row['subset'] . '">' . $row['subset'] . '</option>';
+				}
+			}
+                }
+                mysqli_close($conn);
+        ?>
+		</select>
+		<!-- -------------------- First name -------------------- -->
 		<select onchange="changeParams()" name="playersFirst" id="players_select_first">
-			<option value="All"></option>
+			<option value="All">First name</option>
 	<?php			
 	        include("/var/www/admin.php");
 	        $conn = mysqli_connect($dbServername, $publicdbUsername, $publicdbPass, $dbName);
@@ -77,13 +113,10 @@
        		}
         	mysqli_close($conn);
 	?>
-<!--			<option value="All"></option>
-			<option value="Brian">Brian Dozier</option>
-			<option value="Joe">Joe Mauer</option>
-			<option value="Miguel">Miguel Sano</option> -->
 		</select>
-		<select onchange="changeParams()" name="playersLast" id="players_select_last"> <!-- Last name -->
-			<option value="All"></option>
+		<!-- -------------------- Last name -------------------- -->
+		<select onchange="changeParams()" name="playersLast" id="players_select_last">
+			<option value="All">Last name</option>
         <?php
                 include("/var/www/admin.php");
                 $conn = mysqli_connect($dbServername, $publicdbUsername, $publicdbPass, $dbName);
@@ -99,42 +132,34 @@
                 }
 	        mysqli_close($conn);
         ?>
-		<select onchange="changeParams()" name="playersLast" id="players_select_last">
+		</select>
+		<!-- -------------------- Searchbar -------------------- -->
+		<input type="text" onkeyup="changeParams()" name="search" id="search" placeholder="Search"></input>
 
+		<br>
+
+		<!-- -------------------- Autographed -------------------- -->
+<!--
+		<input type="checkbox" onclick="changeParams()" name="auto" id="auto"> Autographed
+		<input type="checkbox" onclick="changeParams()" name="relic" id = "relic"> Relic -->
+
+
+<!--
+Potentially adding sections for serial first/last, as well as grading details (first/last as input, grader as dropdown, card/auto grade as dropdown), authentic as checkbox
+		Relic: <input type="checkbox" onchange="changeParams()" name="relic" id="relic" value="True">
+		Manu. relic: <input type="checkbox" onchange="changeParams()" name="manuRelic" id="manuRelic" value="True">
+		RC: <input type="checkbox" onchange="changeParams()" name="rc" id="rc" value="True">
+		Numbered: <input type="checkbox" onchange="changeParams()" name="numbered" id="numbered" value="True">
+		1/1: <input type="checkbox" onchange="changeParams()" name="oneofone" id="oneofone" value="True">
+		HOF: <input type="checkbox" onchange="changeParams()" name="hof" id="hof" value="True">
+		SP/VAR: <input type="checkbox" onchange="changeParams()" name="spVar" id="spVar" value="True">
+		Graded/Slabbed: <input type="checkbox" onchange="changeParams()" name="graded" id="graded" value="True">
+-->
 
 
 	</form>
 	<div id="test"></div>
 
-
-	<p><b>Things below this point are just setting up selects, etc that I'll need to add in above later for filters</b></p>
-	<form>
-		<select>
-			<option>Years</option>
-		</select>
-		<select>
-			<option>Set</option>
-		</select>
-		<select>
-			<option>Subset</option>
-		</select>
-		<select>
-			<option>Player first</option>
-		</select>
-		<select>
-			<option>Player last</option>
-		</select>
-		<br>
-		<input type="checkbox">Autograph<br>
-		<input type="checkbox">Relic<br>
-		<input type="checkbox">Patch<br>
-		<input type="checkbox">Manufactured relic<br>
-		<input type="checkbox">Rookie card<br>
-		<input type="checkbox">Numbered (add serial first/last?)<br>
-		<input type="checkbox">1/1<br>
-		<input type="checkbox">HOF<br>
-		<input type="checkbox">SP/VAR<br>
-		<input type="checkbox">Graded/slabbed (add qualifiers?)
 	</form>
 </body>
 </html>

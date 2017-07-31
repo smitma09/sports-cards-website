@@ -7,21 +7,6 @@
 <html>
 <head>
 	<link href="/css/twinsPCwantlists.css" rel="stylesheet">
-	<style>
-	.rotate {
-/*		position: block;
-		-webkit-transform: rotate(90deg);
-		-moz-transform: rotate(90deg);
-		-o-transform: rotate(90deg);
-		-ms-transform: rotate(90deg);
-		transform: rotate(90deg);
-		-webkit-transform-origin: ;
-		-moz-transform-origin: ;
-		-ms-transform-origin: ;
-		-o-transform-origin: ;
-		transform-origin: ;
-*/	}
-	</style>
 </head>
 <body>
 	<h1> Twins PC wants- 2010s</h1>
@@ -127,6 +112,20 @@
 	<div class=ssTitle>1987 Silver Pack Promo Chrome Orange Refractor (#/99):</div> MSA<br>
 	<div class=ssTitle>1987 Silver Pack Promo Chrome Gold Refractor (#/50):</div> MSA<br>
 	<div class=ssTitle>1987 Silver Pack Promo Chrome Green Refractor (#/175):</div> MSA</p>
+
+	<br>
+
+	<p><div class=title>2017 Topps Allen & Ginter</div><br>
+	<div class=ssTitle>Base:</div> 33, 77, 79, 277, 300, 318, 334<br>
+	<div class=ssTitle>Foil:</div> 33, 77, 79, 277, 300, 318, 334<br>
+	<div class=ssTitle>Mini:</div> 33, 77, 79, 277, 300, 318, 334<br>
+	<div class=ssTitle>Mini A&G Back:</div> 33, 77, 79, 277, 300, 318, 334<br>
+	<div class=ssTitle>Mini Black:</div> 33, 77, 79, 277, 300, 318, 334<br>
+	<div class=ssTitle>Mini Brooklyn Back (#/25):</div> 33, 77, 79, 277, 300, 318, 334<br>
+	<div class=ssTitle>Mini Gold:</div> 33, 77, 79, 277, 300, 318, 334<br>
+	<div class=ssTitle>Mini No Number:</div> 33, 77, 79, 277, 300, 318, 334<br>
+	<div class=ssTitle>What a Day:</div> 95</p>
+
 
 	<br>
 
@@ -538,7 +537,7 @@
         <div class=ssTitle>Black Refractors:</div> 13, 83, 104<br>
         <div class=ssTitle>Blue Refractors (#/150):</div> 13, 82, 138<br>
         <div class=ssTitle>Blue Wave Refractors (#/75):</div> 82, 83, 99, 104, 138<br>
-        <div class=ssTitle>Green Refractors (#/99):</div> 13, 82, 83, 99, 104, 138, 183<br>
+        <div class=ssTitle>Green Refractors (#/99):</div> 13, 82, 83, 104, 138, 183<br>
         <div class=ssTitle>Gold Refractors (#/50):</div> 13, 82, 99, 104, 138, 183<br>
         <div class=ssTitle>Orange Refractors (#/25):</div> 82, 83, 99, 104, 138, 183<br>
         <div class=ssTitle>Pink Refractors:</div> 99<br>

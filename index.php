@@ -23,6 +23,11 @@
 		<li>Undo button for typos after card upload</li>
 		<li>Main home landing page- Big Target Field image, links to different things?</li>
 		<li>Move hr CSS color rule to somewhere it will style across the site</li>
+		<li>Continue adding to ajaxTest and getPlayers</li>
+		<ul>
+			<li>Keep adding fields that can be filtered by- Think card number and then attributes are up next</li>
+			<li>Look at year, first/last name, etc for how I did it so far and use mostly the same code</li>
+		</ul>
 	</ul>
 
 	<h3>Test section</h3>
