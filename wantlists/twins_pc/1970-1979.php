@@ -5,18 +5,45 @@
 <html>
 <head>
         <link href="/css/twinsPCwantlists.css" rel="stylesheet">
+	<link href="/css/siteTheme.css" rel="stylesheet">
 </head>
 <body>
+<div class="content">
         <h1> Twins PC wants- 1970-1979</h1>
 
-        <p>This page will be used to list all of my wants from sets in the 1970s. This is currently a work in progress as a slowly move my set wants over from my old website to this one. Please note that autographs and relics will not be included on these wants- I still would be interested in them if you have any, but I'm not listing them here in order to save space. Cards numbered to less than 25 will also not be listed. I would like those as well, so please let me know if you have any available.</p>
+        <p>This page lists all of my wants from sets in the 1970s. If you have anything listed below, please let me know as I would love to have it. If you have something from a set that isn't isn't on this page, I'd appreciate a message with what you have as I am likely not aware of the set- There's so many different small sets that it's hard to know about them all!</p>
 
         <h1>1979</h1>
 
         <br>
 
+	<p><div class=title>1979 Baseball Patches</div><br>
+	<div class=ssTitle>Base:</div> 98</p>
+
+	<br>
+
+	<p><div class=title>1979 Hostess</div><br>
+	<div class=ssTitle>Base:</div> 16, 60, 94, 141</p>
+
+	<br>
+
+	<p><div class=title>1979 Kellogg's</div><br>
+	<div class=ssTitle>Base:</div> 13, 27a ("Minnessota" ERR), 27b ("Minnesota"COR)</p>
+
+	<br>
+
+	<p><div class=title>1979 O-Pee-Chee</div><br>
+	<div class=ssTitle>Base:</div> 10, 34, 77, 106, 110, 187, 201, 214, 346, 358</p>
+
+	<br>
+
 	<p><div class=title>1979 Topps</div><br>
 	<div class=ssTitle>Base:</div> 41, 219, 300</p>
+
+	<br>
+
+	<p><div class=title>1979 Twins Frisz Postcards</div></p>
+	<div class=ssTitle>Base:</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25 ,26, 27, 28, 29, 30</p>
 
 	<hr>
 
@@ -24,8 +51,58 @@
 
         <br>
 
+	<p><div class=title>1978 Discs</div><br>
+	<i>Combining different versions of discs releases into one listing</i><br>
+	<div class=ssTitle>Papa Gino's Discs:</div> 35<br>
+	<div class=ssTitle>Saga Discs:</div> 8<br>
+	<div class=ssTitle>Tastee-Freez Discs:</div> 8<br>
+	<div class=ssTitle>Wiffle Ball Discs:</div> 13</p>
+
+	<br>
+
+	<p><div class=title>1978 Hostess</div><br>
+	<div class=ssTitle>Base:</div> 18, 37, 59, 118, 140</p>
+
+	<br>
+
+	<p><div class=title>1978 Kellogg's</div><br>
+	<div class=ssTitle>Base:</div> 9, 29</p>
+
+	<br>
+
+	<p><div class=title>1978 O-Pee-Chee</div><br>
+	<div class=ssTitle>Base:</div> 1, 5, 8, 34, 73, 104, 142, 230</p>
+
+	<br>
+
+	<p><div class=title>1978 RC Cola Cans</div><br>
+	<div class=ssTitle>Base:</div> 10, 48</p>
+
+	<br>
+
+	<p><div class=title>1978 Royal Crown Cola Iron-Ons</div><br>
+	<div class=ssTitle>Base:</div> 116, 117, 118, 119, 120</p>
+
+	<br>
+
+	<p><div class=title>1978 Sports Illustrated</div><br>
+	<div class=ssTitle>Base:</div> 4-10</p>
+
+	<br>
+
+	<p><div class=title>1978 TCMA 60's I</div><br>
+	<div class=ssTitle>Base:</div> 71, 135, 174</p>
+
+	<br>
+
 	<p><div class=title>1978 Topps</div><br>
-	<div class=ssTitle>Base:</div> 54, 81, 113, 137, 193, 219, 363, 386, 451, 497, 555, 580, 601, 627, 657, 678, 705</p>
+	<div class=ssTitle>Base:</div> 27, 81, 137, 219, 363, 386, 432, 451, 497, 555, 580, 627, 657, 678</p>
+
+	<br>
+
+	<p><div class=title>1978 Twins Frisz</div><br>
+	<div class=ssTitle>Base:</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50<br>
+	<div class=ssTitle>Postcards:</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25</p>
 
         <hr>
 
@@ -33,8 +110,78 @@
 
         <br>
 
+	<p><div class=title>1977 Bob Parker More Baseball Cartoons</div><br>
+	<div class=ssTitle>Base:</div> 3</p>
+
+	<br>
+
+	<p><div class=title>1977 Burger Chef Discs</div><br>
+	<div class=ssTitle>Base:</div> 46, 47, 48, 49, 50, 51, 52, 53, 54</p>
+
+	<br>
+
+	<p><div class=title>1977  Discs</div><br>
+	<i>These all are the same players with different versions of discs. I just combined each version of the disc into one listing</i><br>
+	<div class=ssTitle>Chilly Willie Discs:</div> 12, 67<br>
+	<div class=ssTitle>Customized Discs:</div> 12, 67<br>
+	<div class=ssTitle>Dairy Isle Discs:</div> 12, 67<br>
+	<div class=ssTitle>Detroit Caesars Discs:</div> 12, 67<br>
+	<div class=ssTitle>Holiday Inn Discs:</div> 12, 67<br>
+	<div class=ssTitle>MSA Discs:</div> 12, 67<br>
+	<div class=ssTitle>Saga Discs:</div> 12, 67<br>
+	<div class=ssTitle>Wendy's Discs:</div> 12, 67</p>
+
+	<br>
+
+	<p><div class=title>1977-84 Galasso Glossy Greats</div><br>
+	<div class=ssTitle>Base:</div> 257</p>
+
+	<br>
+
+	<p><div class=title>1977 Hostess</div><br>
+	<div class=ssTitle>Base:</div> 9, 48, 66, 84, 102, 121<br>
+	<div class=ssTitle>Twinkie:</div> 9, 48, 66, 84, 102, 121</p>
+
+	<br>
+
+	<p><div class=title>1977 Kellogg's</div><br>
+	<div class=ssTitle>Base:</div> 16a (ERR- Dock Ellis photo on back), 16b (COR- Bostock photo on back), 53, 56</p>
+
+	<br>
+
+	<p><div class=title>1977 O-Pee-Chee</div><br>
+	<div class=ssTitle>Base:</div> 8, 33, 73, 104, 143, 176, 239</p>
+
+	<br>
+
+	<p><div class=title>1977 Pepsi Glove Discs</div><br>
+	<div class=ssTitle>Base:</div> 2, 3</p>
+
+	<br>
+
+	<p><div class=title>1977 RC Cola Cans</div><br>
+	<div class=ssTitle>Base:</div> 14, 67</p>
+
+	<br>
+
+	<p><div class=title>1977 Sports Illustrated</div><br>
+	<div class=ssTitle>Base:</div> 7-18</p>
+
+	<br>
+
 	<p><div class=title>1977 Topps</div><br>
-	<div class=ssTitle>Base:</div> 8, 13, 38, 66, 120, 149, 175, 202, 228, 249, 304, 321, 424, 457, 478, 486, 513</p>
+	<div class=ssTitle>Base:</div> 8, 13, 38, 120, 175, 249, 321, 424, 457, 478, 486, 513, 578<br>
+	<div class=ssTitle>Cloth Stickers:</div> 10, 16</p>
+
+	<br>
+
+	<p><div class=title>1977 Twins Postcards</div><br>
+	<div class=ssTitle>Base:</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17</p>
+
+	<br>
+
+	<p><div class=title>1977 Venezuelan Topps Stickers</div><br>
+	<div class=ssTitle>Base:</div> 137</p>
 
         <hr>
 
@@ -42,13 +189,48 @@
 
         <br>
 
+	<p><div class=title>1976 Discs</div><br>
+	<i>There were numerous versions of Carew's disc card released this year, so I condensed them into one listing rather than having a separate one for each version</i><br>
+	<div class=ssTitle>Blankback Discs:</div> 9<br>
+	<div class=ssTitle>Buckman Discs:</div> 9<br>
+	<div class=ssTitle>Crane Discs:</div> 9<br>
+	<div class=ssTitle>Dairy Isle Discs:</div> 9<br>
+	<div class=ssTitle>Isaly Discs:</div> 9<br>
+	<div class=ssTitle>Orbakers Discs:</div> 9<br>
+	<div class=ssTitle>Red Bard Discs:</div> 9<br>
+	<div class=ssTitle>Safelon Discs:</div> 9<br>
+	<div class=ssTitle>Towne Club Discs:</div> 9</p>
+
+	<br>
+
+	<p><div class=title>1976 Hostess</div><br>
+	<div class=ssTitle>Base:</div> 10, 33, 53, 73, 96, 116<br>
+	<div class=ssTitle>Twinkie:</div> 10, 33, 53</p>
+
+	<br>
+
+	<p><div class=title>1976 Kellogg's</div><br>
+	<div class=ssTitle>Base:</div> 11, 28, 48</p>
+
+	<br>
+
+	<p><div class=title>1976 O-Pee-Chee</div><br>
+	<div class=ssTitle>Base:</div> 11, 35, 59, 87, 111, 136, 159, 183, 192, 204, 214, 235, 263, 288, 313, 336, 373, 400, 424, 448, 474, 498, 519, 556, 597, 619, 636</p>
+
+	<br>
+
 	<p><div class=title>1976 SSPC</div><br>
-	<div class=ssTitle>Base:</div> 205, 206, 207, 208, 209, 210, 211, 212, 213, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 596, 597, 603</p>
+	<div class=ssTitle>Base:</div> 205, 206, 207, 208, 209, 210, 211, 212, 213, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 597, 603</p>
 
 	<br>
 
 	<p><div class=title>1976 Topps</div><br>
-	<div class=ssTitle>Base:</div> 87, 111, 136, 192, 235, 400, 448, 474, 592, 597, 619</p>
+	<div class=ssTitle>Base:</div> 87, 111, 136, 192, 235, 400, 448, 474, 592, 619</p>
+
+	<br>
+
+	<p><div class=title>1976 Twins Postcards</div><br>
+	<div class=ssTitle>Base:</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18</p>
 
         <hr>
 
@@ -56,9 +238,43 @@
 
         <br>
 
+	<p><div class=title>1975 Hostess</div><br>
+	<div class=ssTitle>Base:</div> 20, 56, 74, 96, 98, 128<br>
+	<div class=ssTitle>Panels:</div> 19/20/21, 55/56/57, 73/74/75, 94/95/96, 97/98/99, 127/128/129<br>
+	<div class=ssTitle>Twinkie:</div> 20</p>
+
+	<br>
+
+	<p><div class=title>1975 Kellogg's</div><br>
+	<div class=ssTitle>Base:</div> 33, 41</p>
+
+	<br>
+
+	<p><div class=title>1975 O-Pee-Chee</div><br>
+	<div class=ssTitle>Base:</div> 30, 54, 78, 102, 127, 151, 203, 207, 226, 249, 273, 297, 306, 325, 346, 368, 419, 443, 478, 526, 549, 576, 600, 618, 621, 654</p>
+
+	<br>
+
+	<p><div class=title>1975 SSPC</div><br>
+	<div class=ssTitle>Base:</div> 20, 32<br>
+	<div class=ssTitle>Puzzle Back:</div> 5</p>
+
+
+	<br>
+
 	<p><div class=title>1975 Topps</div><br>
-	<div class=ssTitle>Base:</div> 30, 203, 207, 226, 249, 297, 306, 325, 368, 419, 443, 478, 549, 600, 640, 654<br>
+	<div class=ssTitle>Base:</div> 30, 203, 207, 226, 249, 297, 306, 325, 368, 419, 443, 478, 549, 600, 621, 640, 654<br>
 	<div class=ssTitle>Mini:</div> 30, 54, 78, 102, 127, 151, 203, 207, 226, 249, 273, 297, 306, 325, 346, 368, 419, 443, 478, 526, 549, 576, 600, 618, 621, 640, 654</p>
+
+	<br>
+
+	<p><div class=title>1975 Twins Postcards</div><br>
+	<div class=ssTitle>Base:</div>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24</p>
+
+	<br>
+
+	<p><div class=title>1975 Twins Team Issue</div><br>
+	<div class=ssTitle>Base:</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28</p>
 
 	<hr>
 
@@ -134,7 +350,7 @@
         <br>
 
 	<p><div class=title>1973 Topps</div><br>
-	<div class=ssTitle>Base:</div> 16, 49a (solid backgrounds for players on right of card), 61, 80, 98, 122, 148, 170, 199, 228, 259, 284, 311, 330, 358, 385, 411, 443, 469, 516, 530, 555, 577, 598, 622, 638, 654
+	<div class=ssTitle>Base:</div> 16, 49a (solid backgrounds for players on right of card), 61, 80, 98, 122, 148, 170, 199, 228, 259, 284, 311, 330, 358, 385, 411, 469, 516, 530, 555, 577, 598, 622, 638, 654<br>
 	<div class=ssTitle>Blue Team Checklists:</div> 14<br>
 	<div class=ssTitle>Candy Lids:</div> 9, 25<br>
 	<div class=ssTitle>Comics:</div> 9<br>
@@ -177,7 +393,7 @@
 	<br>
 
 	<p><div class=title>1972 Topps</div><br>
-	<div class=ssTitle>Base:</div> 28, 51, 52, 66, 86, 88, 131, 156, 201, 220, 244, 275, 301, 302, 352, 368, 389, 400, 459, 497, 501, 515, 545, 588, 611, 634, 678, 695, 696, 710, 778<br>
+	<div class=ssTitle>Base:</div> 51, 52, 66, 131, 156, 201, 220, 275, 301, 302, 352, 368, 389, 400, 459, 497, 501, 515, 545, 588, 611, 634, 678, 695, 696, 710, 778<br>
 	<div class=ssTitle>Candy Lids:</div> 6<br>
 	<div class=ssTitle>Posters:</div> 7, 20</p>
 
@@ -324,5 +540,6 @@
 
        <hr>
 
+</div>
 </body>
 </html>

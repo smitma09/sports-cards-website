@@ -3,7 +3,11 @@
 ?>
 
 <html>
+<head>
+	<link href="/css/siteTheme.css" rel="stylesheet">
+</head>
 <body>
+<div class="content">
 	<h1>Twins PC wants</h1>
 	<p>This section of my site will hold lists of the Twins cards I need for my PC. My wants are broken down by year as follows:</p>
 	<ul>
@@ -16,5 +20,6 @@
 		<li><a href="./1970-1979.php">1970-1979</a></li>
 		<li><a href="./1961-1969.php">1961-1969</a></li>
 	</ul>
+</div>
 </body>
 </html>

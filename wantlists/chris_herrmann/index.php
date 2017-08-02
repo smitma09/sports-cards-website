@@ -3,7 +3,11 @@
 ?>
 
 <html>
+<head>
+	<link href="/css/siteTheme.css" rel="stylesheet">
+</head>
 <body>
+<div class="content">
 	<h1>Chris Herrmann PC</h1>
 	<p>This page holds my wantlists and havelists for my Chris Herrmann PC. I started collecting Chris in 2013 after watching him play with the Twins and liking how he played the game, despite not receiving a lot of consistent playing time. At that point in my collecting career, I also was looking for a player that I could build an extensive PC of. Chris only had around 40 different cards at this point, so I figured this would be a good guy to start with. So, I decided to go all out and track down as many copies of each card of his that I could find! Unfortunately for me, Chris was traded from the Twins to the Diamondbacks in 2015. While I still go after his Dbacks cards to try and keep a true player PC going, I've limited myself to just one copy of those cards. That said, I do still try and acquire as many copies of each of his Twins cards as possible. So, if you have a card of Herrmann that isn't listed under my wants, but it's one of his Twins cards, I'd still love to work out a deal for it!</p>
 
@@ -28,6 +32,8 @@
 	2010 Fort Myers Miracle DAV 5<br><br>
 
 	2009 Elizabethton Twins Grandstand 9</p>
+
+	<hr>
 
 	<h1>Wantlist (1/1s)</h1>
 
@@ -58,6 +64,8 @@
 	2009 Bowman Draft Prospects Printing Plates Cyan 57<br>
 	2009 Bowman Draft Prospects Printing Plates Magenta 57<br>
 	2009 Bowman Draft Prospects Printing Plates Yellow 57</p>
+
+	<hr>
 
 	<h1>Havelist</h1>
 
@@ -173,6 +181,6 @@
 	<h3>Unlisted Herrmann haves</h3>
 
 	<p>2016 Topps Update Topps Vault Blank Back 1/1</p>
-
+</div>
 </body>
 </html>

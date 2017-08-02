@@ -2,16 +2,27 @@
         include_once("/var/www/html/php/navbar.php");
 ?>
 
-<html>
+<html id="top">
 <head>
         <link href="/css/twinsPCwantlists.css" rel="stylesheet">
+	<link href="/css/siteTheme.css" rel="stylesheet">
 </head>
 <body>
+<div class="content">
         <h1> Twins PC wants- 2010-2014</h1>
 
 	<p>This page will be used to list all of my wants from sets in the 2010s (2010-2014). Please note that autographs and relics will not be included on these wants- I still would be interested in them if you have any, but I'm not listing them here in order to save space. Cards numbered to less than 25 will also not be listed, unless I have a card from that certain set (in which case I will list the cards I have from that particular set). I would like those as well, so please let me know if you have any available.</p>
 
+	<ul>
+		<li><a href="#2013">2013</a></li>
+		<li><a href="#2012">2012</a></li>
+		<li><a href="#2011">2011</a></li>
+		<li><a href="#2010">2010</a></li>
+	</ul>
+
 	<h1>2014</h1>
+
+	<img class="headerImgVertical" alt="2014 header image" src="/images/twins_pc/headers/2014.JPG">
 
 	<br>
 
@@ -474,7 +485,13 @@
 
 	<hr>
 
-	<h1>2013</h1>
+	<h1 id="2013">2013</h1>
+
+	<img class="headerImgHorizontal" alt="2013 header image" src="/images/twins_pc/headers/2013.JPG">
+	
+	<br><br><br>
+
+	<p><a href="#top">Top of page</a></p>
 
 	<br>
 
@@ -860,7 +877,7 @@
 	<p><div class=title>2013 Topps Chrome Update</div><br>
 	<div class=ssTitle>Base:</div> 38<br>
 	<div class=ssTitle>Black Refractors (#/99):</div> 38, 40<br>
-	<dic class=ssTitle>Gold Refractors (#/250):</div>38 40</p>
+	<div class=ssTitle>Gold Refractors (#/250):</div> 38 40</p>
 
 	<br>
 
@@ -975,8 +992,14 @@
 
 	<hr>
 
-	<h1>2012</h1>
+	<h1 id="2012">2012</h1>
 
+	<img class="headerImgVertical" alt="2012 header image" src="/images/twins_pc/headers/2012.JPG">
+
+	<br><br><br>
+
+	<p><a href="#top">Top of page</a></p>	
+	
 	<br>
 
 	<p><div class=title>2012 Bowman</div><br>
@@ -1330,7 +1353,13 @@
 
 	<hr>
 
-	<h1>2011</h1>
+	<h1 id="2011">2011</h1>
+
+	<img class="headerImgHorizontal" alt="2011 header image" src="/images/twins_pc/headers/2011.JPG">
+
+	<br><br><br>
+
+	<p><a href="#top">Top of page</a></p>	
 
 	<br>
 
@@ -1654,8 +1683,14 @@
 
 	<hr>
 
-	<h1>2010</h1>
+	<h1 id="2010">2010</h1>
 
+	<img class="headerImgVertical" alt="2010 header image" src="/images/twins_pc/headers/2010.JPG">
+
+	<br><br><br>
+
+	<p><a href="#top">Top of page</a></p>	
+	
 	<br>
 
 	<p><div class=title>2010 Bowman</div><br>
@@ -1943,5 +1978,12 @@
 	<div class=ssTitle>Supreme Red:</div> 26, 27<br>
 	<div class=ssTitle>Tape Measure Shots:</div> 22</p>
 
+	<br>
+
+	<p><a href="#top">Top of page</a></p>	
+	
+	<hr>
+
+</div> <!-- End content tag -->
 </body>
 </html>

@@ -5,11 +5,15 @@
 <html>
 <head>
         <link href="/css/twinsPCwantlists.css" rel="stylesheet">
+	<link href="/css/siteTheme.css" rel="stylesheet">
 </head>
 <body>
+<div class="content">
         <h1> Twins PC wants- 1961-1969</h1>
 
-        <p>This page will be used to list all of my wants from sets in the 1960s. This is currently a work in progress as a slowly move my set wants over from my old website to this one. Please note that autographs and relics will not be included on these wants- I still would be interested in them if you have any, but I'm not listing them here in order to save space. Cards numbered to less than 25 will also not be listed. I would like those as well, so please let me know if you have any available.</p>
+        <p>This page will be used to list all of my wants from sets in the 1960s. If you have a card from a set that is not listed on this page, please let me know what you have as that likely means I am not aware of that set- It can be difficult to keep track of them all!</p>
+
+	<p><i>Note to self- Go thru Twins sets and double check everything is accurate, not missing leaders cards, etc</i></p>
 
         <h1>1969</h1>
 
@@ -561,5 +565,6 @@
 
         <hr>
 
+</div>
 </body>
 </html>

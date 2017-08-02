@@ -1,16 +1,24 @@
-div.title {
+div.title { /* Styles set name listings */
 	text-decoration: underline;
 	display: inline;
 }
 
-div.ssTitle {
+div.ssTitle { /* Styles subset name listings */
 	font-weight: bold;
 	display: inline;
 }
-
-hr {
-	/* All 3 rules needed to cover different browsers */
-	color: #8c8c8c;
-	border-color: #8c8c8c;
-	background-color: #8c8c8c;
+.headerImgHorizontal { /* Styles horizontal images with each year */
+	/*-ms-transform: rotate(90deg);
+	-webkit-transform: rotate(90deg);
+	transform: rotate(90deg); */
+	width: 50%;
+	max-width: 500px;
+	max-height: 350px;
+	min-width: 200px;
+}
+.headerImgVertical { /* Styles vertical images with each year */
+	width: 35%;
+	max-width: 350px;
+	max-height: 500px;
+	min-width: 150px;
 }

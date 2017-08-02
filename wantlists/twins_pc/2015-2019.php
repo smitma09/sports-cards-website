@@ -4,18 +4,25 @@
 	include_once("/var/www/html/php/navbar.php");
 ?>
 
-<html>
+<html id="top">
 <head>
-	<link href="/css/twinsPCwantlists.css" rel="stylesheet">
+        <link href="/css/twinsPCwantlists.css" rel="stylesheet">
+	<link href="/css/siteTheme.css" rel="stylesheet">
 </head>
-<body>
+<body class="background">
+<div class="content">
 	<h1> Twins PC wants- 2010s</h1>
 
 	<p>This page will be used to list all of my wants from sets in the 2010s (2015-2019). Please note that autographs and relics will not be included on these wants- I still would be interested in them if you have any, but I'm not listing them here in order to save space. Cards numbered to less than 25 will also not be listed, unless I have a card from that certain set (in which case I will list the cards I have from that particular set). I would like those as well, so please let me know if you have any available.</p>
 
-	<img alt="Temp. card pic (test)" src="https://sportscardalbum.com/c/i2z53s58.JPG">
+	<ul>
+		<li><a href="#2016">2016</a></li>
+		<li><a href="#2015">2015</a></li>
+	</ul>
 
 	<h1>2017</h1>
+
+	<img class="headerImgHorizontal" alt="2017 header image" src="/images/twins_pc/headers/2017.JPG">
 
         <br>
 
@@ -217,11 +224,15 @@
 
         <hr>
 
-        <h1>2016</h1>
+        <h1 id="2016">2016</h1>
 
-	<img alt="2016 Topps Chrome Brian Dozier Blue Wave Refractor /75" src="/images/twins_pc/2016/Topps_Chrome/Blue_Wave_Refractors/183_Brian_Dozier_46_75.jpg" height="300px" class="rotate"> <!--width="350px"-->
+	<img class="headerImgHorizontal" alt="2016 header image" src="/images/twins_pc/headers/2016.JPG">
 
-        <br>
+	<br><br><br>
+
+	<p><a href="#top">Top of page</a></p>
+
+	<br>
 
         <p><div class=title>2016 Bowman</div><br>
         <i>Completed- Base, Chrome Prospects (BCP), Prospects (BP), Sophomore Standouts</i><br>
@@ -769,7 +780,13 @@
 	
 	<hr>
 
-	<h1>2015</h1>
+	<h1 id="2015">2015</h1>
+
+	<img class="headerImgHorizontal" alt="2015 header image" src="/images/twins_pc/headers/2015.JPG">
+
+	<br><br><br>
+
+	<p><a href="#top">Top of page</a></p>
 
 	<br>
 
@@ -905,7 +922,7 @@
 	<div class=ssTitle>Base:</div> 187b ("Puck")<br>
 	<div class=ssTitle>Blue Platinum Press Proof (#/199):</div> 211<br>
 	<div class=ssTitle>Bronze Press Proof (#/299):</div> 211<br>
-	<div class=ssTitle>Career Stat Line:</div> (#ing varies):</div> 17, 36, 118, 119, 120, 121, 187<br>
+	<div class=ssTitle>Career Stat Line:(#ing varies):</div> 17, 36, 118, 119, 120, 121, 187<br>
 	<div class=ssTitle>Gold Die Cut (#/25):</div> 17<br>
 	<div class=ssTitle>Gold Press Proof (#/99):</div> 17, 36, 118, 120, 121, 187<br>
 	<div class=ssTitle>Hot of the Press:</div> 17, 36, 118, 119, 120, 121, 187, 211<br>
@@ -1172,7 +1189,13 @@
 	<div class=ssTitle>Highlight of the Year:</div> 74<br>
 	<div class=ssTitle>Rarities:</div> 10</p>
 
+	<br>
+
+	<p><a href="#top">Top of page</a></p>
+
 	<hr>
 
+
+</div> <!-- End class=content tag -->
 <body>
 <html>

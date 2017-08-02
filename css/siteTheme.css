@@ -1,0 +1,18 @@
+body { /* Sets dark gray columns on either site of main content with vertial image on left site */
+        background-color: #4d4d4d;
+	margin-left: 7em;
+	margin-right: 7em;
+	background-image: url(/images/logos/Transparent.png);
+	background-position: left;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+.content { /* Styles main content area  */
+	background-color: #e6e6e6;
+	padding: 1em;
+}
+hr { /* Styles <hr> tags across site */
+        color: #8c8c8c;
+        border-color: #8c8c8c;
+        background-color: #8c8c8c;
+}

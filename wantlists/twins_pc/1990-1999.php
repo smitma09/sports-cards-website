@@ -5,11 +5,26 @@
 <html>
 <head>
         <link href="/css/twinsPCwantlists.css" rel="stylesheet">
+	<link href="/css/siteTheme.css" rel="stylesheet">
 </head>
 <body>
+<div class="content">
         <h1> Twins PC wants- 1990-1999</h1>
 
         <p>This page will be used to list all of my wants from sets in the 1990s. This is currently a work in progress as a slowly move my set wants over from my old website to this one. Please note that autographs and relics will not be included on these wants- I still would be interested in them if you have any, but I'm not listing them here in order to save space. Cards numbered to less than 25 will also not be listed. I would like those as well, so please let me know if you have any available.</p>
+
+	<ul>
+		<li><a href="#1998">1998</a></li>
+		<li><a href="#1997">1997</a></li>
+		<li><a href="#1996">1996</a></li>
+		<li><a href="#1995">1995</a></li>
+		<li><a href="#1994">1994</a></li>
+		<li><a href="#1993">1993</a></li>
+		<li><a href="#1992">1992</a></li>
+		<li><a href="#1991">1991</a></li>
+		<li><a href="#1990">1990</a></li>
+
+	</ul>
 
         <h1>1999</h1>
 
@@ -257,7 +272,7 @@
 
 	<hr>
 
-        <h1>1998</h1>
+        <h1 id="1998">1998</h1>
 
         <br>
 
@@ -746,7 +761,7 @@
 
         <hr>
 
-	<h1>1997</h1>
+	<h1 id="1997">1997</h1>
 
 	<br>
 
@@ -1035,7 +1050,7 @@
 
         <hr>
 
-        <h1>1996</h1>
+        <h1 id="1996">1996</h1>
 
         <br>
 
@@ -1436,7 +1451,7 @@
 
         <hr>
 
-        <h1>1995</h1>
+        <h1 id="1995">1995</h1>
 
         <br>
 
@@ -1682,7 +1697,7 @@
 
 	<hr>
 
-        <h1>1994</h1>
+        <h1 id="1994">1994</h1>
 
         <br>
 
@@ -1907,7 +1922,7 @@
 
         <hr>
 
-        <h1>1993</h1>
+        <h1 id="1993">1993</h1>
 
         <br>
 
@@ -2103,7 +2118,7 @@
 
         <hr>
 
-        <h1>1992</h1>
+        <h1 id="1992">1992</h1>
 
         <br>
 
@@ -2272,7 +2287,7 @@
 
 	<hr>
 
-        <h1>1991</h1>
+        <h1 id="1991">1991</h1>
 
         <br>
 
@@ -2399,7 +2414,7 @@
 
         <hr>
 
-        <h1>1990</h1>
+        <h1 id="1990">1990</h1>
 
         <br>
 
@@ -2545,5 +2560,6 @@
 
         <hr>
 
+</div>
 </body>
 </html>
