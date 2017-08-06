@@ -31,13 +31,15 @@
 		display: block;
 		padding-top: 15px;
 		padding-bottom: 15px;
-		background-color: #e6e6e6;
+		border-top: 1px solid black;
+		background-color: #999999;
 		width: 100%;
 		text-decoration: none;
 		text-align: center;
+		color: black;
 	}
 	.dropdown-content a:hover {
-		color: black;
+		color: red;
 		background-color: #b7b7b7;
 	}
 	.dropdown:hover .dropdown-content {

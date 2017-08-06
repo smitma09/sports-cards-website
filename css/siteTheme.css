@@ -2,8 +2,10 @@ body { /* Sets dark gray columns on either site of main content with vertial ima
         background-color: #4d4d4d;
 	margin-left: 7em;
 	margin-right: 7em;
-	background-image: url(/images/logos/Transparent.png);
-	background-position: left;
+	/*background-image: url(/images/logos/Transparent.png);*/
+	background-image: url(/images/logos/Final.jpg);
+	/*background-position: left;*/
+	background-position: 1.25%, 50%;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 }
@@ -15,4 +17,10 @@ hr { /* Styles <hr> tags across site */
         color: #8c8c8c;
         border-color: #8c8c8c;
         background-color: #8c8c8c;
+}
+.content a {
+	color: red;
+}
+.content a:hover {
+	color: blue;
 }
