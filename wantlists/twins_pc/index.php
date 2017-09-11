@@ -19,6 +19,7 @@
 		<li><a href="./1980-1989.php">1980-1989</a></li>
 		<li><a href="./1970-1979.php">1970-1979</a></li>
 		<li><a href="./1961-1969.php">1961-1969</a></li>
+		<li><a href="./autos-relics-etc.php">Autographs, relics, etc</a></li>
 	</ul>
 </div>
 </body>

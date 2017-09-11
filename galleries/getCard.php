@@ -25,6 +25,40 @@
 		background-color: white;
 		border: 2px solid black;
 	}
+
+/* --------------------------------------------- */
+
+	.results {
+		text-align: center;
+	}
+
+	.fullContainer {
+		width: 200px;
+		display: inline-block;
+		margin-right: 5px;
+		vertical-align: top;
+	}
+	.imgContainer {
+		height: 280px;
+		width: 200px;
+		background-color: black;
+		position: relative;
+	}
+	.image {
+		height: 92%;
+		position: absolute;
+		margin: auto;
+		left: 0;
+		right: 0;
+		top: 0;
+		bottom: 0;
+	}
+	.text {
+		text-align: center;
+	}
+
+/* --------------------------------------------- */
+
 	</style>
 </head>
 <body>
@@ -97,8 +131,6 @@
 		}
 	}
 
-	
-
 	// Need to chop of the last ' and' from the sql statement
 	$sql = substr($sql, 0, -4);
 	$sql = $sql . ' order by year desc, cardset asc, subset asc, cardNum';
@@ -108,15 +140,17 @@
 	if ($num_cards == 0) {
 		echo "<h3>No cards matched your query</h3><p>Try another search to get some results!</p>";
 	} else {
-		echo "<p>" . $num_cards . " cards matched your query</p>"; 
+		echo "<p>" . $num_cards . " cards matched your query</p>";
+		echo "<div class=results>";
 		echo "<div>";
 		while ($row = mysqli_fetch_array($result)) {
 		$pic = $row['pathToPic'];
 		$wwwImg = substr($pic, 13);
-			echo "<span id=aCard><img src=" . $wwwImg . " height ='250px'>";
-			echo "<span class=text>" . $row['fullCardInfo'] . "</span></span>";
+			//echo "<span id=aCard><img src=" . $wwwImg . " height ='250px'>";
+			//echo "<span class=text>" . $row['fullCardInfo'] . "</span></span>";
+			echo "<div class=fullContainer><div class=imgContainer><img class=image src=" . $wwwImg ."></div><p class=text>" . $row['fullCardInfo'] . "</p></div>";
 		}
-		echo "</div>";
+		echo "</div></div>";
 	}
 	mysqli_close($conn);
 ?>

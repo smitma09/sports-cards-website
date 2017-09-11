@@ -3,13 +3,18 @@
 ?>
 
 <html>
+<head>
+	<link href="/css/siteTheme.css" rel="stylesheet">
+</head>
 <body>
+<div class='content'>
 
 	<h1>Galleries</h1>
 
 	<ul>
-		<li><a href="./twinsPCgallery.php">Twins PC</a></li>
+		<li><a href="./twinsPC.php">Twins PC</a></li>
 	</ul>
 
+</div>
 </body>
 </html>

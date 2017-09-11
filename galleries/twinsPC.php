@@ -1,9 +1,15 @@
 <?php
-	include_once("./php/navbar.php");
+	include_once("./../php/navbar.php");
 ?>
 
 <html>
 <head>
+	<link href="/css/siteTheme.css" rel="stylesheet">
+	<style>
+		.content {
+
+		}
+	</style>
 	<script>
 	function changeParams() {
 	if (window.XMLHttpRequest) {
@@ -24,15 +30,16 @@
 		search = document.getElementById("search").value;
 	//	auto = document.getElementById("auto").checked;
 
-		url = "getPlayer.php?year="+year+"&playerFirst="+playerFirst+"&playerLast="+playerLast+"&cardSet="+set+"&subset="+subset+"&search="+search;//+"&auto="+auto;
+		url = "getCard.php?year="+year+"&playerFirst="+playerFirst+"&playerLast="+playerLast+"&cardSet="+set+"&subset="+subset+"&search="+search;//+"&auto="+auto;
 		xmlhttp.open("GET", url, true);
 		xmlhttp.send();
 	} /* End function */
 	</script>
 </head>
 <body>
-	<h1>Temporary Gallery</h1>
-	<p>Working on a gallery page to show off the cards in my Twins PC. Use the below dropdown menus to filter cards</p>
+<div class="content">
+	<h1>Twins PC Gallery</h1>
+	<p>Here you can explore the cards within my Twins PC visually. To get started, use the text boxes and dropdowns to filter certain cards.</p>
 	<form>Card details:
 		<!-- -------------------- Year -------------------- -->
 		<select onchange="changeParams()" name="years" id="years_select">
@@ -65,7 +72,12 @@
                 while ($row = mysqli_fetch_array($result)) {
 			if ($row['cardSet'] == "Topps Allen & Ginter") {
 				echo "<option value='Topps Allen %26 Ginter'>Topps Allen & Ginter</option>";
-			} else {
+			} elseif ($row['cardSet'] == "Topps Moments & Milestones") {
+				echo "<option value='Topps Moments %26 Milestones'>Topps Moments & Milestones</option>";
+			} elseif ($row['cardSet'] == "Topps Updates & Highlights") {
+				echo "<option value='Topps Updates %26 Highlights'>Topps Updates & Highlights</option>";
+			}
+			else {
 				echo '<option value="' . $row['cardSet'] . '">' . $row['cardSet'] . '</option>';
 			}
                 }
@@ -161,5 +173,6 @@ Potentially adding sections for serial first/last, as well as grading details (f
 	<div id="test"></div>
 
 	</form>
+</div> <!-- Ends content div -->
 </body>
 </html>
