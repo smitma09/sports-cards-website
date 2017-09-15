@@ -10,10 +10,6 @@
 <div class="content">
 	<h1>Todos:</h1>
 	<ul>
-		<li>Come up with site theme/style</li>
-		<ul>
-			<li>Fix vertical image at some point</li>
-		</ul>
 		<li>Continue adding cards to database</li>
 		<li>Set up galleries page</li>
 		<li>Clean up full info page</li>

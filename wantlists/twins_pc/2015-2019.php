@@ -228,6 +228,12 @@
 	<div class="ssTitle">223</div> Ervin Santana "Maddux" win (PR 212)<br>
 	<div class="ssTitle">247</div> Eddie Rosario 3-HR game<br>
 	<div class="ssTitle">248</div> Twins tally franchise-record 28 hits in a game<br>
+	<div class="ssTitle">445</div> Bartolo Colon becomes oldest pitcher to throw CG since 2010 (PR 300)<br>
+	<div class="ssTitle">494</div> Byron Buxton 13.85 inside-the-park home run<br>
+	<div class="ssTitle">503</div> Bartolo Colon becomes 18th player to defeat all 30 MLB teams (PR 293)<br>
+	<div class="ssTitle">507</div> Bartolo Colon observing solar eclipse (PR 450)<br>
+	<div class="ssTitle">527</div> Byron Buxton 3 HR game (PR 370)<br>
+	<div class="ssTitle">598</div> Twins become first team ever to hit HR in each of first 7 innings<br>
 	<div class="ssTitle">HRD-5</div> Miguel Sano competes in Home Run Derby</p>
 
 	<br>

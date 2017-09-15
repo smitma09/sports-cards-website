@@ -95,14 +95,19 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li><a href="/">Home</a></li>
-                    <li><a href="/galleries">Galleries</a></li>
+                    <!--<li><a href="/galleries">Galleries</a></li>-->
+
+		    <li class="dropdown"><a href="/galleries">Galleries</a>
+                    <ul class="dropdown-content">
+                    	<li><a href="/galleries/twins_pc.php">Twins PC</a></li>
+                    </ul></li>
+
 		    <li><a href="/pull-info.php">Have lists</a></li>
 		    <li class="dropdown"><a href="/wantlists">Wantlists</a>
 			<ul class="dropdown-content">
 			    <li><a href="/wantlists/twins_pc">Twins PC</a></li>
 			    <li><a href="/wantlists/chris_herrmann">Chris Herrmann</a></li>
-			</ul>
-		   </li> <!-- End dropdown parent -->
+			</ul></li> <!-- End dropdown parent -->
                 </ul>
             </div>       <!-- /.navbar-collapse -->
         </div>   <!-- /.container -->

@@ -12,7 +12,7 @@
 	<h1>Galleries</h1>
 
 	<ul>
-		<li><a href="./twinsPC.php">Twins PC</a></li>
+		<li><a href="./twins_pc.php">Twins PC</a></li>
 	</ul>
 
 </div>
