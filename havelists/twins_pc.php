@@ -1,12 +1,14 @@
 <?php
-	include_once("navbar.php");
+	include_once("../php/navbar.php");
 ?>
 
 <html>
 	<head>
-		<link rel="stylesheet" href="./../css/readData.css">
+		<link href="../css/readData.css" rel="stylesheet">
+		<link href="../css/siteTheme.css" rel="stylesheet">	
 	</head>
 	<body>
+	<div class="content">
 
 <?php
 	include "/var/www/admin.php";
@@ -58,5 +60,6 @@
 	}
 	
 ?>
+	</div>
 	</body>
 </html>

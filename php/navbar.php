@@ -1,10 +1,3 @@
-<!--
-    Would like to add dropdown support for database entry and gallery pages
-    Hover on database tab in bar, can pick from which database you want to enter data into
-    Hover on gallery page, can pick which gallery you want to view (which database to read from)
-	May requre polishing and figuring out exactly which nav class is right/should be used
--->
-
 <html>
 
 <head>
@@ -102,7 +95,7 @@
                     	<li><a href="/galleries/twins_pc.php">Twins PC</a></li>
                     </ul></li>
 
-		    <li><a href="/pull-info.php">Have lists</a></li>
+		    <li><a href="/havelists">Have lists</a></li>
 		    <li class="dropdown"><a href="/wantlists">Wantlists</a>
 			<ul class="dropdown-content">
 			    <li><a href="/wantlists/twins_pc">Twins PC</a></li>

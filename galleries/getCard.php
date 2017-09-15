@@ -138,9 +138,9 @@
 	$result = mysqli_query($conn, $sql);
 	$num_cards = mysqli_num_rows($result);
 	if ($num_cards == 0) {
-		echo "<h3>No cards matched your query</h3><p>Try another search to get some results!</p>";
+		echo "<p>No cards matched your query. Try refining your search terms to get some results.</p>";
 	} else {
-		echo "<p>" . $num_cards . " cards matched your query</p>";
+		echo "<p>" . $num_cards . " cards matched your query.</p>";
 		echo "<div class=results>";
 		echo "<div>";
 		while ($row = mysqli_fetch_array($result)) {
