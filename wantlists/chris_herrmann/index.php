@@ -15,18 +15,18 @@
 
 	<p>Here I have listed each Herrmann card that I don't already have a copy of. Only non 1/1s are listed in this section to help keep things a bit cleaner. If you happen to have any of these, please let me know! Also, remember that I'd like your Herrmann Twins cards even if they aren't on this list!</p>
 
-	<p><font color='red'>Completion excluding 1/1s: 52/71 (73.23%)<br>
-	Completion including 1/1: 60/90 (66.66%)</font></p>
+	<p><font color='red'>Completion excluding 1/1s: 53/72 (73.61%)<br>
+	Completion including 1/1: 61/91 (67.03%)</font></p>
 
-	<p>2016 Topps Heritage High Number Black 695<br><br>
+	<p>2017 Topps Now 303 (PR 127)<br><br>
+
+	2016 Topps Heritage High Number Black 695<br><br>
 
 	2016 Topps Update Toys-R-Us Purple 6<br><br>
 
 	2013 Topps Factory Set Orange 335 #ed/230<br>
 	2013 Topps Pink 335 #ed/50<br>
 	2013 Topps Toys-R-Us Purple Border 335<br><br>
-
-	2013 Topps Mini Black 335 #ed/5<br><br>
 
 	2010 Fort Myers Miracle Choice 12<br>
 	2010 Fort Myers Miracle DAV 5<br><br>
@@ -136,6 +136,7 @@
 	2013 Topps Heritage Venezuelan Black Back 116 (With Maronde)<br><br>
 
 	2013 Topps Mini 335 RC<br>
+	2013 Topps Mini Black 335 #ed 1/5<br>
 	2013 Topps Mini Gold 335 #ed 19/62<br>
 	2013 Topps Mini Gold 335 #ed 21/62<br>
 	2013 Topps Mini Pink 335 #ed 04/25<br>

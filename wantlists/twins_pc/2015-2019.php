@@ -239,13 +239,13 @@
 	<br>
 
 	<p><div class="title">2017 Topps Stadium Club</div><br>
-	<div class="ssTitle">Base:</div> 10, 11, 28, 61, 100, 146, 220, 222, 237, 300<br>
+	<div class="ssTitle">Base:</div> 10, 11, 28, 61, 146, 222, 237, 300<br>
 	<div class="ssTitle">Black & White/Orange:</div> 10, 11, 28, 61, 100, 146, 220, 222, 237, 282, 300<br>
 	<div class="ssTitle">Black Foil:</div> 10, 11, 28, 61, 100, 146, 220, 222, 237, 282, 300<br>
 	<div class="ssTitle">First Day Issue:</div> 10, 11, 28, 61, 100, 146, 220, 222, 237, 282, 300<br>
-	<div class="ssTitle">Gold Foil:</div> 10, 11, 28, 61, 100, 146, 220, 222, 237, 282, 300<br>
+	<div class="ssTitle">Gold Foil:</div> 10, 11, 61, 100, 146, 220, 222, 237, 282, 300<br>
 	<div class="ssTitle">Members Only:</div> 10, 11, 28, 61, 100, 146, 220, 222, 237, 282, 300<br>
-	<div class="ssTitle">Rainbow Foil (#/25):</div> 10, 11, 28, 61, 100, 146, 220, 222, 237, 282, 300<br>
+	<div class="ssTitle">Rainbow Foil (#/25):</div> 10, 11, 28, 61, 146, 220, 222, 237, 282, 300<br>
 	<div class="ssTitle">Sepia:</div> 10, 11, 28, 61, 100, 146, 220, 222, 237, 282, 300<br>
 	<div class="ssTitle">Chrome:</div> 55<br>
 	<div class="ssTitle">Chrome Gold Minted:</div> 55<br>

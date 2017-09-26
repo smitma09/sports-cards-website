@@ -6,8 +6,8 @@
 <head>
 	<link href="/css/siteTheme.css" rel="stylesheet">
 	<style>
-		.content {
-
+		.attributes span {
+			margin-right: 1rem;
 		}
 	</style>
 	<script>
@@ -28,9 +28,35 @@
 		set = document.getElementById("set_select").value;
 		subset = document.getElementById("subset_select").value;
 		search = document.getElementById("search").value;
-	//	auto = document.getElementById("auto").checked;
+		auto = document.getElementById("auto").checked;
+		if (auto) { autoVar = "1"; } else { autoVar = "0"; }
+		relic = document.getElementById("relic").checked;
+		if (relic) {
+			relicVar = "1";
+		} else {
+			relicVar = "0";
+		}
+		patch = document.getElementById("patch").checked;
+		if (patch) { patchVar = "1"; } else { patchVar = "0"; }
+		manurelic = document.getElementById("manurelic").checked;
+		if (manurelic) { manuVar = "1"; } else { manuVar = "0"; }
+		patch = document.getElementById("patch").checked;
+		if (patch) { patchVar = "1"; } else { patchVar = "0"; }
+		rc = document.getElementById("rc").checked;
+		if (rc) { rcVar = "1"; } else { rcVar = "0"; }
+		sn = document.getElementById("numbered").checked;
+		if (sn) { snVar = "1"; } else { snVar = "0"; }
+		oneofone = document.getElementById("oneofone").checked;
+		if (oneofone) { oneofoneVar = "1"; } else { oneofoneVar = "0"; }
+		hof = document.getElementById("hof").checked;
+		if (hof) { hofVar = "1"; } else { hofVar = "0"; }
+		spvar = document.getElementById("spvar").checked;
+		if (spvar) { spvVar = "1"; } else { spvVar = "0"; }
+		graded = document.getElementById("graded").checked;
+		if (graded) { gradedVar = "1"; } else { gradedVar = "0"; }
+		grader = document.getElementById("grader").value;
 
-		url = "getCard.php?year="+year+"&playerFirst="+playerFirst+"&playerLast="+playerLast+"&cardSet="+set+"&subset="+subset+"&search="+search;//+"&auto="+auto;
+		url = "getCard.php?year="+year+"&playerFirst="+playerFirst+"&playerLast="+playerLast+"&cardSet="+set+"&subset="+subset+"&auto="+autoVar+"&relic="+relicVar+"&patch="+patchVar+"&manu="+manuVar+"&rc="+rcVar+"&sn="+snVar+"&oneofone="+oneofoneVar+"&hof="+hofVar+"&spvar="+spvVar+"&graded="+gradedVar+"&grader="+grader+"&search="+search;//+"&auto="+auto;
 		xmlhttp.open("GET", url, true);
 		xmlhttp.send();
 	} /* End function */
@@ -39,7 +65,8 @@
 <body>
 <div class="content">
 	<h1>Twins PC Gallery</h1>
-	<p>Here you can explore the cards within my Twins PC visually. To get started, use the text boxes and dropdowns to filter certain cards.</p>
+	<p>Here you can view cards from my Twins PC visually. This is one of my favorite pages on my site. By using the selectors below, you can view any card in my Twins collection. Enjoy!</p>
+
 	<form>Card details:
 		<!-- -------------------- Year -------------------- -->
 		<select onchange="changeParams()" name="years" id="years_select">
@@ -145,15 +172,45 @@
 	        mysqli_close($conn);
         ?>
 		</select>
-		<!-- -------------------- Searchbar -------------------- -->
-		<input type="text" onkeyup="changeParams()" name="search" id="search" placeholder="Search"></input>
 
 		<br>
 
 		<!-- -------------------- Autographed -------------------- -->
-<!--
-		<input type="checkbox" onclick="changeParams()" name="auto" id="auto"> Autographed
-		<input type="checkbox" onclick="changeParams()" name="relic" id = "relic"> Relic -->
+		<span class="attributes">
+		<span><input type="checkbox" onclick="changeParams()" name="auto" id = "auto"> Auto</input></span>
+		<span><input type="checkbox" onclick="changeParams()" name="relic" id = "relic"> Relic</input></span>
+		<span><input type="checkbox" onclick="changeParams()" name="patch" id = "patch"> Patch</input></span>
+		<span><input type="checkbox" onclick="changeParams()" name="manurelic" id = "manurelic"> Manu. relic</input></span>
+		<span><input type="checkbox" onclick="changeParams()" name="rc" id = "rc"> RC</input></span>
+		<span><input type="checkbox" onclick="changeParams()" name="numbered" id = "numbered"> Numbered</input></span>
+		<span><input type="checkbox" onclick="changeParams()" name="oneofone" id = "oneofone"> 1/1</input></span>
+		<span><input type="checkbox" onclick="changeParams()" name="hof" id = "hof"> HOF</input></span>
+		<span><input type="checkbox" onclick="changeParams()" name="spvar" id = "spvar"> SP/VAR</input></span>
+		<span><input type="checkbox" onclick="changeParams()" name="graded" id = "graded"> Graded</input></span>
+		<span><select onchange="changeParams()" name="grader" id="grader">
+			<option value="All">Grader</option>
+        <?php
+                include("/var/www/admin.php");
+                $conn = mysqli_connect($dbServername, $publicdbUsername, $publicdbPass, $dbName);
+                if (!$conn) {
+                    die('Could not connect: ' . mysqli_error($conn));
+                }
+                $sql = "select grader from twins_pc group by grader";
+                $result = mysqli_query($conn, $sql);
+                while ($row = mysqli_fetch_array($result)) {
+			if ($row['grader'] != "") {
+                        	echo "<option value=" . $row['grader'] . ">" . $row['grader'] . "</option>";
+			}
+                }
+	        mysqli_close($conn);
+        ?>
+		</select></span>
+		</span>
+
+		<br>
+
+		<!-- -------------------- Searchbar -------------------- -->
+		<input type="text" size="50" onkeyup="changeParams()" name="search" id="search" placeholder="Search"></input>
 
 
 <!--
@@ -170,7 +227,7 @@ Potentially adding sections for serial first/last, as well as grading details (f
 
 
 	</form>
-	<div id="test"></div>
+	<div id="test">Choose some filters to see some results!</div>
 
 	</form>
 </div> <!-- Ends content div -->

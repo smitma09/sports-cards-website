@@ -15,15 +15,15 @@
 	<p>This page holds my list of all the Twins autos, relics, patches, 1/1s, high-grade slabs (9 or higher), manufactured relics, and other such items that I currently have in my collection. If you have a card that is not on this list, I would love to have for it! Please note that this page is currently a work in progress as I move over the content from my old site.</p>
 
 	<p><u>Quick stats</u><br>
-		A quick look at how many autographed, relic, or similar cards I have in my Twins collection:<br>
-		Autographs: 180<br>
+		A quick look at how many autographed, relic, or similar cards I have in my Twins collection. Note to self, write a short script to have this update automatically in the future:<br>
+		Autographs: 181<br>
 		Game used/relics: 103<br>
 		Patches: 32<br>
 		Manufactured relics: 32<br>
 		1/1s: 28<br>
 		Superfractors: 3<br>
 		Graded (9 or better): 5<br>
-		Total Unique Cards: 334</p>
+		Total Unique Cards: 335</p>
 
 	<p><i>A few notes on how I counted the above stats- I counted a card that was both autographed and GUed as 1 auto and 1 GU. Manufactured items include Silks, Manu. Patches, Heritage Stamps, letter patches (unless they are the actual letters off the back of a jersey) and anything else that is created by the card-makers. Cards that have a manufactured letter but are also autoed counts as 1 auto and 1 manufactured item. All categories are counted by number of card (i.e. a dual auto counts as only 1 auto, a triple GU counts as only 1 GU, etc). HOWEVER, if something is autoed and has a patch AND a normal GU, it counts for 1 auto, 1 patch, and 1 GU. Total is only number of different cards- A card that is autographed and GUed only counts as 1 for the total count, even though it counts for 1 auto and 1 GU. Redemptions will be listed below, but will not be added to the stats above until I have the card in hand.</i></p>
 
@@ -146,6 +146,7 @@
 
 	<br>
 
+	2015 Bowman's Best 1995 Bowman's Best Autographs Joe Mauer 95BB-JM (auto)<br>
 	2015 Bowman's Best Best of 2015 Autographs Tyler Jay B15-TJ (auto)<br>
 
 	<br>

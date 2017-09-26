@@ -912,9 +912,10 @@
 	<br>
 
 	<p><div class="title">2013 Topps Mini</div><br>
-	<div class="ssTitle">Base:</div> 88, 102, 107, 216, 335, 346, 446, 451, 460, 467, 528, 547, 575, 590, 596, 629, 636, 656<br>
-	<div class="ssTitle">Gold (#/62):</div> 88, 102, 107, 216, 335, 346, 446, 451, 460, 467, 528, 547, 575, 590, 596, 629, 636, 656<br>
-	<div class="ssTitle">Pink (#/25):</div> 88, 102, 107, 216, 335, 346, 446, 451, 460, 467, 528, 547, 575, 590, 596, 629, 636, 656<br>
+	<div class="ssTitle">Base:</div> 88, 102, 107, 216, 346, 446, 451, 460, 467, 528, 547, 575, 590, 596, 629, 636, 656<br>
+	<div class="ssTitle">Black (#/5)- HAVE:</div> 335<br>
+	<div class="ssTitle">Gold (#/62):</div> 88, 102, 107, 216, 346, 446, 451, 460, 467, 528, 547, 575, 590, 596, 629, 636, 656<br>
+	<div class="ssTitle">Pink (#/25):</div> 88, 102, 107, 216, 346, 446, 451, 460, 467, 528, 547, 575, 590, 596, 629, 636, 656<br>
 	<div class="ssTitle">Chasing History:</div> 9, 10</p>
 
 	<br>
@@ -1017,7 +1018,7 @@
 	<div class="ssTitle">Chrome Prospects Blue Refractors (BCP, #/250):</div> 9, 38, 85<br>
 	<div class="ssTitle">Chrome Prospects Blue Wave Refractors (BCP):</div> 38, 85<br>
 	<div class="ssTitle">Chrome Prospects Gold Refractors (BCP, #/50):</div> 9, 38, 85<br>
-	<div class="ssTitle">Chrome Prospects Orange Refractors (BCP, #/25):</div> 9, 38, 85<br>
+	<div class="ssTitle">Chrome Prospects Orange Refractors (BCP, #/25):</div> 38, 85<br>
 	<div class="ssTitle">Chrome Prospects Purple Refractors (BCP, #/199):</div> 9, 38, 85<br>
 	<div class="ssTitle">Chrome Prospects Red Wave Refractors (BCP, #/25):</div> 9, 38, 85<br>
 	<div class="ssTitle">Prospects Blue (BP):</div>  9a, 38, 85<br>
