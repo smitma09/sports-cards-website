@@ -20,6 +20,7 @@ hr { /* Styles <hr> tags across site */
 }
 .content a {
 	color: red;
+	text-decoration: underline;
 }
 .content a:hover {
 	color: blue;
