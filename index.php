@@ -39,7 +39,7 @@
 	<div class="triple">
 		<div class="tri" id="one">
 			<h3><a href="./galleries">Galleries</a></h3>
-			<p>Browse through my personal collections and see what I have. Choose filters, such as a specific year, set, or player, choose to look at just autographs or relics, and more!.</p>
+			<p>Browse through my personal collections and see what I have. Choose filters, such as a specific year, set, or player, choose to look at just autographs or relics, and more!</p>
 		</div>
 		<div class="tri" id="two">
 			<h3><a href="./wantlists">Want Lists</a></h3>
