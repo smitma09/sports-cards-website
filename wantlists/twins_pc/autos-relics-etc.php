@@ -12,20 +12,17 @@
 <div class="content">
 	<h1>Twins autographs, relics, etc</h1>
 
-	<p>This page holds my list of all the Twins autos, relics, patches, 1/1s, high-grade slabs (9 or higher), manufactured relics, and other such items that I currently have in my collection. If you have a card that is not on this list, I would love to have for it! Please note that this page is currently a work in progress as I move over the content from my old site.</p>
+	<p>This page holds my list of all the Twins autos, relics, patches, 1/1s, manufactured relics, and other such items that I currently have in my collection. If you have a card that is not on this list, I would love to have for it!</p>
 
 	<p><u>Quick stats</u><br>
 		A quick look at how many autographed, relic, or similar cards I have in my Twins collection. Note to self, write a short script to have this update automatically in the future:<br>
-		Autographs: 181<br>
-		Game used/relics: 103<br>
+		Autographs: 183<br>
+		Game used/relics: 106<br>
 		Patches: 32<br>
 		Manufactured relics: 32<br>
 		1/1s: 28<br>
 		Superfractors: 3<br>
-		Graded (9 or better): 5<br>
-		Total Unique Cards: 335</p>
-
-	<p><i>A few notes on how I counted the above stats- I counted a card that was both autographed and GUed as 1 auto and 1 GU. Manufactured items include Silks, Manu. Patches, Heritage Stamps, letter patches (unless they are the actual letters off the back of a jersey) and anything else that is created by the card-makers. Cards that have a manufactured letter but are also autoed counts as 1 auto and 1 manufactured item. All categories are counted by number of card (i.e. a dual auto counts as only 1 auto, a triple GU counts as only 1 GU, etc). HOWEVER, if something is autoed and has a patch AND a normal GU, it counts for 1 auto, 1 patch, and 1 GU. Total is only number of different cards- A card that is autographed and GUed only counts as 1 for the total count, even though it counts for 1 auto and 1 GU. Redemptions will be listed below, but will not be added to the stats above until I have the card in hand.</i></p>
+		Total Unique Cards: 347</p>
 
 	<h1>2017</h1><p>
 	2017 Topps Jackie Robinson Day Commemorative Pin Miguel Sano JRPC-MSA (manu pin)<br>
@@ -41,7 +38,7 @@
 	2017 Topps Tier One Breakout Autograps Copper Ink Max Kepler BOA-MKE #ed 06/25 (auto)<br>
 	2017 Topps Tier One Prime Performers Autograps Copper Ink Rod Carew PPA-RC #ed 11/25 (auto)<br>
 
-</p>
+	</p>
 
 	<hr>
 
@@ -64,6 +61,7 @@
 	<br>
 
 	2016 Donruss Jersey Kings Brian Dozier JK-BD (jersey)<br>
+	2016 Donruss Promising Pros Materials Miguel Sano PPM-MS (relic)<br>
 
 	<br>
 
@@ -159,6 +157,7 @@
 
 	<br>
 
+	2015 Elite 21st Century Signatures Red Trevor May RC 28 #ed 20/21 (auto)<br>
 	2015 Elite Members Only Material Prime Brian Dozier 35 #ed 11/25 (patch)<br>
 
 	<br>
@@ -233,6 +232,10 @@
 	<br>
 
 	2014 Topps Tier One Acclaimed Autographs Silver Ink Ricky Nolasco AA-RNO #ed 05/10 (auto)<br>
+
+	<br>
+
+	2014 Topps Triple Threads Unity Relics Emerald Joe Mauer UJR-JM #ed 16/18 (relic)<br>
 
 	<br>
 
@@ -312,7 +315,7 @@
 
 	<br>
 
-	2013 Topps Chrome Autographs Rookie Variation Oswaldo Arcia (auto)<br>
+	2013 Topps Chrome Autographs Rookie Variation Oswaldo Arcia (auto)<br>(100)
 
 	<br>
 
@@ -516,11 +519,607 @@
 
 	<!-- -------------------- 2009 -------------------- -->
 
+	<h1>2009</h1><p>
+
+	2009 Bowman Blue Jose Mijares 228 #ed 287/500 (auto)<br>
+
+	<br>
+
+	2009 Bowman Chrome Draft Picks & Prospects Printing Plates Cyan Chris Herrmann BDPP-57 #ed 1/1 (BGS 9 Mint, printing plate)<br>
+
+	<br>
+
+	2009 Bowman Draft Picks & Prospects Red Chris Herrmann BDPP-57 #ed 1/1 (encased and authenticated)<br>
+	2009 Bowman Draft Picks & Prospects Printing Plates Black Chris Herrmann BDPP-57 #ed 1/1 (printing plate)<br>
+	2009 Bowman Draft Picks & Prospects Printing Plates Yellow Chris Herrmann BDPP-57 #ed 1/1 (printing plate)<br>
+
+	<br>
+
+	2009 Donruss Elite Extra Edition Evan Bigley 180 #ed 654/819 (auto)<br>
+
+	<br>
+
+	2009 SP Authentic By the Letter Joe Nathan BTL-NA "O" #ed 20/25 (auto letter patch)<br>
+
+	<br>
+
+	2009 SP Legendary Cuts Generations Memorabilia Justin Morneau/Paul Molitor GM-MM (dual jersey)<br>
+
+	<br>
+
+	2009 Sweet Spot Classic Signatures Black Baseball Black Stitch Silver Ink Kent Hrbek SC-KH #ed 03/14 (auto)<br>
+	2009 Sweet Spot Signatures Red Stitch Blue Ink Joe Nathan S-JN #ed 240/299 (auto)<br>
+	2009 Sweet Spot Swatches Triple Joe Mauer/Carlton Fisk/Brian McCann TS-FMM (triple jersey)<br>
+
+	<br>
+
+	2009 Topps 206 Mini Framed Autographs Glen Perkins FMA-6 (auto)<br>
+
+	<br>
+
+	2009 Topps Allen & Ginter Autographs Denard Span AGA-DS (auto, could use replacement)<br>
+	2009 Topps Allen & Ginter Relics Joe Mauer AGR-JM (jersey)<br>
+
+	<br>
+
+	2009 Topps Silk Collection Joe Crede S-236 #ed 34/50 (silk)<br>
+
+	<br>
+
+	2009 Topps Update All-Star Stitches Joe Nathan AST-41 (jersey)<br>
+
+	<br>
+
+	2009 Ultimate Collection Ultimate Patch Joe Mauer UP-JM #ed 12/35 (patch)<br>
+
+	<br>
+
+	2009 Upper Deck Ballpark Collection Jersey-Autographs Matt Garza JA-MG (jersey-auto)<br>
+
+	<br>
+
+	2009 Upper Deck Goodwin Champions Memorabilia Justin Morneau GCM-MO (jersey, can use replacement)<br>
+
+	<br>
+
+	2009 Upper Deck Goudey Memorabilia Denard Span GM-DS (jersey)<br>
+
+	<br>
+
+	2009 Upper Deck Icons Future Foundations Jerseys Francisco Liriano FF-FL (jersey)<br>
+	2009 Upper Deck Icons Immortal Lettermen Paul Molitor Letter "R" IL-PM #ed 21/40 (letter patch)<br>
+	2009 Upper Deck Icons Letterman Joe Nathan Letter "J" IL-JN #ed 32/45 (letter patch)<br>
+	2009 Upper Deck Icons Lettermen Joe Nathan Letter "N" IL-JN #ed 01/45 (letter patch)<br>
+
+	<br>
+
+	2009 Upper Deck X Jerseys Delmon Young UDXJ-DY (jersey)<br>
+	2009 Upper Deck X Jerseys Jason Kubel UDXJ-JK (jersey)<br>
+	2009 Upper Deck X Jerseys Joe Nathan UDXJ-JN (jersey)</p>
+
+	<hr>
+
 	<!-- -------------------- 2008 -------------------- -->
+
+	<h1>2008</h1><p>
+
+	2008 Bowman Signs of the Future Jose Mijares SOF-JM (auto)<br>
+
+	<br>
+
+	2008 Bowman Chrome Prospects Brian Dinkelman BCP283 (auto)<br>
+
+	<br>
+
+	2008 Bowman Sterling Delmon Young BS-DY (jersey)<br>
+
+	<br>
+
+	2008 Razor Letterman 20 Carlos Gutierrez Letter "G" CG-G #ed 16/20 (auto letter patch)<br>
+	2008 Razor Letterman 20 Carlos Gutierrez Letter "U" CG-U #ed 20/20 (auto letter patch)<br>
+	2008 Razor Lettermen 20 Carlos Gutierrez Letter "T" CG-T #ed 13/20 (auto letter patch)<br>
+	2008 Razor Lettermen 20 Carlos Gutierrez Letter "I" CG-I #ed 17/20 (auto letter patch)<br> (200)
+	2008 Razor Lettermen 20 Carlos Gutierrez Letter "E" CG-E1 #ed 14/20 (auto letter patch)<br>
+	2008 Razor Letterman 20 Carlos Gutierrez Letter "R" CG-R2 #ed 03/20 (auto letter patch)<br>
+	2008 Razor Lettermen 20 Carlos Gutierrez Letter "E" CG-E2 #ed 20/20 (auto letter patch)<br>
+
+	<br>
+
+	2008 SP Legendary Cuts Generations Memorabilia Harmon Killebrew/Travis Hafner GEN-HK (dual jersey)<br>
+	2008 SP Legendary Cuts Legendary Memorabilia 50 Paul Molitor LM-PM2 #ed 19/50 (relic)<br>
+
+	<br>
+
+	2008 SPx Winning Materials Limited Patch SPx Justin Morneau WM-JM #ed 18/99 (3-color patch)<br>
+	2008 SPx Winning Materials Limited Patch Team Initials Joe Nathan WM-JN #ed 46/50 (patch)<br>
+	2008 SPx Winning Materials MLB 125 Francisco Liriano WM-FL #ed 020/175 (jersey)<br>
+	2008 SPx Winning Materials Dual Limited Patch Team Initials 25 Justin Morneau WM-MO #ed 21/25 (dual patch)<br>
+	2008 SPx Winning Materials Dual Team Initials 25 Joe Nathan WM-JN #ed 08/25 (dual jersey)<br>
+	2008 SPx Winning Materials Triple SPx 15 Francisco Liriano WM-FL #ed 04/15 (triple jersey)<br>
+	2008 SPx Winning Materials Triple Team Initials 10 Francisco Liriano WM-FL #ed 08/10 (triple jersey)<br>
+
+	<br>
+
+	2008 Sweet Spot Swatches Joe Mauer SS-JM (jersey)<br>
+
+	<br>
+
+	2008 Stadium Club Beam Team Autographs Francisco Liriano BTA-FL (auto)<br>
+
+	<br>
+
+	2008 Upper Deck UD Game Jersey Michael Cuddyer UDJ-CU (jersey)<br>
+
+	<br>
+
+	2008 Upper Deck A Piece of History Stadium Scenes Jersey Red Joe Mauer SS-32 (jersey)<br>
+	2008 Upper Deck A Piece of History Timeless Moments Jersey Justin Morneau TM-29 (jersey)<br>
+	
+	<br>
+
+	2008 Upper Deck Ballpark Collection Johan Santana/Cole Hamels 163 (dual jersey)<br>
+	2008 Upper Deck Ballpark Collection Teammate Timelines Quad Memorabilia Justin Morneau, Joe Mauer, Francisco Liriano, Denard Span 272 #ed 135/500 (quad jersey)<br>
+
+	<br>
+
+	2008 Upper Deck Goudey Autographs Glen Perkins GG-GP (auto)<br>
+	2008 Upper Deck Goudey Memorabilia Joe Mauer M-JM (jersey)<br>
+
+	<br>
+
+	2008 Upper Deck Premier Patches 2 Position Gold Torii Hunter PP2-HU #ed 31/50 (dual patch)<br>
+
+	<br>
+
+	2008 Upper Deck USA Baseball National Team The Letters Kyle Gibson "N" NTL-KG #ed 6/6 (letter patch)<br>
+
+	<br>
+
+	2008 Upper Deck X Memorabilia Jason Kubel UDXM-KU (jersey)<br>
+	2008 Upper Deck X Memorabilia Matt Garza UDXM-MG (jersey)</p>
+
+	<hr>
 
 	<!-- -------------------- 2007 -------------------- -->
 
-	<p>The rest is a work in progress, will get everything moved over soon</p>
+	<h1>2007</h1><p>
+
+	2007 Artifacts Antiquity Artifacts Justin Morneau AA-MO #ed 078/199 (jersey)<br>
+	2007 Artifacts Divisional Artifacts Limited Justin Morneau DA-MO #ed 099/130 (jersey)<br>
+
+	<br>
+
+	2007 Bowman Printing Plates Magenta Michael Cuddyer 94 #ed 1/1 (printing plate)<br>
+
+	<br>
+
+	2007 Bowman Heritage Pieces of Greatness Joe Mauer JM (bat)<br>
+
+	<br>
+
+	2007 SP Legendary Cuts Masterful Material Kirby Puckett MM-KP (jersey)<br>
+
+	<br>
+
+	2007 Donruss Elite Extra Edition Turn of the Century Autographs Paul Kelly 36 #ed 497/500 (auto)<br>
+
+	<br>
+
+	2007 Exquisite Rookie Signatures Kevin Slowey 185 #ed 074/199 (auto/quad jersey)<br>
+
+	<br>
+
+	2007 Just Minors Just Autographs Joe Benson JA-03 (IP/TTM auto)<br>
+
+	<br>
+
+	2007 SP Rookie Edition Autographs Glen Perkins 137 (auto)<br>
+
+	<br>
+
+	2007 SPx Winning Materials 199 SPx Joe Nathan WM-JM #ed 022/199 (jersey)<br>
+	2007 SPx Young Star Signatures Justin Morneau YS-MO (auto)<br>
+
+	<br>
+
+	2007 Sweet Spot Signatures Bat Barrel Blue Ink Glen Perkins SS-GP #ed 07/60 (auto)<br>
+	2007 Sweet Spot Sweet Beginnings Signatures Glen Perkins 117 (auto/manu. mini helmet)<br>
+
+	<br>
+
+	2007 Sweet Spot Classic Memorabilia Paul Molitor CM-PM (relic)<br>
+	2007 Sweet Spot Classic Signatured Red Stitch Gold Ink Tony Oliva SPS-TO #ed 160/175 (auto)<br>
+
+	<br>
+
+	2007 TriStar Prospects Plus Farm Hands Autographs Ben Revere FH-BR (auto)<br>
+
+	<br>
+
+	2007 Topps Allen & Ginter Autographs Justin Morneau AGA-JM (auto)<br>
+
+	<br>
+
+	2007 Topps Heritage Real Ones Autographs Justin Morneau ROA-JM (auto)<br>
+
+	<br>
+
+	2007 Topps Triple Threads Justin Morneau 128a #ed 35/99 (auto triple bat "★★★")<br>
+	2007 Topps Triple Threads Justin Morneau 128b #ed 83/99 (auto, triple bat "MIN")<br>
+	2007 Topps Triple Threads Emerald Justin Morneau 128b #ed 42/50 (auto, triple bat "MIN")<br>
+	2007 Topps Triple Threads Relics Sepia Justin Morneau TTR-55 #ed 21/27 (triple bat, "MVP")<br>
+
+	<br>
+
+	2007 Ultimate Collection America's Pastime Memorabilia Patches Justin Morneau PM-JM #ed 25/50 (patch)<br>
+	2007 Ultimate Collection Ultimate Star Materials Justin Morneau SM-JU2 (jersey)<br>
+
+	<br>
+
+	2007 Upper Deck Elements Elemental Autographs Jesse Crain AU-JC (auto)<br>
+
+	<br>
+
+	2007 Upper Deck Goudey Sport Royalty Autographs Justin Morneau SR-JM (auto)<br>(250)
+
+	<br>
+
+	2007 Upper Deck Masterpieces Captured on Canvas Francisco Liriano CC-FL (jersey)<br>
+	2007 Upper Deck Masterpieces Captured on Canvas Joe Nathan CC-JN (jersey)<br>
+	2007 Upper Deck Masterpieces Captured on Canvas Johan Santana CC-SA (jersey)<br>
+	2007 Upper Deck Masterpieces Stroke of Genius Glen Perkins SG-GP (auto)<br>
+
+	<br>
+
+	2007 Upper Deck Premier Patches Dual Gold Johan Santana PP2-SA #ed 06/20 (dual patch)<br>
+	2007 Upper Deck Premier Patches Triple Gold Justin Morneau PP3-MO #ed 20/33 (triple patch)<br>
+	2007 Upper Deck Premier Patches Triple Gold Johan Santana PP3-SA #ed 40/57 (triple patch)<br>
+	2007 Upper Deck Premier Patches Triple Platinum Johan Santana PP3-SA #ed 3/5 (triple patch)<br>
+
+	<br>
+
+	2007 Upper Deck Spectrum Swatches Gold Justin Morneau SSW-MO #ed 70/75 (jersey)<br>
+
+	2007 Upper Deck Star Signings Jason Kubel SS-JK (auto)</p>
+
+	<hr>
+
+	<!-- -------------------- 2006 -------------------- -->
+
+	<h1>2006</h1><p>
+
+	2006 Artifacts Auto-Facts Signatures Joe Nathan AF-JN #ed 341/800 (auto)<br>
+	2006 Artifacts Auto-Facts Signatures Tony Oliva AF-TO #ed 251/300 (auto)<br>
+
+	<br>
+
+	2006 SP Authentic By the Letter Justin Morneau BL-MO "M" #ed 16/75 (auto letter patch)<br>
+	2006 SP Authentic By the Letter Justin Morneau BL-MO "O" #ed 48/75 (auto letter patch)<br>
+	2006 SP Authentic By the Letter Justin Morneau BL-MO "N"#ed 71/75 (auto letter patch)<br>
+	2006 SP Authentic By the Letter Justin Morneau BL-MO "A"#ed 56/75 (auto letter patch)<br>
+
+	<br>
+
+	2006 SPx Boof Bonser RC 152 #ed 405/999 (auto)<br>
+
+	<br>
+
+	2006 Sweet Spot Signatures Justin Morneau 174 #ed 155/275 (auto)<br>
+	2006 Sweet Spot Update Sweet Beginnings Swatches Justin Morneau SW-JM (quad jersey)<br>
+
+	<br>
+
+	2006 Topps Allen & Ginter Relics Johan Santana AGR-JS (jersey)<br>
+
+	<br>
+
+	2006 Ultimate Collection Ultimate Numbers Patches Jason Kubel UN-KU #ed 35/35 (dual patch)<br>
+	2006 Ultimate Collection Ultimate Numbers Patches Torii Hunter UN-HU #ed 06/35 (dual patch)<br>
+	2006 Ultimate Collection Ultimate Tandem Materials Johan Santana/Joe Mauer UT-SM #ed 24/25 (dual jersey)<br>
+
+	<br>
+
+	2006 Upper Deck Epic Materials Teal Harmon Killebrew EM-HK #ed 04/99 (jersey)<br>
+
+	<br>
+
+	2006 Upper Deck Ovation Center Stage Signatures Michael Cuddyer CS-MC #ed 03/25 (auto)</p>
+
+	<hr>
+
+	<!-- -------------------- 2005 -------------------- -->
+
+	<h1>2005</h1><p>
+
+	2005 Absolute Memorabilia Team Tandems Swatch Single Spectrum Prime Black David Ortiz/JC Romero TT-74 (dual patch)<br>
+	2005 Absolute Memorabilia Team Six Swatch Single Johan Santana/Joe Mays/Justin Morneau/Torii Hunter/Shannon Stewart/Michael Cuddyer) TS-41 #ed 075/150 (6 relics)<br>
+
+	<br>
+
+	2005 Diamond Kings Diamond Cuts Materials Shannon Stewart CD-44 (bat)<br>
+	2005 Diamond Kings Materials Framed Blue Johan Santana 362 #ed 007/100 (dual jersey)<br>
+
+	<br>
+
+	2005 Donruss Timber & Threads Combo Material Torii Hunter TT-39 (bat/jersey)<br>
+
+	<br>
+
+	2005 Finest Refractors Glen Perkins 143 #ed 320/399 (auto)<br>
+
+	<br>
+
+	2005 Flair Cuts & Glory Patches Shannon Stewart SS #ed  47/50 (auto, patch)<br>
+
+	<br>
+
+	2005 Fleer Authentix Auto Mezzanine Lew Ford AA-LF #ed 31/40 (auto)<br>
+
+	<br>
+
+	2005 Leaf Game Collection Torii Hunter 8 (bat)<br>
+
+	<br>
+
+	2005 Leaf Limited TNT Prime Justin Morneau 80 #ed 033/100 (bat-patch)<br>
+	2005 Leaf Limited Threads Jersey Prime Justin Morneau 80 #ed 009/100 (patch)<br>
+
+	<br>
+
+	2005 Prime Patches Team Materials Triple Team Logo Patch Doug Mientkiewicz/JC Romero/Joe Mays TM-26 #ed 21/74 (triple patch)<br>
+
+	<br>
+
+	2005 Reflections Fabric Jersey Johan Santana FR-JS (jersey)<br>
+	2005 Reflections Fabric Patch Johan Santana FRP-JS (patch)<br>
+
+	<br>
+
+	2005 Sweet Spot Majestic Materials Joe Mauer MM-JM (jersey)<br>
+
+	<br>
+
+	2005 Timeless Treasures Home Road Gamers Dual Tony Oliva G-25 #ed 29/50 (dual jersey)<br>
+
+	<br>
+
+	2005 Topps Printing Plates Magenta Glen Perkins RC 672 #ed 1/1 (printing plate)<br>
+
+	<br>
+
+	2005 Topps Gallery Penmanship Autographs Jason Bartlett GPA-JB (auto)<br>
+
+	<br>
+
+	2005 Topps Total Printing Plates Yellow Shannon Stewart 205  #ed 1/1 (printing plate)<br>
+
+	<br>
+
+	2005 Topps Update All-Star Stitches Joe Nathan ASA-JN (jersey)<br>
+
+	<br>
+
+	2005 Topps Update Signature Moves Glen Perkins SM-GP #ed 034/275 (auto)<br>
+
+	<br>
+
+	2005 Ultimate Collection Ultimate Materials Patch Justin Morneau UG-MO #ed 03/25 (3-color patch)<br>
+
+	<br>
+
+	2005 Ultimate Signature MVP's Dual Autograph Harmon Killebrew/Rod Carew MVP-KC #ed 097/100 (dual auto)<br>
+
+	<br>
+
+	2005 Upper Deck Classics Classic Materials Jack Morris MA-JM (relic)<br>
+
+	2005 Zenith Z-Bats Shannon Stewart ZB-22 (bat)</p>
+
+	<hr>
+
+	<!-- -------------------- 2004 -------------------- -->
+
+	<h1>2004</h1><p>
+
+	2004 Bowman Draft Signs of the Future Terry Tiffee SOF-TT (auto)<br>(300)
+
+	<br>
+
+	2004 E-X Clearly Authentics Patch Black Torii Hunter CA-TH2 #ed 06/75 (patch)<br>
+
+	<br>
+
+	2004 Finest Relics Torii Hunter FR-TKH2 (jersey)<br>
+
+	<br>
+
+	2004 Just Minors Autographs Trevor Plouffe 63 (auto, print run 825 but not numbered)<br>
+
+	<br>
+
+	2004 Leaf Certified Materials Mirror White Shannon Stewart 175 #ed 146/200 (jersey)<br>
+
+	<br>
+
+	2004 Reflections Jacque Jones 150 (jersey)<br>
+	2004 Reflections Shannon Stewart 169 (jersey)<br>
+
+	<br>
+
+	2004 Skybox Limited Edition History of the Draft Autographs Torii Hunter HDA-TH #ed 058/199 (auto)<br>
+
+	<br>
+
+	2004 Topps Retired Signature Autographs Tom Brunansky TA-TB (auto)<br>
+
+	<br>
+
+	2004 Upper Deck Etching Etched in Time Autographs Jacque Jones ET-JJ #ed 118/375 (auto)</p>
+
+	<hr>
+
+	<!-- -------------------- 2003 -------------------- -->
+
+	<h1>2003</h1><p>
+
+	2003 Bowman Draft Picks & Prospects Fabric of the Future Jersey Relics Joe Mauer FF-JM (jersey)<br>
+
+	<br>
+
+	2003 SPx Young Stars Autograph Jersey Jacque Jones YS-JJ #ed/1260 (auto-relic)<br>
+
+	<br>
+
+	2003 Bowman Jason Kubel RC 246 (IP/TTM auto)<br>
+
+	<br>
+
+	2003 Fleer Authentix Game Jersey Torii Hunter JA-TH (jersey)<br>
+
+	<br>
+
+	2003 Sweet Spot (Sweet Beginnings) Lew Ford 196 #ed 1,049/1,430 (manu. rookie patch)<br>
+	2003 Sweet Spot Patches Torii Hunter TH-1 (patch)<br>
+
+	<br>
+
+	2003 Topps Autographs Eric Milton TA-EM (auto)<br>
+
+	<br>
+
+	2003 Topps Pristine Pristine Borders Relics Cristian Guzman PB-CG (bat)<br>
+
+	<br>
+
+	2003 Upper Deck Patch Collection Lew Ford RC 153 (patch)</p>
+
+	<hr>
+
+	<!-- -------------------- 2002 -------------------- -->
+
+	<h1>2002</h1><p>
+
+	2002 Bowman Draft Signs of the Future Jake Mauer SOF-JM (auto)<br>
+	2002 Bowman Draft Signs of the Future Justin Morneau SOF-JEM (auto)<br>
+
+	<br>
+
+	2002 Bowman Heritage Autographs Joe Mauer BHA-JM (auto)<br>
+
+	<br>
+
+	2002 SP Authentic Prospect Signatures Dustan Mohr P-DM (auto)<br>
+
+	<br>
+
+	2002 Topps 206 Autographs Christian Guzman TA-CG (auto)<br>
+
+	<br>
+
+	2002 Upper Deck 40-Man Super Swatch Eric Milton S-EM #ed 149/250 (jersey)</p>
+
+	<hr>
+
+	<!-- -------------------- 2001 -------------------- -->
+
+	<h1>2001</h1><p>
+
+	2001 Fleer Showcase Brad Radke 49 (on-card auto, non certified)<br>
+
+	<br>
+
+	2001 SP Top Prospects Game Used Bat Michael Cuddyer B-MC (bat)<br>
+
+	<br>
+
+	2001 Topps Archives Autographs Jim Kaat 136 (auto)</p>
+
+	<hr>
+
+	<!-- -------------------- 2000 -------------------- -->
+
+	<h1>2000</h1><p>
+
+	2000 Fleer Club 3,000 Memorabilia Paul Molitor PM-3 #ed 327/975 (jersey)<br>
+
+	<br>
+
+	2000 Team Best Rookies Autographs Chad Allen (auto)<br>
+
+	<br>
+
+	2000 Topps Traded Autographs Ruben Salazar TTA-75 (auto)</p>
+
+	<hr>
+
+	<!-- -------------------- 1999 -------------------- -->
+
+	<h1>1999</h1><p>
+
+	1999 Fleer Mystique Fresh Ink Doug Mientkiewicz hand-#ed 250/500 (auto)<br>
+
+	<br>
+
+	1999 Hillshire Farm Home Run Heroes Harmon Killebrew 2 (auto)<br>
+
+	<br>
+
+	1999 Skybox Premium Autographics Matt Lawton 33 (auto)<br>
+
+	<br>
+
+	1999 SP Authentic Chirography Corey Koskie CK (auto)<br>
+
+	<br>
+
+	1999 Upper Deck HoloGRFX UD Authentics Signatures Corey Koskie CK (auto)<br>
+
+	<br>
+
+	1999 Upper Deck MVP ProSign Corey Koskie CK (auto)</p>
+
+	<hr>
+
+	<!-- -------------------- 1996 -------------------- -->
+
+	<h1>1996</h1><p>
+
+	1996 Leaf Signature Extended Autographs Eddie Guardado 65 (auto)<br>
+	1996 Leaf Signature Extended Autographs Chip Hale 68 (auto)</p>
+
+	<hr>
+
+	<!-- -------------------- 1995 -------------------- -->
+
+	<h1>1995</h1><p>
+
+	1995 Signature Rookies Tetrad Autographs Torii Hunter 50 #ed 4,906/5,000 (auto)</p>
+
+	<hr>
+
+	<!-- -------------------- 1995 -------------------- -->
+
+	<h1>1994</h1><p>
+
+	1994 Signature Rookies Draft Picks Authentic Signatures John Schroeder 85 #ed 116/7750 (auto)</p>
+
+	<hr>
+
+	<!-- -------------------- 1989 -------------------- -->
+
+	<h1>1989</h1><p>
+
+	1989 Topps Kirby Puckett 403 (IP/TTM auto)</p>
+
+	<hr>
+
+	<!-- -------------------- 1984 -------------------- -->
+
+	<h1>1984</h1><p>
+
+	1984 Topps Kent Hrbek, Ken Schrom 11 (dual IP/TTM auto)</p>
+
+	<hr>
 
 </div> <!-- End content tag -->
 </body>

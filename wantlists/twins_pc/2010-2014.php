@@ -76,7 +76,7 @@
 	<i>Completed- Fire</i><br>
 	<div class="ssTitle">Base:</div> 13, 134, 208<br>
 	<div class="ssTitle">Refractors (#ed/500):</div> 13, 134, 203<br>
-	<div class="ssTitle">Black Static Refractors (#/35):</div> 13, 134, 203, 208<br>
+	<div class="ssTitle">Black Static Refractors (#/35):</div> 13, 134, 208<br>
 	<div class="ssTitle">Blue Refractors (#/250):</div> 13, 134, 203<br>
 	<div class="ssTitle">Bubble Refractors (#/99):</div> 13, 134, 203, 208<br>
 	<div class="ssTitle">Gold Refractors (#50):</div> 13, 134, 203<br>

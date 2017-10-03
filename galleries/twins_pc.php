@@ -126,6 +126,12 @@
 			if ($row['subset'] != "") {
 				if ($row['subset'] == "Minis A&G Back") {
 					echo '<option value="Minis A%26G Back">Minis A&G Back</option>';
+				} elseif ($row['subset'] == "Timber & Threads Combo Material") {
+					echo '<option value="Timber %26 Threads Combo Material">Timber & Threads Combo Material</option>';
+				} elseif ($row['subset'] == "Cuts & Glory Patches") {
+					echo '<option value="Cuts %26 Glory Patches">Cuts & Glory Patches</option>';
+				} elseif ($row['subset'] == "Black & White") {
+					echo '<option value="Black %26 White">Black & White</option>';
 				} else {
 					echo '<option value="' . $row['subset'] . '">' . $row['subset'] . '</option>';
 				}

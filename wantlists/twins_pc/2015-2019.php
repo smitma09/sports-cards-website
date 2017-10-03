@@ -202,12 +202,11 @@
 	<br>
 
 	<p><div class="title">2017 Topps Inception</div><br>
-	<i>Complete- Magenta</i><br>
+	<i>Complete- Magenta, Purple</i><br>
 	<div class="ssTitle">Base:</div> 17<br>
 	<div class="ssTitle">Blue (#/25):</div> 60, 81<br>
 	<div class="ssTitle">Green:</div> 81<br>
 	<div class="ssTitle">Orange (#/50):</div> 17<br>
-	<div class="ssTitle">Purple (#/150):</div> 17<br>
 	<div class="ssTitle">Red (#/75):</div> 17, 81</p>
 
 	<br>

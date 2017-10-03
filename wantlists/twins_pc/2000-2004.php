@@ -829,11 +829,11 @@
 	<br>
 
 	<p><div class="title">2003 Absolute Memorabilia</div><br>
+	<i>Complete- Tools of the Trade Spectrum (#/100)</i><br>
 	<div class="ssTitle">Base:</div> 24, 44, 75, 158 (#/1500), 198 (#/1500)<br>
 	<div class="ssTitle">Spectrum (#/100):</div> 24, 44, 63, 75, 158, 198<br>
 	<div class="ssTitle">Portraits Promos:</div> 19<br>
 	<div class="ssTitle">Tools of the Trade:</div> 34<br>
-	<div class="ssTitle">Tools of the Trade Spectrum (#/100):</div> 34<br>
 	<div class="ssTitle">Total Bases:</div> 23<br>
 	</p>
 
@@ -944,19 +944,6 @@
 
 	<br>
 
-	<p><div class="title">2003 Donruss Signature</div><br>
-	<div class="ssTitle">Base:</div> 50, 51, 143<br>
-	<div class="ssTitle">Century Proofs (#/100):</div> 50, 51, 143<br>
-	<div class="ssTitle">Legends of Summer (#/250):</div> 18, 26<br>
-	<div class="ssTitle">Legends of Summer Century (#/100):</div> 18, 26<br>
-	<div class="ssTitle">Notable Nicknames (#/750):</div> 2<br>
-	<div class="ssTitle">Notable Nicknames Century (#/100):</div> 2<br>
-	<div class="ssTitle">Team Trademarks (#/500):</div> 37<br>
-	<div class="ssTitle">Team Trademarks Century (#/100):</div> 37<br>
-	</p>
-
-	<br>
-
 	<p><div class="title">2003 Donruss Elite</div><br>
 	<div class="ssTitle">Base:</div> 36, 37, 38, 40, 41, 42, 167, 184<br>
 	<div class="ssTitle">Aspirations:</div> 36 (#/78), 37 (#/53), 38 (#/85), 40 (#/84), 41 (#/89), 42 (#/52), 167 (#/63), 184 (#/26)<br>
@@ -970,7 +957,7 @@
 
 	<p><div class="title">2003 Donruss Elite Extra Edition</div><br>
 	<div class="ssTitle">Base (#/900):</div> 46, 48<br>
-	<div class="ssTitle">Aspirations:</div> 46 (#/76), 48 (#/82)<br>
+	<div class="ssTitle">Aspirations:</div> 46 (#/76)<br>
 	</p>
 
 	<br>
@@ -980,6 +967,19 @@
 	<div class="ssTitle">Stat Line Career:</div> 33 (#/133), 34 (#/177)<br>
 	<div class="ssTitle">Stat Line Season:</div> 33 (#/59), 34 (#/80)<br>
 	</p>
+
+	<p><div class="title">2003 Donruss Signature</div><br>
+	<div class="ssTitle">Base:</div> 50, 51, 143<br>
+	<div class="ssTitle">Century Proofs (#/100):</div> 50, 51, 143<br>
+	<div class="ssTitle">Legends of Summer (#/250):</div> 18, 26<br>
+	<div class="ssTitle">Legends of Summer Century (#/100):</div> 18, 26<br>
+	<div class="ssTitle">Notable Nicknames (#/750):</div> 2<br>
+	<div class="ssTitle">Notable Nicknames Century (#/100):</div> 2<br>
+	<div class="ssTitle">Team Trademarks (#/500):</div> 37<br>
+	<div class="ssTitle">Team Trademarks Century (#/100):</div> 37<br>
+	</p>
+
+	<br>
 
 	<br>
 
