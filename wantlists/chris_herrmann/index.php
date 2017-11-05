@@ -15,8 +15,8 @@
 
 	<p>Here I have listed each Herrmann card that I don't already have a copy of. Only non 1/1s are listed in this section to help keep things a bit cleaner. If you happen to have any of these, please let me know! Also, remember that I'd like your Herrmann Twins cards even if they aren't on this list!</p>
 
-	<p><font color='red'>Completion excluding 1/1s: 53/72 (73.61%)<br>
-	Completion including 1/1: 61/91 (67.03%)</font></p>
+	<p><font color='red'>Completion excluding 1/1s: 54/72 (75.00%)<br>
+	Completion including 1/1: 62/91 (68.13%)</font></p>
 
 	<p>2017 Topps Now 303 (PR 127)<br><br>
 
@@ -24,7 +24,6 @@
 
 	2016 Topps Update Toys-R-Us Purple 6<br><br>
 
-	2013 Topps Factory Set Orange 335 #ed/230<br>
 	2013 Topps Pink 335 #ed/50<br>
 	2013 Topps Toys-R-Us Purple Border 335<br><br>
 
@@ -85,6 +84,7 @@
 	2016 Topps Update Pink 6 #ed 02/50<br>
 	2016 Topps Update Pink 6 #ed 41/50<br>
 	2016 Topps Update Rainbow Foil 6<br>
+	2016 Topps Update Vault Blank Back 6 #ed 1/1<br>
 
 	2013 Panini America's Pastime 226 RC #ed 056/125<br>
 	2013 Panini America's Pastime 226 RC #ed 112/125<br>
@@ -99,7 +99,7 @@
 	2013 Panini America's Pastime Gold 226 #ed 15/25<br>
 	2013 Panini America's Pastime Gold 226 #ed 19/25<br><br>
 
-	2013 Panini Prizm 244 RC (x2)<br>
+	2013 Panini Prizm 244 RC (x4)<br>
 	2013 Panini Prizm Prizms 244<br>
 	2013 Panini Prizm Blue Pulsar 244<br>
 	2013 Panini Prizm Prizms Blue 244 (x2)<br>
@@ -117,13 +117,14 @@
 	2013 Select Prizm 199 #ed 44/99 AUTO<br>
 	2013 Select Prizm Gold 199 # 13/25 AUTO<br><br>
 
-	2013 Topps 335 RC (x4)<br>
+	2013 Topps 335 RC (x8)<br>
 	2013 Topps Black 335 #ed 19/62<br>
 	2013 Topps Black 335 #ed 55/62<br>
 	2013 Topps Camo 335 #ed 10/99<br>
 	2013 Topps Camo 335 #ed 37/99<br>
 	2013 Topps Camo 335 #ed 82/99<br>
 	2013 Topps Emerald 335<br>
+	2013 Topps Factory Set Orange 335 #ed 184/230<br>
 	2013 Topps Gold 335 #ed 1,906/2,013<br>
 	2013 Topps Printing Plates Yellow #ed 1/1<br>
 	2013 Topps Sapphire 335 #ed 01/25<br>

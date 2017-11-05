@@ -149,7 +149,7 @@
 	<div class="ssTitle">Top Prospects Red Ice (TP, #/150):</div> 1, 2, 19, 69<br>
 	<div class="ssTitle">Top Prospects White Ice (TP, #/???):</div> 1, 2, 19, 69<br>
 	<div class="ssTitle">Top Prospects Chrome (CTP):</div> 1, 2, 19<br>
-	<div class="ssTitle">Top Prospects Chrome Refractors (CTP):</div> 1, 2, 19, 69<br>
+	<div class="ssTitle">Top Prospects Chrome Refractors (CTP):</div> 1, 2, 69<br>
 	<div class="ssTitle">Top Prospects Chrome Black Refractors (CTP, #/75):</div> 1, 2, 19, 69<br>
 	<div class="ssTitle">Top Prospects Chrome Black Wave Refractors (CTP):</div> 1, 2, 19, 69<br>
 	<div class="ssTitle">Top Prospects Chrome Blue Refractors (CTP, #/399):</div> 1, 2, 19, 69<br>
@@ -394,26 +394,12 @@
 	<br>
 
 	<p><div class="title">2014 Topps High Tek</div><br>
-	<i>You'll notice that I'm listing all parallels for this set, even though some are numbered to less than 25. This is because I think I am going to attempt to put together the rainbow for this set. So, if you have any of the cards below (all Mauer cards), please let me know! Because these parallels are hard for me to keep track of, black means I still need it, red means I have one already. This way I can keep track of what's what. Thanks much!</i><br>
-	<div class="ssTitle">Large Shattered:</div> JM<br>
-	<div class="ssTitle">Large Scribble:</div> JM<br>
-	<div class="ssTitle">Laser Ice:</div> JM<br>
-	<div class="ssTitle">Small Maze:</div> JM<br>
-	<div class="ssTitle">Spiral:</div> JM<br>
-	<div class="ssTitle">Stripes:</div> JM<br>
 	<div class="ssTitle">Wave:</div> JM<br>
-	<div class="ssTitle">Wave Black and White Diffractor (#ed/15):</div> JM<br>
-	<div class="ssTitle">Wave Blue Dots Diffractor (#ed/5):</div> JM<br>
-	<div class="ssTitle">Wave Charcoal Diffractor (#ed/1):</div> JM<br>
-	<div class="ssTitle">Wave Clouds Diffractor 25 (#ed/25):</div> JM<br>
-	<div class="ssTitle">Wave Disco Diffractor 50 (#ed/50):</div> JM<br>
-	<div class="ssTitle">Wave Gold Diffractor 99 (#ed/99):</div> JM<br>
-	<div class="ssTitle">Wave Ice Diffractor 75 (#ed/75):</div> JM<br>
-	<div class="ssTitle">Wave Press Proofs Black (#ed/1):</div> JM<br>
-	<div class="ssTitle">Wave Press Proofs Cyan (#ed/1):</div> JM<br>
-	<div class="ssTitle">Wave Press Proofs Magenta (#ed/1):</div> JM<br>
-	<div class="ssTitle">Wave Press ProofsYellow (#ed/1):</div> JM<br>
-	<div class="ssTitle">Wave Red Storm Diffractor (#ed/10):</div> JM</p>
+	<div class="ssTitle">Wave Ice Diffractors (#/75):</div> JM<br>
+	<div class="ssTitle">Wave Clouds Diffractors (#/25):</div> JM<br>
+	<div class="ssTitle">Circuit Board:</div> JM<br>
+	<div class="ssTitle">Cracked Ice:</div> JM<br>
+	<div class="ssTitle">Stripes:</div> JM</p>
 
 	<br>
 
@@ -1268,7 +1254,8 @@
 	<div class="ssTitle">Black:</div> 91, 100<br>
 	<div class="ssTitle">Chrome Refractors:</div> 97, 100<br>
 	<div class="ssTitle">Chrome Black Refractors:</div> 97, 100<br>
-	<div class="ssTitle">1963 Buybacks:</div> Need all- List coming soon</p>
+	<div class="ssTitle">1963 Buybacks:</div> Need all- List coming soon<br>
+	<div class="ssTitle">Ad Panels:</div> 6 (Benson, Chambers, Brown, Taylor, Jay, Dodgers), 9 (Casilla, Craig, Gonzalez), 12 (Craig, Gonzalez, Benson, Chambers, Brown, Taylor), 21 (Gonzalez, Benson, Chambers, Brown, Taylor, Jay), 26 (Hernandez, Roberts, Fratus, Hughes, Liddi, Waldop), 38 (Lombardozzi, Florimon, Dominguez, Mesoraco, Quentin, Gibson), 42 (Mauer, Red Sox, Gregg), 43 (Maybin, Kimbrel, Casilla), 50 (NL Batting Leaders, Mauer, Red Sox), 71 (Torrealba, Dempester, Lombardozzi, Florimon, Dominguez, Mesoraco)</p>
 
 	<br>
 

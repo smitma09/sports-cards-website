@@ -32,7 +32,7 @@
 
 	<h1>Welcome</h1>
 
-	<p>Welcome to my sports cards website! This is a project I've been working on for quite some time, and something I'm pretty proud of. I've combined two of my biggest interests (computer science/coding, and sports cards collecting) and created this site from scratch. Given the nature of coding and web development, this is pretty much always a work in progress and never truly "complete". That said, I've gotten to a point where I'm pretty happy with everything and can keep working on improvements and new content rather than big subprojects. Here's a final summary sentence to put a bit of a wrap but invite people to explore the rest of the site.</p>
+	<p>Welcome to my sports cards website! This is a project I've been working on for quite some time, and something I'm pretty proud of. I've combined two of my biggest interests (computer science/coding, and sports cards collecting) and created this site from scratch. Given the nature of coding and web development, this is will pretty much perpetually be a work in progress and never truly "complete". That said, I've gotten to a point where I'm happy with everything to go live. I'll still be working on improvements and new content, but I was exicted to be able to share this project with the world and wanted to get it out as soon as possible. So, take a look around and let me know what you think! I'm always looking for feedback as to how I can make this better. Thanks for visiting my site!</p>
 
 	<hr>
 
@@ -52,6 +52,7 @@
 	</div>
 
 	<p>This is a short little paragraph with some text to help see how things line up. This is a short little paragraph with some text to help see how things line up. This is a short little paragraph with some text to help see how things line up. This is a short little paragraph with some text to help see how things line up. This is a short little paragraph with some text to help see how things line up.</p>
+	
 
 
 </div>

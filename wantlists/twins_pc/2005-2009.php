@@ -13,6 +13,13 @@
 
 	<p>This page will be used to list all of my wants from sets in the 2000s (2005-2009). This is currently a work in progress as a slowly move my set wants over from my old website to this one. Please note that autographs and relics will not be included on these wants- I still would be interested in them if you have any, but I'm not listing them here in order to save space. Cards numbered to less than 25 will also not be listed. I would like those as well, so please let me know if you have any available.</p>
 
+	<ul>
+		<li><a href="#2008">2008</a></li>
+		<li><a href="#2007">2007</a></li>
+		<li><a href="#2006">2006</a></li>
+		<li><a href="#2005">2005</a></li>
+	</ul>
+
 	<h1>2009</h1>
 
 	<br>
@@ -353,7 +360,7 @@
 
 	<hr>
 
-	<h1>2008</h1>
+	<h1 id="2008">2008</h1>
 
 	<br>
 
@@ -763,7 +770,7 @@
 
 	<hr>
 
-	<h1>2007</h1>
+	<h1 id="2007">2007</h1>
 
 	<br>
 
@@ -776,8 +783,7 @@
 	<br>
 
 	<p><div class="title">2007 Artifacts</div><br>
-	<div class="ssTitle">Base:</div> 18, 19, 20, 71<br>
-	</p>
+	<div class="ssTitle">Base:</div> 18, 19, 20, 71</p>
 
 	<br>
 
@@ -786,11 +792,16 @@
 	<div class="ssTitle">Blue (#/500):</div> 8, 35, 77, 94, 117, 150, 179, 228<br>
 	<div class="ssTitle">Gold:</div> 8, 35, 77, 117, 150, 179, 228<br>
 	<div class="ssTitle">Orange (#/250):</div> 8, 35, 77, 94, 117, 150, 179, 228<br>
+	<div class="ssTitle">Chrome Prospects (BC):</div> 19, 24, 38, 76, 79<br>
+	<div class="ssTitle">Chrome Prospects Refractors (BC, #/500):</div> 19, 24, 27, 38, 76, 79, 95, 109<br>
+	<div class="ssTitle">Chrome Prospects Blue Refractors (BC, #/150):</div> 19, 24, 27, 38, 76, 79, 95, 109<br>
+	<div class="ssTitle">Chrome Prospects Gold Refractors (BC, #/50):</div> 19, 24, 27, 38, 76, 79, 95, 109<br>
+	<div class="ssTitle">Chrome Prospects Orange Refractors (BC, #/25):</div> 19, 24, 27, 38, 76, 79, 95, 109<br>
+	<div class="ssTitle">Chrome Prospects X-Fractors (BC, #/275):</div> 19, 24, 27, 38, 76, 79, 95, 109<br>
 	<div class="ssTitle">Prospects (BP):</div> 19, 76, 79, 95, 109<br>
 	<div class="ssTitle">Prospects Blue (#/500, BP):</div> 19, 24, 27, 38, 76, 79, 95, 109<br>
 	<div class="ssTitle">Prospects Gold (BP):</div> 24, 27, 38, 76, 79, 95, 109<br>
-	<div class="ssTitle">Prospects Orange (#/250, BP):</div> 19, 24, 27, 38, 76, 79, 95, 109<br>
-	</p>
+	<div class="ssTitle">Prospects Orange (#/250, BP):</div> 19, 24, 27, 38, 76, 79, 95, 109</p>
 
 	<br>
 
@@ -801,50 +812,34 @@
 	<div class="ssTitle">Gold Refractors (#/50):</div> 8, 35, 77, 94, 150, 179, 202<br>
 	<div class="ssTitle">Orange Refractors (#/25):</div> 8, 35, 77, 94, 150, 179, 202<br>
 	<div class="ssTitle">X-Fractors (#/250):</div> 8, 35, 77, 94, 150, 179, 202<br>
-	<div class="ssTitle">Prospects (BC):</div> 19, 24, 38, 76, 79, 139, 175<br>
-	<div class="ssTitle">Prospects Refractors (BC, #/500):</div> 19, 24, 27, 38, 76, 79, 95, 109, 139, 175<br>
-	<div class="ssTitle">Prospects Blue Refractors (BC, #/150):</div> 19, 24, 27, 38, 76, 79, 95, 109, 139, 175<br>
-	<div class="ssTitle">Prospects Gold Refractors (BC, #/50):</div> 19, 24, 27, 38, 76, 79, 95, 109, 139, 175<br>
-	<div class="ssTitle">Prospects Orange Refractors (BC, #/25):</div> 19, 24, 27, 38, 76, 79, 95, 109, 139, 175<br>
-	<div class="ssTitle">Prospects X-Fractors (BC, #/275 or 250):</div> 19, 24, 27, 38, 76, 79, 95, 109, 139, 175<br>
-	</p>
-
-	<br>
-
-	<p><div class="title">2007 Bowman Chrome Draft</div><br>
-	<div class="ssTitle">Base:</div> 10<br>
-	<div class="ssTitle">Refractors:</div> 10, 51<br>
-	<div class="ssTitle">Blue Refractors (#/199):</div> 10, 51<br>
-	<div class="ssTitle">Gold Refractors (#/50):</div> 10, 51<br>
-	<div class="ssTitle">Orange Refractors (#/25):</div> 10, 51<br>
-	<div class="ssTitle">X-fractors (#/299):</div> 10, 51<br>
-	<div class="ssTitle">Draft Picks (BDPP):</div> 32<br>
-	<div class="ssTitle">Draft Picks Refractors (BDPP):</div> 32<br>
-	<div class="ssTitle">Draft Picks Blue Refractors (#/199, BDPP):</div> 32<br>
-	<div class="ssTitle">Draft Picks Gold Refractors (#/50, BDPP):</div> 32<br>
-	<div class="ssTitle">Draft Picks Orange Refractors (#/25, BDPP):</div> 32<br>
-	<div class="ssTitle">Draft Picks X-fractors (#/299, BDPP):</div> 32<br>
-	<div class="ssTitle">Future's Game Prospects (BDPP):</div> 104<br>
-	<div class="ssTitle">Future's Game Prospects Refractors (BDPP):</div> 104<br>
-	<div class="ssTitle">Future's Game Prospects Blue Refractors (#/199, BDPP):</div> 104<br>
-	<div class="ssTitle">Future's Game Prospects Gold Refractors (#/50, BDPP):</div> 104<br>
-	<div class="ssTitle">Future's Game Prospects Orange Refractors (#/25, BDPP):</div> 104<br>
-	<div class="ssTitle">Future's Game Prospects X-fractors (#/299, BDPP):</div> 104<br>
-	</p>
+	<div class="ssTitle">Prospects (BC):</div> 139, 175<br>
+	<div class="ssTitle">Prospects Refractors (BC, #/500):</div> 139, 175<br>
+	<div class="ssTitle">Prospects Blue Refractors (BC, #/150):</div> 139, 175<br>
+	<div class="ssTitle">Prospects Gold Refractors (BC, #/50):</div> 139, 175<br>
+	<div class="ssTitle">Prospects Orange Refractors (BC, #/25):</div> 139, 175<br>
+	<div class="ssTitle">Prospects X-Fractors (BC, #/250):</div> 139, 175</p>
 
 	<br>
 
 	<p><div class="title">2007 Bowman Draft</div><br>
-	<div class="ssTitle">Base:</div> 51<br>
-	<div class="ssTitle">Blue (#/399):</div> 10, 51<br>
-	<div class="ssTitle">Gold:</div> 10, 51<br>
-	<div class="ssTitle">Draft Picks (BDPP):</div> 32<br>
-	<div class="ssTitle">Draft Picks Blue (#/399, BDPP):</div> 32<br>
-	<div class="ssTitle">Draft Picks Gold (BDPP):</div> 32<br>
-	<div class="ssTitle">Future's Game Prospects (BDPP):</div> 104<br>
-	<div class="ssTitle">Future's Game Prospects Blue (#/399, BDPP):</div> 104<br>
-	<div class="ssTitle">Future's Game Prospects Gold (BDPP):</div> 104<br>
-	</p>
+	<div class="ssTitle">Base (BDP):</div> 51<br>
+	<div class="ssTitle">Blue (BDP, #/325):</div> 10, 51<br>
+	<div class="ssTitle">Gold (BDP):</div> 10, 51<br>
+	<div class="ssTitle">Chrome (BDP):</div> 10, 51<br>
+	<div class="ssTitle">Chrome Refractors (BDP) :</div> 10, 51<br>
+	<div class="ssTitle">Chrome Blue Refractors (BDP, #/199) :</div> 10, 51<br>
+	<div class="ssTitle">Chrome Gold Refractors (BDP, #/50) :</div> 10, 51<br>
+	<div class="ssTitle">Chrome Orange Refractors (BDP, #/25) :</div> 10, 51<br>
+	<div class="ssTitle">Chrome X-Fractors (BDP, #/299) :</div> 10, 51<br>
+	<div class="ssTitle">Draft Picks (BDPP):</div> 32, 104<br>
+	<div class="ssTitle">Draft Picks Blue (#/325, BDPP):</div> 32, 104<br>
+	<div class="ssTitle">Draft Picks Gold (BDPP):</div> 32, 104<br>
+	<div class="ssTitle">Draft Picks Chrome (BDPP):</div> 32, 104<br>
+	<div class="ssTitle">Draft Picks Chrome Refractors (BDPP):</div> 32, 104<br>
+	<div class="ssTitle">Draft Picks Chrome Blue Refractors (BDPP, #/199):</div> 32, 104<br>
+	<div class="ssTitle">Draft Picks Chrome Gold Refractors (BDPP, #/50):</div> 32, 104<br>
+	<div class="ssTitle">Draft Picks Chrome Orange Refractors (BDPP, #/25):</div> 32, 104<br>
+	<div class="ssTitle">Draft Picks Chrome X-Fractors (BDPP, #/299):</div> 32, 104</p>
 
 	<br>
 
@@ -853,8 +848,7 @@
 	<div class="ssTitle">Black (#/52):</div> 58, 80, 95, 115, 143, 215, 238a, 239b (No signature SP)<br>
 	<div class="ssTitle">Rainbow Foil:</div> 58, 80, 95, 115, 143, 215, 239b (No signature SP)<br>
 	<div class="ssTitle">Prospects:</div> 59, 66<br>
-	<div class="ssTitle">Prospects Black (#/52):</div> 59, 66<br>
-	</p>
+	<div class="ssTitle">Prospects Black (#/52):</div> 59, 66</p>
 
 	<br>
 
@@ -866,15 +860,13 @@
 	<div class="ssTitle">Prospects (#/499, BBP):</div> 21<br>
 	<div class="ssTitle">Prospects Blue (#/99, BBP):</div> 21<br>
 	<div class="ssTitle">Prospects Gold (#/50, BBP):</div> 21<br>
-	<div class="ssTitle">Prospects Green (#/249, BBP):</div> 21<br>
-	</p>
+	<div class="ssTitle">Prospects Green (#/249, BBP):</div> 21</p>
 
 	<br>
 
 	<p><div class="title">2007 Exquisite Collection Rookie Signatures</div><br>
 	<div class="ssTitle">Base (#/99):</div> 10, 23, 24, 25, 79<br>
-	<div class="ssTitle">Gold (#/75):</div> 10, 23, 24, 25, 79<br>
-	</p>
+	<div class="ssTitle">Gold (#/75):</div> 10, 23, 24, 25, 79</p>
 
 	<br>
 
@@ -895,8 +887,7 @@
 	<div class="ssTitle">Rookie Finest Moments X-Fractors:</div> DO, FL, JM<br>
 	<div class="ssTitle">Rookie Photo Variation:</div> 148 (Wind-up), 148 (Jacket)<br>
 	<div class="ssTitle">Rookie Photo Variation Refractors:</div> 148 (Wind-up), 148 (Jacket)<br>
-	<div class="ssTitle">Rookie Photo Variation X-Fractors:</div> 148 (Wind-up), 148 (Jacket)<br>
-	</p>
+	<div class="ssTitle">Rookie Photo Variation X-Fractors:</div> 148 (Wind-up), 148 (Jacket)</p>
 
 	<br>
 
@@ -907,40 +898,39 @@
 	<div class="ssTitle">Mini Die-Cuts Gold:</div> 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 336, 341, 387<br>
 	<div class="ssTitle">Perfect 10:</div> JS<br>
 	<div class="ssTitle">Soaring Stars:</div> JM, JS<br>
-	<div class="ssTitle">Year in Review:</div> FL<br>
-	</p>
+	<div class="ssTitle">Year in Review:</div> FL</p>
+
+	<br>
+
+	<p><div class="title">2007 Pepsi</div><br>
+	<div class="ssTitle">Base:</div> 52, 70, 77, 109, 160, 218</p>
 
 	<br>
 
 	<p><div class="title">2007 SP Authentic</div><br>
 	<div class="ssTitle">Base:</div> 77, 79<br>
-	<div class="ssTitle">Authentic Power:</div> 28, 34, 48<br>
-	</p>
+	<div class="ssTitle">Authentic Power:</div> 28, 34, 48</p>
 
 	<br>
 
 	<p><div class="title">2007 SP Legendary Cuts</div><br>
-	<div class="ssTitle">Base:</div> 44, 143, 144<br>
-	</p>
+	<div class="ssTitle">Base:</div> 44, 143, 144</p>
 
 	<br>
 
 	<p><div class="title">2007 SP Rookie Edition</div><br>
-	<div class="ssTitle">Base:</div> 147, 179, 191, 225, 228<br>
-	</p>
+	<div class="ssTitle">Base:</div> 147, 179, 191, 225, 228</p>
 
 	<br>
 
 	<p><div class="title">2007 SPx</div><br>
-	<div class="ssTitle">Base:</div> 25, 26, 27, 28<br>
-	</p>
+	<div class="ssTitle">Base:</div> 25, 26, 27, 28</p>
 
 	<br>
 
 	<p><div class="title">2007 Sweet Spot</div><br>
 	<div class="ssTitle">Base (#/850):</div> 51, 52, 58, 96<br>
-	<div class="ssTitle">Classic (#/575):</div> 51, 68, 135, 140, 141, 142<br>
-	</p>
+	<div class="ssTitle">Classic (#/575):</div> 51, 68, 135, 140, 141, 142</p>
 
 	<br>
 
@@ -961,8 +951,7 @@
 	<div class="ssTitle">Opening Day Team vs. Team:</div> 12<br>
 	<div class="ssTitle">Own the Game:</div> 21<br>
 	<div class="ssTitle">Wal-Mart:</div> 22, 30<br>
-	<div class="ssTitle">World Domination:</div> 2<br>
-	</p>
+	<div class="ssTitle">World Domination:</div> 2</p>
 
 	<br>
 
@@ -970,8 +959,7 @@
 	<div class="ssTitle">Base:</div> 102, 108, 162<br>
 	<div class="ssTitle">Black Back:</div> 37, 99, 102<br>
 	<div class="ssTitle">Chrome (#/1,952):</div> 41<br>
-	<div class="ssTitle">Chrome Refractors (#/52):</div> 41<br>
-	</p>
+	<div class="ssTitle">Chrome Refractors (#/52):</div> 41</p>
 
 	<br>
 
@@ -985,8 +973,7 @@
 	<div class="ssTitle">Mini Bazooka:</div> 12, 61, 73, 165, 171, 231, 253, 261<br>
 	<div class="ssTitle">Mini Black:</div> 12, 61, 73, 165, 231, 253, 261<br>
 	<div class="ssTitle">Mini Black No Number:</div> 12 Santana, 61 Morneau, 73 Punto, 165 Mauer, 171 Castillo, 231 Perkins, 253 Cuddyer, 261 Hunter<br>
-	<div class="ssTitle">Mini No Number:</div> 12 Santana, 61 Morneau, 73 Punto, 165 Mauer, 171 Castillo, 231 Perkins, 253 Cuddyer, 261 Hunter<br>
-	</p>
+	<div class="ssTitle">Mini No Number:</div> 12 Santana, 61 Morneau, 73 Punto, 165 Mauer, 171 Castillo, 231 Perkins, 253 Cuddyer, 261 Hunter</p>
 
 	<br>
 
@@ -1001,8 +988,7 @@
 	<div class="ssTitle">Generation Now Refractors:</div> 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 213, 214, 215, 216<br>
 	<div class="ssTitle">Generation Now Blue Refractors:</div> 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 213, 214, 215, 216<br>
 	<div class="ssTitle">Generation Now Red Refractors:</div> 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 213, 214, 215, 216<br>
-	<div class="ssTitle">Generation Now White Refractors:</div> 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 213, 214, 216<br>
-	</p>
+	<div class="ssTitle">Generation Now White Refractors:</div> 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 213, 214, 216</p>
 
 	<br>
 
@@ -1017,8 +1003,7 @@
 	<div class="ssTitle">Silver Blue:</div> 10, 31, 72, 117<br>
 	<div class="ssTitle">Silver Bronze:</div> 10, 31, 72, 117<br>
 	<div class="ssTitle">Silver Gold:</div> 10, 31, 72, 117<br>
-	<div class="ssTitle">Silver Red:</div> 10, 31, 72, 117<br>
-	</p>
+	<div class="ssTitle">Silver Red:</div> 10, 31, 72, 117</p>
 
 	<br>
 
@@ -1027,8 +1012,7 @@
 	<div class="ssTitle">Chrome:</div> 84, 105<br>
 	<div class="ssTitle">Chrome Black Refractors:</div> 84, 105<br>
 	<div class="ssTitle">New Age Performers:</div> 9<br>
-	<div class="ssTitle">Then and Now:</div> 3, 5<br>
-	</p>
+	<div class="ssTitle">Then and Now:</div> 3, 5</p>
 
 	<br>
 
@@ -1039,15 +1023,14 @@
 	<u>Francisco Liriano</u><br>
 	<div class="ssTitle">65 Base (#/150):</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12<br>
 	<div class="ssTitle">65 Black (#/29):</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12<br>
-	<div class="ssTitle">66 Base (#/150):</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144<br>
-	<div class="ssTitle">66 Black (#/29):</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144<br>
+	<div class="ssTitle">66 Base (#/150):</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144<br>
+	<div class="ssTitle">66 Black (#/29):</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144<br>
 	<u>Joe Mauer Moments and Milestones</u><br>
 	<div class="ssTitle">114 Base (#/150):</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144<br>
 	<div class="ssTitle">114 Black (#/29):</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144<br>
 	<u>Johan Santana Moments and Milestones</u><br>
 	<div class="ssTitle">147 Base (#/150):</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20<br>
-	<div class="ssTitle">147 Black (#/29):</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20<br>
-	</p>
+	<div class="ssTitle">147 Black (#/29):</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20</p>
 
 	<br>
 
@@ -1055,15 +1038,13 @@
 	<i>Completed- Diamond Stars</i><br>
 	<div class="ssTitle">Base:</div> 43, 91, 98, 112, 152, 181, 216<br>
 	<div class="ssTitle">Gold (#/2,007):</div> 43, 91, 98, 112, 152, 181, 216<br>
-	<div class="ssTitle">Puzzle:</div> 7, 8<br>
-	</p>
+	<div class="ssTitle">Puzzle:</div> 7, 8</p>
 
 	<br>
 
 	<p><div class="title">2007 Topps Sterling</div><br>
 	<div class="ssTitle">Base (#/250):</div> 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 152, 153<br>
-	<div class="ssTitle">Framed White Suede (#/50):</div> 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 152, 153<br>
-	</p>
+	<div class="ssTitle">Framed White Suede (#/50):</div> 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 152, 153</p>
 
 	<br>
 
@@ -1072,8 +1053,7 @@
 	<div class="ssTitle">Emerald:</div> 26, 29, 116, 125<br>
 	<div class="ssTitle">Gold:</div> 26, 29, 116, 125<br>
 	<div class="ssTitle">Sapphire:</div> 26, 29, 116, 125<br>
-	<div class="ssTitle">Sepia:</div> 26, 29, 116, 125<br>
-	</p>
+	<div class="ssTitle">Sepia:</div> 26, 29, 116, 125</p>
 
 	<br>
 
@@ -1084,14 +1064,12 @@
 	<div class="ssTitle">Chrome Refractors:</div> 8, 74, 90, 147, 148, 159, 159b (is this card real?)<br>
 	<div class="ssTitle">Chrome Black Refractors:</div> 8, 74, 90, 147, 148, 159, 159b (is this card real?)<br>
 	<div class="ssTitle">Cabinet:</div> JEM, JM, JS<br>
-	<div class="ssTitle">Silks:</div> JM, JS, TH<br>
-	</p>
+	<div class="ssTitle">Silks:</div> JM, JS, TH</p>
 
 	<br>
 
 	<p><div class="title">2007 Twins Topps (MIN before number on back)</div><br>
-	<div class="ssTitle">Base:</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14<br>
-	</p>
+	<div class="ssTitle">Base:</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14</p>
 
 	<br>
 
@@ -1100,14 +1078,12 @@
 	<div class="ssTitle">1st Edition:</div> 29, 173, 231, 236, 266, 285, 295<br>
 	<div class="ssTitle">Copper (#/56):</div> 29, 173, 231, 236, 266, 285, 295<br>
 	<div class="ssTitle">Gold (#/2007):</div> 29, 173, 231, 236, 266, 285, 295<br>
-	<div class="ssTitle">Red Back:</div> 29, 173, 231, 236, 266, 285, 295<br>
-	</p>
+	<div class="ssTitle">Red Back:</div> 29, 173, 231, 236, 266, 285, 295</p>
 
 	<br>
 
 	<p><div class="title">2007 Ultimate Collection</div><br>
-	<div class="ssTitle">Base (#/450):</div> 76, 77, 78, 79<br>
-	</p>
+	<div class="ssTitle">Base (#/450):</div> 76, 77, 78, 79</p>
 
 	<br>
 
@@ -1119,8 +1095,7 @@
 	<div class="ssTitle">Faces of the Game:</div> HU<br>
 	<div class="ssTitle">Feel the Game:</div> JM, SA<br>
 	<div class="ssTitle">Hitting Machines:</div> JM<br>
-	<div class="ssTitle">Strike Zone:</div> JS<br>
-	</p>
+	<div class="ssTitle">Strike Zone:</div> JS</p>
 
 	<br>
 
@@ -1137,14 +1112,12 @@
 	<div class="ssTitle">Postseason Predictors:</div> 17<br>
 	<div class="ssTitle">Star Power:</div> JM, JS, JU<br>
 	<div class="ssTitle">Star Rookies:</div> 3<br>
-	<div class="ssTitle">Triple Play Performers:</div> JS<br>
-	</p>
+	<div class="ssTitle">Triple Play Performers:</div> JS</p>
 
 	<br>
 
 	<p><div class="title">2007 Upper Deck Elements</div><br>
-	<div class="ssTitle">Base:</div> 25, 66, 67, 108, 109, 150, 151, 192, 193, 234, 235<br>
-	</p>
+	<div class="ssTitle">Base:</div> 25, 66, 67, 108, 109, 150, 151, 192, 193, 234, 235</p>
 
 	<br>
 
@@ -1154,8 +1127,7 @@
 	<div class="ssTitle">First Pitch Foundations:</div> GP<br>
 	<div class="ssTitle">Momentum Swing:</div> JM<br>
 	<div class="ssTitle">Prospects (BP):</div> 19, 24, 27, 38, 76, 79, 95, 109<br>
-	<div class="ssTitle">Pennant Chasers:</div> JM<br>
-	</p>
+	<div class="ssTitle">Pennant Chasers:</div> JM</p>
 
 	<br>
 
@@ -1166,8 +1138,7 @@
 	<div class="ssTitle">All-Star Futures (#/500):</div> CA, GP<br>
 	<div class="ssTitle">Cy Young Futures (#/500):</div> GP<br>
 	<div class="ssTitle">Rookie Dated Debut (#/999):</div> AC, GP<br>
-	<div class="ssTitle">Two for the Bigs (#/99):</div> GP<br>
-	</p>
+	<div class="ssTitle">Two for the Bigs (#/99):</div> GP</p>
 
 	<br>
 
@@ -1176,8 +1147,7 @@
 	<div class="ssTitle">Red Back:</div> 63, 68, 95, 134, 145, 181<br>
 	<div class="ssTitle">Diamond Stars:</div> 5, 6, 15, 26, 38, 63, 64, 73, 84, 96<br>
 	<div class="ssTitle">Double Play:</div> 9, 33, 55, 101, 121, 129, 189<br>
-	<div class="ssTitle">Sport Royalty:</div> JM, SA<br>
-	</p>
+	<div class="ssTitle">Sport Royalty:</div> JM, SA</p>
 
 	<br>
 
@@ -1193,16 +1163,14 @@
 	<div class="ssTitle">Ionised (#/50):</div> 35, 52, 73<br>
 	<div class="ssTitle">Pinot Red (#/75):</div> 35, 52, 73<br>
 	<div class="ssTitle">Rusted (#/50):</div> 35, 52, 73<br>
-	<div class="ssTitle">Serious Black (#/99):</div> 52, 73<br>
-	</p>
+	<div class="ssTitle">Serious Black (#/99):</div> 52, 73</p>
 
 	<br>
 
 	<p><div class="title">2007 Upper Deck Premier</div><br>
 	<div class="ssTitle">Base (#/99 or #/199):</div> 25, 33, 98, 106, 112, 119, 179, 180, 216, 216<br>
 	<div class="ssTitle">Bronze (#/75):</div> 216, 217<br>
-	<div class="ssTitle">Gold (#/49):</div> 216, 217<br>
-	</p>
+	<div class="ssTitle">Gold (#/49):</div> 216, 217</p>
 
 	<br>
 
@@ -1215,13 +1183,12 @@
 	<div class="ssTitle">Rookie Retrospectrum:</div> BB, FL, JK, MG<br>
 	<div class="ssTitle">Rookie Retrospectrum Red (/99):</div> BB, FL, JK, MG<br>
 	<div class="ssTitle">Season Retrospectrum:</div> JM, MC, MO, SA<br>
-	<div class="ssTitle">Season Retrospectrum Red (/99):</div> MC, MO, SA<br>
-	</p>
+	<div class="ssTitle">Season Retrospectrum Red (/99):</div> MC, MO, SA</p>
 
 
 	<hr>
 
-	<h1>2006</h1>
+	<h1 id="2006">2006</h1>
 
 	<br>
 
@@ -1234,8 +1201,7 @@
 	<br>
 
 	<p><div class="title">2006 Artifacts</div><br>
-	<div class="ssTitle">Base:</div> 50, 51, 52, 53, 54, 55, 56, 57, 58, 59<br>
-	</p>
+	<div class="ssTitle">Base:</div> 50, 51, 52, 53, 54, 55, 56, 57, 58, 59</p>
 
 	<br>
 
@@ -1247,8 +1213,7 @@
 	<div class="ssTitle">Prospects (B):</div> 37, 41<br>
 	<div class="ssTitle">Prospects Blue (B, #/500):</div> 37, 41<br>
 	<div class="ssTitle">Prospects Gold (B):</div> 37, 41<br>
-	<div class="ssTitle">Prospects White (B, #/120):</div> 37, 41<br>
-	</p>
+	<div class="ssTitle">Prospects White (B, #/120):</div> 37, 41</p>
 
 	<br>
 
@@ -1264,45 +1229,38 @@
 	<div class="ssTitle">Prospects Blue Refractors (BC, #/150):</div> 37, 41, 142<br>
 	<div class="ssTitle">Prospects Gold Refractors (BC, #/50):</div> 37, 41, 142<br>
 	<div class="ssTitle">Prospects Orange Refractors (BC, #/25):</div> 37, 41, 142<br>
-	<div class="ssTitle">Prospects X-Fractors (BC, #/250):</div> 37, 41, 142<br>
-	</p>
-
-	<br>
-
-	<p><div class="title">2006 Bowman Chrome Draft</div><br>
-	<div class="ssTitle">Base:</div> 10, 19<br>
-	<div class="ssTitle">Refractors:</div> 10<br>
-	<div class="ssTitle">Blue Refractors (#/199):</div> 10, 19<br>
-	<div class="ssTitle">Gold Refractors (#/50):</div> 10, 19<br>
-	<div class="ssTitle">Orange Refractors (#/25):</div> 10, 19<br>
-	<div class="ssTitle">X-Fractors (#/299):</div> 10, 19<br>
-	<div class="ssTitle">Draft Picks:</div> 4, 57<br>
-	<div class="ssTitle">Draft Picks Refractors:</div> 4, 18, 26, 57<br>
-	<div class="ssTitle">Draft Picks Blue Refractors (#/199):</div> 4, 18, 26, 57<br>
-	<div class="ssTitle">Draft Picks Gold Refractors (#/50):</div> 4, 18, 26, 57<br>
-	<div class="ssTitle">Draft Picks Orange Refractors (#/25):</div> 4, 18, 26, 57<br>
-	<div class="ssTitle">Draft Picks Blue X-Fractors (#/299):</div> 4, 18, 26, 57<br>
-	<div class="ssTitle">Future's Game Prospects:</div> 20<br>
-	<div class="ssTitle">Future's Game Prospects Refractors:</div> 20<br>
-	<div class="ssTitle">Future's Game Prospects Blue Refractors (#/199):</div> 20<br>
-	<div class="ssTitle">Future's Game Prospects Gold Refractors (#/50):</div> 20<br>
-	<div class="ssTitle">Future's Game Prospects Orange Refractors (#/25):</div> 20<br>
-	<div class="ssTitle">Future's Game Prospects X-Fractors (#/299):</div> 20<br>
-	</p>
+	<div class="ssTitle">Prospects X-Fractors (BC, #/250):</div> 37, 41, 142</p>
 
 	<br>
 
 	<p><div class="title">2006 Bowman Draft</div><br>
-	<div class="ssTitle">Base:</div> 19<br>
-	<div class="ssTitle">Gold:</div> 10, 19<br>
-	<div class="ssTitle">White (#/225):</div> 10, 19<br>
-	<div class="ssTitle">Draft Picks:</div> 4, 18, 26, 57<br>
-	<div class="ssTitle">Draft Picks Gold:</div> 4, 18, 26, 57<br>
-	<div class="ssTitle">Draft Picks White (#/225):</div> 4, 18, 26, 57<br>
-	<div class="ssTitle">Future's Game Prospects:</div> 20<br>
-	<div class="ssTitle">Future's Game Prospects Gold:</div> 20<br>
-	<div class="ssTitle">Future's Game Prospects White (#/225):</div> 20<br>
-	</p>
+	<div class="ssTitle">Base (BDP):</div> 19<br>
+	<div class="ssTitle">Gold (BDP):</div> 10, 19<br>
+	<div class="ssTitle">White (BDP, #/225):</div> 10, 19<br>
+	<div class="ssTitle">Chrome (BDP):</div> 10, 19<br>
+	<div class="ssTitle">Chrome Refractors (BDP):</div> 10<br>
+	<div class="ssTitle">Chrome Blue Refractors (BDP, #/199):</div> 10, 19<br>
+	<div class="ssTitle">Chrome Gold Refractors (BDP, #/50):</div> 10, 19<br>
+	<div class="ssTitle">Chrome Orange Refractors (BDP, #/25):</div> 10, 19<br>
+	<div class="ssTitle">Chrome X-Fractors (BDP, #/299):</div> 10, 19<br>
+	<div class="ssTitle">Draft Picks (DP):</div> 4, 18, 26, 57<br>
+	<div class="ssTitle">Draft Picks Gold (DP):</div> 4, 18, 26, 57<br>
+	<div class="ssTitle">Draft Picks White (DP, #/225):</div> 4, 18, 26, 57<br>
+	<div class="ssTitle">Draft Picks Chrome:</div> 4, 57<br>
+	<div class="ssTitle">Draft Picks Chrome Refractors:</div> 4, 18, 26, 57<br>
+	<div class="ssTitle">Draft Picks Chrome Blue Refractors (#/199):</div> 4, 18, 26, 57<br>
+	<div class="ssTitle">Draft Picks Chrome Gold Refractors (#/50):</div> 4, 18, 26, 57<br>
+	<div class="ssTitle">Draft Picks Chrome Orange Refractors (#/25):</div> 4, 18, 26, 57<br>
+	<div class="ssTitle">Draft Picks Chrome Blue X-Fractors (#/299):</div> 4, 18, 26, 57<br>
+	<div class="ssTitle">Future's Game Prospects (FG):</div> 20<br>
+	<div class="ssTitle">Future's Game Prospects Gold (FG):</div> 20<br>
+	<div class="ssTitle">Future's Game Prospects White (FG, #/225):</div> 20<br>
+	<div class="ssTitle">Future's Game Prospects Chrome (FG):</div> 20<br>
+	<div class="ssTitle">Future's Game Prospects Chrome Refractors (FG):</div> 20<br>
+	<div class="ssTitle">Future's Game Prospects Chrome Blue Refractors (FG, #/199):</div> 20<br>
+	<div class="ssTitle">Future's Game Prospects Chrome Gold Refractors (FG, #/50):</div> 20<br>
+	<div class="ssTitle">Future's Game Prospects Chrome Orange Refractors (FG, #/25):</div> 20<br>
+	<div class="ssTitle">Future's Game Prospects Chrome X-Fractors (FG, #/299):</div> 20</p>
 
 	<br>
 
@@ -1313,8 +1271,7 @@
 	<div class="ssTitle">Mini:</div> 23, 53, 63, 138, 168, 210, 214, 218, 220, 261, 270<br>
 	<div class="ssTitle">White:</div> 14, 23, 53, 63, 138, 168, 210, 214, 218, 220, 261, 270<br>
 	<div class="ssTitle">Prospects Mini:</div> 62, 87<br>
-	<div class="ssTitle">Prospects White:</div> 62, 87<br>
-	</p>
+	<div class="ssTitle">Prospects White:</div> 62, 87</p>
 
 	<br>
 
@@ -1324,8 +1281,7 @@
 	<div class="ssTitle">Blue (#/249):</div> 7, 33<br>
 	<div class="ssTitle">Prospects:</div> 47<br>
 	<div class="ssTitle">Prospects Black (#/99):</div> 47<br>
-	<div class="ssTitle">Prospects Blue (#/249):</div> 47<br>
-	</p>
+	<div class="ssTitle">Prospects Blue (#/249):</div> 47</p>
 
 	<br>
 
@@ -1335,8 +1291,7 @@
 	<div class="ssTitle">Black Refractors (#/25):</div> BON, DG, FL<br>
 	<div class="ssTitle">Prospects:</div> CMT<br>
 	<div class="ssTitle">Prospects Refractors (#/199):</div> CMT<br>
-	<div class="ssTitle">Prospects Black Refractors (#/25):</div> CMT<br>
-	</p>
+	<div class="ssTitle">Prospects Black Refractors (#/25):</div> CMT</p>
 
 	<br>
 
@@ -1350,8 +1305,7 @@
 	<div class="ssTitle">X-Fractors (#/250):</div> 28, 48, 62, 84<br>
 	<div class="ssTitle">Black X-Fractors (#/25):</div> 28, 48, 62, 84<br>
 	<div class="ssTitle">Blue Refractors (#/150):</div> 28, 48, 62, 84<br>
-	<div class="ssTitle">Green Refractors (#/50):</div> 28, 48, 62, 84<br>
-	</p>
+	<div class="ssTitle">Green Refractors (#/50):</div> 28, 48, 62, 84</p>
 
 	<br>
 
@@ -1361,8 +1315,7 @@
 	<div class="ssTitle">Legacy Emerald (#/150):</div> 52, 55, 59, 106, 132, 135, 165<br>
 	<div class="ssTitle">Hot Gloves (#/150):</div> 4, 30<br>
 	<div class="ssTitle">Hot Numbers:</div> 16, 29<br>
-	<div class="ssTitle">Wave of the Future:</div> 14<br>
-	</p>
+	<div class="ssTitle">Wave of the Future:</div> 14</p>
 
 	<br>
 
@@ -1375,8 +1328,7 @@
 	<div class="ssTitle">Stars of Tomorrow:</div> 5<br>
 	<div class="ssTitle">Team Fleer:</div> 12, 20<br>
 	<div class="ssTitle">Team Leaders:</div> 20<br>
-	<div class="ssTitle">Top 40:</div> 12<br>
-	</p>
+	<div class="ssTitle">Top 40:</div> 12</p>
 
 	<br>
 
@@ -1385,8 +1337,7 @@
 	<div class="ssTitle">Copper (#/299):</div> 47, 56, 77, 89<br>
 	<div class="ssTitle">Pewter:</div> 47, 56, 77, 89<br>
 	<div class="ssTitle">Decade Greats:</div> KP, RO<br>
-	<div class="ssTitle">Nickname Greats:</div> HE<br>
-	</p>
+	<div class="ssTitle">Nickname Greats:</div> HE</p>
 
 	<br>
 
@@ -1396,15 +1347,13 @@
 	<div class="ssTitle">Sepia:</div> 180, 181, 182, 183, 184, 185, 186<br>
 	<div class="ssTitle">1934 Goudey Greats:</div> 86, 87, 88, 89, 90<br>
 	<div class="ssTitle">Blue Chip Prospects:</div> 9<br>
-	<div class="ssTitle">Grass Roots:</div> 8, 17<br>
-	</p>
+	<div class="ssTitle">Grass Roots:</div> 8, 17</p>
 
 	<br>
 
 	<p><div class="title">2006 SP Authentic</div><br>
 	<div class="ssTitle">Base:</div> 59, 151, 152, 153<br>
-	<div class="ssTitle">Baseball Heroes:</div> 20<br>
-	</p>
+	<div class="ssTitle">Baseball Heroes:</div> 20</p>
 
 	<br>
 
@@ -1414,8 +1363,7 @@
 	<div class="ssTitle">Baseball Chronology Gold (#/550):</div> CA, KP<br>
 	<div class="ssTitle">Baseball Chronology Platinum (#/99):</div> CA, KP<br>
 	<div class="ssTitle">When It Was A Game Gold (#/99):</div> KP, TO, TO-2<br>
-	<div class="ssTitle">When It Was A Game Silver (#/550):</div> KP, TO, TO-2<br>
-	</p>
+	<div class="ssTitle">When It Was A Game Silver (#/550):</div> KP, TO, TO-2</p>
 
 	<br>
 
@@ -1424,15 +1372,13 @@
 	<div class="ssTitle">Base:</div> 53, 54, 55<br>
 	<div class="ssTitle">Spectrum:</div> 53, 54, 55<br>
 	<div class="ssTitle">SPxtra Info:</div> JS<br>
-	<div class="ssTitle">SPxtreme Team:</div> JS<br>
-	</p>
+	<div class="ssTitle">SPxtreme Team:</div> JS</p>
 
 	<br>
 
 	<p><div class="title">2006 Sweet Spot</div><br>
 	<div class="ssTitle">Base:</div> 49, 91, 92, 93<br>
-	<div class="ssTitle">Update:</div> 53, 54, 55, 94<br>
-	</p>
+	<div class="ssTitle">Update:</div> 53, 54, 55, 94</p>
 
 	<br>
 
@@ -1449,8 +1395,7 @@
 	<div class="ssTitle">Team vs. Team:</div> JT<br>
 	<div class="ssTitle">Own the Game:</div> 26<br>
 	<div class="ssTitle">Update Box Bottoms:</div> 15 (Liriano/Santana)<br>
-	<div class="ssTitle">Wal-Mart:</div> 4, 14<br>
-	</p>
+	<div class="ssTitle">Wal-Mart:</div> 4, 14</p>
 
 	<br>
 
@@ -1464,8 +1409,7 @@
 	<div class="ssTitle">Debut Flashbacks Chrome (#/1952):</div> 9<br>
 	<div class="ssTitle">Debut Flashbacks Chrome Refractors (#/552):</div> 9<br>
 	<div class="ssTitle">Debut Flashbacks Chrome Gold Refractors (#/52):</div> 9<br>
-	<div class="ssTitle">Dynamic Duos:</div> 6<br>
-	</p>
+	<div class="ssTitle">Dynamic Duos:</div> 6</p>
 
 	<br>
 
@@ -1476,8 +1420,7 @@
 	<div class="ssTitle">Mini A&G Back:</div> 20, 42, 60, 124, 167, 168, 236, 247, 249, 262, 281<br>
 	<div class="ssTitle">Mini Bazooka:</div> 20, 42, 60, 124, 167, 168, 236, 247, 249, 262, 281<br>
 	<div class="ssTitle">Mini Black:</div> 20, 42, 60, 124, 167, 168, 236, 247, 249, 262, 281<br>
-	<div class="ssTitle">Mini No Number:</div> 20 Nathan, 42 Castillo, 60 Morneau, 124 Ford, 167 Mauer, 168 Hunter, 236 Punto, 247 Santana, 249 Stewart, 262 Liriano, 281 Killebrew<br>
-	</p>
+	<div class="ssTitle">Mini No Number:</div> 20 Nathan, 42 Castillo, 60 Morneau, 124 Ford, 167 Mauer, 168 Hunter, 236 Punto, 247 Santana, 249 Stewart, 262 Liriano, 281 Killebrew</p>
 
 	<br>
 
@@ -1489,8 +1432,7 @@
 	<div class="ssTitle">Red Refractors:</div> 24, 40, 62, 65, 113, 163, 246, 258, 294<br>
 	<div class="ssTitle">X-Fractors:</div> 24, 40, 62, 65, 113, 163, 246, 258, 294<br>
 	<div class="ssTitle">Rookie Logos:</div> 41<br>
-	<div class="ssTitle">Rookie Logos Refractors:</div> 41<br>
-	</p>
+	<div class="ssTitle">Rookie Logos Refractors:</div> 41</p>
 
 	<br>
 
@@ -1505,8 +1447,7 @@
 	<div class="ssTitle">Changing Faces Silver Blue (#/75):</div> 16a (Hunter/Santana), 16b (Hunter Morneau), 16c (Hunter Mauer), 40a (Santana/Mauer), 40b (Santana/Hunter), 40c (Santana/Morneau), 48a (Mauer/Morneau), 48b (Mauer/Santana), 48c (Mauer/Hunter), 84a (Morneau/Hunter), 84b (Morneau/Mauer), 84c (Morneau/Santana)<br>
 	<div class="ssTitle">Changing Faces Silver Bronze (#/125):</div> 16a (Hunter/Santana), 16b (Hunter Morneau), 16c (Hunter Mauer), 40a (Santana/Mauer), 40b (Santana/Hunter), 40c (Santana/Morneau), 48a (Mauer/Morneau), 48b (Mauer/Santana), 48c (Mauer/Hunter), 84a (Morneau/Hunter), 84b (Morneau/Mauer), 84c (Morneau/Santana)<br>
 	<div class="ssTitle">Changing Faces Silver Gold (#/50):</div> 16a (Hunter/Santana), 16b (Hunter Morneau), 16c (Hunter Mauer), 40a (Santana/Mauer), 40b (Santana/Hunter), 40c (Santana/Morneau), 48a (Mauer/Morneau), 48b (Mauer/Santana), 48c (Mauer/Hunter), 84a (Morneau/Hunter), 84b (Morneau/Mauer), 84c (Morneau/Santana)<br>
-	<div class="ssTitle">Changing Faces Silver Red (#/100):</div> 16a (Hunter/Santana), 16b (Hunter Morneau), 16c (Hunter Mauer), 40a (Santana/Mauer), 40b (Santana/Hunter), 40c (Santana/Morneau), 48a (Mauer/Morneau), 48b (Mauer/Santana), 48c (Mauer/Hunter), 84a (Morneau/Hunter), 84b (Morneau/Mauer), 84c (Morneau/Santana)<br>
-	</p>
+	<div class="ssTitle">Changing Faces Silver Red (#/100):</div> 16a (Hunter/Santana), 16b (Hunter Morneau), 16c (Hunter Mauer), 40a (Santana/Mauer), 40b (Santana/Hunter), 40c (Santana/Morneau), 48a (Mauer/Morneau), 48b (Mauer/Santana), 48c (Mauer/Hunter), 84a (Morneau/Hunter), 84b (Morneau/Mauer), 84c (Morneau/Santana)</p>
 
 	<br>
 
@@ -1514,8 +1455,7 @@
 	<div class="ssTitle">Base:</div> 13, 27, 115, 127, 134, 156, 202, 252, 303, 304, 340, 350a (Red/blue ltr), 350b (Blue ltr), 467<br>
 	<div class="ssTitle">Chrome (#/1957):</div> 35, 68, 85<br>
 	<div class="ssTitle">Chrome Refractors (#/557):</div> 35, 68, 85<br>
-	<div class="ssTitle">Chrome Black Refractors (#/57):</div> 35, 68, 85<br>
-	</p>
+	<div class="ssTitle">Chrome Black Refractors (#/57):</div> 35, 68, 85</p>
 
 	<br>
 
@@ -1523,15 +1463,13 @@
 	<div class="ssTitle">Base:</div> 148<br>
 	<div class="ssTitle">Red Foil:</div> 31, 55, 94, 127, 128, 148<br>
 	<div class="ssTitle">Sports Illustrated for Kids:</div> 13<br>
-	<div class="ssTitle">Team vs. Team:</div> JT<br>
-	</p>
+	<div class="ssTitle">Team vs. Team:</div> JT</p>
 
 	<br>
 
 	<p><div class="title">2006 Topps Sterling</div><br>
 	<div class="ssTitle">Base (#/250):</div> 137, 139, 140, 141, 142, 143, 144<br>
-	<div class="ssTitle">Framed White (#/50):</div> 137, 139, 140, 141, 142, 143, 144<br>
-	</p>
+	<div class="ssTitle">Framed White (#/50):</div> 137, 139, 140, 141, 142, 143, 144</p>
 
 	<br>
 
@@ -1540,8 +1478,7 @@
 	<div class="ssTitle">Emerald (#99):</div> 24, 48, 82<br>
 	<div class="ssTitle">Gold (#/50):</div> 24, 48, 82<br>
 	<div class="ssTitle">Sapphire (#/25):</div> 24, 48, 82<br>
-	<div class="ssTitle">Sepia (#/150):</div> 24, 48, 82<br>
-	</p>
+	<div class="ssTitle">Sepia (#/150):</div> 24, 48, 82</p>
 
 	<br>
 
@@ -1551,8 +1488,7 @@
 	<div class="ssTitle">Gold:</div> 332, 337, 382, 398, 420, 429, 487, 613, 621<br>
 	<div class="ssTitle">Red:</div> 337, 382, 398, 420, 429, 487, 613, 621<br>
 	<div class="ssTitle">White:</div> 332, 337, 382, 398, 420, 429, 487, 613, 621<br>
-	<div class="ssTitle">Cabinet:</div> FL, JS<br>
-	</p>
+	<div class="ssTitle">Cabinet:</div> FL, JS</p>
 
 	<br>
 
@@ -1560,20 +1496,17 @@
 	<div class="ssTitle">Base:</div> 203, 204, 206, 207, 208, 238, 271, 328<br>
 	<div class="ssTitle">1st Edition:</div> 203, 204, 206, 207, 208, 238,246, 271, 313, 328<br>
 	<div class="ssTitle">Black (#/55):</div> 203, 204, 206, 207, 208, 238,246, 271, 313, 328<br>
-	<div class="ssTitle">Gold (#/2006):</div> 203, 204, 206, 207, 208, 238,246, 271, 313, 328<br>
-	</p>
+	<div class="ssTitle">Gold (#/2006):</div> 203, 204, 206, 207, 208, 238,246, 271, 313, 328</p>
 
 	<br>
 
 	<p><div class="title">2006 Twins Topps (MIN before number on back)</div><br>
-	<div class="ssTitle">Base:</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14<br>
-	</p>
+	<div class="ssTitle">Base:</div> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14</p>
 
 	<br>
 
 	<p><div class="title">2006 Ultimate Collection</div><br>
-	<div class="ssTitle">Base (#/799):</div>  53, 54, 55, 204, 245, 246<br>
-	</p>
+	<div class="ssTitle">Base (#/799):</div>  53, 54, 55, 204, 245, 246</p>
 
 	<br>
 
@@ -1581,8 +1514,7 @@
 	<i>Completed- Strikeout Kings</i><br>
 	<div class="ssTitle">Base:</div> 165, 167, 191, 218, 228, 244<br>
 	<div class="ssTitle">Gold Medallion:</div> 162, 163, 164, 165, 191, 218, 228, 244<br>
-	<div class="ssTitle">Star:</div> 12<br>
-	</p>
+	<div class="ssTitle">Star:</div> 12</p>
 
 	<br>
 
@@ -1604,15 +1536,13 @@
 	<div class="ssTitle">Star Attractions Gold (#/699):</div> FL(?), JM, TH<br>
 	<div class="ssTitle">Star Attractions Silver (#/99):</div> FL, JK, JM<br>
 	<div class="ssTitle">Team Pride:</div> LC, MA<br>
-	<div class="ssTitle">Team Pride Gold (#/699):</div> LC, MA<br>
-	</p>
+	<div class="ssTitle">Team Pride Gold (#/699):</div> LC, MA</p>
 
 	<br>
 
 	<p><div class="title">2006 Upper Deck Epic</div><br>
 	<div class="ssTitle">Base (#/450):</div> 114, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 293<br>
-	<div class="ssTitle">Epic Events (#/675):</div> 43, 56<br>
-	</p>
+	<div class="ssTitle">Epic Events (#/675):</div> 43, 56</p>
 
 	<br>
 
@@ -1620,16 +1550,14 @@
 	<div class="ssTitle">Base:</div> 112, 113, 114, 115, 116, 117<br>
 	<div class="ssTitle">Diamond Stars:</div> 19, 20<br>
 	<div class="ssTitle">Goin' Deep:</div> 32<br>
-	<div class="ssTitle">Frito Lay:</div> 17<br>
-	</p>
+	<div class="ssTitle">Frito Lay:</div> 17</p>
 
 	<br>
 
 	<p><div class="title">2006 Upper Deck Ovation</div><br>
 	<div class="ssTitle">Base:</div> 75, 76, 77, 104, 105, 106, 108<br>
 	<div class="ssTitle">Gold (#/499):</div> 75, 76, 77<br>
-	<div class="ssTitle">Center Stage:</div> MC<br>
-	</p>
+	<div class="ssTitle">Center Stage:</div> MC</p>
 
 	<br>
 
@@ -1639,12 +1567,11 @@
 	<div class="ssTitle">Green (#/99):</div> 184, 197, 269, 270, 271, 272, 273, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 289, 690, 691, 692, 693, 694, 695, 696, 697, 698, 699, 898, 942, 943, 989<br>
 	<div class="ssTitle">Purple (#/150):</div> 184, 197, 269, 270, 271, 272, 273, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 289, 690, 691, 692, 693, 694, 695, 696, 697, 698, 699, 898, 942, 943, 989<br>
 	<div class="ssTitle">Red (#/50):</div> 184, 197, 269, 270, 271, 272, 273, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 289, 690, 691, 692, 693, 694, 695, 696, 697, 698, 699, 898, 942, 943, 989<br>
-	<div class="ssTitle">Star Attractions:</div> JM<br>
-	</p>
+	<div class="ssTitle">Star Attractions:</div> JM</p>
 
 	<hr>
 
-	<h1>2005</h1>
+	<h1 id="2005">2005</h1>
 
 	<br>
 
@@ -1679,8 +1606,7 @@
 	<div class="ssTitle">Tools of the Trade Black (#/100):</div> 48, 60, 100, 123, 133, 174<br>
 	<div class="ssTitle">Tools of the Trade Blue (#/150):</div> 48, 60, 100, 123, 133, 174<br>
 	<div class="ssTitle">Tools of the Trade Red (#/250):</div> 48, 60, 100, 123, 133, 174<br>
-	<div class="ssTitle">Tools of the Trade Reverse Spectrum Red (#/50):</div> 48, 60, 100, 123, 133, 174<br>
-	</p>
+	<div class="ssTitle">Tools of the Trade Reverse Spectrum Red (#/50):</div> 48, 60, 100, 123, 133, 174</p>
 
 	<br>
 
@@ -1688,8 +1614,7 @@
 	<div class="ssTitle">Base:</div> 48, 95, 132, 134, 169, 216, 225, 243, 266, 276<br>
 	<div class="ssTitle">Rainbow Blue (#/100):</div> 48, 49, 95, 132, 134, 169, 216, 225, 243, 266, 276<br>
 	<div class="ssTitle">Rainbow Gold (#/25):</div> 48, 49, 95, 132, 134, 169, 216, 225, 243, 266, 276<br>
-	<div class="ssTitle">Rainbow Red (#/50):</div> 48, 49, 95, 132, 134, 169, 216, 225, 243, 266, 276<br>
-	</p>
+	<div class="ssTitle">Rainbow Red (#/50):</div> 48, 49, 95, 132, 134, 169, 216, 225, 243, 266, 276</p>
 
 	<br>
 
@@ -1697,8 +1622,7 @@
 	<div class="ssTitle">Base:</div> 20, 107, 127, 149, 170, 175, 217, 222, 288, 315, 320<br>
 	<div class="ssTitle">1st Edition:</div> 20, 81, 107, 122, 127, 149, 170, 175, 217, 222, 288, 315, 320<br>
 	<div class="ssTitle">Gold:</div> 20, 81, 107, 122, 127, 149, 170, 175, 217, 222, 288, 315, 320<br>
-	<div class="ssTitle">White (#/240):</div> 20, 81, 107, 122, 127, 149, 170, 175, 217, 222, 288, 315, 320<br>
-	</p>
+	<div class="ssTitle">White (#/240):</div> 20, 81, 107, 122, 127, 149, 170, 175, 217, 222, 288, 315, 320</p>
 
 	<br>
 
@@ -1708,8 +1632,7 @@
 	<div class="ssTitle">Blue Refractors (#/150):</div> 20, 81, 107, 122, 127, 149, 170, 175, 217, 222, 288, 310, 315, 320<br>
 	<div class="ssTitle">Gold Refractors (#/50):</div> 20, 81, 107, 122, 127, 149, 170, 175, 217, 222, 288, 310, 315, 320<br>
 	<div class="ssTitle">Green Refractors (#/225):</div> 20, 81, 107, 122, 127, 149, 170, 175, 217, 222, 288, 310, 315, 320<br>
-	<div class="ssTitle">X-Fractors (#/225):</div> 20, 81, 107, 122, 127, 149, 170, 175, 217, 222, 288, 310, 315, 320<br>
-	</p>
+	<div class="ssTitle">X-Fractors (#/225):</div> 20, 81, 107, 122, 127, 149, 170, 175, 217, 222, 288, 310, 315, 320</p>
 
 	<br>
 
@@ -1718,8 +1641,7 @@
 	<div class="ssTitle">Refractors:</div> 62, 68, 75, 97, 121<br>
 	<div class="ssTitle">Blue Refractors (#/150):</div> 62, 68, 75, 97, 121<br>
 	<div class="ssTitle">Gold Refractors (#/50):</div> 62, 68, 75, 97, 121<br>
-	<div class="ssTitle">X-Fractors (#/250):</div> 68, 75, 97, 121<br>
-	</p>
+	<div class="ssTitle">X-Fractors (#/250):</div> 68, 75, 97, 121</p>
 
 	<br>
 
@@ -1727,7 +1649,11 @@
 	<div class="ssTitle">Base:</div> 62, 68, 75, 97, 121<br>
 	<div class="ssTitle">Gold:</div> 62, 75, 97, 121<br>
 	<div class="ssTitle">White (#/225):</div> 62, 68, 75, 97, 121<br>
-	</p>
+	<div class="ssTitle">Chrome:</div> 62, 68, 75, 97<br>
+	<div class="ssTitle">Chrome Refractors:</div> 62, 68, 75, 97, 121<br>
+	<div class="ssTitle">Chrome Blue Refractors (#/150):</div> 62, 68, 75, 97, 121<br>
+	<div class="ssTitle">Chrome Gold Refractors (#/50):</div> 62, 68, 75, 97, 121<br>
+	<div class="ssTitle">Chrome X-Fractors (#/250):</div> 68, 75, 97, 121</p>
 
 	<br>
 
@@ -1737,16 +1663,14 @@
 	<div class="ssTitle">Mini:</div> 42, 149, 150, 184, 186, 224, 225, 253, 254, 284, 285, 338<br>
 	<div class="ssTitle">51 Topps Heritage Blue Backs:</div> 49, 52<br>
 	<div class="ssTitle">51 Topps Heritage Red Backs:</div> 17<br>
-	<div class="ssTitle">Draft Pick Variation:</div> 338<br>
-	</p>
+	<div class="ssTitle">Draft Pick Variation:</div> 338</p>
 
 	<br>
 
 	<p><div class="title">2005 Bowman Sterling</div><br>
 	<div class="ssTitle">Base:</div> DT, HAS, KS, MGA, PK<br>
 	<div class="ssTitle">Refractors:</div> DT, HAS, KS, MGA, PK<br>
-	<div class="ssTitle">Black Refractors (#/25):</div> DT, HAS, KS, MGA, PK<br>
-	</p>
+	<div class="ssTitle">Black Refractors (#/25):</div> DT, HAS, KS, MGA, PK</p>
 
 	<br>
 
@@ -1756,8 +1680,7 @@
 	<div class="ssTitle">Gold (#/25):</div> 19, 42, 53, 63, 87<br>
 	<div class="ssTitle">Green (#/899):</div> 19, 42, 53, 63, 87<br>
 	<div class="ssTitle">Red (#/199):</div> 19, 42, 53, 63, 87<br>
-	<div class="ssTitle">Silver (#/99):</div> 19, 42, 53, 63, 87<br>
-	</p>
+	<div class="ssTitle">Silver (#/99):</div> 19, 42, 53, 63, 87</p>
 
 	<br>
 
@@ -1788,8 +1711,7 @@
 	<div class="ssTitle">HOF Heroes Gold:</div> 18, 19, 43<br>
 	<div class="ssTitle">HOF Heroes Silver:</div> 18, 19, 43<br>
 	<div class="ssTitle">HOF Sluggers:</div> 5<br>
-	<div class="ssTitle">Heritage Collection:</div> 14<br>
-	</p>
+	<div class="ssTitle">Heritage Collection:</div> 14</p>
 
 	<br>
 
@@ -1806,8 +1728,7 @@
 	<div class="ssTitle">Press Proofs Blue:</div> 25, 46, 50<br>
 	<div class="ssTitle">Press Proofs Gold:</div> 25, 46, 50<br>
 	<div class="ssTitle">Press Proofs Red:</div> 25, 46, 50<br>
-	<div class="ssTitle">Twins Donruss:</div> 2, 23<br>
-	</p>
+	<div class="ssTitle">Twins Donruss:</div> 2, 23</p>
 
 	<br>
 
@@ -1818,8 +1739,7 @@
 	<div class="ssTitle">Impressions Gold (#/50):</div> 23, 122, 123, 243, 249, 275, 287, 190, 292, 299, 301, 362, 403, 433, 436<br>
 	<div class="ssTitle">Impressions Green (#/25):</div> 23, 122, 123, 243, 249, 275, 287, 190, 292, 299, 301, 362, 403, 433, 436<br>
 	<div class="ssTitle">Impressions Orange (#/75):</div> 23, 122, 123, 243, 249, 275, 287, 190, 292, 299, 301, 362, 403, 433, 436<br>
-	<div class="ssTitle">Impressions Red (#/250):</div> 23, 122, 123, 243, 249, 275, 287, 190, 292, 299, 301, 362, 403, 433, 436<br>
-	</p>
+	<div class="ssTitle">Impressions Red (#/250):</div> 23, 122, 123, 243, 249, 275, 287, 190, 292, 299, 301, 362, 403, 433, 436</p>
 
 	<br>
 
@@ -1836,8 +1756,7 @@
 	<div class="ssTitle">Stars of Summer (#/1000):</div> 24<br>
 	<div class="ssTitle">Stars of Summer Gold (#/50):</div> 24<br>
 	<div class="ssTitle">Team Colors (#/800):</div> 23<br>
-	<div class="ssTitle">Team Colors Gold (#/50):</div> 23<br>
-	</p>
+	<div class="ssTitle">Team Colors Gold (#/50):</div> 23</p>
 
 	<br>
 
@@ -1854,8 +1773,7 @@
 	<div class="ssTitle">Passing the Torch Black (#/25):</div> 38<br>
 	<div class="ssTitle">Passing the Torch Gold (#/50):</div> 38<br>
 	<div class="ssTitle">Passing the Torch Green (#/125):</div> 38<br>
-	<div class="ssTitle">Passing the Torch Red (#/250):</div> 38<br>
-	</p>
+	<div class="ssTitle">Passing the Torch Red (#/250):</div> 38</p>
 
 	<br>
 
@@ -1864,8 +1782,7 @@
 	<div class="ssTitle">Gold Holofoil (#/100):</div> 5, 33, 49, 50, 71, 85, 131<br>
 	<div class="ssTitle">Platinum Holofil (#/50):</div> 5, 33, 49, 50, 71, 85, 131<br>
 	<div class="ssTitle">Silver Holofoil:</div> 5, 33, 49, 50, 71, 85, 131<br>
-	<div class="ssTitle">Souvenirs:</div> 20<br>
-	</p>
+	<div class="ssTitle">Souvenirs:</div> 20</p>
 
 	<br>
 
@@ -1874,14 +1791,12 @@
 	<div class="ssTitle">Century Proofs Gold (#/25):</div> 66, 67, 68, 69, 70, 71, 72, 73, 74<br>
 	<div class="ssTitle">Century Proofs Silver (#/75):</div> 66, 67, 68, 69, 70, 71, 72, 73, 74<br>
 	<div class="ssTitle">Hall of Fame:</div> 13, 38<br>
-	<div class="ssTitle">K-Force:</div> 13<br>
-	</p>
+	<div class="ssTitle">K-Force:</div> 13</p>
 
 	<br>
 
 	<p><div class="title">2005 Donruss Stat Line Career/Season</div><br>
-	<i>Looking for any you have, list coming soon</i><br>
-	</p>
+	<i>Looking for any you have, list coming soon</i></p>
 
 	<br>
 
@@ -1890,8 +1805,7 @@
 	<div class="ssTitle">Showdown Blue:</div> 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 388, 389<br>
 	<div class="ssTitle">Showdown Bronze (#/100):</div> 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 388, 389<br>
 	<div class="ssTitle">Showdown Red:</div> 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 388, 389<br>
-	<div class="ssTitle">Showdown Silver (#/50):</div> 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 388, 389<br>
-	</p>
+	<div class="ssTitle">Showdown Silver (#/50):</div> 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 388, 389</p>
 
 	<br>
 
@@ -1930,8 +1844,7 @@
 	<div class="ssTitle">Red Hot:</div> 2<br>
 	<div class="ssTitle">White Hot:</div> 2<br>
 	<div class="ssTitle">Z-Team:</div> 19<br>
-	<div class="ssTitle">Z-Team Gold:</div> 19<br>
-	</p>
+	<div class="ssTitle">Z-Team Gold:</div> 19</p>
 
 	<br>
 
@@ -1939,8 +1852,7 @@
 	<div class="ssTitle">Base:</div> 11, 68<br>
 	<div class="ssTitle">Club Box (#/50):</div> 11, 34, 68, 94<br>
 	<div class="ssTitle">General Admission (#/100):</div> 11, 34, 68, 94<br>
-	<div class="ssTitle">Mezzanine (#/75):</div> 11, 34, 68, 94<br>
-	</p>
+	<div class="ssTitle">Mezzanine (#/75):</div> 11, 34, 68, 94</p>
 
 	<br>
 
@@ -1949,8 +1861,7 @@
 	<div class="ssTitle">Gold (#/99):</div> 4, 22, 45, 52, 85, 98<br>
 	<div class="ssTitle">By the Numbers:</div> 15<br>
 	<div class="ssTitle">Heart of the Team:</div> 6<br>
-	<div class="ssTitle">Property of:</div> 17<br>
-	</p>
+	<div class="ssTitle">Property of:</div> 17</p>
 
 	<br>
 
@@ -1958,16 +1869,14 @@
 	<div class="ssTitle">Base:</div> 10, 92, 99, 102, 110<br>
 	<div class="ssTitle">Finish (#/199):</div> 10, 85, 92, 99, 102, 110<br>
 	<div class="ssTitle">Decade of Excellence:</div> 10<br>
-	<div class="ssTitle">Lumberjacks:</div> 10<br>
-	</p>
+	<div class="ssTitle">Lumberjacks:</div> 10</p>
 
 	<br>
 
 	<p><div class="title">2005 Fleer Showcase</div><br>
 	<div class="ssTitle">Base:</div> 25, 30, 42, 116<br>
 	<div class="ssTitle">Showtime (#/99):</div> 25, 30, 38, 42, 116<br>
-	<div class="ssTitle">Wave of the Future:</div> 2, 10<br>
-	</p>
+	<div class="ssTitle">Wave of the Future:</div> 2, 10</p>
 
 	<br>
 
@@ -1977,8 +1886,7 @@
 	<div class="ssTitle">Gray Backs Gold Letter (#/185):</div> 115, 124, 191<br>
 	<div class="ssTitle">Cooperstown Tribute (#/1984):</div> 7<br>
 	<div class="ssTitle">Cooperstown Tribute Gold:</div> 7<br>
-	<div class="ssTitle">Diamond Tributes:</div> 6<br>
-	</p>
+	<div class="ssTitle">Diamond Tributes:</div> 6</p>
 
 	<br>
 
@@ -1992,8 +1900,7 @@
 	<div class="ssTitle">X-Fractors:</div> 35, 81, 96, 129, 140<br>
 	<div class="ssTitle">X-Fractors Black:</div> 35, 81, 96, 129, 140<br>
 	<div class="ssTitle">X-Fractors Blue:</div> 35, 81, 96, 129, 140<br>
-	<div class="ssTitle">X-Fractors Green:</div> 35, 81, 96, 129, 140<br>
-	</p>
+	<div class="ssTitle">X-Fractors Green:</div> 35, 81, 96, 129, 140</p>
 
 	<br>
 
@@ -2116,16 +2023,14 @@
 	<div class="ssTitle">Sportscasters 60 White Fielding-Ball (#/60):</div> 18, 41<br>
 	<div class="ssTitle">Sportscasters 65 Red Batting-Ball (#/65):</div> 18, 41<br>
 	<div class="ssTitle">Sportscasters 65 White Batting-Ball (#/65):</div> 18, 41<br>
-	<div class="ssTitle">Sportscasters 70 Green Batting-Ball (#/70):</div> 18, 41<br>
-	</p>
+	<div class="ssTitle">Sportscasters 70 Green Batting-Ball (#/70):</div> 18, 41</p>
 
 	<br>
 
 	<p><div class="title">2005 Leaf Century</div><br>
 	<div class="ssTitle">Base:</div> 3, 36, 48, 57, 71, 77, 170, 198<br>
 	<div class="ssTitle">Post Marks Gold (#/50):</div> 3, 36, 48, 57, 71, 77, 170, 198<br>
-	<div class="ssTitle">Post Marks Silver (#/100):</div> 3, 36, 48, 57, 71, 77, 170, 198<br>
-	</p>
+	<div class="ssTitle">Post Marks Silver (#/100):</div> 3, 36, 48, 57, 71, 77, 170, 198</p>
 
 	<br>
 
@@ -2134,8 +2039,7 @@
 	<div class="ssTitle">Mirror Blue (#/50):</div> 71, 82, 143, 157, 160, 165, 177, 194<br>
 	<div class="ssTitle">Mirror Gold (#/25):</div> 71, 82, 143, 157, 160, 165, 177, 194<br>
 	<div class="ssTitle">Mirror Red (#/100):</div> 71, 82, 143, 157, 160, 165, 177, 194<br>
-	<div class="ssTitle">Mirror White:</div> 71, 82, 143, 157, 160, 165, 177, 194<br>
-	</p>
+	<div class="ssTitle">Mirror White:</div> 71, 82, 143, 157, 160, 165, 177, 194</p>
 
 	<br>
 
@@ -2145,8 +2049,7 @@
 	<div class="ssTitle">Gold Spotlight (#/25):</div> 40, 55, 73, 80, 83, 89, 98, 118<br>
 	<div class="ssTitle">Silver Spotlight (#/50):</div> 40, 55, 73, 80, 83, 89, 98, 118<br>
 	<div class="ssTitle">Lumberjacks (#/50):</div> 17, 20, 27<br>
-	<div class="ssTitle">Team Trademarks (#/50):</div> 17, 38<br>
-	</p>
+	<div class="ssTitle">Team Trademarks (#/50):</div> 17, 38</p>
 
 	<br>
 
@@ -2196,8 +2099,7 @@
 	<div class="ssTitle">Prestigious Pros Silver (#/75):</div> 4, 11, 29, 48, 57, 83<br>
 	<div class="ssTitle">Stars of MLB:</div> 13<br>
 	<div class="ssTitle">Stars of MLB Foil (#/100):</div> 13<br>
-	<div class="ssTitle">Stars of MLB Holo-Foil (#/25):</div> 13<br>
-	</p>
+	<div class="ssTitle">Stars of MLB Holo-Foil (#/25):</div> 13</p>
 
 	<br>
 
@@ -2207,21 +2109,18 @@
 	<div class="ssTitle">Emerald (#/25):</div> 6, 53, 61, 71, 105, 116, 175, 217, 227, 248, 272, 283<br>
 	<div class="ssTitle">Purple (#/99):</div> 6, 53, 61, 71, 105, 116, 175, 217, 227, 248, 272, 283<br>
 	<div class="ssTitle">Red (#/99):</div> 6, 53, 61, 71, 105, 116, 175, 217, 227, 248, 272, 283<br>
-	<div class="ssTitle">Turquoise (#/50):</div> 6, 53, 61, 71, 105, 116, 175, 217, 227, 248, 272, 283<br>
-	</p>
+	<div class="ssTitle">Turquoise (#/50):</div> 6, 53, 61, 71, 105, 116, 175, 217, 227, 248, 272, 283</p>
 
 	<br>
 
 	<p><div class="title">2005 SP Authentic</div><br>
 	<div class="ssTitle">Base:</div> 53, 54, 94<br>
-	<div class="ssTitle">Honors (#/299):</div> MO, JM, JS<br>
-	</p>
+	<div class="ssTitle">Honors (#/299):</div> MO, JM, JS</p>
 
 	<br>
 
 	<p><div class="title">2005 SP Collection of Stars</div><br>
-	<div class="ssTitle">Base (#/299):</div> JB, JC, JM, JS<br>
-	</p>
+	<div class="ssTitle">Base (#/299):</div> JB, JC, JM, JS</p>
 
 	<br>
 
@@ -2235,8 +2134,7 @@
 	<div class="ssTitle">Lasting Legends (#/399):</div> KP, RC<br>
 	<div class="ssTitle">Lasting Legends  Gold(#/75):</div> KP, RC<br>
 	<div class="ssTitle">Legendary Lineage (#/399):</div> KP, TO<br>
-	<div class="ssTitle">Legendary Lineage Gold (#/75):</div> KP, TO<br>
-	</p>
+	<div class="ssTitle">Legendary Lineage Gold (#/75):</div> KP, TO</p>
 
 	<br>
 
@@ -2300,8 +2198,7 @@
 	<div class="ssTitle">Spirit of the Game Die Cut Gold (#/25):</div> 12<br>
 	<div class="ssTitle">Stars:</div> 22, 45<br>
 	<div class="ssTitle">Stars Gold (#/500):</div> 22, 45<br>
-	<div class="ssTitle">Stars Platinum (#/50):</div> 22, 45<br>
-	</p>
+	<div class="ssTitle">Stars Platinum (#/50):</div> 22, 45</p>
 
 	<br>
 
@@ -2354,8 +2251,7 @@
 	<div class="ssTitle">Polo Grounds 75 BALL Long Fly (#/75):</div> 42, 44, 45, 75, 78, 81<br>
 	<div class="ssTitle">Polo Grounds 75 HIT Long Fly (#/75):</div> 42, 44, 45, 75, 78, 81<br>
 	<div class="ssTitle">Polo Grounds 75 STRIKE Long 3 (#/75):</div> 42, 44, 45, 75, 78, 81<br>
-	<div class="ssTitle">Polo Grounds 85 HIT Long Fly (#/85):</div> 42, 44, 45, 75, 78, 81<br>
-	</p>
+	<div class="ssTitle">Polo Grounds 85 HIT Long Fly (#/85):</div> 42, 44, 45, 75, 78, 81</p>
 
 	<br>
 
@@ -2370,16 +2266,14 @@
 	<div class="ssTitle">Own the Game:</div> 28<br>
 	<div class="ssTitle">Retired Signature:</div> 72, 101<br>
 	<div class="ssTitle">Retired Signature Black:</div> 72, 101<br>
-	<div class="ssTitle">Retired Signature Gold:</div> 72, 101<br>
-	</p>
+	<div class="ssTitle">Retired Signature Gold:</div> 72, 101</p>
 
 	<br>
 
 	<p><div class="title">2005 Topps All-Time Fan Favorites</div><br>
 	<div class="ssTitle">Base:</div> 5, 72, 108, 130<br>
 	<div class="ssTitle">Refractors (#/299):</div> 5, 72, 92, 105, 108, 130<br>
-	<div class="ssTitle">Refractors Gold (#/25):</div> 5, 72, 92, 105, 108, 130<br>
-	</p>
+	<div class="ssTitle">Refractors Gold (#/25):</div> 5, 72, 92, 105, 108, 130</p>
 
 	<br>
 
@@ -2387,8 +2281,7 @@
 	<div class="ssTitle">Base:</div> 3, 116, 144, 165, 165, 192, 291, 315, 332, 368, 395, 406, 427, 461<br>
 	<div class="ssTitle">Refractors:</div> 3, 116, 144, 165, 165, 192, 291, 315, 332, 368, 395, 406, 427, 461<br>
 	<div class="ssTitle">Black Refractors:</div> 3, 116, 144, 165, 165, 192, 291, 315, 332, 368, 395, 406, 427, 461<br>
-	<div class="ssTitle">Red X-Fractors:</div> 3, 116, 144, 165, 165, 192, 291, 315, 332, 368, 395, 406, 427, 461<br>
-	</p>
+	<div class="ssTitle">Red X-Fractors:</div> 3, 116, 144, 165, 165, 192, 291, 315, 332, 368, 395, 406, 427, 461</p>
 
 	<br>
 
@@ -2396,8 +2289,7 @@
 	<div class="ssTitle">Base:</div> 122, 144, 166, 180, 213<br>
 	<div class="ssTitle">Refractors:</div> 90, 122, 131, 144, 166, 180, 213<br>
 	<div class="ssTitle">Black Refractors (#/250):</div> 90, 122, 131, 144, 166, 180, 213<br>
-	<div class="ssTitle">Red X-Fractors (#/65):</div> 122, 131, 144, 166, 180, 213<br>
-	</p>
+	<div class="ssTitle">Red X-Fractors (#/65):</div> 122, 131, 144, 166, 180, 213</p>
 
 	<br>
 
@@ -2406,15 +2298,13 @@
 	<div class="ssTitle">Mini Blue (#/50):</div> 14, 36, 84a (Throwing), 85b (Portrait SP), 98, 194<br>
 	<div class="ssTitle">Mini Gray (#/25):</div> 14, 36, 84a (Throwing), 85b (Portrait SP), 98, 194<br>
 	<div class="ssTitle">Mini Red:</div> 14, 36, 84a (Throwing), 85b (Portrait SP), 98, 194<br>
-	<div class="ssTitle">Mini Stickers:</div> 14, 84a (Throwing), 85b (Portrait SP), 98, 194<br>
-	</p>
+	<div class="ssTitle">Mini Stickers:</div> 14, 84a (Throwing), 85b (Portrait SP), 98, 194</p>
 
 	<br>
 
 	<p><div class="title">2005 Topps Gallery</div><br>
 	<div class="ssTitle">Base:</div> 36, 63, 97, 102, 110, 178, 194<br>
-	<div class="ssTitle">Artist's Proof (foil):</div> 29, 36, 63, 97, 102, 178, 192, 194<br>
-	</p>
+	<div class="ssTitle">Artist's Proof (foil):</div> 29, 36, 63, 97, 102, 178, 192, 194</p>
 
 	<br>
 
@@ -2423,37 +2313,32 @@
 	<div class="ssTitle">White Backs:</div> 25, 178, 184, 197, 296a (Twins hat), 296b (Washington hat SP), 310, 336, 342, 358, 396, 421, 440, 452, 458<br>
 	<div class="ssTitle">Chrome (#/1956):</div> 26, 53, 83, 93<br>
 	<div class="ssTitle">Refractors (#/556):</div> 26, 53, 83, 93<br>
-	<div class="ssTitle">Black Refractors (#/56):</div> 26, 53, 83, 93<br>
-	</p>
+	<div class="ssTitle">Black Refractors (#/56):</div> 26, 53, 83, 93</p>
 
 	<br>
 
 	<p><div class="title">2005 Topps Hot Button</div><br>
-	<div class="ssTitle">Base:</div> 25, 101, 121<br>
-	</p>
+	<div class="ssTitle">Base:</div> 25, 101, 121</p>
 
 	<br>
 
 	<p><div class="title">2005 Topps Pack Wars</div><br>
 	<div class="ssTitle">Base:</div> 24,41, 42, 83, 96, 110, 135, 141<br>
-	<div class="ssTitle">Foil (#/56):</div> 24,41, 42, 83, 96, 110, 135, 141<br>
-	</p>
+	<div class="ssTitle">Foil (#/56):</div> 24,41, 42, 83, 96, 110, 135, 141</p>
 
 	<br>
 
 	<p><div class="title">2005 Topps Pristine</div><br>
 	<div class="ssTitle">Base:</div> 19, 42, 65, 111<br>
 	<div class="ssTitle">Red Die Cuts (#/66):</div> 19, 42, 65, 111, 130<br>
-	<div class="ssTitle">Uncirculated Bronze (#/375):</div> 19, 42, 65, 111<br>
-	</p>
+	<div class="ssTitle">Uncirculated Bronze (#/375):</div> 19, 42, 65, 111</p>
 
 	<br>
 
 	<p><div class="title">2005 Topps Pristine Legends</div><br>
 	<div class="ssTitle">Base:</div> 2, 10, 28, 50<br>
 	<div class="ssTitle">Refractors (#/549):</div> 2, 10, 50<br>
-	<div class="ssTitle">Gold Die Cut Refractors (#/65):</div> 2, 10, 28, 50<br>
-	</p>
+	<div class="ssTitle">Gold Die Cut Refractors (#/65):</div> 2, 10, 28, 50</p>
 
 	<br>
 
@@ -2465,8 +2350,7 @@
 	<div class="ssTitle">Red (#/499):</div> 9, 16, 76, 143<br>
 	<div class="ssTitle">Reprints:</div> 9, 16, 76, 143<br>
 	<div class="ssTitle">Reprints Chrome (#/25):</div> 9, 16, 76, 143<br>
-	<div class="ssTitle">Yellow (#/299):</div> 9, 16, 76, 143<br>
-	</p>
+	<div class="ssTitle">Yellow (#/299):</div> 9, 16, 76, 143</p>
 
 	<br>
 
@@ -2476,8 +2360,7 @@
 	<div class="ssTitle">Silver:</div> 24, 69, 122, 161, 176, 194, 205, 210, 222, 236, 246, 258, 264, 314, 325, 360, 407, 461, 490, 508, 543, 575, 641, 693, 719, 740, 750<br>
 	<div class="ssTitle">Award Winners:</div> 4<br>
 	<div class="ssTitle">Team Checklists:</div> 17<br>
-	<div class="ssTitle">Total Topps:</div> JS<br>
-	</p>
+	<div class="ssTitle">Total Topps:</div> JS</p>
 
 	<br>
 
@@ -2487,15 +2370,13 @@
 	<div class="ssTitle">Gold (#/50):</div> 7, 52, 81, 87, 101, 160a (Glove on knee), 160b (throwing), 211, 247, 259, 280<br>
 	<div class="ssTitle">Red:</div> 7, 52, 81, 87, 101, 160a (Glove on knee), 160b (throwing), 211, 247, 259, 280<br>
 	<div class="ssTitle">White:</div> 7, 52, 81, 87, 101, 160a (Glove on knee), 160b (throwing), 211, 247, 259, 280<br>
-	<div class="ssTitle">Cabinet:</div> JS<br>
-	</p>
+	<div class="ssTitle">Cabinet:</div> JS</p>
 
 	<br>
 
 	<p><div class="title">2005 Topps Update</div><br>
 	<div class="ssTitle">Base:</div> 139, 140, 156, 211, 237, 259, 318<br>
-	<div class="ssTitle">Gold:</div> 95, 139, 140, 156, 211, 237, 246, 259, 281, 295, 318<br>
-	</p>
+	<div class="ssTitle">Gold:</div> 95, 139, 140, 156, 211, 237, 246, 259, 281, 295, 318</p>
 
 	<br>
 
@@ -2510,16 +2391,14 @@
 	<div class="ssTitle">Pro Sigs:</div> 47, 48, 49, 101, 118<br>
 	<div class="ssTitle">Pro Sigs Gold:</div> 47, 48, 49<br>
 	<div class="ssTitle">Pro Sigs Silver:</div> 47, 48, 49<br>
-	<div class="ssTitle">World Series Heroes:</div> 23<br>
-	</p>
+	<div class="ssTitle">World Series Heroes:</div> 23</p>
 
 	<br>
 
 	<p><div class="title">2005 Upper Deck Baseball Heroes</div><br>
 	<div class="ssTitle">Base:</div> 31, 32, 33, 34, 35, 52, 53, 54<br>
 	<div class="ssTitle">Emerald (#/199):</div> 31, 32, 33, 34, 35, 52, 53, 54<br>
-	<div class="ssTitle">Red (#/75):</div> 31, 32, 33, 34, 35, 52, 53, 54<br>
-	</p>
+	<div class="ssTitle">Red (#/75):</div> 31, 32, 33, 34, 35, 52, 53, 54</p>
 
 	<br>
 
@@ -2532,8 +2411,7 @@
 	<div class="ssTitle">Classic Counterparts (#/1999):</div> KH<br>
 	<div class="ssTitle">Fantasy Team (#/36):</div> 9<br>
 	<div class="ssTitle">Moments (#/1999):</div> PM<br>
-	<div class="ssTitle">Post Season Performers (#/999):</div> JM, KH<br>
-	</p>
+	<div class="ssTitle">Post Season Performers (#/999):</div> JM, KH</p>
 
 	<br>
 
@@ -2543,8 +2421,7 @@
 	<div class="ssTitle">Magazine Covers:</div> 11<br>
 	<div class="ssTitle">Magazine Covers 25th Anniversary (#/25):</div> 11<br>
 	<div class="ssTitle">Web Gems:</div> 23<br>
-	<div class="ssTitle">Web Gems 25th Anniversary (#/25):</div> 23<br>
-	</p>
+	<div class="ssTitle">Web Gems 25th Anniversary (#/25):</div> 23</p>
 
 	<br>
 
@@ -2561,34 +2438,29 @@
 	<div class="ssTitle">Seasons (#/50):</div> HK-2, HK-3, KP-1, PM-3, RC-1, RC-2<br>
 	<div class="ssTitle">Signs of Cooperstown Duals (#/50):</div> KP, PR<br>
 	<div class="ssTitle">Signs of Cooperstown Quads (#/50):</div> BMYC, KCPM, MBKM, MDMC, MRKS<br>
-	<div class="ssTitle">Signs of Cooperstown Triples (#/50):</div> KPC, MSC, PMC<br>
-	</p>
+	<div class="ssTitle">Signs of Cooperstown Triples (#/50):</div> KPC, MSC, PMC</p>
 
 	<br>
 
 	<p><div class="title">2005 Upper Deck MVP</div><br>
 	<div class="ssTitle">Base:</div> 45, 86<br>
-	<div class="ssTitle">Batter Up:</div> 15<br>
-	</p>
+	<div class="ssTitle">Batter Up:</div> 15</p>
 
 	<br>
 
 	<p><div class="title">2005 Upper Deck Pros & Prospects</div><br>
 	<div class="ssTitle">Base:</div> 20, 27, 113 (#/999), 164 (#/499), 182 (#/199), 183 (#/199), 193 (#/199)<br>
-	<div class="ssTitle">Gold (#/125, 150, 99 or 25):</div> 20, 27, 113, 164, 182, 183, 193<br>
-	</p>
+	<div class="ssTitle">Gold (#/125, 150, 99 or 25):</div> 20, 27, 113, 164, 182, 183, 193</p>
 
 	<br>
 
 	<p><div class="title">2005 Upper Deck Retro</div><br>
-	<div class="ssTitle">Base:</div> 113, 114, 115, 116, 117, 118, 119, 244, 277<br>
-	</p>
+	<div class="ssTitle">Base:</div> 113, 114, 115, 116, 117, 118, 119, 244, 277</p>
 
 	<br>
 
 	<p><div class="title">2005 Upper Deck Trilogy</div><br>
-	<div class="ssTitle">Base:</div> 49, 50, 56, 94<br>
-	</p>
+	<div class="ssTitle">Base:</div> 49, 50, 56, 94</p>
 
 	<br>
 

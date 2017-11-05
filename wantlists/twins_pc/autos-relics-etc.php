@@ -16,13 +16,13 @@
 
 	<p><u>Quick stats</u><br>
 		A quick look at how many autographed, relic, or similar cards I have in my Twins collection. Note to self, write a short script to have this update automatically in the future:<br>
-		Autographs: 183<br>
+		Autographs: 184<br>
 		Game used/relics: 106<br>
 		Patches: 32<br>
 		Manufactured relics: 32<br>
-		1/1s: 28<br>
+		1/1s: 29<br>
 		Superfractors: 3<br>
-		Total Unique Cards: 347</p>
+		Total Unique Cards: 349</p>
 
 	<h1>2017</h1><p>
 	2017 Topps Jackie Robinson Day Commemorative Pin Miguel Sano JRPC-MSA (manu pin)<br>
@@ -30,6 +30,7 @@
 
 	<br>
 
+	2017 Topps Inception Black Brian Dozier 17 #ed 1/1<br>
 	2017 Topps Inception Printing Plates Cyan Brian Dozier 17 #ed 1/1 (printing plate)<br>
 
 	<br>
@@ -83,6 +84,7 @@
 	2016 Topps Chrome Rookie Autographs Jose Berrios RA-JOS (auto)<br>
 	2016 Topps Chrome Rookie Autographs Max Kepler RA-MK (auto)<br>
 	2016 Topps Chrome Rookie Autographs Tyler Duffey RA-TD (auto)<br>
+	2016 Topps Chrome Rookie Autographs Refractors Jose Berrios RA-JOS #ed 312/499 (auto)<br>
 	2016 Topps Chrome Rookie Autographs Gold Refractors Tyler Duffey RA-TD #ed 33/50 (auto)<br>
 	2016 Topps Chrome Rookie Autographs Green Refractors Tyler Duffey RA-TD #ed 60/99 (auto)<br>
 	2016 Topps Chrome Rookie Autographs Orange Refractors Tyler Duffey RA-TD #ed 12/25 (auto)<br>
