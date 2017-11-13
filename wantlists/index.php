@@ -25,10 +25,6 @@
 <body>
 <div class="content">
 	<h1>Wantlists home</h1>
-	<ul>
-		<li><a href="./twins_pc">Twins PC</a></li>
-		<li><a href="./chris_herrmann">Chris Herrmann PC</a></li>
-	</ul>
 
 	<div class="triple">
 		<div class="tri" id="one">

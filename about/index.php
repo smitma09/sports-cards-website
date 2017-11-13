@@ -4,6 +4,16 @@
 
 <html>
 <head>
+	<style>
+		#firstCards {
+			max-width: 700px;
+			min-width: 300px;
+			width: 50%;
+			display: block;
+			margin: 0 auto;
+		}
+	</style>
+
 	<link href="../css/siteTheme.css" rel="stylesheet">
 </head>
 <body>
@@ -11,7 +21,19 @@
 
 	<h1>About me</h1>
 
-	<p>Born and raised in Minnesota just south of the Twin Cities, I've been a huge Minnesota sports fan for as long as I can remember. ..............................................................................................................................................................................................................................................................................................</p>
+	<p>Born and raised in Minnesota just south of the Twin Cities, I've been a huge Minnesota sports fan for as long as I can remember. Twins, Wild, Vikings, Gophers, I was raised to love them all. I enjoy tuning in to a Timberwolves game here and there, but can't get in to the NBA as much as MLB, NHL, NFL, and college sports. Like any true Minnesotan, I'll cheer on the Vikings and Gophers until the end, but the Twins and Wild will forever be my two favorite teams to follow. I have fond memories of trips to the Metrodome with my trusty baseball glove in hand, hoping for a foul ball to come our way, and enjoying a jumbo pretzel, my favorite ballpark snack of my childhood. As for the Wild, my earliest memory at Xcel Energy Center is sitting up in the nosebleed seats with my dad and excitedly screaming at Marion Gaborik to skate faster as he sped off on a breakaway (he must have heard, because he actually scored on the play!) My family didn't have cable TV growing up, so it was a treat when one of the local channels would have coverage of a game so I could stay glued to the screen and watch the action. Additionally, I would read the sports section of the newspaper every morning to catch up on everything from the day before.</p>
+
+	<p>In terms of collecting, I got my first sports cards in the early 2000s when Post put a baseball card in boxes of cereal. I got probably 10 or so cards that way, and still have them to this day. They're not worth anything, and aren't in great shape, but I like hanging onto them for sentimental purposes.</p>
+
+	<img src="/images/misc/about/firstCards.jpg" alt="Post cards" id="firstCards"><br>
+
+	<p>It wouldn't be until the late 2000s when I would start to get more serious about collecting. My dad was a stamp collector, so he introduced me to stamps and that stuck for awhile- I had a killer collection of dinosaurs. I eventually got disinterested in stamps for one reason or another, but started picking up Topps and Upper Deck complete sets here and there. I would go through and sort everything by team and put each team into a binder with all the other cards I had of that team. Eventually I expanded out from complete sets to blaster boxes at Target and started trying to build different sets myself, while setting aside the Twins cards to grow the stash I had of the team.<p>
+
+	<p>A pivotal point in my collecting timeline was in 2010, when I joined my first online sports cards trading forum, Sports Card Fun. It was a relatively small community, but connected collectors with one another from around the world. You would post cards you have available for trade, cards you were looking for in return, and find trade partners that way. It was really a great time, and always exciting to come home to a package of new cards in the mailbox. This made it much easier to complete sets I worked on (1989 Topps will always hold a special place in my heart for being the first set I did a lot of online trading with to complete), and opened the door to so much more in the hobby I didn't know about. I learned more about the history of cards, invested in a Beckett reference book to learn more about what my cards were worth, and so on. Sports Card Fun also gave you a page for you to design and list out your wants and haves for people to view. It was a really simple plain text page, but it was my first trading card webpage- I've come a long ways!</p>
+
+	<p>Over time, I became less focused on completing different sets and started focusing more and more on trading for as many Twins cards as I could. I made hundreds of trades on Sports Card Fun and expanded my Twins collection exponentially because of it, from a few hundred to a few thousand in just a few years. Eventually, however, the number of users there dwindled enough to where it started to become difficult for me to find new people I had cards that would interest them. So, in early 2013, I signed up for a much bigger sports card form, simply called Sports Card Forum. Not only did this site have pages to post your buying, selling, and trading desires, there were also sections to simply talk about sports and the various headlines of the time, which I really enjoyed. In just over a year, I had racked up more than 100 different transactions, and my Twins collection again grew exponentially. I eventually expanded to a third major form, Blowout Cards, to reach an even wider audience of collectors and hobbyists. Thanks to these forums, my Twins collection grew from a few hundred base cards, to thousands of cards including autographs, patches, and more in just a few years time.</p>
+
+	<p>Today, I'm still active on a variety of forums. Unfortunately, Sports Card Fun membership has really died off and I don't find myself there too often anymore, but I visit Blowout daily, and Sports Card Forum and a few other sites fairly regularly as well. It's a great way to talk about sports with people across the world, and, of course, continue to grow your collection. I continue to enjoy the hobby, trying to acquire as many Twins cards as possible. I don't dive into hockey or football cards often, save for a few Wild or Vikings cards here and there, but I'm always on the lookout for Twins cards I don't have yet. I'm thankful for everyone and everything that has allowed me to enjoy such a great hobby.</p>
 
 	<h1>About the site</h1>
 

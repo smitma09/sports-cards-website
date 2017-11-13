@@ -25,7 +25,6 @@
 <body>
 <div class="content">
 	<h1>Twins PC wants</h1>
-	<p>This section of my site will hold lists of the Twins cards I need for my PC. My wants are broken down by decade from 1961 to 1999, and then every 5 years from 2000 to the present. You can see my wants for each of those ranges of years by clicking on the corresponding links below.</p>
 
 	<div class="triple"> 
 		<div class="tri">

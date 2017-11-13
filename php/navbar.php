@@ -95,12 +95,13 @@
                     	<li><a href="/galleries/twins_pc.php">Twins PC</a></li>
                     </ul></li>
 
-		    <li><a href="/havelists">Have lists</a></li>
+		    <!--<li><a href="/havelists">Have lists</a></li>-->
 		    <li class="dropdown"><a href="/wantlists">Wantlists</a>
 			<ul class="dropdown-content">
 			    <li><a href="/wantlists/twins_pc">Twins PC</a></li>
 			    <li><a href="/wantlists/chris_herrmann">Chris Herrmann</a></li>
 			</ul></li> <!-- End dropdown parent -->
+			<li><a href="/about">About</a></li>
                 </ul>
             </div>       <!-- /.navbar-collapse -->
         </div>   <!-- /.container -->

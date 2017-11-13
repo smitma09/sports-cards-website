@@ -34,9 +34,8 @@
 		</div>
 	</div>
 
-	<ul>
-		<li><a href="./twins_pc.php">Twins PC</a></li>
-	</ul>
+	<p>More galleries including my Chris Herrmann PC, Paul Molitor project, and several others are currently a work in progress- Check back soon!</p>
+
 
 </div>
 </body>
