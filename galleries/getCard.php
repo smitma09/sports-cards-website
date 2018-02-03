@@ -220,7 +220,7 @@
 
 	// Need to chop of the last ' and' from the sql statement
 	$sql = substr($sql, 0, -4);
-	$sql = $sql . ' order by year desc, cardset asc, subset asc, cardNum asc';
+	$sql = $sql . ' order by year desc, cardset asc, subset asc, cast(cardNum as unsigned) asc';
 
 	$result = mysqli_query($conn, $sql);
 	$num_cards = mysqli_num_rows($result);

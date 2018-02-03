@@ -616,7 +616,7 @@
 	<div class="ssTitle">Prospects Gold Refractors (#/50):</div> 7, 19, 51, 56, 62, 84<br>
 	<div class="ssTitle">Prospects Green Refractors (#/399):</div> 7, 19, 51, 56, 62, 84<br>
 	<div class="ssTitle">Prospects Red Refractors (#/25):</div> 7, 19, 51, 56, 62, 84<br>
-	<div class="ssTitle">Prospects X-Fractors:</div> 7, 19, 51, 56, 62, 84<br>
+	<div class="ssTitle">Prospects X-Fractors:</div> 7, 51, 56, 62, 84<br>
 	<div class="ssTitle">Chrome Prospect Refractors:</div> 7, 19, 51, 56<br>
 	<div class="ssTitle">Chrome Prospect Green Refractors (#/399):</div> 7, 19, 51, 56, 62, 84<br>
 	<div class="ssTitle">Chrome Prospect Purple Refractors:</div> 7, 19, 56, 62, 84<br>
@@ -1057,7 +1057,7 @@
 	<div class="ssTitle">Draft Picks Silver Ice (BDPP):</div> 15, 16, 63, 70, 85, 96, 134, 137, 145, 155<br>
 	<div class="ssTitle">Draft Picks Chrome (BDPP):</div> 15, 70, 85, 96, 145<br>
 	<div class="ssTitle">Draft Picks Chrome Refractors (BDPP):</div> 15, 16, 63, 70, 85, 96, 134, 137, 145, 155<br>
-	<div class="ssTitle">Draft Picks Chrome Blue Refractors (BDPP):</div> 15, 16, 63, 70, 85, 96, 134, 137, 145, 155<br>
+	<div class="ssTitle">Draft Picks Chrome Blue Refractors (BDPP):</div> 15, 63, 70, 85, 96, 134, 137, 145, 155<br>
 	<div class="ssTitle">Draft Picks Chrome Gold Refractors (BDPP):</div> 15, 16, 63, 70, 85, 96, 134, 137, 145, 155<br>
 	<div class="ssTitle">Draft Picks Chrome Orange Refractors (BDPP):</div> 15, 16, 63, 70, 85, 96, 134, 137, 145, 155<br>
 	<div class="ssTitle">Bowman's Best Die Cut Refractors:</div> 44<br>
@@ -1575,10 +1575,10 @@
 	<div class="ssTitle">Blue Tint:</div> 124, 166, 180<br>
 	<div class="ssTitle">Green Tint:</div> 124, 166, 180<br>
 	<div class="ssTitle">Red Tint:</div> 124, 166, 180<br>
-	<div class="ssTitle">Chrome (#/1962):</div> 2, 59, 74, 83, 95<br>
-	<div class="ssTitle">Chrome Refractors (#/562):</div> 2, 59, 74, 83, 95<br>
-	<div class="ssTitle">Chrome Black Refractors (#/62):</div> 2, 59, 67, 74, 83, 95<br>
-	<div class="ssTitle">Chrome Green Refractors:</div> 2, 59, 67, 74, 83, 95<br>
+	<div class="ssTitle">Chrome (#/1962):</div> 2, 59, 74, 83, 95, 127, 148, 167, 174<br>
+	<div class="ssTitle">Chrome Refractors (#/562):</div> 2, 59, 74, 83, 95, 127, 148, 167, 172, 174<br>
+	<div class="ssTitle">Chrome Black Refractors (#/62):</div> 2, 59, 67, 74, 83, 95, 127, 148, 167, 172, 174<br>
+	<div class="ssTitle">Chrome Green Refractors:</div> 2, 59, 67, 74, 83, 95, 127, 148, 167, 172, 174<br>
 	<div class="ssTitle">'62 Mint Coins:</div> HK<br>
 	<div class="ssTitle">Baseball Bucks:</div> 49, 50, 51<br>
 	<div class="ssTitle">Then & Now:</div> 1<br>
@@ -1701,7 +1701,7 @@
 	<div class="ssTitle">Prospects Gold Refractors (BCP, #/50):</div> 127, 159, 183, 202, 203, 205<br> 
 	<div class="ssTitle">Prospects Green X-Fractors (BCP):</div> 127, 159, 183, 202, 205<br> 
 	<div class="ssTitle">Prospects Orange Refractors (BCP, #/25):</div> 127, 159, 183, 202, 203, 205<br> 
-	<div class="ssTitle">Prospects Purple Refractor (BCP, #/899):</div> 127, 159, 183, 202, 203, 205<br> 
+	<div class="ssTitle">Prospects Purple Refractor (BCP, #/899):</div> 127, 159, 183, 202, 205<br> 
 	<div class="ssTitle">Topps 100 Prospects (#/999):</div> 59, 76, 94<br>
 	<div class="ssTitle">Topps 100 Prospects Refractors (#/499):</div> 59, 76, 94<br>
 	<div class="ssTitle">Topps 100 Prospects Gold Refractors  (#/50):</div> 59, 76, 94</p> 
@@ -1733,7 +1733,7 @@
 	<p><div class="title">2010 Bowman Platinum</div><br>
 	<i>Completed- Base</i><br>
 	<div class="ssTitle">Refractors (#/999):</div> 14, 77, 94<br>
-	<div class="ssTitle">Gold Refractors (#/549):</div> 14, 77, 94<br>
+	<div class="ssTitle">Gold Refractors (#/549):</div> 14, 77<br>
 	<div class="ssTitle">Prospects (PP):</div> 20, 28<br>
 	<div class="ssTitle">Prospects Refractors Thick Stock (PP, #/999):</div> 20, 28<br>
 	<div class="ssTitle">Prospects Refractors Thin Stock (PP, #/999):</div> 20, 28<br>

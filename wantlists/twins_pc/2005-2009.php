@@ -28,7 +28,7 @@
 	<div class="ssTitle">Base:</div> 98, 122, 129, 166, 228<br>
 	<div class="ssTitle">Blue (#/500):</div> 11, 78, 98, 101, 122, 125, 129, 166, 228<br>
 	<div class="ssTitle">Gold:</div> 11, 78, 98, 101, 122, 125, 129, 166, 228<br>
-	<div class="ssTitle">Orange (#/250):</div> 11, 78, 98, 101, 122, 125, 129, 166, 228<br>
+	<div class="ssTitle">Orange (#/250):</div> 11, 78, 98, 122, 125, 129, 166, 228<br>
 	<div class="ssTitle">Red Unnumbered:</div> 11, 78, 98, 101, 122, 125, 129, 166<br>
 	<div class="ssTitle">Chrome Prospects (BCP):</div> 19, 32, 35, 45, 87, 190<br>
 	<div class="ssTitle">Chrome Prospects Refractors (#/150, BCP):</div> 19, 32, 35, 45, 87, 190<br>
@@ -291,7 +291,7 @@
 
 	<br>
 
-	<p><div class="title">2009 Upper Deck First Edition</div>
+	<p><div class="title">2009 Upper Deck First Edition</div><br>
 	<i>Completely complete!</i></p>
 
 	<br>
@@ -632,7 +632,7 @@
 	<div class="ssTitle">Hot Commodities:</div> 17<br>
 	<div class="ssTitle">O-Pee-Chee:</div> JM, JS<br>
 	<div class="ssTitle">Superstar Scrapbooks:</div> 8<br>
-	<div class="ssTitle">Starquest:</div> 12, 21, 49<br>
+	<div class="ssTitle">Starquest Common:</div> 21, 49<br>
 	<div class="ssTitle">Starquest Uncommon:</div> 21, 49<br>
 	<div class="ssTitle">Starquest Rare:</div> 12, 49<br>
 	<div class="ssTitle">Starquest Super Rare:</div> 21, 49<br>
@@ -844,10 +844,10 @@
 	<br>
 
 	<p><div class="title">2007 Bowman Heritage</div><br>
+	<i>Complete- Prospects</i><br>
 	<div class="ssTitle">Base:</div> 58, 80, 95, 239b (No signature SP)<br>
 	<div class="ssTitle">Black (#/52):</div> 58, 80, 95, 115, 143, 215, 238a, 239b (No signature SP)<br>
 	<div class="ssTitle">Rainbow Foil:</div> 58, 80, 95, 115, 143, 215, 239b (No signature SP)<br>
-	<div class="ssTitle">Prospects:</div> 59, 66<br>
 	<div class="ssTitle">Prospects Black (#/52):</div> 59, 66</p>
 
 	<br>
@@ -903,7 +903,7 @@
 	<br>
 
 	<p><div class="title">2007 Pepsi</div><br>
-	<div class="ssTitle">Base:</div> 52, 70, 77, 109, 160, 218</p>
+	<i>Completely complete!</i></p>
 
 	<br>
 
@@ -993,17 +993,17 @@
 	<br>
 
 	<p><div class="title">2007 Topps Co-Signers</div><br>
-	<div class="ssTitle">Base:</div> 31, 72, 117<br>
-	<div class="ssTitle">Blue:</div> 10, 31, 72, 117<br>
-	<div class="ssTitle">Bronze:</div> 10, 31, 72, 117<br>
-	<div class="ssTitle">Gold:</div> 10, 31, 72, 117<br>
-	<div class="ssTitle">Red:</div> 10, 31, 72, 117<br>
-	<div class="ssTitle">Hyper Silver Bronze:</div> 10, 31, 72, 117<br>
-	<div class="ssTitle">Hyper Silver Red:</div> 10, 31, 72, 117<br>
-	<div class="ssTitle">Silver Blue:</div> 10, 31, 72, 117<br>
-	<div class="ssTitle">Silver Bronze:</div> 10, 31, 72, 117<br>
-	<div class="ssTitle">Silver Gold:</div> 10, 31, 72, 117<br>
-	<div class="ssTitle">Silver Red:</div> 10, 31, 72, 117</p>
+	<div class="ssTitle">Base:</div> 31, 72<br>
+	<div class="ssTitle">Blue (#/250):</div> 10a (Liriano/Santana), 10b (Liriano/Garza), 31a (Morneau/Cuddyer), 31b (Morneau/Mauer), 72a (Mauer/Hunter), 72b (Mauer Santana), 99a (Jimenez/Perkins)<br>
+	<div class="ssTitle">Bronze (#/275):</div> 10a (Liriano/Santana), 10b (Liriano/Garza), 31a (Morneau/Cuddyer), 31b (Morneau/Mauer), 72a (Mauer/Hunter), 72b (Mauer Santana), 99a (Jimenez/Perkins)<br>
+	<div class="ssTitle">Gold (#/225):</div> 10a (Liriano/Santana), 10b (Liriano/Garza), 31a (Morneau/Cuddyer), 31b (Morneau/Mauer), 72a (Mauer/Hunter), 72b (Mauer Santana), 99a (Jimenez/Perkins)<br>
+	<div class="ssTitle">Hyper Silver Bronze (#/50):</div> 10a (Liriano/Santana), 10b (Liriano/Garza), 31a (Morneau/Cuddyer), 31b (Morneau/Mauer), 72a (Mauer/Hunter), 72b (Mauer Santana), 99a (Jimenez/Perkins)<br>
+	<div class="ssTitle">Hyper Silver Red (#75):</div> 10a (Liriano/Santana), 10b (Liriano/Garza), 31a (Morneau/Cuddyer), 31b (Morneau/Mauer), 72a (Mauer/Hunter), 72b (Mauer Santana), 99a (Jimenez/Perkins)<br>
+	<div class="ssTitle">Red (#/299):</div> 10a (Liriano/Santana), 10b (Liriano/Garza), 31a (Morneau/Cuddyer), 31b (Morneau/Mauer), 72a (Mauer/Hunter), 72b (Mauer Santana), 99a (Jimenez/Perkins)<br>
+	<div class="ssTitle">Silver Blue (#/150):</div> 10a (Liriano/Santana), 10b (Liriano/Garza), 31a (Morneau/Cuddyer), 31b (Morneau/Mauer), 72a (Mauer/Hunter), 72b (Mauer Santana), 99a (Jimenez/Perkins)<br>
+	<div class="ssTitle">Silver Bronze (#/175):</div> 10a (Liriano/Santana), 10b (Liriano/Garza), 31a (Morneau/Cuddyer), 72a (Mauer/Hunter), 72b (Mauer Santana), 99a (Jimenez/Perkins)<br>
+	<div class="ssTitle">Silver Gold (#/125):</div> 10a (Liriano/Santana), 10b (Liriano/Garza), 31a (Morneau/Cuddyer), 31b (Morneau/Mauer), 72a (Mauer/Hunter), 72b (Mauer Santana), 99a (Jimenez/Perkins)<br>
+	<div class="ssTitle">Silver Red (#/199):</div> 10a (Liriano/Santana), 10b (Liriano/Garza), 31a (Morneau/Cuddyer), 31b (Morneau/Mauer), 72a (Mauer/Hunter), 72b (Mauer Santana), 99a (Jimenez/Perkins)</p>
 
 	<br>
 
@@ -1122,7 +1122,7 @@
 	<br>
 
 	<p><div class="title">2007 Upper Deck First Edition</div><br>
-	<div class="ssTitle">Base:</div> 27, 28, 110, 112, 114, 115, 117<br>
+	<div class="ssTitle">Base:</div> 27, 28, 112, 114, 115, 117<br>
 	<div class="ssTitle">First Pitch Aces:</div> JS<br>
 	<div class="ssTitle">First Pitch Foundations:</div> GP<br>
 	<div class="ssTitle">Momentum Swing:</div> JM<br>
@@ -1519,7 +1519,7 @@
 	<br>
 
 	<p><div class="title">2006 Upper Deck</div><br>
-	<div class="ssTitle">Base:</div> 184, 197, 269, 270, 271, 272, 273, 277, 278, 280, 283a (Baker), 690, 691, 692, 693, 695, 696, 698, 942, 989, 1114, 1115, 1116, 1119, 1149, 1237<br>
+	<div class="ssTitle">Base:</div> 184, 197, 269, 270, 271, 272, 273, 277, 278, 280, 283a (Baker), 690, 691, 692, 693, 695, 696, 698, 942, 989, 1115, 1116, 1119, 1149, 1237<br>
 	<div class="ssTitle">Gold (#/99):</div> 184, 197, 269, 270, 271, 272, 273, 275, 276, 277, 278, 279, 280, 281, 282, 283a (Baker), 284, 285, 689, 690, 691, 692, 693, 694, 695, 696, 697, 698, 699, 898, 942, 943, 989, 1114, 1115, 1116, 1117, 1119, 1149, 1237<br>
 	<div class="ssTitle">Silver Spectrum (#/25 or 99):</div> 184, 197, 269, 270, 271, 272, 273, 275, 276, 277, 278, 279, 280, 281, 282, 283a (Baker), 284, 285, 689, 690, 691, 692, 693, 694, 695, 696, 697, 698, 699, 898, 942, 943, 989, 1114, 1115, 1116, 1117, 1119, 1149, 1237<br>
 	<div class="ssTitle">All-Time Legends:</div> 15, 22<br>
@@ -1615,6 +1615,15 @@
 	<div class="ssTitle">Rainbow Blue (#/100):</div> 48, 49, 95, 132, 134, 169, 216, 225, 243, 266, 276<br>
 	<div class="ssTitle">Rainbow Gold (#/25):</div> 48, 49, 95, 132, 134, 169, 216, 225, 243, 266, 276<br>
 	<div class="ssTitle">Rainbow Red (#/50):</div> 48, 49, 95, 132, 134, 169, 216, 225, 243, 266, 276</p>
+
+	<br>
+
+	<p><div class="title">2005 Bazooka</div><br>
+	<div class="ssTitle">Base:</div> 68, 77, 86, 92, 97, 105, 110, 177, 211<br>
+	<div class="ssTitle">Gold Chunks:</div> 77, 86, 92, 97, 105, 110, 177, 211<br>
+	<div class="ssTitle">Minis:</div> 68, 77, 86, 92, 97, 105, 110, 177, 211<br>
+	<div class="ssTitle">4-On-1 Stickers:</div> 2, 7, 8, 11, 15, 35, 40, 43, 51<br>
+	<div class="ssTitle">Tattoos:</div> 21</p>
 
 	<br>
 
@@ -2053,6 +2062,19 @@
 
 	<br>
 
+	<p><div class="title">2005 Leather and Lumber</div><br>
+	<div class="ssTitle">Base:</div> 66, 67, 77, 123, 130<br>
+	<div class="ssTitle">Gold (#/50):</div> 66, 67, 77, 123, 130<br>
+	<div class="ssTitle">Silver (#/100):</div> 66, 67, 77, 123, 130<br>
+	<div class="ssTitle">Hitters Inc (#/2,000):</div> 16<br>
+	<div class="ssTitle">Hitters Inc Gold (#/100):</div> 16<br>
+	<div class="ssTitle">Hitters Inc Silver (#/200):</div> 16<br>
+	<div class="ssTitle">Rivals (#/2,000):</div> 9, 20<br>
+	<div class="ssTitle">Rivals Gold (#/50):</div> 9, 16, 20<br>
+	<div class="ssTitle">Rivals Silver (#/100):</div> 9, 16, 20</p>
+
+	<br>
+
 	<p><div class="title">2005 Playoff Prestige</div><br>
 	<i>Completed- Connections</i><br>
 	<div class="ssTitle">Base:</div> 36, 123, 165, 196<br>
@@ -2095,7 +2117,7 @@
 	<div class="ssTitle">Prestigious Pros Orange (#/500):</div> 4, 11, 29, 48, 57, 83<br>
 	<div class="ssTitle">Prestigious Pros Platinum (#/25):</div> 4, 11, 29, 48, 57, 83<br>
 	<div class="ssTitle">Prestigious Pros Purple (#/200):</div> 4, 11, 29, 48, 57, 83<br>
-	<div class="ssTitle">Prestigious Pros Red (#/700):</div> 4, 11, 29, 48, 57, 83<br>
+	<div class="ssTitle">Prestigious Pros Red (#/700):</div> 4, 11, 29, 57, 83<br>
 	<div class="ssTitle">Prestigious Pros Silver (#/75):</div> 4, 11, 29, 48, 57, 83<br>
 	<div class="ssTitle">Stars of MLB:</div> 13<br>
 	<div class="ssTitle">Stars of MLB Foil (#/100):</div> 13<br>
@@ -2262,7 +2284,7 @@
 	<div class="ssTitle">Gold:</div> 3, 59, 116, 144, 165, 192, 202, 241, 283, 317, 341, 342, 364, 417, 447, 467, 510, 523, 544, 562, 585, 628, 654, 672, 679, 703, 713<br>
 	<div class="ssTitle">Box Bottoms:</div> 510 (Mauer)<br>
 	<div class="ssTitle">Factory Set First Year Draft Bonus:</div> 3<br>
-	<div class="ssTitle">Opening Day:</div> 3, 116, 121, 122, 123, 144<br>
+	<div class="ssTitle">Opening Day:</div> 3, 116, 122, 123, 144<br>
 	<div class="ssTitle">Own the Game:</div> 28<br>
 	<div class="ssTitle">Retired Signature:</div> 72, 101<br>
 	<div class="ssTitle">Retired Signature Black:</div> 72, 101<br>
@@ -2377,6 +2399,14 @@
 	<p><div class="title">2005 Topps Update</div><br>
 	<div class="ssTitle">Base:</div> 139, 140, 156, 211, 237, 259, 318<br>
 	<div class="ssTitle">Gold:</div> 95, 139, 140, 156, 211, 237, 246, 259, 281, 295, 318</p>
+
+	<br>
+
+	<p><div class="title">2005 Ultra</div><br>
+	<div class="ssTitle">Base:</div> 5, 14, 26, 39, 50, 105, 107, 210, 212, 219<br>
+	<div class="ssTitle">Gold Medallion:</div> 5, 14, 26, 39, 50, 105, 107, 212, 219<br>
+	<div class="ssTitle">Platinum Medallion (#/50):</div> 5, 14, 26, 39, 50, 105, 107, 210, 212, 219<br>
+</p>
 
 	<br>
 

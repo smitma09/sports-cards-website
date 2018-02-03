@@ -16,13 +16,13 @@
 
 	<p><u>Quick stats</u><br>
 		A quick look at how many autographed, relic, or similar cards I have in my Twins collection. Note to self, write a short script to have this update automatically in the future:<br>
-		Autographs: 184<br>
+		Autographs: 185<br>
 		Game used/relics: 106<br>
-		Patches: 32<br>
+		Patches: 35<br>
 		Manufactured relics: 32<br>
 		1/1s: 29<br>
 		Superfractors: 3<br>
-		Total Unique Cards: 349</p>
+		Total Unique Cards: 353</p>
 
 	<h1>2017</h1><p>
 	2017 Topps Jackie Robinson Day Commemorative Pin Miguel Sano JRPC-MSA (manu pin)<br>
@@ -278,6 +278,7 @@
 
 	<br>
 
+	2013 Bowman Platinum Prospect Autographs Max Kepler BPAP-MK (auto)<br>
 	2013 Bowman Platinum Prospect Autographs Nate Roberts BPAP-NR (auto)<br>
 
 	<br>
@@ -643,6 +644,7 @@
 	<br>
 
 	2008 Sweet Spot Swatches Joe Mauer SS-JM (jersey)<br>
+	2008 Sweet Spot Swatches Dual Patch Justin Morneau, Travis Hafner DS-HM #ed 04/25 (dual patch)<br>
 
 	<br>
 
@@ -669,7 +671,9 @@
 
 	<br>
 
-	2008 Upper Deck Premier Patches 2 Position Gold Torii Hunter PP2-HU #ed 31/50 (dual patch)<br>
+	2008 Upper Deck Premier Patches Gold Position Johan Santana PP2-JS #ed 02/50 (dual patch)<br>
+	2008 Upper Deck Premier Patches Gold Position Torii Hunter PP2-HU #ed 31/50 (dual patch)<br>
+	2008 Upper Deck Premier Patches Gold Milestones Justin Morneau PP2-JM #ed 05/22 (dual patch)<br>
 
 	<br>
 

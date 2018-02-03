@@ -9,13 +9,13 @@
 </head>
 <body>
 <div class="content">
-        <h1> Twins PC wants- 2000-2004</h1>
+    <h1> Twins PC wants- 2000-2004</h1>
 
-        <p>This page will be used to list all of my wants from sets in the 2000s (2000-2004). This is currently a work in progress as a slowly move my set wants over from my old website to this one. Please note that autographs and relics will not be included on these wants- I still would be interested in them if you have any, but I'm not listing them here in order to save space. Cards numbered to less than 25 will also not be listed. I would like those as well, so please let me know if you have any available.</p>
+    <p>This page will be used to list all of my wants from sets in the 2000s (2000-2004). This is currently a work in progress as a slowly move my set wants over from my old website to this one. Please note that autographs and relics will not be included on these wants- I still would be interested in them if you have any, but I'm not listing them here in order to save space. Cards numbered to less than 25 will also not be listed. I would like those as well, so please let me know if you have any available.</p>
 
 	<h1>2004</h1>
 
-        <br>
+    <br>
 
 	<p><div class="title">2004 Absolute Memorabilia</div><br>
 	<div class="ssTitle">Base:</div> 116, 117, 118, 119, 120, 121, 123<br>
@@ -247,7 +247,7 @@
 	<br>
 
 	<p><div class="title">2004 Fleer Authentix</div><br>
-	<div class="ssTitle">Base:</div> 31, 34, 127<br>
+	<div class="ssTitle">Base:</div> 31, 34<br>
 	<div class="ssTitle">Balcony (#/100):</div> 31, 34, 127<br>
 	<div class="ssTitle">Club Box (#/25):</div> 31, 34, 127<br>
 	<div class="ssTitle">Ticket for Four (#/100):</div> GJBH, JPSH<br>
@@ -1483,7 +1483,7 @@
 	<br>
 
 	<p><div class="title">2003 Upper Deck 40-Man</div><br>
-	<div class="ssTitle">Base:</div> 278, 279, 280, 281, 283, 284, 285, 286, 287, 289, 290, 291, 292, 294, 295, 296, 297, 298, 299, 300, 770, 775, 871, 885, 886, 887, 888, 889, 890<br>
+	<div class="ssTitle">Base:</div> 278, 279, 280, 281, 283, 284, 285, 286, 287, 289, 290, 291, 292, 294, 295, 296, 297, 298, 299, 300, 770, 775, 871, 885, 886, 889<br>
 	<div class="ssTitle">Rainbow:</div> 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 770, 775, 871, 885, 886, 887, 888, 889, 890, 968<br>
 	<div class="ssTitle">Red White and Blue:</div> 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 770, 775, 871, 885, 886, 887, 888, 889, 890, 968<br>
 	</p>
@@ -1968,6 +1968,7 @@
 	<br>
 
 	<p><div class="title">2002 Topps 206</div><br>
+	<i>Complete- Team 206 Series 2</i><br>
 	<div class="ssTitle">Base:</div> 103, 140, 245, 255, 314, 333, 361, 367, 398, 399, 400, 421, 442, 443<br>
 	<div class="ssTitle">Mini Bazooka:</div> 271<br>
 	<div class="ssTitle">Mini Carolina Brights:</div> 245, 255, 271<br>
@@ -1981,9 +1982,7 @@
 	<div class="ssTitle">Mini Tolstoi:</div> 103, 140<br>
 	<div class="ssTitle">Mini Tolstoi Red:</div> 103, 140<br>
 	<div class="ssTitle">Mini Uzit:</div> 314, 333, 361, 367, 398, 399, 400, 421, 442, 443<br>
-	<div class="ssTitle">Team 206 Series 1:</div> 16<br>
-	<div class="ssTitle">Team 206 Series 2:</div> 19<br>
-	</p>
+	<div class="ssTitle">Team 206 Series 1:</div> 16</p>
 
 	<br>
 
@@ -2176,7 +2175,7 @@
 
 	<p><div class="title">2002 Upper Deck Victory</div><br>
 	<div class="ssTitle">Base:</div> 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 197, 198, 199, 200, 505, 581<br>
-	<div class="ssTitle">Gold:</div> 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 505, 581<br>
+	<div class="ssTitle">Gold:</div> 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 505, 529, 581<br>
 	</p>
 
 	<br>
