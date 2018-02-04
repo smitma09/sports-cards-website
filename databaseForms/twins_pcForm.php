@@ -13,7 +13,7 @@
             <p id="playerInfo">Player first name <input type="text" name="playerFirst" default=""> 
                 Player last name <input type="text" name="playerLast" default=""></p>
 	    <p id="allPlayerInfo">Or all players on card <input type="text" name="multiPlayers" default="" size="50"> <i>Enter each player's first and last name, separated by commas</i></p>
-            <p id="cardNumber">Card number <input type="text" name="cardNum" size="5"> <i>Enter the card number exactly as it appears on the card</i></p>
+            <p id="cardNumber">Card number prefix <input type="text" name="cardNumPre" size="5"> Card number<input type="text" name="cardNum" size="5"> <i>Enter the card number exactly as it appears on the card. Anything tha shouldn't be used in sorting before the card number should go in the card number prefix field, including spaces, dashes, etc. Anything in the card number field will be used for sorting.</i></p>
             <h3>Attributes</h3>
             <ul style="list-style-type:none" id="attributes">
                 <li><input type="checkbox" name="auto" default=""> Autograph</li>

@@ -90,6 +90,7 @@
 	$conn = mysqli_connect($dbServername, $publicdbUsername, $publicdbPass, $dbName);
 	if (!$conn) {
 	    die('Could not connect: ' . mysqli_error($conn));
+	    echo '$conn';
 	}
 
 	$sql = 'select * from twins_pc';
@@ -220,11 +221,11 @@
 
 	// Need to chop of the last ' and' from the sql statement
 	$sql = substr($sql, 0, -4);
-	$sql = $sql . ' order by year desc, cardset asc, subset asc, cast(cardNum as unsigned) asc';
+	$sql = $sql . ' order by year desc, cardset asc, subset asc, cast(cardNum as signed) asc';
 
 	$result = mysqli_query($conn, $sql);
 	$num_cards = mysqli_num_rows($result);
-	if ($num_cards == 0) {
+	if ($num_cards == 0 or $clauses == 0) {
 		echo "<p>No cards matched your query. Try refining your search terms to get some results.</p>";
 	} else {
 		echo "<p>" . $num_cards . " cards matched your query.</p>";
