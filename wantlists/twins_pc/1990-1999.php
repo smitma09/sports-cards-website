@@ -27,7 +27,9 @@
 
     <h1>1999</h1>
 
-    <br>
+    <img class="headerImgVertical" alt="1999 header image" src="/images/twins_pc/headers/1999.JPG">
+
+    <br><br>
 
     <p><div class="title">1999 Aurora</div><br>
 	<div class="ssTitle">Base:</div> 104, 105, 106, 107, 108<br>
@@ -412,7 +414,7 @@
 	<br>
 
 	<p><div class="title">1998 Aurora</div><br>
-	<div class="ssTitle">Base:</div> 50, 51, 52, 53, 54, 55, 56<br>
+	<div class="ssTitle">Base:</div> 50, 51, 53, 54, 55, 56<br>
 	<div class="ssTitle">Pennant Fever:</div> 4<br>
 	<div class="ssTitle">Pennant Fever Platinum Blue (#/100):</div> 4<br>
 	<div class="ssTitle">Pennant Fever Red:</div> 4<br>
@@ -421,7 +423,7 @@
 	<br>
 
 	<p><div class="title">1998 Bowman</div><br>
-	<div class="ssTitle">Base:</div> 13, 36, 54, 71, 104, 118, 143, 148, 163, 210, 223, 298, 319, 337, 347, 349, 362, 387, 400, 405<br>
+	<div class="ssTitle">Base:</div> 13, 36, 54, 71, 104, 118, 143, 163, 210, 223, 298, 319, 337, 347, 349, 362, 387, 400, 405<br>
 	<div class="ssTitle">Golden Anniversary (#ed/50):</div> 13, 36, 54, 71, 104, 118, 143, 148, 163, 210, 223, 298, 319, 337, 347, 349, 362, 387, 400, 405<br>
 	<div class="ssTitle">International:</div> 13, 36, 54, 71, 104, 118, 143, 148, 163, 210, 223, 298, 319, 337, 347, 349, 362, 387, 400, 405</p>
 
@@ -429,9 +431,9 @@
 
 	<p><div class="title">1998 Bowman Chrome</div><br>
 	<div class="ssTitle">Base:</div> 13, 36, 54, 71, 104, 118, 143, 163, 210, 223, 298, 319, 337, 347, 349, 362, 387, 400, 405<br>
-	<div class="ssTitle">Golden Anniversary (#ed/50):</div> 13, 36, 54, 71, 104, 118, 143, 163, 210, 223, 298, 319, 337, 347, 349, 362, 387, 400, 405<br>
+	<div class="ssTitle">Golden Anniversary (#ed/50):</div> 13, 36, 54, 71, 104, 118, 143, 148, 163, 210, 223, 298, 319, 337, 347, 349, 362, 387, 400, 405<br>
 	<div class="ssTitle">International:</div> 13, 36, 54, 71, 104, 118, 143, 163, 210, 223, 298, 319, 337, 347, 349, 362, 387, 400, 405<br>
-	<div class="ssTitle">International Refractors:</div> 13, 36, 54, 71, 104, 118, 143, 163, 210, 223, 298, 319, 337, 347, 349, 362, 387, 400, 405<br>
+	<div class="ssTitle">International Refractors:</div> 13, 36, 54, 71, 104, 118, 143, 148, 163, 210, 223, 298, 319, 337, 347, 349, 362, 387, 400, 405<br>
 	<div class="ssTitle">Refractors:</div> 13, 36, 54, 71, 104, 118, 143, 163, 210, 223, 298, 319, 337, 347, 349, 362, 387, 400, 405</p>
 
 	<br>
@@ -483,11 +485,11 @@
 	<br>
 
 	<p><div class="title">1998 Donruss Elite</div><br>
+	<i>Complete- Craftsmen (#/3,500)</i><br>
 	<div class="ssTitle">Base:</div> 22, 86, 99, 139<br>
 	<div class="ssTitle">Aspirations (#/750):</div> 22, 86, 99, 139<br>
 	<div class="ssTitle">Status (#/100):</div> 22, 86, 99, 139<br>
 	<div class="ssTitle">Back to the Future (#/1,400):</div> 6<br>
-	<div class="ssTitle">Craftsmen (#/3,500):</div> 26<br>
 	<div class="ssTitle">Master Craftsmen (#/100):</div> 26</p>
 
 	<br>
@@ -523,7 +525,7 @@
 	<br>
 
 	<p><div class="title">1998 Finest</div><br>
-	<div class="ssTitle">Base:</div> 21, 43, 91, 110, 117, 173, 190, 203, 218, 259, 269<br>
+	<div class="ssTitle">Base:</div> 21, 43, 91, 110, 117, 173, 190, 203, 218, 269<br>
 	<div class="ssTitle">No-Protectors:</div> 21, 43, 91, 110, 117, 173, 190, 203, 218, 259, 269<br>
 	<div class="ssTitle">No-Protectors Refractors:</div> 21, 43, 91, 110, 117, 173, 190, 203, 218, 259, 269<br>
 	<div class="ssTitle">Refractors:</div> 21, 43, 91, 110, 117, 173, 190, 203, 218, 259, 269</p>
@@ -635,7 +637,7 @@
 	<br>
 
 	<p><div class="title">1998 Pinnacle</div><br>
-	<div class="ssTitle">Base:</div> 35, 67, 146<br>
+	<div class="ssTitle">Base:</div> 35, 146<br>
 	<div class="ssTitle">Away Statistics Back:</div> 35, 67, 146<br>
 	<div class="ssTitle">Home Statistics Back:</div> 35, 67, 146<br>
 	<div class="ssTitle">Artist's Proofs:</div> 34, 60<br>
@@ -655,17 +657,12 @@
 
 	<br>
 
-	<p><div class="title">1998 Pinnacle Certified</div><br>
-	<i>Coming soon</i></p>
-
-	<br>
-
 	<p><div class="title">1998 Pinnacle Inside</div><br>
 	<div class="ssTitle">Base:</div> 58, 76<br>
 	<div class="ssTitle">Club Edition:</div> 58, 76<br>
 	<div class="ssTitle">Diamond Edition:</div> 58, 76<br>
 	<div class="ssTitle">Stand-Up Guys:</div> 21AB, 21CD<br>
-	<div class="ssTitle">Stand-Up Guys Samples:</div> 21AB, 21CD<br>
+	<div class="ssTitle">Stand-Up Guys Samples:</div> 21AB, 21CD</p>
 
 	<br>
 
@@ -695,8 +692,8 @@
 	<br>
 
 	<p><div class="title">1998 Score</div><br>
-	<div class="ssTitle">Base:</div> 52, 67, 123<br>
-	<div class="ssTitle">All Score Team:</div> 9, 11<br>
+	<div class="ssTitle">Base:</div> 67, 123<br>
+	<div class="ssTitle">All Score Team:</div> 11<br>
 	<div class="ssTitle">Loaded Lineup:</div> 8<br>
 	<div class="ssTitle">Showcase Series:</div> 16, 72<br>
 	<div class="ssTitle">Showcase Series Artist's Proofs:</div> 16, 72</p>
@@ -711,7 +708,7 @@
 	<br>
 
 	<p><div class="title">1998 SkyBox Dugout Axcess</div><br>
-	<div class="ssTitle">Base:</div> 70, 71, 72, 109<br>
+	<div class="ssTitle">Base:</div> 70, 109<br>
 	<div class="ssTitle">Insice Axcess (#/50):</div> 70, 71, 72, 109</p>
 
 	<br>
@@ -720,7 +717,7 @@
 	<div class="ssTitle">Base:</div> 21, 122, 123, 124, 125, 126<br>
 	<div class="ssTitle">Sheer Dominance:</div> 14<br>
 	<div class="ssTitle">Sheer Dominance Gold (#/2,000):</div> 14<br>
-	<div class="ssTitle">Sheer Dominance titanium (#/100):</div> 14</p>
+	<div class="ssTitle">Sheer Dominance Titanium (#/100):</div> 14</p>
 
 	<br>
 
@@ -735,6 +732,7 @@
 	<div class="ssTitle">Opening Day Mini Posters:</div> 17<br>
 	<div class="ssTitle">Then and Now:</div> 24, 44<br>
 	<div class="ssTitle">Then and Now Extra Edition (#/500):</div> 24, 44<br>
+	<div class="ssTitle">Then and Now Covers:</div> 3<br>
 	<div class="ssTitle">Then and Now Road to Cooperstown:</div> 7<br>
 	<div class="ssTitle">World Series Fever:</div> 120<br>
 	<div class="ssTitle">World Series Fever Extra Edition (#/98):</div> 120<br>
@@ -743,18 +741,18 @@
 	<br>
 
 	<p><div class="title">1998 SPx Finite</div><br>
-	<div class="ssTitle">Base (#ing varies):</div> 95, 96, 97, 158, 182, 198, 204, 296, 297, 298<br>
-	<div class="ssTitle">Radiance (#ing varies):</div> 95, 96, 97, 158, 182, 198, 204, 296, 297, 298<br>
+	<div class="ssTitle">Base (#ing varies):</div> 95, 96, 97, 158, 198, 204, 296, 297, 298<br>
+	<div class="ssTitle">Radiance (#ing varies):</div> 95, 96, 97, 158, 182, 198, 204, 296, 297<br>
 	<div class="ssTitle">Spectrum (#ing varies):</div> 95, 96, 97, 158, 182, 198, 204, 296, 297, 298</p>
 
 	<br>
 
 	<p><div class="title">1998 Stadium Club</div><br>
-	<div class="ssTitle">Base:</div> 6, 31, 34, 94, 115, 146, 220, 221, 277, 303, 344, 349, 375, 385<br>
+	<i>Complete- Never Comporomise</i><br>
+	<div class="ssTitle">Base:</div> 6, 31, 34, 94, 115, 146, 220, 221, 277, 303, 344, 349, 375<br>
 	<div class="ssTitle">First Day Issue (#ed/200):</div> 6, 31, 34, 94, 115, 146, 220, 221, 277, 303, 344, 349, 375, 385<br>
 	<div class="ssTitle">One of a Kind (#ed/150):</div> 6, 31, 34, 94, 115, 146, 220, 221, 277, 303, 344, 349, 375, 385<br>
 	<div class="ssTitle">In The Wings (W):</div> 12<br>
-	<div class="ssTitle">Never Compromise (NC):</div> 20<br>
 	<div class="ssTitle">Triumvirate Illuminator:</div> T18A<br>
 	<div class="ssTitle">Triumvirate Luminescent:</div> T18A<br>
 	<div class="ssTitle">Triumvirate Luminous:</div> T18A</p>
@@ -772,7 +770,7 @@
 	<br>
 
 	<p><div class="title">1998 Topps</div><br>
-	<div class="ssTitle">Base:</div> 28, 49, 82, 95, 113, 173, 197, 208, 230, 257, 270, 291, 309, 339, 368, 375, 425, 474, 494<br>
+	<div class="ssTitle">Base:</div> 28, 113, 197, 208, 230, 257, 291, 339, 425, 474<br>
 	<div class="ssTitle">Inaugural Devil Rays:</div> 28, 49, 82, 95, 113, 173, 197, 208, 230, 257, 270, 291, 309, 339, 368, 375, 435, 474, 494<br>
 	<div class="ssTitle">Inaugural Diamondbacks:</div> 28, 49, 82, 95, 113, 173, 197, 208, 230, 257, 270, 291, 309, 339, 368, 375, 435, 474, 494<br>
 	<div class="ssTitle">Minted in Cooperstown:</div> 28, 49, 82, 95, 113, 173, 197, 208, 230, 257, 270, 291, 309, 339, 368, 375, 435, 474, 494<br>
@@ -800,7 +798,7 @@
 	<div class="ssTitle">Player's Private Issues Auction 100 Point:</div> 36, 102, 141<br>
 	<div class="ssTitle">Player's Private Issues Auction 75 Point:</div> 36, 102, 141<br>
 	<div class="ssTitle">Player's Private Issues Auction 50 Point:</div> 36, 102, 141<br>
-	<div class="ssTitle">Player's Private Issues Auction 25 Point:</div> 36, 102, 141<br>
+	<div class="ssTitle">Player's Private Issues Auction 25 Point:</div> 36, 102, 141</p>
 
 	</p>
 
@@ -1027,7 +1025,7 @@
 	<br>
 
 	<p><div class="title">1998 Ultra</div><br>
-	<div class="ssTitle">Base:</div> 8, 17, 39, 78, 89, 200, 235, 320, 327, 356, 358, 405, 439<br>
+	<div class="ssTitle">Base:</div> 17, 39, 78, 89, 200, 235, 320, 356, 439<br>
 	<div class="ssTitle">Gold Medallion:</div> 8, 17, 39, 78, 89, 200, 235, 320, 327, 353, 356, 358, 405, 439<br>
 	<div class="ssTitle">Platinum Medallion (#ed/100 or 98):</div> 8, 17, 39, 78, 89, 200, 235, 320, 327, 353, 356, 358, 405, 439<br>
 	<div class="ssTitle">Kid Gloves:</div> 6</p>
@@ -1035,8 +1033,8 @@
 	<br>
 
 	<p><div class="title">1998 Upper Deck</div><br>
+	<i>Complete- 10th Anniversary Preview</i><br>
 	<div class="ssTitle">Base:</div> 128, 129, 130, 131, 132, 133, 134, 411, 412, 413, 414, 433, 434, 435, 544, 548, 630, 693, 694, 695, 696, 697, 698<br>
-	<div class="ssTitle">10th Anniversary Preview:</div> 57<br>
 	<div class="ssTitle">10th Anniversary Preview Retail:</div> 57<br>
 	<div class="ssTitle">Amazing Greats (AG, #ed/2,000):</div> 4<br>
 	<div class="ssTitle">Amazing Greats Die Cuts (AG, #ed/250):</div> 4<br>
@@ -1088,7 +1086,7 @@
 	<br>
 
 	<p><div class="title">1997 Bowman</div><br>
-	<div class="ssTitle">Base:</div> 10, 89, 116, 126, 176, 226, 269, 293, 329<br>
+	<div class="ssTitle">Base:</div> 89, 116, 126, 176, 226, 269, 293, 329<br>
 	<div class="ssTitle">International:</div> 10, 37, 89, 116, 126, 176, 226, 269, 293, 329<br>
 	<div class="ssTitle">Bowman's Best Preview:</div> 13<br>
 	<div class="ssTitle">Bowman's Best Preview Refractor:</div> 13<br>
@@ -1096,8 +1094,7 @@
 	<div class="ssTitle">International Best:</div> 13<br>
 	<div class="ssTitle">International Best Refractor:</div> 13<br>
 	<div class="ssTitle">International Best Atomic Refractor:</div> 13<br>
-	<div class="ssTitle">Scout's Honor Roll:</div> 6<br>
-	</p>
+	<div class="ssTitle">Scout's Honor Roll:</div> 6</p>
 
 	<br>
 
@@ -1107,8 +1104,7 @@
 	<div class="ssTitle">International Refractors:</div> 8, 32, 87, 134, 157, 168, 201, 225<br>
 	<div class="ssTitle">Refractors:</div> 8, 32, 87, 134, 157, 168, 201, 225<br>
 	<div class="ssTitle">Scout's Honor Roll (SHR):</div> 6<br>
-	<div class="ssTitle">Scout's Honor Roll Refractor (SHR):</div> 6<br>
-	</p>
+	<div class="ssTitle">Scout's Honor Roll Refractor (SHR):</div> 6</p>
 
 	<br>
 
@@ -1124,28 +1120,14 @@
 	<div class="ssTitle">Jumbo Refractors:</div> 33<br>
 	<div class="ssTitle">Preview:</div> 13<br>
 	<div class="ssTitle">Preview Atomic Refractors:</div> 13<br>
-	<div class="ssTitle">Preview Refractors:</div> 13<br>
-	</p>
+	<div class="ssTitle">Preview Refractors:</div> 13</p>
 
 	<br>
 
 	<p><div class="title">1997 Circa</div><br>
 	<div class="ssTitle">Base:</div> 26, 54, 75, 99, 122, 140, 165, 189, 202, 271, 300, 325, 350, 389<br>
 	<div class="ssTitle">Rave (#ed/150):</div> 26, 54, 75, 99, 122, 140, 165, 189, 202, 271, 300, 325, 350, 389<br>
-	<div class="ssTitle">Fast Track:</div> 10<br>
-	</p>
-
-	<br>
-
-	<p><div class="title">1997 Flair Showcase</div><br>
-	<div class="ssTitle">Row 0:</div> 4, 12, 102<br>
-	<div class="ssTitle">Row 1:</div> 4, 12, 102<br>
-	<div class="ssTitle">Row 2:</div> 4, 12, 102<br>
-	<div class="ssTitle">Legacy Collection Row 0 (#ed/100):</div> 4, 12, 102<br>
-	<div class="ssTitle">Legacy Collection Row 1 (#ed/100):</div> 4, 12, 102<br>
-	<div class="ssTitle">Legacy Collection Row 2 (#ed/100):</div> 4, 12, 102<br>
-	<div class="ssTitle">Wave of the Future:</div> 11, 12<br>
-	</p>
+	<div class="ssTitle">Fast Track:</div> 10</p>
 
 	<br>
 
@@ -1158,10 +1140,10 @@
 	<div class="ssTitle">Power Alley (#ed/1,750):</div> 21<br>
 	<div class="ssTitle">Power Alley Die Cuts (#ed/250):</div> 21<br>
 	<div class="ssTitle">Rated Rookies:</div> 2, 25<br>
+	<div class="ssTitle">Ripken The Only Way I Know (#,5000):</div> 1<br>
 	<div class="ssTitle">Rookie Diamond Kings (#ed/9,500):</div> 4<br>
 	<div class="ssTitle">Rookie Diamond Kings Canvas (#ed/500):</div> 4<br>
-	<div class="ssTitle">VxP 1.0:</div> 12<br>
-	</p>
+	<div class="ssTitle">VxP 1.0:</div> 12</p>
 
 	<br>
 
@@ -1172,23 +1154,40 @@
 	<div class="ssTitle">Leather and Lumber (#ed/500):</div> 8<br>
 	<div class="ssTitle">Passing the Torch:</div> 4, 6<br>
 	<div class="ssTitle">Turn of the Century (#ed/3,500):</div> 4<br>
-	<div class="ssTitle">Turn of the Century Die Cuts (#ed/3,500):</div> 4<br>
-	</p>
+	<div class="ssTitle">Turn of the Century Die Cuts (#ed/3,500):</div> 4</p>
 
 	<br>
 
 	<p><div class="title">1997 Donruss Limited</div><br>
-	<div class="ssTitle">Exposure:</div> 12, 20, 33, 35, 45, 54, 58, 65, 66, 112, 149<br>
+	<div class="ssTitle">Exposure:</div> 12, 33, 35, 45, 54, 58, 65, 66, 112, 149<br>
 	<div class="ssTitle">Exposure Non-Glossy:</div> 12, 20, 33, 58, 65, 66<br>
-	<div class="ssTitle">Fabric of the Game:</div> 22 (#ed/100), 25 (#ed/500), 36 (#ed/1,000)<br>
-	</p>
+	<div class="ssTitle">Fabric of the Game:</div> 22 (#ed/100), 25 (#ed/500), 36 (#ed/1,000)</p>
+
+	<br>
+
+	<p><div class="title">1997 Donruss Preferred</div><br>
+	<div class="ssTitle">Base:</div> 4, 53, 71, 130, 146, 178, 199<br>
+	<div class="ssTitle">Cut to the Chase:</div> 4, 53, 71, 130, 146, 178, 199<br>
+	<div class="ssTitle">X-Ponential Power (#/3,000):</div> 2</p>
 
 	<br>
 
 	<p><div class="title">1997 Donruss Signature</div><br>
 	<div class="ssTitle">Base:</div> 22, 48<br>
-	<div class="ssTitle">Platinum Press Proofs:</div> 22, 48<br>
-	</p>
+	<div class="ssTitle">Platinum Press Proofs:</div> 22, 48</p>
+
+	<br>
+
+	<p><div class="title">1997 Donruss Team Sets</div><br>
+	<div class="ssTitle">MVPs (#/1,000):</div> 5</p>
+
+	<br>
+
+	<p><div class="title">1997 E-X2000</div><br>
+	<div class="ssTitle">Base:</div> 28, 29, 30<br>
+	<div class="ssTitle">Credentials (#/299):</div> 28, 29, 30<br>
+	<div class="ssTitle">Essential Credentials (#/99):</div> 28, 29, 30<br>
+	<div class="ssTitle">Star Date:</div> 13</p>
 
 	<br>
 
@@ -1196,14 +1195,24 @@
 	<div class="ssTitle">Base:</div> 33, 61, 112, 140, 173, 181, 214, 269, 341<br>
 	<div class="ssTitle">Refractors:</div> 33, 61, 112, 140, 173, 181, 214, 269, 341<br>
 	<div class="ssTitle">Embossed:</div> 112, 140, 173, 341<br>
-	<div class="ssTitle">Embossed Refractors:</div> 112, 140, 173, 341<br>
-	</p>
+	<div class="ssTitle">Embossed Refractors:</div> 112, 140, 173, 341</p>
+
+	<br>
+
+	<p><div class="title">1997 Flair Showcase</div><br>
+	<div class="ssTitle">Legacy Collection Row 0 (#/100):</div> 4, 12, 102<br>
+	<div class="ssTitle">Legacy Collection Row 1 (#/100):</div> 4, 12, 102<br>
+	<div class="ssTitle">Legacy Collection Row 2 (#/100):</div> 4, 12, 102<br>
+	<div class="ssTitle">Row 0:</div> 4, 12, 102<br>
+	<div class="ssTitle">Row 1:</div> 4, 12, 102<br>
+	<div class="ssTitle">Row 2:</div> 12, 102<br>
+	<div class="ssTitle">Wave of the Future:</div> 11, 12</p>
 
 	<br>
 
 	<p><div class="title">1997 Fleer</div><br>
 	<i>Completed- Golden Memories</i><br>
-	<div class="ssTitle">Base:</div> 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 496, 512, 540, 593, 621, 643, 685, 689, 709, 736<br>
+	<div class="ssTitle">Base:</div> 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 512, 540, 593, 621, 643, 685, 689, 736<br>
 	<div class="ssTitle">Tiffany:</div> 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 496, 512, 540, 593, 621, 643, 685, 689, 709, 736<br>
 	<div class="ssTitle">Decade of Excellence:</div> 8<br>
 	<div class="ssTitle">Decade of Excellence Rare Traditions:</div> 8<br>
@@ -1211,80 +1220,113 @@
 	<div class="ssTitle">Headliners:</div> 13<br>
 	<div class="ssTitle">New Horizons:</div> 14<br>
 	<div class="ssTitle">Rookie Sensations:</div> 20<br>
-	<div class="ssTitle">Team Leaders:</div> 9<br>
-	</p>
+	<div class="ssTitle">Team Leaders:</div> 9</p>
 
 	<br>
 
 	<p><div class="title">1997 Leaf</div><br>
-	<div class="ssTitle">Base:</div> 24, 61, 63, 117, 159, 170, 217, 220, 270, 298, 362<br>
-	<div class="ssTitle">Fractal Matrix:</div> 19, 24, 61, 63, 117, 159, 170, 217, 220, 270, 298, 362<br>
-	<div class="ssTitle">Fractal Matrix Die Cuts:</div> 19, 24, 61, 63, 117, 159, 170, 217, 220, 270, 298, 362<br>
+	<div class="ssTitle">Base:</div> 24, 63, 159, 170, 220, 270, 298, 362<br>
+	<div class="ssTitle">Fractal Matrix:</div> 19, 24, 61, 63, 117, 159, 170, 192, 217, 220, 270, 298, 362, 376<br>
+	<div class="ssTitle">Fractal Matrix Die Cuts:</div> 19, 24, 61, 63, 117, 159, 170, 192, 217, 220, 270, 298, 362, 376<br>
 	<div class="ssTitle">Gold Stars (#ed/2,500):</div> 18<br>
 	<div class="ssTitle">Knot-Hole Gang (#ed/5,000):</div> 12<br>
 	<div class="ssTitle">Knot-Hole Gang Samples:</div> 12<br>
 	<div class="ssTitle">Leagues of the Nation (#ed/2,500):</div> 8<br>
-	<div class="ssTitle">Statistical Standouts (#ed/1,000):</div> 15<br>
-	</p>
+	<div class="ssTitle">Statistical Standouts (#ed/1,000):</div> 15</p>
+
+	<br>
+
+	<p><div class="title">1997 Metal Universe</div><br>
+	<div class="ssTitle">Base:</div> 209, 210, 211, 213, 214, 215<br>
+	<div class="ssTitle">Mining for Gold:</div> 10</p>
 
 	<br>
 
 	<p><div class="title">1997 New Pinnacle</div><br>
 	<div class="ssTitle">Base:</div> 126, 129, 138, 151, 165, 199<br>
 	<div class="ssTitle">Artist's Proofs:</div> 126, 129, 138, 151, 165, 199<br>
-	<div class="ssTitle">Museum Collection:</div> 126, 129, 138, 151, 165, 199<br>
-	</p>
+	<div class="ssTitle">Museum Collection:</div> 126, 129, 138, 151, 165, 199</p>
 
 	<br>
 
 	<p><div class="title">1997 Pacific</div><br>
-	<div class="ssTitle">Base:</div> 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146<br>
+	<i>Complete- Card-Supials</i><br>
+	<div class="ssTitle">Base:</div> 132, 133, 134, 135, 137, 138, 139, 140, 141, 143, 144, 145, 146<br>
 	<div class="ssTitle">Light Blue:</div> 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146<br>
 	<div class="ssTitle">Silver:</div> 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146<br>
 	<div class="ssTitle">Card-Supials:</div> 11<br>
 	<div class="ssTitle">Card-Supials Minis:</div> 11<br>
-	<div class="ssTitle">Latinos of the Major Leagues:</div> 11<br>
-	</p>
+	<div class="ssTitle">Latinos of the Major Leagues:</div> 11</p>
 
 	<br>
 
-	<p><div class="title">1997 Pacific Prisms</div><br>
+	<p><div class="title">1997 Pacific Prism</div><br>
 	<div class="ssTitle">Base:</div> 44, 45, 46, 47, 48<br>
 	<div class="ssTitle">Light Blue:</div> 44, 45, 46, 47, 48<br>
 	<div class="ssTitle">Platinum:</div> 44, 45, 46, 47, 48<br>
 	<div class="ssTitle">Gate Attractions (GA):</div> 7<br>
-	<div class="ssTitle">Gems of the Diamond (GD):</div> 63<br>
-	</p>
+	<div class="ssTitle">Gems of the Diamond (GD):</div> 63</p>
 
 	<br>
 
 	<p><div class="title">1997 Pinnacle</div><br>
-	<div class="ssTitle">Base:</div> 45, 78, 89, 107, 149, 171<br>
-	<div class="ssTitle">Artist's Proofs (PP):</div> 45, 78, 89, 107, 149, 171<br>
-	<div class="ssTitle">Museum Collection:</div> 45, 78, 89, 107, 149, 171<br>
-	</p>
+	<div class="ssTitle">Base:</div> 45, 78, 107, 171<br>
+	<div class="ssTitle">Artist's Proofs (PP):</div> 45, 78, 89, 107, 129, 149, 165, 171<br>
+	<div class="ssTitle">Museum Collection:</div> 45, 78, 89, 107, 149, 165, 171</p>
+
+	<br>
+
+	<p><div class="title">1997 Pinnacle Certified</div><br>
+	<i>Missing platinum parallels</i><br>
+	<div class="ssTitle">Base:</div> 30, 115<br>
+	<div class="ssTitle">Mirror Black:</div> 30, 73, 115<br>
+	<div class="ssTitle">Mirror Blue:</div> 30, 73, 115<br>
+	<div class="ssTitle">Mirror Gold:</div> 30, 73, 115<br>
+	<div class="ssTitle">Mirror Red:</div> 30, 73, 115<br>
+	<div class="ssTitle">Red:</div> 30, 73, 115<br>
+	<div class="ssTitle">Lasting Impressions:</div> 13</p>
 
 	<br>
 
 	<p><div class="title">1997 Pinnacle Inside</div><br>
-	<div class="ssTitle">Base:</div> 10, 14, 34, 126, 144<br>
+	<div class="ssTitle">Base:</div> 10, 34, 126, 144<br>
 	<div class="ssTitle">Club Edition:</div> 14, 34, 126, 144<br>
-	<div class="ssTitle">Diamond Edition:</div> 10, 14, 34, 126, 144<br>
-	</p>
+	<div class="ssTitle">Diamond Edition:</div> 10, 14, 34, 126, 144</p>
+
+	<br>
+
+	<p><div class="title">1997 Pinnacle Mint</div><br>
+	<div class="ssTitle">Base:</div> 19<br>
+	<div class="ssTitle">Gold:</div> 19<br>
+	<div class="ssTitle">Silver:</div> 19</p>
+
+	<br>
+
+	<p><div class="title">1997 Pinnacle Totally Certified</div><br>
+	<div class="ssTitle">Platinum Blue (#/1,999):</div> 30, 115<br>
+	<div class="ssTitle">Platinum Gold (#/50):</div> 30, 115<br>
+	<div class="ssTitle">Platinum Red (#/3,999):</div> 30, 115</p>
+
+	<br>
+
+	<p><div class="title">1997 Pinnacle X-Press</div><br>
+	<div class="ssTitle">Base:</div> 18, 59, 94, 118<br>
+	<div class="ssTitle">Men of Summer:</div> 59, 94, 118<br>
+	<div class="ssTitle">Swing for the Fences:</div> 53<br>
+	<div class="ssTitle">Swing for the Fences Upgrade:</div> 53</p>
 
 	<br>
 
 	<p><div class="title">1997 Score</div><br>
-	<div class="ssTitle">Base:</div> 34, 108, 111, 125, 133, 165, 243, 260, 329, 350, 357, 394, 417, 454, 477, 541<br>
+	<div class="ssTitle">Base:</div> 34, 108, 111, 125, 133, 165, 260, 329, 350, 357, 394, 417, 454, 477, 541<br>
 	<div class="ssTitle">Artist's Proofs White Border:</div> 34, 108, 111, 125, 133, 165, 243, 260, 329<br>
 	<div class="ssTitle">Showcase Series:</div> 34, 108, 111, 125, 133, 165, 243, 260, 329, 350, 357, 394, 417, 454, 477, 541<br>
 	<div class="ssTitle">Showcase Series Artist's Proofs:</div> 34, 108, 111, 125, 133, 165, 243, 260, 329, 350, 357, 394, 417, 454, 477, 541<br>
 	<div class="ssTitle">Heart of the Order:</div> 34, 35, 36<br>
-	<div class="ssTitle">Hobby Reserve (HR):</div> 350, 357, 394, 417, 454, 477, 541<br>
+	<div class="ssTitle">Hobby Reserve (HR):</div> 350, 357, 394, 417, 477<br>
 	<div class="ssTitle">Premium Stock:</div> 34, 108, 111, 125, 146, 243, 260, 329<br>
 	<div class="ssTitle">Reserve Collection:</div> 350, 394, 477, 541<br>
-	<div class="ssTitle">Stellar Season:</div> 2<br>
-	</p>
+	<div class="ssTitle">Stellar Season:</div> 2</p>
 
 	<br>
 
@@ -1294,21 +1336,45 @@
 	<div class="ssTitle">Company:</div> 10, 15, 103, 116, 124, 155, 188<br>
 	<div class="ssTitle">Registered Gold:</div> 10, 15, 103, 116<br>
 	<div class="ssTitle">Rookie Revolution:</div> 12<br>
-	<div class="ssTitle">Tools of the Trade:</div> 15, 16<br>
-	<div class="ssTitle">Tools of the Trade Mirror Blue:</div> 15, 16<br>
-	</p>
+	<div class="ssTitle">Tools of the Trade:</div> 16<br>
+	<div class="ssTitle">Tools of the Trade Mirror Blue:</div> 15, 16</p>
+
+	<br>
+
+	<p><div class="title">1997 SP</div><br>
+	<div class="ssTitle">Base:</div> 105, 106, 109<br>
+	<div class="ssTitle">Inside Info:</div> 4<br>
+	<div class="ssTitle">SPx Force (#/500):</div> 9, 10<br>
+	<div class="ssTitle">Special FX:</div> 43</p>
+
+	<br>
+
+	<p><div class="title">1997 Sports Illustrated</div><br>
+	<div class="ssTitle">Base:</div> 26, 145, 147<br>
+	<div class="ssTitle">Extra Edition (#/500):</div> 26, 145, 146, 147<br>
+	<div class="ssTitle">Cooperstown Collection:</div> 10</p>
+
+	<br>
+
+	<p><div class="title">1997 SPx</div><br>
+	<div class="ssTitle">Base:</div> 31, 32<br>
+	<div class="ssTitle">Bronze:</div> 31, 32<br>
+	<div class="ssTitle">Gold:</div> 31, 32<br>
+	<div class="ssTitle">Grand Finale:</div> 31, 32<br>
+	<div class="ssTitle">Silver:</div> 31, 32<br>
+	<div class="ssTitle">Steel:</div> 31, 32<br>
+	<div class="ssTitle">Cornerstones of the Game (#/500):</div> 4</p>
 
 	<br>
 
 	<p><div class="title">1997 Stadium Club</div><br>
-	<div class="ssTitle">Base:</div> 10, 58, 78, 116, 179, 182, 206, 265, 282, 310, 327, 353<br>
+	<div class="ssTitle">Base:</div> 58, 78, 116, 179, 182, 206, 265, 282, 310, 327, 353<br>
 	<div class="ssTitle">Members Only:</div> 10, 58, 78, 116, 179, 182, 206, 265, 282, 310, 327<br>
 	<div class="ssTitle">Instavision (I):</div> 2<br>
 	<div class="ssTitle">Instavision Members Only (I):</div> 2<br>
 	<div class="ssTitle">Matrix:</div> 10, 58, 206<br>
 	<div class="ssTitle">Millennium (M):</div> 16, 22<br>
-	<div class="ssTitle">Millennium Members Only (M):</div> 16, 22<br>
-	</p>
+	<div class="ssTitle">Millennium Members Only (M):</div> 16, 22</p>
 
 	<br>
 
@@ -1320,63 +1386,91 @@
 	<div class="ssTitle">Hard Hats Samples:</div> 7<br>
 	<div class="ssTitle">Master Strokes (#ed/2,000):</div> 24<br>
 	<div class="ssTitle">Master Strokes 8x10 (#ed/5,000):</div> 24<br>
-	<div class="ssTitle">Portraits 8x10:</div> 12<br>
-	</p>
+	<div class="ssTitle">Portraits 8x10:</div> 12</p>
 
 	<br>
 
 	<p><div class="title">1997 Topps</div><br>
-	<div class="ssTitle">Base:</div> 65, 77, 97, 148, 257, 281, 414, 463, 494<br>
+	<div class="ssTitle">Base:</div> 65, 77, 97, 148, 257, 272, 414, 463, 494<br>
 	<div class="ssTitle">All-Stars:</div> 5<br>
 	<div class="ssTitle">Awesome Impact (AI):</div> 20<br>
 	<div class="ssTitle">Inter-League Finest (ILM):</div> 8<br>
 	<div class="ssTitle">Inter-League Finest Refractors (ILM):</div> 8<br>
 	<div class="ssTitle">Screenplays:</div> 15<br>
 	<div class="ssTitle">Screenplays Tins:</div> 15<br>
-	Screenpl (Something went wrong in a python file)<br>
-	<div class="ssTitle">Season's Best (SB):</div> 4, 5<br>
-	</p>
+	<div class="ssTitle">Season's Best (SB):</div> 4, 5</p>
 
 	<br>
 
-	<p><div class="title">1997 UD Collector's Choice</div><br>
-	<div class="ssTitle">Base:</div> 20, 151, 152, 153, 154, 155, 156, 157, 158, 377, 378, 379, 380, 381, 382, 383<br>
-	<div class="ssTitle">All-Star Connection:</div> 17<br>
-	<div class="ssTitle">New Frontier (NF):</div> 23<br>
-	<div class="ssTitle">Stick 'Ums:</div> 4, 26<br>
-	<div class="ssTitle">Stick 'Ums Retail:</div> 19<br>
-	<div class="ssTitle">The Big Show:</div> 29<br>
-	<div class="ssTitle">The Big Show World Headquarters:</div> 29<br>
-	<div class="ssTitle">Toast of the Town (T):</div> 16<br>
-	</p>
+	<p><div class="title">1997 Topps Chrome</div><br>
+	<div class="ssTitle">Base:</div> 43, 53, 129, 154, 164<br>
+	<div class="ssTitle">Refractors:</div> 43, 53, 129, 154, 164<br>
+	<div class="ssTitle">Season's Best:</div> 4<br>
+	<div class="ssTitle">Season's Best Refractors:</div> 4</p>
+
+	<br>
+
+	<p><div class="title">1997 Topps Gallery</div><br>
+	<div class="ssTitle">Base:</div> 28, 105, 165, 180<br>
+	<div class="ssTitle">Player's Private Issue:</div> 1, 28, 105, 165, 180<br>
+	<div class="ssTitle">Photo Gallery (PG):</div> 2</p>
+
+	<br>
+
+	<p><div class="title">1997 Topps Stars</div><br>
+	<div class="ssTitle">Base:</div> 21, 76<br>
+	<div class="ssTitle">Always Mint:</div> 21, 76</p>
+
+	<br>
+
+	<p><div class="title">1997 UD3</div><br>
+	<div class="ssTitle">Base:</div> 52<br>
+	<div class="ssTitle">Generation Next (GN):</div> 17</p>
 
 	<br>
 
 	<p><div class="title">1997 Ultra</div><br>
-	<div class="ssTitle">Base:</div> 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 334, 345, 351, 362, 369, 409, 518, 548<br>
-	<div class="ssTitle">Gold Medallion:</div> 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 334, 345, 351, 362, 369, 409, 518, 548<br>
-	<div class="ssTitle">Platinum Medallion:</div> 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 334, 345, 351, 362, 369, 409, 518, 548<br>
+	<div class="ssTitle">Base:</div> 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 334, 345, 351, 369, 409, 548<br>
+	<div class="ssTitle">Gold Medallion:</div> 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 334, 345, 351, 362, 369, 409, 518, 528, 548<br>
+	<div class="ssTitle">Platinum Medallion:</div> 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 334, 345, 351, 362, 369, 409, 518, 528, 548<br>
 	<div class="ssTitle">Double Trouble:</div> 6<br>
 	<div class="ssTitle">Fielders Choice:</div> 9<br>
-	<div class="ssTitle">Golden Prospects:</div> 3<br>
-	</p>
+	<div class="ssTitle">Golden Prospects:</div> 3</p>
 
 	<br>
 
 	<p><div class="title">1997 Upper Deck</div><br>
-	<div class="ssTitle">Base:</div> 102, 103, 105, 106, 107, 222, 285, 409, 410, 411, 412, 413, 414<br>
+	<div class="ssTitle">Base:</div> 103, 105, 106, 107, 222, 285, 409, 410, 411, 412, 413, 414<br>
 	<div class="ssTitle">Amazing Greats (AG):</div> 4, 13<br>
 	<div class="ssTitle">Blue Chip Prospects (BC, #ed/500):</div> 5<br>
-	<div class="ssTitle">Home Run Producters (RP):</div> 24<br>
-	</p>
+	<div class="ssTitle">Run Producters (RP):</div> 24</p>
 
-        <hr>
+	<br>
 
-        <h1 id="1996">1996</h1>
+	<p><div class="title">1997 Upper Deck UD Collector's Choice</div><br>
+	<i>Complete- The Big Show</i><br>
+	<div class="ssTitle">Base:</div> 20, 151, 152, 153, 154, 155, 156, 157, 377, 378, 379, 380, 381, 382<br>
+	<div class="ssTitle">All-Star Connection:</div> 17<br>
+	<div class="ssTitle">New Frontier (NF):</div> 23<br>
+	<div class="ssTitle">Stick 'Ums:</div> 4, 26<br>
+	<div class="ssTitle">Stick 'Ums Retail:</div> 19<br>
+	<div class="ssTitle">The Big Show World Headquarters:</div> 29, 30<br>
+	<div class="ssTitle">Toast of the Town (T):</div> 16<br>
+	<div class="ssTitle">Update (U):</div> 17</p>
 
-        <br>
+	<br>
 
-        <!-- image -->
+	<p><div class="title">1997 Zenith</div><br>
+	<div class="ssTitle">Base:</div> 4<br>
+	<div class="ssTitle">Samples (S):</div> 2</p>
+
+    <hr>
+
+    <h1 id="1996">1996</h1>
+
+    <br>
+
+    <!-- image -->
 
 	<br><br><br>
 
@@ -1385,24 +1479,21 @@
 	<br>
 
 	<p><div class="title">1996 Bazooka</div><br>
-	<div class="ssTitle">Base:</div> 24, 54, 65<br>
-	</p>
+	<div class="ssTitle">Base:</div> 54, 65</p>
 
 	<br>
 
 	<p><div class="title">1996 Bowman</div><br>
 	<div class="ssTitle">Base:</div> 84, 88, 91, 98, 111, 139, 143, 159, 253, 261, 311, 344, 382<br>
 	<div class="ssTitle">Foil:</div> 84, 88, 91, 98, 111, 139, 143, 159, 253, 261, 344, 382<br>
-	<div class="ssTitle">Minor League POY:</div> 4<br>
-	</p>
+	<div class="ssTitle">Minor League POY:</div> 4</p>
 
 	<br>
 
 	<p><div class="title">1996 Bowman's Best</div><br>
 	<div class="ssTitle">Base:</div> 34, 44, 78, 87, 135, 151<br>
 	<div class="ssTitle">Refractors:</div> 34, 44, 78, 87, 135, 151<br>
-	<div class="ssTitle">Atomic Refractors:</div> 34, 44, 78, 87, 135, 151<br>
-	</p>
+	<div class="ssTitle">Atomic Refractors:</div> 34, 44, 78, 87, 135, 151</p>
 
 	<br>
 
@@ -1410,38 +1501,33 @@
 	<div class="ssTitle">Base:</div> 54, 55, 56, 57, 58, 59, 60<br>
 	<div class="ssTitle">Rave (#ed/150):</div> 54, 55, 56, 57, 58, 59, 60<br>
 	<div class="ssTitle">Access:</div> 9<br>
-	<div class="ssTitle">Boss:</div> 12, 13, 14<br>
-	</p>
+	<div class="ssTitle">Boss:</div> 12, 13, 14</p>
 
 	<br>
 
 	<p><div class="title">1996 Classic 7/11 Phone Cards</div><br>
-	<div class="ssTitle">Base:</div> 10 (Puckett)<br>
-	</p>
+	<div class="ssTitle">Base:</div> 10 (Puckett)</p>
 
 	<br>
 
 	<p><div class="title">1996 Denny's Holograms</div><br>
 	<div class="ssTitle">Base:</div> 11<br>
 	<div class="ssTitle">Grand Slam:</div> 10<br>
-	<div class="ssTitle">Grand Slam Artist's Proofs:</div> 10<br>
-	</p>
+	<div class="ssTitle">Grand Slam Artist's Proofs:</div> 10</p>
 
 	<br>
 
 	<p><div class="title">1996 Donruss</div><br>
-	<div class="ssTitle">Base:</div> 10, 23, 50, 102, 106, 137, 180, 196, 240, 270, 302, 325, 330, 340, 353, 380, 432, 436, 512, 514, 526, 536<br>
+	<div class="ssTitle">Base:</div> 10, 23, 50, 102, 106, 137, 180, 196, 240, 270, 325, 330, 340, 380, 436, 514, 536<br>
 	<div class="ssTitle">Press Proofs:</div> 10, 23, 50, 102, 106, 137, 180, 196, 240, 270, 302, 325, 330, 340, 353, 380, 432, 436, 512, 514, 526, 536<br>
 	<div class="ssTitle">Diamond Kings (#ed/10,000):</div> 22<br>
-	<div class="ssTitle">Hit List (#ed/10,000):</div> 8<br>
-	</p>
+	<div class="ssTitle">Hit List (#ed/10,000):</div> 8</p>
 
 	<br>
 
 	<p><div class="title">1996 Emotion-XL</div><br>
-	<div class="ssTitle">Base:</div> 79, 80, 81, 82, 83, 84, 85, 86<br>
-	<div class="ssTitle">Rare Breed:</div> 2<br>
-	</p>
+	<div class="ssTitle">Base:</div> 79, 80, 81, 82, 83, 84, 86<br>
+	<div class="ssTitle">Rare Breed:</div> 2</p>
 
 	<br>
 
@@ -1451,15 +1537,13 @@
 	<div class="ssTitle">Base (prefix 'S'):</div> 79, 153, 261<br>
 	<div class="ssTitle">Refractors (prefix 'B'):</div> 49, 103, 184, 206, 255, 271, 312, 349, 358<br>
 	<div class="ssTitle">Refractors (prefix 'G'):</div> 4, 18<br>
-	<div class="ssTitle">Refractors (prefix 'S'):</div> 79, 153, 261<br>
-	</p>
+	<div class="ssTitle">Refractors (prefix 'S'):</div> 79, 153, 261</p>
 
 	<br>
 
 	<p><div class="title">1996 Flair</div><br>
 	<div class="ssTitle">Base:</div> 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124<br>
-	<div class="ssTitle">Gold:</div> 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124<br>
-	</p>
+	<div class="ssTitle">Gold:</div> 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124</p>
 
 	<br>
 
@@ -1469,14 +1553,12 @@
 	<div class="ssTitle">Rookie Sensations:</div> 2<br>
 	<div class="ssTitle">Team Leaders:</div> 9<br>
 	<div class="ssTitle">Update (U):</div> 50, 51, 52, 53, 54, 55, 56, 57, 217<br>
-	<div class="ssTitle">Update Tiffany (U):</div> 50, 51, 52, 53, 54, 55, 56, 57, 217<br>
-	</p>
+	<div class="ssTitle">Update Tiffany (U):</div> 50, 51, 52, 53, 54, 55, 56, 57, 217</p>
 
 	<br>
 
 	<p><div class="title">1996 King B Discs</div><br>
-	<div class="ssTitle">Base:</div> 7<br>
-	</p>
+	<div class="ssTitle">Base:</div> 7</p>
 
 	<br>
 
@@ -1488,35 +1570,32 @@
 	<div class="ssTitle">All-Star Game MVP Contenders:</div> 16<br>
 	<div class="ssTitle">All-Star Game MVP Contenders Gold:</div> 16<br>
 	<div class="ssTitle">Total Bases (#ed/5,000):</div> 5<br>
-	<div class="ssTitle">Total Bases Promos:</div> 5<br>
-	</p>
+	<div class="ssTitle">Total Bases Promos:</div> 5</p>
 
 	<br>
 
 	<p><div class="title">1996 Leaf Limited</div><br>
-	<div class="ssTitle">Base:</div> 19, 39, 70<br>
+	<div class="ssTitle">Base:</div> 19, 39, 70, 83<br>
 	<div class="ssTitle">Gold:</div> 19, 39, 70<br>
-	</p>
+	<div class="ssTitle">Pennant Craze:</div> 7</p>
 
 	<br>
 
 	<p><div class="title">1996 Leaf Preferred</div><br>
 	<div class="ssTitle">Base:</div> 16, 54, 63, 140, 145<br>
-	<div class="ssTitle">Press Proofs:</div> 16, 54, 63, 140, 145<br>
-	<div class="ssTitle">Steel:</div> 2, 41, 70, 75<br>
+	<div class="ssTitle">Press Proofs:</div> 16, 54, 63, 105, 140, 145<br>
+	<div class="ssTitle">Steel:</div> 2, 41, 75<br>
 	<div class="ssTitle">Steel Bronze Promos:</div> 2, 41, 70, 75<br>
 	<div class="ssTitle">Steel Gold:</div> 2(?), 41, 70, 75<br>
 	<div class="ssTitle">Steel Gold Promos:</div> 2(?), 41, 70, 75<br>
-	<div class="ssTitle">Steel Promos:</div> 2, 41, 70, 75<br>
-	</p>
+	<div class="ssTitle">Steel Promos:</div> 2, 41, 70, 75</p>
 
 	<br>
 
 	<p><div class="title">1996 Leaf Signature</div><br>
 	<div class="ssTitle">Base:</div> 20, 99, 117, 141<br>
 	<div class="ssTitle">Gold Press Proofs:</div> 20, 99, 117, 141<br>
-	<div class="ssTitle">Platinum Pres Proofs:</div> 20, 99, 117, 141<br>
-	</p>
+	<div class="ssTitle">Platinum Pres Proofs:</div> 20, 99, 117, 141</p>
 
 	<br>
 
@@ -1525,8 +1604,7 @@
 	<div class="ssTitle">Platinum:</div> 75, 76, 77, 78, 79, 80, 81, 82, 83<br>
 	<div class="ssTitle">Mining for Gold:</div> 2<br>
 	<div class="ssTitle">Platinum Portraits:</div> 2<br>
-	<div class="ssTitle">Promo Sheet:</div> 81, XX(?)<br>
-	</p>
+	<div class="ssTitle">Promo Sheet:</div> 81, XX(?)</p>
 
 	<br>
 
@@ -1534,24 +1612,26 @@
 	<div class="ssTitle">Base:</div> 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368<br>
 	<div class="ssTitle">Gold Crown Die Cuts (DC):</div> 25<br>
 	<div class="ssTitle">Hometowns (HP):</div> 17<br>
-	<div class="ssTitle">Milestones (M):</div> 5<br>
-	<div class="ssTitle">Prisms (P):</div> 113, 114, 115, 116, 117<br>
-	<div class="ssTitle">Prisms Gold (P):</div> 113, 114, 115, 116, 117<br>
-	<div class="ssTitle">Prisms Fence Busters (FB):</div> 14<br>
-	<div class="ssTitle">Prisms Red Hot Stars (RH):</div> 9<br>
-	<div class="ssTitle">Prism Team Logos (PB):</div> 28<br>
-	</p>
+	<div class="ssTitle">Milestones (M):</div> 5</p>
+
+	<br>
+
+	<p><div class="title">1996 Pacific Prism</div><br>
+	<div class="ssTitle">Base:</div> 113, 114, 115, 116, 117<br>
+	<div class="ssTitle">Gold:</div> 113, 114, 115, 116, 117<br>
+	<div class="ssTitle">Fence Busters (FB):</div> 14<br>
+	<div class="ssTitle">Red Hot Stars (RH):</div> 9<br>
+	<div class="ssTitle">Team Logos (PB):</div> 28</p>
 
 	<br>
 
 	<p><div class="title">1996 Panini Stickers</div><br>
-	<div class="ssTitle">Base:</div> 199, 200, 201, 204, 205, 246<br>
-	</p>
+	<div class="ssTitle">Base:</div> 199, 200, 201, 204, 205, 246</p>
 
 	<br>
 
 	<p><div class="title">1996 Pinnacle</div><br>
-	<div class="ssTitle">Base:</div> 8, 121, 155, 168, 177, 185, 203, 268, 318, 335<br>
+	<div class="ssTitle">Base:</div> 8, 121, 155, 177, 185, 203, 268, 318, 335<br>
 	<div class="ssTitle">Essence of the Game:</div> 8<br>
 	<div class="ssTitle">FanFest:</div> 14<br>
 	<div class="ssTitle">First Rate:</div> 6<br>
@@ -1559,8 +1639,7 @@
 	<div class="ssTitle">Skylines:</div> 14<br>
 	<div class="ssTitle">Starburst:</div> 6, 30, 82, 103, 168, 196<br>
 	<div class="ssTitle">Starburst Artist's Proofs:</div> 6, 30, 82, 103, 168, 196<br>
-	<div class="ssTitle">Team Pinnacle:</div> 2<br>
-	</p>
+	<div class="ssTitle">Team Pinnacle:</div> 2</p>
 
 	<br>
 
@@ -1568,34 +1647,28 @@
 	<div class="ssTitle">Base:</div> 24, 78, 138, 141, 170, 184, 189<br>
 	<div class="ssTitle">Artist's Proofs:</div> 24, 78, 138, 141, 170, 184, 189<br>
 	<div class="ssTitle">First Pitch Preview:</div> 24, 78<br>
-	<div class="ssTitle">Slick Picks:</div> 28<br>
-	</p>
+	<div class="ssTitle">Slick Picks:</div> 28</p>
 
 	<br>
 
 	<p><div class="title">1996 Pro Mags</div><br>
 	<div class="ssTitle">Base:</div> 72<br>
 	<div class="ssTitle">Die Cuts:</div> 17<br>
-	<div class="ssTitle">Stamps:</div> 126, 127, 18<br>
-	</p>
+	<div class="ssTitle">Stamps:</div> 126, 127, 18</p>
 
 	<br>
 
 	<p><div class="title">1996 Red Foley</div><br>
-	<div class="ssTitle">Base:</div> 32<br>
-	</p>
+	<div class="ssTitle">Base:</div> 32</p>
 
 	<br>
 
 	<p><div class="title">1996 Score</div><br>
-	<div class="ssTitle">Base:</div> 2, 52, 77, 87, 135, 155, 224, 249, 283, 299, 358, 392, 426, 495, 511<br>
-	<div class="ssTitle">Dugout Collection (prefix 'A'):</div> 2, 45, 63, 90, 104<br>
-	<div class="ssTitle">Dugout Collection (prefix 'B'):</div> 10, 24, 83<br>
-	<div class="ssTitle">Dugout Collection Artist's Proofs (prefix 'A'):</div> 2, 45, 63, 90, 104<br>
-	<div class="ssTitle">Dugout Collection (prefix 'B'):</div> 10, 24, 83<br>
+	<div class="ssTitle">Base:</div> 2, 52, 77, 87, 135, 155, 249, 283, 299, 358, 392, 426, 495, 511<br>
+	<div class="ssTitle">Dugout Collection:</div> 2, 20, 24, 45, 63, 83, 90, 104<br>
+	<div class="ssTitle">Dugout Collection Artist's Proofs:</div> 2, 10, 24, 45, 63, 90, 104<br>
 	<div class="ssTitle">Future Franchise:</div> 11<br>
-	<div class="ssTitle">Reflextions:</div> 20<br>
-	</p>
+	<div class="ssTitle">Reflextions:</div> 20</p>
 
 	<br>
 
@@ -1604,8 +1677,7 @@
 	<div class="ssTitle">Artist's Proofs:</div> 5, 35, 64, 110, 130, 176, 185<br>
 	<div class="ssTitle">Claim To Fame:</div> 17<br>
 	<div class="ssTitle">En Fuego:</div> 14<br>
-	<div class="ssTitle">Team Nucleus:</div> 19<br>
-	</p>
+	<div class="ssTitle">Team Nucleus:</div> 19</p>
 
 	<br>
 
@@ -1617,16 +1689,14 @@
 	<div class="ssTitle">Mirror Blue:</div> 18, 43, 62, 125, 131<br>
 	<div class="ssTitle">Mirror Gold:</div> 18, 43, 62, 125, 131<br>
 	<div class="ssTitle">Mirror Red:</div> 18, 43, 62, 125, 131<br>
-	<div class="ssTitle">Interleague Preview:</div> 15<br>
-	</p>
+	<div class="ssTitle">Interleague Preview:</div> 15</p>
 
 	<br>
 
 	<p><div class="title">1996 SP</div><br>
 	<div class="ssTitle">Base:</div> 112, 113, 114, 115, 116, 117<br>
 	<div class="ssTitle">Special FX:</div> 16, 39<br>
-	<div class="ssTitle">Special FX Die Cuts:</div> 16, 39<br>
-	</p>
+	<div class="ssTitle">Special FX Die Cuts:</div> 16, 39</p>
 
 	<br>
 
@@ -1634,15 +1704,13 @@
 	<div class="ssTitle">Base:</div> 6, 12, 136<br>
 	<div class="ssTitle">Artist's Proofs:</div> 6, 12, 136<br>
 	<div class="ssTitle">Double Take:</div> 10<br>
-	<div class="ssTitle">Hit Parade:</div> 10<br>
-	</p>
+	<div class="ssTitle">Hit Parade:</div> 10</p>
 
 	<br>
 
 	<p><div class="title">1996 SPx</div><br>
 	<div class="ssTitle">Base:</div> 36, 37, 38<br>
-	<div class="ssTitle">Gold:</div> 36, 37, 38<br>
-	</p>
+	<div class="ssTitle">Gold:</div> 36, 37, 38</p>
 
 	<br>
 
@@ -1658,8 +1726,7 @@
 	<div class="ssTitle">Extreme Winners Silver (EW):</div> 4<br>
 	<div class="ssTitle">Members Only 50:</div> 19, 35, 47<br>
 	<div class="ssTitle">Midsummer Matchups (M):</div> 9<br>
-	<div class="ssTitle">Midsummer Matchups Members Only (M):</div> 9<br>
-	</p>
+	<div class="ssTitle">Midsummer Matchups Members Only (M):</div> 9</p>
 
 	<br>
 
@@ -1668,8 +1735,7 @@
 	<div class="ssTitle">Bronze Press Proofs:</div> 21, 68, 74, 131<br>
 	<div class="ssTitle">Gold Press Proofs:</div> 21, 68, 74, 131<br>
 	<div class="ssTitle">Silver Press Proofs:</div> 21, 68, 74, 131<br>
-	<div class="ssTitle">Hit Parade (#ed/5,000):</div> 5<br>
-	</p>
+	<div class="ssTitle">Hit Parade (#ed/5,000):</div> 5</p>
 
 	<br>
 
@@ -1680,8 +1746,7 @@
 	<div class="ssTitle">Foil:</div> 6, 77, 90, 117, 141, 183<br>
 	<div class="ssTitle">Ballparks (#ed/8,000):</div> 17<br>
 	<div class="ssTitle">Positions:</div> 2<br>
-	<div class="ssTitle">Team Out:</div> 21, 46<br>
-	</p>
+	<div class="ssTitle">Team Out:</div> 21, 46</p>
 
 	<br>
 
@@ -1694,8 +1759,7 @@
 	<div class="ssTitle">Masters of the Game:</div> 15<br>
 	<div class="ssTitle">Mystey Finest:</div> 5, 8<br>
 	<div class="ssTitle">Mystery Finest Refractors:</div> 5, 8<br>
-	<div class="ssTitle">Power Boosters:</div> 14<br>
-	</p>
+	<div class="ssTitle">Power Boosters:</div> 14</p>
 
 	<br>
 
@@ -1703,40 +1767,27 @@
 	<div class="ssTitle">Base:</div> 19, 57, 81, 95<br>
 	<div class="ssTitle">Refractors:</div> 19, 57, 81, 95<br>
 	<div class="ssTitle">Masters of the Game:</div> 15<br>
-	<div class="ssTitle">Masters of the Game Refractors:</div> 15<br>
-	</p>
+	<div class="ssTitle">Masters of the Game Refractors:</div> 15</p>
 
 	<br>
 
 	<p><div class="title">1996 Topps Gallery</div><br>
 	<div class="ssTitle">Base:</div> 91, 152, 170<br>
-	<div class="ssTitle">Players Private Issue (#ed/999):</div> 91, 152, 170<br>
+	<div class="ssTitle">Players Private Issue (#ed/999):</div> 65, 91, 152, 170<br>
 	<div class="ssTitle">Expressionists:</div> 4<br>
-	<div class="ssTitle">Photo Gallery (PG):</div> 11<br>
-	</p>
+	<div class="ssTitle">Photo Gallery (PG):</div> 11</p>
 
 	<br>
 
 	<p><div class="title">1996 Topps Laser</div><br>
 	<div class="ssTitle">Base:</div> 41, 67, 83, 109<br>
 	<div class="ssTitle">Bright Spots:</div> 10<br>
-	<div class="ssTitle">Stadium Stars:</div> 7<br>
-	</p>
-
-	<br>
-
-	<p><div class="title">1996 UD Collector's Choice</div><br>
-	<div class="ssTitle">Base:</div> 25, 34, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 600, 601, 602, 603, 605, 606, 608, 704, 755, 777<br>
-	<div class="ssTitle">Gold Signature:</div> 25, 34, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 599, 600, 601, 602, 603, 604, 605, 606, 607, 608, 659, 704, 755<br>
-	<div class="ssTitle">Silver Signature:</div> 25, 34, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 599, 600, 601, 602, 603, 604, 605, 606, 607, 608, 659, 704, 755<br>
-	<div class="ssTitle">You Make the Play:</div> 32, 32a<br>
-	<div class="ssTitle">You Make the Play Gold Signature:</div> 32, 32a<br>
-	</p>
+	<div class="ssTitle">Stadium Stars:</div> 7</p>
 
 	<br>
 
 	<p><div class="title">1996 Ultra</div><br>
-	<div class="ssTitle">Base:</div> 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 593<br>
+	<div class="ssTitle">Base:</div> 88, 89, 91, 92, 93, 95, 96, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 593<br>
 	<div class="ssTitle">Gold Medallion:</div> 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 593<br>
 	<div class="ssTitle">Diamond Producers:</div> 8<br>
 	<div class="ssTitle">Diamond Producers Gold Medallion:</div> 8<br>
@@ -1751,23 +1802,30 @@
 	<div class="ssTitle">Rising Stars:</div> 2<br>
 	<div class="ssTitle">Rising Stars Gold Medallion:</div> 2<br>
 	<div class="ssTitle">Thunderclap:</div> 16<br>
-	<div class="ssTitle">Thunderclap Gold Medallion:</div> 16<br>
-	</p>
+	<div class="ssTitle">Thunderclap Gold Medallion:</div> 16</p>
 
 	<br>
 
 	<p><div class="title">1996 Upper Deck</div><br>
 	<div class="ssTitle">Base:</div> 126, 127, 128, 129, 130, 264, 367, 368, 369, 384, 388, 389, 390, 500U, 501U<br>
 	<div class="ssTitle">Blue Chip Prospects (BC):</div> 5<br>
-	<div class="ssTitle">Diamond Destiny (DD):</div> 24, 25, 26<br>
+	<div class="ssTitle">Diamond Destiny (DD):</div> 25<br>
 	<div class="ssTitle">Diamond Destiny Gold (DD):</div> 24, 25, 26<br>
 	<div class="ssTitle">Diamond Destiny Silver (DD):</div> 24, 25, 26<br>
 	<div class="ssTitle">Hot Commodities (HC):</div> 7<br>
 	<div class="ssTitle">Predictor Hobby (H):</div> 27<br>
 	<div class="ssTitle">Predictor Hobby Exchange (H):</div> 27<br>
 	<div class="ssTitle">Predictor Retail (R):</div> 25<br>
-	<div class="ssTitle">Predictor Retail Exchange:</div> (R) 25<br>
-	</p>
+	<div class="ssTitle">Predictor Retail Exchange:</div> (R) 25</p>
+
+	<br>
+
+	<p><div class="title">1996 Upper Deck Collector's Choice</div><br>
+	<div class="ssTitle">Base:</div> 25, 34, 199, 200, 202, 203, 205, 206, 207, 600, 601, 602, 603, 605, 606, 608, 704, 755, 777<br>
+	<div class="ssTitle">Gold Signature:</div> 25, 34, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 414, 599, 600, 601, 602, 603, 604, 605, 606, 607, 608, 659, 704, 755<br>
+	<div class="ssTitle">Silver Signature:</div> 25, 34, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 414, 599, 600, 601, 602, 603, 604, 605, 606, 607, 608, 659, 704, 755<br>
+	<div class="ssTitle">You Make the Play:</div> 32, 32a<br>
+	<div class="ssTitle">You Make the Play Gold Signature:</div> 32, 32	</p>
 
 	<br>
 
@@ -1776,16 +1834,15 @@
 	<div class="ssTitle">Artist's Proofs:</div> 25, 72, 90, 149<br>
 	<div class="ssTitle">Mozaics:</div> 19<br>
 	<div class="ssTitle">Z-Team:</div> 17<br>
-	<div class="ssTitle">Z-Team Samples:</div> 17<br>
-	</p>
+	<div class="ssTitle">Z-Team Samples:</div> 17</p>
 
-        <hr>
+    <hr>
 
-        <h1 id="1995">1995</h1>
+    <h1 id="1995">1995</h1>
 
-        <br>
+    <br>
 
-        <!-- image -->
+    <!-- image -->
 
 	<br><br><br>
 

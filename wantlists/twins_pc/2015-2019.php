@@ -571,9 +571,7 @@
 	<div class="ssTitle">Vintage Stock (#/99):</div> 58, 128, 161, 204, 208, 253, 268, 288<br>
 	<div class="ssTitle">1987 Topps:</div> 50<br>
 	<div class="ssTitle">1987 Topps Red (#/25):</div> 50<br>
-	<div class="ssTitle">All-Rookie Cup Reprints:</div> 10, 48<br>
-
-	</p>
+	<div class="ssTitle">All-Rookie Cup Reprints:</div> 10, 48</p>
 
     <hr>
 

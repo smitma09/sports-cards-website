@@ -7,15 +7,25 @@
 	<link href="/css/twinsPCwantlists.css" rel="stylesheet">
 	<link href="/css/siteTheme.css" rel="stylesheet">
 </head>
-<body>
+
+<body class="background">
 <div class="content">
     <h1> Twins PC wants- 2000-2004</h1>
 
     <p>This page will be used to list all of my wants from sets in the 2000s (2000-2004). This is currently a work in progress as a slowly move my set wants over from my old website to this one. Please note that autographs and relics will not be included on these wants- I still would be interested in them if you have any, but I'm not listing them here in order to save space. Cards numbered to less than 25 will also not be listed. I would like those as well, so please let me know if you have any available.</p>
 
+    <ul>
+		<li><a href="#2003">2003</a></li>
+		<li><a href="#2002">2002</a></li>
+		<li><a href="#2001">2001</a></li>
+		<li><a href="#2000">2000</a></li>
+	</ul>
+
 	<h1>2004</h1>
 
-    <br>
+	<img class="headerImgHorizontal" alt="2004 header image" src="/images/twins_pc/headers/2004.JPG">
+
+    <br><br>
 
 	<p><div class="title">2004 Absolute Memorabilia</div><br>
 	<div class="ssTitle">Base:</div> 116, 117, 118, 119, 120, 121, 123<br>
@@ -816,11 +826,9 @@
 
 	<hr>
 
-        <h1>2003</h1>
+    <h1 id="2003">2003</h1>
 
-        <br>
-
-        <!-- image -->
+    <img class="headerImgVertical" alt="2003 header image" src="/images/twins_pc/headers/2003.JPG">
 
 	<br><br><br>
 
@@ -978,8 +986,6 @@
 	<div class="ssTitle">Team Trademarks (#/500):</div> 37<br>
 	<div class="ssTitle">Team Trademarks Century (#/100):</div> 37<br>
 	</p>
-
-	<br>
 
 	<br>
 
@@ -1559,13 +1565,11 @@
 	<div class="ssTitle">Base:</div> 199, 334<br>
 	</p>
 
-        <hr>
+    <hr>
 
-        <h1>2002</h1>
+    <h1 id="2002">2002</h1>
 
-        <br>
-
-        <!-- image -->
+    <img class="headerImgVertical" alt="2002 header image" src="/images/twins_pc/headers/2002.JPG">
 
 	<br><br><br>
 
@@ -2188,13 +2192,11 @@
 
 	</p>
 
-        <hr>
+    <hr>
 
-        <h1>2001</h1>
+    <h1 id="2001">2001</h1>
 
-        <br>
-
-        <!-- image -->
+    <img class="headerImgVertical" alt="2001 header image" src="/images/twins_pc/headers/2001.JPG">
 
 	<br><br><br>
 
@@ -2631,13 +2633,11 @@
 	<div class="ssTitle">Base:</div> 127, 128, 129, 130, 131, 134, 135, 352<br>
 	</p>
 
-        <hr>
+    <hr>
 
-        <h1>2000</h1>
+    <h1 id="2000">2000</h1>
 
-        <br>
-
-        <!-- image -->
+    <img class="headerImgVertical" alt="2000 header image" src="/images/twins_pc/headers/2000.JPG">
 
 	<br><br><br>
 

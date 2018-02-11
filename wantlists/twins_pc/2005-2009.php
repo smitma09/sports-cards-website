@@ -22,7 +22,9 @@
 
 	<h1>2009</h1>
 
-	<br>
+	<img class="headerImgVertical" alt="2009 header image" src="/images/twins_pc/headers/2009.JPG">
+
+	<br><br>
 
 	<p><div class="title">2009 Bowman</div><br>
 	<div class="ssTitle">Base:</div> 98, 122, 129, 166, 228<br>
@@ -362,9 +364,7 @@
 
 	<h1 id="2008">2008</h1>
 
-	<br>
-
-	<!-- image -->
+	<img class="headerImgHorizontal" alt="2008 header image" src="/images/twins_pc/headers/2008.JPG">
 
 	<br><br><br>
 
@@ -772,9 +772,7 @@
 
 	<h1 id="2007">2007</h1>
 
-	<br>
-
-	<!-- image -->
+	<img class="headerImgVertical" alt="2007 header image" src="/images/twins_pc/headers/2007.JPG">
 
 	<br><br><br>
 
@@ -1190,9 +1188,7 @@
 
 	<h1 id="2006">2006</h1>
 
-	<br>
-
-	<!-- image -->
+	<img class="headerImgVertical" alt="2006 header image" src="/images/twins_pc/headers/2006.JPG">
 
 	<br><br><br>
 
@@ -1573,9 +1569,7 @@
 
 	<h1 id="2005">2005</h1>
 
-	<br>
-
-	<!-- image -->
+	<img class="headerImgVertical" alt="2005 header image" src="/images/twins_pc/headers/2005.JPG">
 
 	<br><br><br>
 

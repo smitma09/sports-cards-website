@@ -24,7 +24,7 @@
 
 	<img class="headerImgVertical" alt="2014 header image" src="/images/twins_pc/headers/2014.JPG">
 
-	<br>
+	<br><br>
 
 	<p><div class="title">2014 Bowman</div><br>
 	<i>Completed- Base, Chrome Prospects</i><br>
