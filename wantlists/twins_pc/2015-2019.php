@@ -15,26 +15,341 @@
 	<p>This page will be used to list all of my wants from sets in the 2010s (2015-2019). Please note that autographs and relics will not be included on these wants- I still would be interested in them if you have any, but I'm not listing them here in order to save space. Cards numbered to less than 25 will also not be listed, unless I have a card from that certain set (in which case I will list the cards I have from that particular set). I would like those as well, so please let me know if you have any available.</p>
 
 	<ul>
+		<li><a href="#2017">2017</a></li>
 		<li><a href="#2016">2016</a></li>
 		<li><a href="#2015">2015</a></li>
 	</ul>
 
-	<h1>2017</h1>
+	<h1 id="2018">2018</h1>
 
-	<img class="headerImgHorizontal" alt="2017 header image" src="/images/twins_pc/headers/2017.JPG">
+	<!-- header image
 
-	<br><br>
+		<br><br><br>
+
+		<top of page>	-->
+
+	<br>
+
+	<p><div class='title'>2018 Bowman</div><br>
+	<i>Completed- Base, Bowman Birthdays, Talent Pipeline</i><br>
+	<div class="ssTitle">Blue (#/150):</div> 9, 39, 54<br>
+	<div class="ssTitle">Gold (#/50):</div> 9, 39, 54<br>
+	<div class="ssTitle">Green (#/99):</div> 9, 39, 54<br>
+	<div class="ssTitle">Orange (#/25):</div> 9, 39, 54<br>
+	<div class="ssTitle">Purple (#/250):</div> 9, 39, 54<br>
+	<div class="ssTitle">Sky Blue (#/499):</div> 9, 39, 54<br>
+	<div class="ssTitle">Prospects (BP):</div> 49, 90, 93, 101, 134, 141<br>
+	<div class="ssTitle">Prospects Camo (BP):</div> 49, 90, 93, 101, 134, 141<br>
+	<div class="ssTitle">Prospects Blue (BP, #/150):</div> 49, 90, 93, 101, 134, 141<br>
+	<div class="ssTitle">Prospects Gold (BP, #/50):</div> 49, 90, 93, 101, 134, 141<br>
+	<div class="ssTitle">Prospects Green (BP, #/99):</div> 49, 90, 93, 101, 134, 141<br>
+	<div class="ssTitle">Prospects Orange (BP, #/25):</div> 49, 90, 93, 101, 134, 141<br>
+	<div class="ssTitle">Prospects Purple (BP, #/250):</div> 49, 90, 93, 101, 134, 141<br>
+	<div class="ssTitle">Prospects Sky Blue (BP, #/499):</div> 49, 90, 93, 101, 134, 141<br>
+	<div class="ssTitle">Chrome Prospects (BCP):</div> 93, 101, 141<br>
+	<div class="ssTitle">Chrome Prospects Refractors (BCP, #/499):</div> 49, 90, 93, 101, 134, 141<br>
+	<div class="ssTitle">Chrome Prospects Aqua Refractors (BCP, #/125):</div> 49, 90, 93, 101, 134, 141<br>
+	<div class="ssTitle">Chrome Prospects Aqua Shimmer Refractors (BCP, #/125):</div> 49, 90, 93, 101, 134, 141<br>
+	<div class="ssTitle">Chrome Prospects Atomic Refractors (BCP):</div> 49, 90, 93, 101, 134, 141<br>
+	<div class="ssTitle">Chrome Prospects Blue Refractors (BCP, #/150):</div> 49, 90, 93, 101, 134, 141<br>
+	<div class="ssTitle">Chrome Prospects Blue Shimmer Refractors (BCP, #/150):</div> 49, 90, 93, 101, 134, 141<br>
+	<div class="ssTitle">Chrome Prospects Canary Refractors (BCP, #/75):</div> 49, 90, 93, 101, 134, 141<br>
+	<div class="ssTitle">Chrome Prospects Gold Refractors (BCP, #/50):</div> 49, 90, 93, 101, 134, 141<br>
+	<div class="ssTitle">Chrome Prospects Gold Shimmer Refractors (BCP, #/50):</div> 49, 90, 93, 101, 134, 141<br>
+	<div class="ssTitle">Chrome Prospects Green Refractors (BCP, #/99):</div> 49, 90, 93, 101, 134, 141<br>
+	<div class="ssTitle">Chrome Prospects Green Shimmer Refractors (BCP, #/99):</div> 49, 90, 93, 101, 134, 141<br>
+	<div class="ssTitle">Chrome Prospects Mega Box Refractors (BCP):</div> 49, 90, 93a, 93b (image variation), 101, 141<br>
+	<div class="ssTitle">Chrome Prospects Mega Box Gold Refractors (BCP, #/50):</div> 49, 90, 93, 101, 141<br>
+	<div class="ssTitle">Chrome Prospects Mega Box Purple Refractors (BCP, #/250):</div> 49, 90, 93, 101, 141<br>
+	<div class="ssTitle">Chrome Prospects Mega Box Green Refractors (BCP, #/99):</div> 49, 90, 93, 101, 141<br>
+	<div class="ssTitle">Chrome Prospects Mega Box Orange Refractors (BCP, #/25):</div> 49, 90, 93, 101, 141<br>
+	<div class="ssTitle">Chrome Prospects Orange Refractors (BCP, #/25):</div> 49, 90, 93, 101, 134, 141<br>
+	<div class="ssTitle">Chrome Prospects Orange Shimmer Refractors (BCP, #/25):</div> 49, 90, 93, 101, 134, 141<br>
+	<div class="ssTitle">Chrome Prospects Purple Refractors (BCP, #/250):</div> 49, 90, 93, 101, 134, 141<br>
+	<div class="ssTitle">Big League Breakthrough:</div> NG, RL<br>
+	<div class="ssTitle">Bowman Birthdays Atomic Refractors (#/150):</div> BB, MK<br>
+	<div class="ssTitle">Bowman Birthdays Green Refractors (#/99):</div> BB, MK<br>
+	<div class="ssTitle">Bowman Birthdays Orange Refractors (#/25):</div> BB, MK<br>
+	<div class="ssTitle">Bowman Scouts' Top 100:</div> 18, 20, 94<br>
+	<div class="ssTitle">Bowman Scouts' Top 100 Atomic Refractors (#/150):</div> 18, 20, 94<br>
+	<div class="ssTitle">Bowman Scouts' Top 100 Gold Refractors (#/50):</div> 18, 20, 94<br>
+	<div class="ssTitle">Bowman Scouts' Top 100 Green Refractors (#/99):</div> 18, 20, 94<br>
+	<div class="ssTitle">Bowman Scouts' Top 100 Orange Refractors (#/25):</div> 18, 20, 94<br>
+	<div class="ssTitle">Bowman Trending:</div> SG<br>
+	<div class="ssTitle">Bowman Trending Atomic Refractors ($/150):</div> FR, NG, SG<br>
+	<div class="ssTitle">Bowman Trending Green Refractors (#/99):</div> FR, NG, SG<br>
+	<div class="ssTitle">Bowman Trending Orange Refractors (#/25):</div> FR, NG, SG<br>
+	<div class="ssTitle">Mega Box Talent Tranding:</div> FR, NG, SG<br>
+	<div class="ssTitle">Mega Box Talent Tranding Green (#/99):</div> FR, NG, SG<br>
+	<div class="ssTitle">Mega Box Talent Tranding Orange (#/25):</div> FR, NG, SG<br>
+	<div class="ssTitle">Mega Box Talent Tranding Purple (#/250):</div> FR, NG, SG<br>
+	<div class="ssTitle">Talent Pipeline Atomic Refractors (#/150):</div> MIN<br>
+	<div class="ssTitle">Talent Pipeline Green Refractors (#/99):</div> MIN<br>
+	<div class="ssTitle">Talent Pipeline Orange Refractors (#/25):</div> MIN</p>
+
+	<br>
+
+	<p><div class="title">2018 Bowman Platinum</div><br>
+	<div class="ssTitle">Base:</div> 18, 33<br>
+	<div class="ssTitle">Blue (#/150):</div> 18, 33<br>
+	<div class="ssTitle">Green (#/99):</div> 18, 33<br>
+	<div class="ssTitle">Ice:</div> 18, 33<br>
+	<div class="ssTitle">Orange (#/25):</div> 18, 33<br>
+	<div class="ssTitle">Purple (#/250):</div> 18, 33<br>
+	<div class="ssTitle">Sky Blue:</div> 18, 33<br>
+	<div class="ssTitle">Top Prospects:</div> 5, 28<br>
+	<div class="ssTitle">Top Prospects Blue (#/150):</div> 5, 28<br>
+	<div class="ssTitle">Top Prospects Green (#/99):</div> 5, 28<br>
+	<div class="ssTitle">Top Prospects Ice:</div> 5, 28<br>
+	<div class="ssTitle">Top Prospects Orange (#/25):</div> 5, 28<br>
+	<div class="ssTitle">Top Prospects Purple (#/250):</div> 5, 28<br>
+	<div class="ssTitle">Top Prospects Sky Blue:</div> 5, 28<br>
+	<div class="ssTitle">Prismatic Prodigies:</div> 10<br>
+	<div class="ssTitle">Prismatic Prodigies Green (#/99):</div> 10<br>
+	<div class="ssTitle">Prismatic Prodigies Orange (#/25):</div> 10<br>
+	<div class="ssTitle">Prismatic Prodigies Purple (#/250):</div> 10<br>
+
+	<br>
+
+	<p><p><div class="title">2018 Diamond Kings</div><br>
+	<div class="ssTitle">Base:</div> 112, 113, 114<br>
+	<div class="ssTitle">Artist's Proof Blue (#/25):</div> 50, 112, 113, 114<br>
+	<div class="ssTitle">Artist's Proof Gold (#/99):</div> 50, 112, 113, 114<br>
+	<div class="ssTitle">Artist's Proof Red:</div> 50, 112, 113, 114<br>
+	<div class="ssTitle">Blue:</div> 50, 112, 113, 114<br>
+	<div class="ssTitle">Brown (#/49):</div> 50, 112, 113, 114<br>
+	<div class="ssTitle">Gray (#/99):</div> 50, 112, 113, 114<br>
+	<div class="ssTitle">Red:</div> 50, 112, 113, 114<br>
+	<div class="ssTitle">Gallery of Stars:</div> 8<br>
+	<div class="ssTitle">Gallery of Stars Holo Blue (#/25):</div> 8<br>
+	<div class="ssTitle">The 500:</div> 11<br>
+	<div class="ssTitle">The 500 Holo Blue (#/25):</div> 11<br>
+
+	</p>
+
+	<br>
+
+	<p><div class="title">2018 Topps Series 1</div><br>
+	<i>Completed- Legends in the Making, Opening Day</i><br>
+	<div class="ssTitle">Base:</div> 127b (with glove and ball SP), 130a (baserunning), 262<br>
+	<div class="ssTitle">Black (#/67):</div> 49, 94, 107, 115, 127, 130, 231, 262, 277, 288, 334<br>
+	<div class="ssTitle">Blue (#/50):</div> 49, 94, 107, 115, 127, 130, 231, 262, 277, 288, 334<br>
+	<div class="ssTitle">Camo (#/25):</div> 49, 94, 107, 115, 130, 231, 262, 277, 288, 334<br>
+	<div class="ssTitle">Gold (#/2,018):</div> 49, 94, 130, 231, 277, 334<br>
+	<div class="ssTitle">Independence Day (#/76):</div> 49, 94, 107, 115, 127, 130, 231, 262, 277, 288, 334<br>
+	<div class="ssTitle">Pink (#/50):</div> 49, 94, 107, 115, 127, 130, 231, 262, 277, 288, 334<br>
+	<div class="ssTitle">Negative:</div> 49, 94, 107, 115, 127, 130, 262, 277, 288, 334<br>
+	<div class="ssTitle">Rainbow Foil:</div> 127, 130, 231, 277, 334<br>
+	<div class="ssTitle">Toys R Us Purple:</div> 49, 94, 107, 115, 127, 130, 231, 262, 277, 288, 334<br>
+	<div class="ssTitle">Vintage Stock (#/99):</div> 49, 94, 107, 127, 130, 231, 262, 277, 288, 334<br>
+	<div class="ssTitle">1983 Topps (83):</div> 26, 37, 47, 77<br>
+	<div class="ssTitle">1983 Topps Black (83, #/299):</div> 26, 37, 47<br>
+	<div class="ssTitle">1983 Topps Blue (83):</div> 26, 47<br>
+	<div class="ssTitle">1983 Topps Gold (83, #/50):</div> 26, 37, 47, 77<br>
+	<div class="ssTitle">1983 Topps Silver Pack Promo:</div> 32<br>
+	<div class="ssTitle">1983 Topps Silver Pack Promo Blue (#/150):</div> 32<br>
+	<div class="ssTitle">1983 Topps Silver Pack Promo Gold (#/50):</div> 32<br>
+	<div class="ssTitle">1983 Topps Silver Pack Promo Green (#/99):</div> 32<br>
+	<div class="ssTitle">1983 Topps Silver Pack Promo Purple (#/75):</div> 32<br>
+	<div class="ssTitle">1983 Topps Silver Pack Promo Orange (#/25):</div> 32<br>
+	<div class="ssTitle">Home Run Challenge Promo (HRC):</div> MS<br>
+	<div class="ssTitle">Legends in the Making Black (LTM):</div> MS<br>
+	<div class="ssTitle">Legends in the Making Blue (LTM):</div> MS<br>
+	<div class="ssTitle">Legends in the Making Gold (LTM, #/50):</div> MS<br>
+	<div class="ssTitle">MLB Awards (MLBA):</div> 18, 26<br>
+	<div class="ssTitle">MLB Awards Black (MLBA, #/299):</div> 18, 26<br>
+	<div class="ssTitle">MLB Awards Blue (MLBA):</div> 18, 26<br>
+	<div class="ssTitle">MLB Awards Gold (MLBA, #/50):</div> 18, 26<br>
+	<div class="ssTitle">Opening Day Black (OD):</div> 4<br>
+	<div class="ssTitle">Opening Day Blue (OD):</div> 4<br>
+	<div class="ssTitle">Opening Day Gold (OD, #/50):</div> 4<br>
+	<div class="ssTitle">Superstar Sensations (SSS):</div> 13<br>
+	<div class="ssTitle">Superstar Sensations Black (SSS):</div> 13<br>
+	<div class="ssTitle">Superstar Sensations Blue (SSS, #/299):</div> 13<br>
+	<div class="ssTitle">Superstar Sensations Gold (SSS, #/50):</div> 13<br>
+	<div class="ssTitle">Salute (TS):</div> 48, 67, 96<br>
+	<div class="ssTitle">Salute Black (TS, #/299):</div> 48, 67, 96<br>
+	<div class="ssTitle">Salute Blue (TS):</div> 48, 67, 96<br>
+	<div class="ssTitle">Salute Gold (TS, #/50):</div> 48, 67, 96</p>
+
+	<br>
+
+	<p><div class="title">2018 Topps Series 2</div><br>
+	<div class="ssTitle">Base:</div> 506b (sweatshirt SP), 540, 614<br>
+	<div class="ssTitle">Black (#/67):</div> 410, 419, 448, 493, 494, 506, 533, 537, 538, 540, 595, 602, 614, 681, 697<br>
+	<div class="ssTitle">Blue (#/50):</div> 410, 419, 448, 493, 494, 506, 533, 537, 538, 540, 595, 602, 614, 681, 697<br>
+	<div class="ssTitle">Camo (#/25):</div> 410, 419, 448, 493, 494, 506, 533, 537, 538, 540, 595, 602, 614, 681, 697<br>
+	<div class="ssTitle">Gold (#/2018):</div> 419, 448, 493, 506, 533, 538, 540, 595, 602, 614, 681, 697<br>
+	<div class="ssTitle">Independence Day (#/76):</div> 410, 419, 448, 493, 494, 506, 533, 537, 538, 540, 595, 602, 614, 681, 697<br>
+	<div class="ssTitle">Pink (#/50):</div> 410, 419, 448, 493, 494, 506, 533, 537, 538, 540, 595, 602, 614, 681, 697<br>
+	<div class="ssTitle">Purple:</div> 410, 419, 448, 493, 494, 506, 533, 537, 538, 540, 595, 602, 614, 681, 697<br>
+	<div class="ssTitle">Rainbow Foil:</div> 419, 448, 493, 494, 506, 533, 537, 538, 540, 595, 602, 681, 697<br>
+	<div class="ssTitle">Vintage Stock (#/99):</div> 410, 419, 448, 494, 533, 537, 538, 540, 595, 602, 614, 681, 697<br>
+	<div class="ssTitle">1983 Topps (83):</div> 9, 44<br>
+	<div class="ssTitle">1983 Topps Black (83, #/299):</div> 9, 44<br>
+	<div class="ssTitle">1983 Topps Blue (83):</div> 9, 44<br>
+	<div class="ssTitle">1983 Topps Gold (83, #/50):</div> 9, 44<br>
+	<div class="ssTitle">Future Stars (FS):</div> 27<br>
+	<div class="ssTitle">Future Stars Black (FS):</div> 27<br>
+	<div class="ssTitle">Future Stars Blue (FS):</div> 27<br>
+	<div class="ssTitle">Future Stars Gold (FS, #/50):</div> 27<br>
+	<div class="ssTitle">Home Run Challenge (HRS):</div> BD, MS<br>
+	<div class="ssTitle">Instant Impact (II):</div> 43<br>
+	<div class="ssTitle">Instant Impact Black (II, #/299):</div> 43<br>
+	<div class="ssTitle">Instant Impact Blue (II):</div> 43<br>
+	<div class="ssTitle">Instant Impact Gold (II, #/50):</div> 43<br>
+	<div class="ssTitle">Legends in the Making (LITM):</div> 3<br>
+	<div class="ssTitle">Legends in the Making Black (LITM):</div> 3<br>
+	<div class="ssTitle">Legends in the Making Blue (LITM):</div> 3<br>
+	<div class="ssTitle">Legends in the Making Gold (LITM, #/50):</div> 3<br>
+	<div class="ssTitle">Longball Legends (LL):</div> 22<br>
+	<div class="ssTitle">Longball Legends Black (LL, #/299):</div> 22<br>
+	<div class="ssTitle">Longball Legends Blue (LL):</div> 22<br>
+	<div class="ssTitle">Longball Legends Gold (LL, #/50):</div> 22<br>
+	<div class="ssTitle">Salute (S):</div> 92<br>
+	<div class="ssTitle">Salute Black (S, #/299):</div> 92<br>
+	<div class="ssTitle">Salute Blue (S):</div> 92<br>
+	<div class="ssTitle">Salute Gold (S, #/50):</div> 92</p>
+
+	<br>
+
+	<p><div class="title">2018 Topps Allen & Ginter</div><br>
+	<div class="ssTitle">Base:</div> 12, 111, 163, 193, 209, 268, 279, 306, 332<br>
+	<div class="ssTitle">Silver Glossy:</div> 12, 111, 163, 193, 209, 268, 279, 306, 332, 379<br>
+	<div class="ssTitle">Minis:</div> 12, 111, 163, 193, 209, 268, 279, 306, 332<br>
+	<div class="ssTitle">Minis A&G Back:</div> 12, 111, 163, 193, 209, 268, 279, 306, 332<br>
+	<div class="ssTitle">Minis Black:</div> 12, 111, 163, 193, 209, 268, 279, 306, 332<br>
+	<div class="ssTitle">Minis Brookyln Back (#/25):</div> 12, 111, 163, 193, 209, 268, 279, 306, 332<br>
+	<div class="ssTitle">Minis Glow in the Dark:</div> 12, 111, 163, 193, 209, 268, 279, 306, 332<br>
+	<div class="ssTitle">Minis Gold:</div> 12, 111, 163, 193, 209, 268, 279, 306, 332<br>
+	<div class="ssTitle">Minis NNO (PR 50):</div> 12, 111, 163, 193, 209, 268, 279, 306, 332<br>
+	<div class="ssTitle">Rip cards (ripped or unripped is fine):</div> 5<br>
+	<div class="ssTitle">Fantasy Goldmine:</div> 46<br>
+	<div class="ssTitle">World Talent:</div> 21, 33</p>
+
+	<br>
+
+	<p><div class="title">2018 Topps Finest</div><br>
+	<div class="ssTitle">Base:</div> 32, 69, 108, 121<br>
+	<div class="ssTitle">Refractors:</div> 32, 69<br>
+	<div class="ssTitle">Blue Refractors (#/150):</div> 32, 69<br>
+	<div class="ssTitle">Gold Refractors (#/50):</div> 32, 69, 108, 121<br>
+	<div class="ssTitle">Green Refractors (#/99):</div> 32, 69<br>
+	<div class="ssTitle">Orange Refractors (#/25):</div> 32, 69<br>
+	<div class="ssTitle">Purple Refractors (#/250):</div> 32, 69<br>
+	<div class="ssTitle">Finest Cornerstones:</div> MS<br>
+	<div class="ssTitle">Finest Cornerstones Gold Refractors:</div> MS<br>
+	<div class="ssTitle">Sitting Red:</div> MS<br>
+	<div class="ssTitle">Sitting Red Gold Refractors:</div> MS</p>
+
+	<br>
+
+	<p><div class="title">2018 Topps Gypsy Queen</div><br>
+	<div class="ssTitle">Base:</div> 24, 86b (Jackie Robinson day), 231, 269<br>
+	<div class="ssTitle">Bazkooka Back:</div> 10, 24, 33, 61, 86, 88, 104, 168, 231, 269<br>
+	<div class="ssTitle">Black and White (#/50):</div> 10, 24, 33, 61, 86, 88, 104, 168, 231, 269<br>
+	<div class="ssTitle">Green:</div> 10, 24, 33, 61, 86, 88, 104, 168, 231, 269<br>
+	<div class="ssTitle">Logo Swap:</div> 10, 24, 33, 61, 86a, 86b (Jackie Robinson day), 88, 104, 168, 231, 269<br>
+	<div class="ssTitle">Indigo (#/250):</div> 10, 24, 33, 61, 86, 88, 104, 168, 231, 269<br>
+	<div class="ssTitle">Missing Nameplate:</div> 10, 24, 33, 61, 86, 88, 104, 168, 231, 269</p>
+
+	<br>
+
+	<p><div class="title">2018 Topps Heritage</div><br>
+	<div class="ssTitle">Base:</div> 73, 99, 158, 207, 213, 262, 290, 337, 356, 465<br>
+	<div class="ssTitle">100th Anniversary:</div> 30, 73, 99, 158, 207, 213, 262, 290, 317, 337, 356, 465<br>
+	<div class="ssTitle">Black:</div> 30, 73, 99, 158, 207, 213, 262, 290, 317, 337, 356, 465<br>
+	<div class="ssTitle">Chrome (THC, #ed/999):</div> 30, 290, 356<br>
+	<div class="ssTitle">Chrome Refractors (THC, #ed/569):</div> 30, 290, 356<br>
+	<div class="ssTitle">Chrome Black Refractors (THC, #ed/69):</div> 30, 290<br>
+	<div class="ssTitle">Chrome Purple Refractors (THC):</div> 30, 290, 356<br>
+	<div class="ssTitle">Mini (#/100):</div> 30, 262, 290, 337<br>
+	<div class="ssTitle">Baseball Flashbacks (BF):</div> HK, RC<br>
+	<div class="ssTitle">Then and Now (TN):</div> 5, 7, 9<br>
+	<div class="ssTitle">Team Posters:</div> MT (Twins)</p>
+
+	<br>
+
+	<p><div class="title">2018 Topps Inception</div><br>
+	<div class="ssTitle">Base:</div> 13, 67, 96<br>
+	<div class="ssTitle">Blue (#/25):</div> 13, 67, 96<br>
+	<div class="ssTitle">Green:</div> 13, 67, 96<br>
+	<div class="ssTitle">Magenta (#/99):</div> 13, 67, 96<br>
+	<div class="ssTitle">Orange (#/50):</div> 13, 67, 96<br>
+	<div class="ssTitle">Purple (#/150):</div> 13, 67, 96<br>
+	<div class="ssTitle">Red (#/75):</div> 13, 67, 96</p>
+
+	<br>
+
+	<p><div class="title">2018 Topps Museum Collection</div><br>
+	<div class="ssTitle">Base:</div> 71, 94<br>
+	<div class="ssTitle">Amethyst (#/99):</div> 71, 94<br>
+	<div class="ssTitle">Copper:</div> 71, 94<br>
+	<div class="ssTitle">Ruby (#/50):</div> 71, 94<br>
+	<div class="ssTitle">Sapphire (#/150):</div> 71, 94<br>
+	<div class="ssTitle">Canvas Collection Reprints (CC):</div> 3, 27, 29</p>
+
+	<br>
+
+	<p><div class="title">2018 Topps Now</div><br>
+	<i>Checklist updated thru 5/13</i><br>
+	<i>Due to the day by day release nature of this set, I'm listing each card I need on a new line for clarity. I need the following cards-</i><br>
+	<div class="ssTitle">20</div> Jose Berrios complete game shutout (PR 318)<br>
+	<div class="ssTitle">40</div> Adrian Beltre passes Rod Carew for most hits of Latin American players (PR 353)<br>
+	<div class="ssTitle">67</div> Max Kepler walkoff home run (PR 244)<br>
+	<div class="ssTitle">71</div> Joe Mauer gets 2,000th hit (PR 484)<br>
+	<div class="ssTitle">98</div> Ryan LaMarre walkoff single in 16th (PR 269)<br>
+	<div class="ssTitle">284</div> Eddie Rosario 3-HR game<br>
+	<div class="ssTitle">298</div> Jose Berrios 10-K complete game<br>
+	<div class="ssTitle">Road to Opening Day</div> Jose Berrios, Jason Castro, Brian Dozier, Byron Buxton, Zach Granite, Felix Jorge, Max Kepler, Joe Mauer, Logan Morrison, Jorge Polanco, Addison Reed, Fernando Rodney, Eddie Rosario, Miguel Sano, Ervin Santana</p>
+
+	<br>
+
+	<p><div class="title">2018 Topps Opening Day</div><br>
+	<div class="ssTitle">Base:</div> 64a (running out of box), 64b (with glove), 65, 173, 174<br>
+	<div class="ssTitle">Blue Foil:</div> 64, 65, 66, 173, 174<br>
+	<div class="ssTitle">Before Opening Day (BOD):</div> BB, MS<br>
+	<div class="ssTitle">Mascots (M):</div> 15<br>
+	<div class="ssTitle">Opening Day Stars (ODS):</div> BD<br>
+	<div class="ssTitle">Stadium Signatures (SS):</div> BB<br>
+	<div class="ssTitle">Team Traditions and Celebrations (TTC):</div> MS</p>
+
+	<br>
+
+	<p><div class="title">2018 Topps Stadium Club</div><br>
+	<div class="ssTitle">Base:</div> 17, 76, 82, 97, 126, 128, 194, 245, 281, 295<br>
+	<div class="ssTitle">Black Foil:</div> 17, 76, 82, 97, 126, 128, 194, 245, 281, 295<br>
+	<div class="ssTitle">Black & White:</div> 17, 76, 82, 97, 126, 128, 194, 245, 281, 295<br>
+	<div class="ssTitle">Rainbow Foilboard (#/25):</div> 17, 76, 82, 97, 126, 128, 194, 245, 281, 295<br>
+	<div class="ssTitle">Red Foil:</div> 17, 76, 82, 97, 126, 128, 194, 245, 281, 295<br>
+	<div class="ssTitle">Sepia:</div> 17, 76, 82, 97, 126, 128, 194, 245, 281, 295<br>
+	<div class="ssTitle">Chrome (SCC):</div> 97, 128, 245<br>
+	<div class="ssTitle">Chrome Refractors (SCC):</div> 97, 128, 245<br>
+	<div class="ssTitle">Chrome Gold Minted (SCC):</div> 97, 128, 245</p>
+
+	<hr>
+
+    <h1 id="2017">2017</h1>
+
+    <img class="headerImgHorizontal" alt="2017 header image" src="/images/twins_pc/headers/2017.JPG">
+
+	<br><br><br>
+
+	<p><a href="#top">Top of page</a></p>
+
+	<br>
 
 	<p><div class="title">2017 Bowman</div><br>
-	<div class="ssTitle">Prospects (BP):</div> 15, 44, 52, 102, 114<br>
+	<i>Complete- Talent Pipeline</i><br>
+	<div class="ssTitle">Prospects (BP):</div> 44, 52, 114<br>
 	<div class="ssTitle">Prospects Blue (BP, #/150):</div> 15, 44, 52, 102, 114, 134<br>
 	<div class="ssTitle">Prospects Bowman 70th Red (BP):</div> 15, 44, 52, 102, 114, 134<br>
 	<div class="ssTitle">Prospects Gold (BP, #/50):</div> 15, 44, 52, 102, 114, 134<br>
 	<div class="ssTitle">Prospects Green (BP, #/99):</div> 15, 44, 52, 102, 114, 134<br>
 	<div class="ssTitle">Prospects Orange (BP, #/25):</div> 15, 44, 52, 102, 114, 134<br>
 	<div class="ssTitle">Prospects Purple (BP, #/250):</div> 15, 44, 52, 102, 114, 134<br>
-	<div class="ssTitle">Prospects Silver(BP, #/499):</div> 15, 44, 52, 102, 114, 134<br>
-	<div class="ssTitle">Prospects Yellow (BP):</div> 15, 44, 52, 114, 134<br>
+	<div class="ssTitle">Prospects Silver(BP, #/499):</div> 15, 52, 102, 114<br>
+	<div class="ssTitle">Prospects Yellow (BP):</div> 15, 52, 114, 134<br>
 	<div class="ssTitle">Chrome Prospects (BCP):</div> 15, 44, 114<br>
 	<div class="ssTitle">Chrome Prospects Refractors (BCP, #/499):</div> 15, 44, 52, 102, 114, 134<br>
 	<div class="ssTitle">Chrome Prospects Blue Refractors (BCP, #/150)</div>: 15, 44, 52, 102, 114, 134<br>
@@ -49,12 +364,11 @@
 	<div class="ssTitle">Chrome Prospects Gold Shimmer Refractors (BCP, #/50):</div> 15, 44, 52, 102, 114, 134<br>
 	<div class="ssTitle">Chrome Prospects Orange Refractors (BCP, #/25):</div> 15, 44, 52, 102, 114, 134<br>
 	<div class="ssTitle">Chrome Prospects Orange Shimmer Refractors (BCP, #/25):</div> 15, 44, 52, 102, 114, 134<br>
-	<div class="ssTitle">Chrome Prospects Purple Refractors (BCP, #/250):</div> 15, 44, 52, 102, 114, 134<br>
-	<div class="ssTitle">Bowman Scouts' Top 100:</div> 48, 98<br>
+	<div class="ssTitle">Chrome Prospects Purple Refractors (BCP, #/250):</div> 44, 52, 102, 114, 134<br>
+	<div class="ssTitle">Bowman Scouts' Top 100:</div> 98<br>
 	<div class="ssTitle">Bowman Scouts' Top 100 Green (#/99):</div> 48, 98<br>
 	<div class="ssTitle">Bowman Scouts' Top 100 Gold (#/50):</div> 48, 98<br>
 	<div class="ssTitle">Bowman Scouts' Top 100 Orange (#/25):</div> 48, 98<br>
-	<div class="ssTitle">Talent Pipeline:</div> MIN<br>
 	<div class="ssTitle">Talent Pipeline Green (#/99):</div> MIN<br>
 	<div class="ssTitle">Talent Pipeline Gold (#/50):</div> MIN<br>
 	<div class="ssTitle">Talent Pipeline Mega Box Refractors:</div> MIN<br>
@@ -80,7 +394,7 @@
 	<div class="ssTitle">Prospects Bowman 70th Logo Blue Refractors (BCP):</div> 166, 201, 242<br>
 	<div class="ssTitle">Prospects Gold Refractors (BCP, #/50):</div> 166, 201, 242<br>
 	<div class="ssTitle">Prospects Green Refractors (BCP, #/99):</div> 166, 201, 242<br>
-	<div class="ssTitle">Prospects Green Shimmer Refractors (BCP, #/99):</div> 166, 201, 242<br>
+	<div class="ssTitle">Prospects Green Shimmer Refractors (BCP, #/99):</div> 166, 242<br>
 	<div class="ssTitle">Prospects Orange Refractors (BCP, #/25):</div> 166, 201, 242<br>
 	<div class="ssTitle">Prospects Purple Refractors (BCP, #/250):</div> 166, 201, 242<br>
 	<div class="ssTitle">Prospects Purple Shimmer Refractors (BCP):</div> 166, 201, 242<br>
@@ -103,7 +417,8 @@
 	<br>
 
 	<p><div class="title">2017 Bowman Draft</div><br>
-	<div class="ssTitle">Base (BD):</div> 1, 63, 76, 122, 190, 191<br>
+	<i>Completed- Recommended Viewing</i><br>
+	<div class="ssTitle">Base (BD):</div> 63, 76, 122, 190, 191<br>
 	<div class="ssTitle">Blue (BD, #/150):</div> 1, 63, 64, 76, 122, 190, 191<br>
 	<div class="ssTitle">Gold (BD, #/50):</div> 1, 63, 64, 76, 122, 190, 191<br>
 	<div class="ssTitle">Green (BD, #/99):</div> 1, 63, 64, 76, 122, 190, 191<br>
@@ -123,7 +438,6 @@
 	<div class="ssTitle">Defining Moments:</div> RL<br>
 	<div class="ssTitle">Defining Moments Refractors (#/250):</div> RL<br>
 	<div class="ssTitle">Defining Moments Gold Refractors (#/50):</div> RL<br>
-	<div class="ssTitle">Recommended Viewing:</div> MIN<br>
 	<div class="ssTitle">Recommended Viewing Refractors (#/250):</div> MIN<br>
 	<div class="ssTitle">Recommended Viewing Gold Refractors (#/50):</div> MIN<br>
 	<div class="ssTitle">Top of the Class (#/99):</div> RL<br>
@@ -207,7 +521,8 @@
 	<br>
 
     <p><div class="title">2017 Topps Series 1</div><br>
-    <div class="ssTitle">Base:</div> 8a (white jersey), 8b (red jersey SSP), 27, 126a (white jersey), 126b (red jersey SSP), 227a (catching ball), 227b (on deck swing SSP), 304, 305, 336<br>
+    <i>Completed- 1987 Silver Pack Promo Chrome</i><br>
+    <div class="ssTitle">Base:</div> 8b (red jersey SSP), 126b (red jersey SSP), 227b (on deck swing SSP), 305<br>
     <div class="ssTitle">Black (#/67):</div> 8, 27, 126, 201, 227, 304, 305, 313, 336<br>
     <div class="ssTitle">Blue (#/50):</div> 8, 27, 126, 201, 227, 304, 305, 313, 336<br>
     <div class="ssTitle">Camo (#/25):</div> 8, 27, 126, 201, 227, 304, 305, 313, 336<br>
@@ -223,7 +538,6 @@
     <div class="ssTitle">Five Tool:</div> 41<br>
     <div class="ssTitle">Jackie Robinson Day:</div> 10, 18<br>
     <div class="ssTitle">Jackie Robinson Day Red (#/25):</div> 10, 18<br>
-	<div class="ssTitle">1987 Silver Pack Promo Chrome:</div> BB<br>
 	<div class="ssTitle">1987 Silver Pack Promo Chrome Blue Refractor (#/99):</div> BB<br>
 	<div class="ssTitle">1987 Silver Pack Promo Chrome Gold Refractor (#/50):</div> BB<br>
 	<div class="ssTitle">1987 Silver Pack Promo Chrome Green Refractor (#/150):</div> BB<br>
@@ -232,6 +546,7 @@
 	<br>
 
 	<p><div class="title">2017 Topps Series 2</div><br>
+	<i>Completed-</i> 1987 Silver Pack Promo Chrome</br>
 	<div class="ssTitle">Base:</div> 379, 404a (white jersey), 404b (blue jersey), 405, 407, 491, 543, 554, 568, 606, 609, 684<br>
 	<div class="ssTitle">Black (#/66):</div> 379, 404, 405,407, 453, 491, 542, 554, 568, 590, 606, 609,678, 684<br>
 	<div class="ssTitle">Father's Day Blue (#/50):</div> 379, 404, 405, 407, 453, 491, 542, 554, 568, 590, 606, 609,678, 684<br>
@@ -248,7 +563,6 @@
 	<div class="ssTitle">Independence Day:</div> 13, 28<br>
 	<div class="ssTitle">Salute:</div> 122, 142, 143<br>
 	<div class="ssTitle">Salute Red (#/25):</div> 122, 142, 143<br>
-	<div class="ssTitle">1987 Silver Pack Promo Chrome:</div> MSA<br>
 	<div class="ssTitle">1987 Silver Pack Promo Chrome Blue Refractor (#/115):</div> MSA<br>
 	<div class="ssTitle">1987 Silver Pack Promo Chrome Orange Refractor (#/99):</div> MSA<br>
 	<div class="ssTitle">1987 Silver Pack Promo Chrome Gold Refractor (#/50):</div> MSA<br>
@@ -257,7 +571,7 @@
 	<br>
 
 	<p><div class="title">2017 Topps Allen & Ginter</div><br>
-	<div class="ssTitle">Base:</div> 33, 77, 79, 277, 300<br>
+	<div class="ssTitle">Base:</div> 77, 79, 300<br>
 	<div class="ssTitle">Foil:</div> 33, 77, 79, 277, 300, 318, 334<br>
 	<div class="ssTitle">Mini:</div> 33, 79, 277, 300, 318, 334<br>
 	<div class="ssTitle">Mini A&G Back:</div> 33, 77, 79, 277, 300, 318, 334<br>
@@ -312,7 +626,7 @@
 	<div class="ssTitle">Negative Refractors:</div> 49, 54, 190<br>
 	<div class="ssTitle">Orange Refractors (#/25):</div> 49, 54, 190<br>
 	<div class="ssTitle">Pink Refractors:</div> 49, 54<br>
-	<div class="ssTitle">Prism Refractors:</div> 49, 54, 190<br>
+	<div class="ssTitle">Prism Refractors:</div> 190<br>
 	<div class="ssTitle">Purple Refractors (#/299):</div> 49, 190<br>
 	<div class="ssTitle">Sepia Refractors:</div> 49, 54, 190</p>
 
@@ -400,12 +714,12 @@
 	<br>
 
 	<p><div class="title">2017 Topps Gypsy Queen</div><br>
-	<div class="ssTitle">Base:</div> 115, 147, 155, 166, 190, 258, 269, 272, 315 (SP)<br>
+	<div class="ssTitle">Base:</div> 115, 155, 258, 269, 272, 315 (SP)<br>
 	<div class="ssTitle">Black & White (#/50):</div> 115, 147, 155, 166, 190, 258, 272<br>
 	<div class="ssTitle">Green:</div> 115, 147, 155, 166, 190, 258, 269, 272<br>
 	<div class="ssTitle">Green Back (PR 50):</div> 115, 147, 155, 166, 190, 258, 269, 272, 315<br>
 	<div class="ssTitle">Missing Blackplate:</div> 115, 147, 155, 166, 190, 258, 269, 272, 315<br>
-	<div class="ssTitle">Missing Nameplate:</div> 115, 147, 155, 166, 190, 258, 269, 272, 315<br>
+	<div class="ssTitle">Missing Nameplate:</div> 115, 147, 155, 166, 190, 258, 269, 315<br>
 	<div class="ssTitle">Purple (#/250):</div> 115, 147, 155, 166, 190, 258, 269, 272</p>
 
 	<br>
@@ -418,9 +732,9 @@
     <div class="ssTitle">1968 Topps Game:</div> 30<br>
     <div class="ssTitle">Ad Panels:</div> Coming soon<br>
     <div class="ssTitle">Baseball Flashbacks:</div> HK<br>
-    <div class="ssTitle">Chrome (#/999):</div> 436, 465<br>
+    <div class="ssTitle">Chrome (#/999):</div> 436<br>
     <div class="ssTitle">Chrome Refractor (#/568):</div> 436, 465<br>
-    <div class="ssTitle">Chrome Blue Refractor (#/68):</div> 436, 465<br>
+    <div class="ssTitle">Chrome Blue Refractor (#/68):</div> 436<br>
     <div class="ssTitle">Chrome Purple Refractor:</div> 436, 465<br>
     <div class="ssTitle">Mini (#/100):</div> 220, 243, 436, 465</p>
 
@@ -458,12 +772,11 @@
 	<br>
 
 	<p><div class="title">2017 Topps Inception</div><br>
-	<i>Complete- Magenta, Purple</i><br>
+	<i>Complete- Magenta, Orange, Purple</i><br>
 	<div class="ssTitle">Base:</div> 17<br>
 	<div class="ssTitle">Black (#/1)- HAVE:</div> 17<br>
 	<div class="ssTitle">Blue (#/25):</div> 60, 81<br>
 	<div class="ssTitle">Green:</div> 81<br>
-	<div class="ssTitle">Orange (#/50):</div> 17<br>
 	<div class="ssTitle">Red (#/75):</div> 17, 81</p>
 
 	<br>
@@ -495,7 +808,6 @@
 
 	<p><div class="title">2017 Topps Now</div><br>
 	<i>Complete- Home Run Derby (HRD), Postseason (PS)</i><br>
-	<i>Checklist updated thru 12/30</i><br>
 	<i>Due to the day by day release nature of this set, I'm listing each card I need on a new line for clarity. I need the following cards-</i><br>
 	<div class="ssTitle">49</div> Ervin Santana complete game 1-hit shutout (PR 217)<br>
 	<div class="ssTitle">113</div> Joe Mauer 1st career walkoff home run (PR 290)<br>
@@ -508,6 +820,7 @@
 	<div class="ssTitle">445</div> Bartolo Colon becomes oldest pitcher to throw CG since 2010 (PR 300)<br>
 	<div class="ssTitle">503</div> Bartolo Colon becomes 18th player to defeat all 30 MLB teams (PR 293)<br>
 	<div class="ssTitle">507</div> Bartolo Colon observing solar eclipse (PR 450)<br>
+	<div class="ssTitle">694</div> Byron Buxton catch at the wall (PR 453)<br>
 	<div class="ssTitle">Offseason:</div> HAVE- 60 (Buxton DPOY)<br>
 	<div class="ssTitle">Players Weekend (PR 96):</div> "Buck", "Doz", "Rozycki", "Bandidou", "Mauer"</p>
 
@@ -525,7 +838,7 @@
 	<br>
 
 	<p><div class="title">2017 Topps Stadium Club</div><br>
-	<div class="ssTitle">Base:</div> 10, 11, 28, 61, 146, 222, 237, 300<br>
+	<div class="ssTitle">Base:</div> 10, 11, 61, 146, 222, 237, 300<br>
 	<div class="ssTitle">Black & White/Orange:</div> 10, 11, 28, 61, 100, 146, 220, 222, 237, 282, 300<br>
 	<div class="ssTitle">Black Foil:</div> 10, 11, 28, 61, 100, 146, 220, 222, 237, 282, 300<br>
 	<div class="ssTitle">First Day Issue:</div> 10, 11, 28, 61, 100, 146, 220, 222, 237, 282, 300<br>
@@ -654,20 +967,20 @@
 	<br>
 
 	<p><div class="title">2016 Bowman Draft</div><br>
-	<div class="ssTitle">Base (BD):</div> 90, 101, 122, 134<br>
-	<div class="ssTitle">Blue (BD, #/150):</div> 90, 101, 122, 134<br>
-	<div class="ssTitle">Green (BD, #/99):</div> 90, 101, 122, 134<br>
-	<div class="ssTitle">Gold (BD, #/50):</div> 90, 101, 122, 134<br>
-	<div class="ssTitle">Orange (BD, #/25):</div> 90, 101, 122, 134<br>
-	<div class="ssTitle">Silver (BD, #/499):</div> 90, 101, 122, 134<br>
-	<div class="ssTitle">Chrome (BDC):</div> 90, 101, 122, 134<br>
-	<div class="ssTitle">Chrome Refractor (BDC):</div> 90, 101, 122, 134<br>
-	<div class="ssTitle">Chrome Blue Refractor (BDC, #/150):</div> 90, 101, 122, 134<br>
-	<div class="ssTitle">Chrome Green Refractor (BDC, #/99):</div> 90, 101, 122, 134<br>
+	<div class="ssTitle">Base (BD):</div> 101, 122, 129, 134<br>
+	<div class="ssTitle">Blue (BD, #/150):</div> 90, 101, 122, 129, 134<br>
+	<div class="ssTitle">Green (BD, #/99):</div> 90, 101, 122, 129, 134<br>
+	<div class="ssTitle">Gold (BD, #/50):</div> 90, 101, 122, 129, 134<br>
+	<div class="ssTitle">Orange (BD, #/25):</div> 90, 101, 122, 129, 134<br>
+	<div class="ssTitle">Silver (BD, #/499):</div> 90, 101, 122, 129, 134<br>
+	<div class="ssTitle">Chrome (BDC):</div> 90, 101, 122, 129, 134<br>
+	<div class="ssTitle">Chrome Refractor (BDC):</div> 90<br>
+	<div class="ssTitle">Chrome Blue Refractor (BDC, #/150):</div> 90, 101, 122, 129, 134<br>
+	<div class="ssTitle">Chrome Green Refractor (BDC, #/99):</div> 90, 101, 122, 129, 134<br>
 	<div class="ssTitle">Chrome Gold Refractor (BDC, #/50):</div> 90, 101, 122, 134<br>
-	<div class="ssTitle">Chrome Orange Refractor (BDC, #/25):</div> 90, 101, 122, 134<br>
-	<div class="ssTitle">Chrome Purple Refractor (BDC, #/250):</div> 90, 101, 122, 134<br>
-	<div class="ssTitle">Chrome Sky Blue Refractor (BDC):</div> 90, 101, 122, 134</p>
+	<div class="ssTitle">Chrome Orange Refractor (BDC, #/25):</div> 90, 101, 122, 129, 134<br>
+	<div class="ssTitle">Chrome Purple Refractor (BDC, #/250):</div> 90, 101, 122, 129, 134<br>
+	<div class="ssTitle">Chrome Sky Blue Refractor (BDC):</div> 90, 101, 122, 129, 134</p>
 
  	<br>
 
@@ -819,26 +1132,25 @@
     <br>
 
     <p><div class="title">2016 Topps Series 1</div><br>
-    <i>Completed- MLB Debut</i><br>
-    <div class="ssTitle">Base:</div> 78a (swinging), 78b (running out of dugout SSP), 129, 286b (white/camo jersey SP), 286c (bat over head SSP)<br>
-    <div class="ssTitle">Black (#/65):</div> 76, 78, 129, 161, 181, 208, 235, 262, 286, 308<br>
-    <div class="ssTitle">Gold (#/2,016):</div> 76, 78, 129, 161, 181, 208, 235, 262, 286, 308<br>
-    <div class="ssTitle">Negative:</div> 76, 78, 129, 161, 181, 208, 235, 262, 286, 308<br>
-    <div class="ssTitle">Pink (#/50):</div> 76, 78, 129, 161, 181, 208, 235, 262, 286, 308<br>
-    <div class="ssTitle">Rainbow Foil:</div> 76, 78, 129, 161, 181, 208, 235, 262, 286, 308<br>
-    <div class="ssTitle">Toys-R-Us Purple:</div> 76, 78, 129, 161, 181, 208, 235, 262, 286, 308<br>
-    <div class="ssTitle">Vintage Stock (#/99):</div> 76, 78, 129, 161, 181, 208, 235, 262, 286, 308<br>
-    <div class="ssTitle">Berger's Best (BB):</div> 17, 51<br>
+    <i>Completed- MLB Debut, Pressed Into Service</i><br>
+    <div class="ssTitle">Base:</div> 78b (running out of dugout SSP), 128, 286b (white/camo jersey SP), 286c (bat over head SSP)<br>
+    <div class="ssTitle">Black (#/65):</div> 76, 78, 128, 161, 181, 208, 235, 262, 286, 308<br>
+    <div class="ssTitle">Gold (#/2,016):</div> 78, 161, 208, 235, 262, 308<br>
+    <div class="ssTitle">Negative:</div> 76, 78, 128, 161, 181, 208, 235, 262, 286, 308<br>
+    <div class="ssTitle">Pink (#/50):</div> 76, 78, 128, 161, 181, 208, 235, 262, 286, 308<br>
+    <div class="ssTitle">Rainbow Foil:</div> 76, 78, 128, 161, 181, 235, 262, 286, 308<br>
+    <div class="ssTitle">Toys-R-Us Purple:</div> 76, 78, 128, 161, 181, 208, 235, 262, 286, 308<br>
+    <div class="ssTitle">Vintage Stock (#/99):</div> 76, 78, 128, 161, 181, 208, 235, 262, 286, 308<br>
+    <div class="ssTitle">Berger's Best (BB):</div> 51<br>
     <div class="ssTitle">Perspectives (P):</div> 6<br>
-    <div class="ssTitle">Pressed Into Service (PIS):</div> 4</p>
 
     <br>
 
     <p><div class="title">2016 Topps Series 2</div>
     <i>Completed- Berger's Best</i><br>
-    <div class="ssTitle">Base:</div> 360, 528, 534, 546, 560, 624<br>
+    <div class="ssTitle">Base:</div> 360, 546, 560<br>
     <div class="ssTitle">Black (#/65):</div> 360, 475, 528, 534, 546, 560, 561, 576, 591, 624, 645<br>
-    <div class="ssTitle">Gold (#/2,016):</div> 360, 475, 528, 534, 546, 560, 561, 576, 591, 624, 645<br>
+    <div class="ssTitle">Gold (#/2,016):</div> 475, 528, 534, 546, 560, 561, 576, 591, 624, 645<br>
     <div class="ssTitle">Negative:</div> 360, 475, 528, 534, 546, 560, 561, 576, 591, 624, 645<br>
     <div class="ssTitle">Pink (#/50):</div> 360, 475, 528, 534, 546, 560, 561, 576, 591, 624, 645<br>
     <div class="ssTitle">Rainbow Foil:</div> 360, 475, 528, 534, 546, 560, 561, 576, 591, 624, 645<br>
@@ -896,7 +1208,7 @@
 
     <p><div class="title">2016 Topps Chrome</div><br>
     <i>Completed- Base, Refractors, Prism Refractors</i><br>
-    <div class="ssTitle">Black Refractors:</div> 13, 83, 104<br>
+    <div class="ssTitle">Black Refractors:</div> 13, 104<br>
     <div class="ssTitle">Blue Refractors (#/150):</div> 13, 82, 138<br>
     <div class="ssTitle">Blue Wave Refractors (#/75):</div> 82, 83, 99, 104, 138<br>
     <div class="ssTitle">Green Refractors (#/99):</div> 13, 82, 83, 104, 138, 183<br>
@@ -974,7 +1286,7 @@
 
     <p><div class="title">2016 Topps Heritage</div><br>
     <i>Completed- Baseball Flashbacks</i><br>
-    <div class="ssTitle">Base:</div> 50a, 50b (color swap SP), 57, 112, 175, 182, 300, 334, 374b (error SP- no line under career stats), 380, 427<br>
+    <div class="ssTitle">Base:</div> 50a, 50b (color swap SP), 112, 175, 182, 300, 334, 374b (error SP- no line under career stats), 380, 427<br>
     <div class="ssTitle">Flip Stock:</div> 50, 57, 66, 112, 175, 182, 190, 194, 269, 299, 300, 334, 350, 374, 380, 427<br>
     <div class="ssTitle">Gum Stain Backs:</div> 50, 57, 66, 112, 175, 182, 190, 194, 269, 299, 300, 334, 350, 374, 380, 427<br>
     <div class="ssTitle">Red Backs:</div> 50, 57, 66, 112, 175, 182, 190, 194, 269, 299, 300, 334, 350, 374, 380, 427<br>
@@ -1092,43 +1404,43 @@
 	<div class="title">2016 Topps Throwback Thursday</div><br>
 	<div class="ssTitle">Base:</div> 91 (PR 644), 103 (PR 374)</p>
 
-        <br>
+    <br>
 
-        <p><div class="title">2016 Topps Tribute</div><br>
-        <div class="ssTitle">Base:</div> 40, 69<br>
-        <div class="ssTitle">Green (#/99):</div> 40, 69<br>
-        <div class="ssTitle">Purple (#/50):</div> 40, 69<br>
-        <div class="ssTitle">2016 Rookies:</div> 3<br>
-        <div class="ssTitle">2016 Rookies Purple (#/50):</div> 3</p>
+    <p><div class="title">2016 Topps Tribute</div><br>
+    <div class="ssTitle">Base:</div> 40, 69<br>
+    <div class="ssTitle">Green (#/99):</div> 40, 69<br>
+    <div class="ssTitle">Purple (#/50):</div> 40, 69<br>
+    <div class="ssTitle">2016 Rookies:</div> 3<br>
+    <div class="ssTitle">2016 Rookies Purple (#/50):</div> 3</p>
 
-        <br>
+    <br>
 
-        <p><div class="title">2016 Topps Triple Threads</div><br>
-        <div class="ssTitle">Base:</div> 60<br>
-        <div class="ssTitle">Amber (#/150):</div> 60<br>
-        <div class="ssTitle">Amethyst (#/340):</div> 60<br>
-        <div class="ssTitle">Emerald (#/250):</div> 60<br>
-        <div class="ssTitle">Gold (#/99):</div> 60<br>
-        <div class="ssTitle">Onyx (#/50):</div> 60<br>
-        <div class="ssTitle">Sapphire (#/25):</div> 60</p>
+    <p><div class="title">2016 Topps Triple Threads</div><br>
+    <div class="ssTitle">Base:</div> 60<br>
+    <div class="ssTitle">Amber (#/150):</div> 60<br>
+    <div class="ssTitle">Amethyst (#/340):</div> 60<br>
+    <div class="ssTitle">Emerald (#/250):</div> 60<br>
+    <div class="ssTitle">Gold (#/99):</div> 60<br>
+    <div class="ssTitle">Onyx (#/50):</div> 60<br>
+    <div class="ssTitle">Sapphire (#/25):</div> 60</p>
 
-        <br>
+    <br>
 
-        <p><div class="title">2016 Topps Update</div><br>
-        <i>Completed- 500 Home Run Futures</i><br>
-        <i>Posted before set release, double check this for additions/errors later</i><br>
-        <div class="ssTitle">Base:</div> 17, 31, 65, 168, 176a (throwing), 228<br>
-        <div class="ssTitle">Black (#/64):</div> 17, 31, 65, 168, 171, 176, 228<br>
-        <div class="ssTitle">Gold (#/2,016):</div> 17, 31, 65, 168, 171, 176, 228<br>
-        <div class="ssTitle">Pink (#/50):</div> 17, 31, 65, 168, 171, 176, 228<br>
-        <div class="ssTitle">Rainbow Foil:</div> 17, 31, 65, 168, 171, 176, 228<br>
-        <div class="ssTitle">Toys-R-Us Purple:</div> 17, 31, 65, 168, 171, 176, 228<br>
-        <div class="ssTitle">3,000 Hit Club:</div> 6<br>
-        <div class="ssTitle">500 Home Run Club:</div> HK<br>
-        <div class="ssTitle">Fire:</div> 12<br>
-        <div class="ssTitle">Retail Exclusive Rookies Target:</div> 3, 12, 18<br>
-        <div class="ssTitle">Retail Exclusives Rookies Walmart:</div> 3, 12, 18<br>
-        <div class="ssTitle">Team Franklin:</div> 18</p>
+    <p><div class="title">2016 Topps Update</div><br>
+    <i>Completed- 500 Home Run Futures</i><br>
+    <i>Posted before set release, double check this for additions/errors later</i><br>
+    <div class="ssTitle">Base:</div> 17, 31, 65, 168, 176a (throwing), 228<br>
+    <div class="ssTitle">Black (#/64):</div> 17, 31, 65, 168, 171, 176, 228<br>
+    <div class="ssTitle">Gold (#/2,016):</div> 17, 31, 65, 171, 176, 228<br>
+    <div class="ssTitle">Pink (#/50):</div> 17, 31, 65, 168, 171, 176, 228<br>
+    <div class="ssTitle">Rainbow Foil:</div> 17, 31, 65, 168, 171, 176, 228<br>
+    <div class="ssTitle">Toys-R-Us Purple:</div> 17, 31, 65, 168, 171, 176, 228<br>
+    <div class="ssTitle">3,000 Hit Club:</div> 6<br>
+    <div class="ssTitle">500 Home Run Club:</div> HK<br>
+    <div class="ssTitle">Fire:</div> 12<br>
+    <div class="ssTitle">Retail Exclusive Rookies Target:</div> 3, 12, 18<br>
+    <div class="ssTitle">Retail Exclusives Rookies Walmart:</div> 3, 12, 18<br>
+    <div class="ssTitle">Team Franklin:</div> 18</p>
 	
 	<hr>
 
@@ -1143,7 +1455,7 @@
 	<br>
 
 	<p><div class="title">2015 Bowman</div><br>
-	<i>Completed- Base, The Farm's Finest Mini</i><br>
+	<i>Completed- Base, Prospects, The Farm's Finest Mini</i><br>
 	<div class="ssTitle">Black-Red:</div> 34, 40, 85, 92, 140<br>
 	<div class="ssTitle">Blue (#/150):</div> 34, 40, 85, 140<br>
 	<div class="ssTitle">Gold (#/50):</div> 34, 40, 85, 92, 140<br>
@@ -1164,7 +1476,6 @@
 	<div class="ssTitle">Chrome Prospects Orange Refractors (BCP, #/25):</div> 33, 36, 75, 91, 105, 112<br>
 	<div class="ssTitle">Chrome Prospects Orange Wave Refractors (BCP):</div> 33, 36, 75, 91, 105, 112<br>
 	<div class="ssTitle">Chrome Prospects Purple Refractors (BCP, #/250):</div> 33, 36, 75, 91, 105, 112<br>
-	<div class="ssTitle">Prospects (BP):</div> 36<br>
 	<div class="ssTitle">Prospects Blue (BP, #/150):</div> 33, 36, 75, 91, 105, 112<br>
 	<div class="ssTitle">Prospects Gold (BP, #/50):</div> 33, 36, 75, 91, 105, 112<br>
 	<div class="ssTitle">Prospects Green (BP, #/99):</div> 33, 36, 75, 91, 105, 112<br>
@@ -1179,7 +1490,7 @@
 	<div class="ssTitle">The Farm's Finest Mini Green Shimmer Refractor (#/99):</div> BB, JB, KST, MS, NG<br>
 	<div class="ssTitle">The Farm's Finest Mini Orange Shimmer Refractor (#/25):</div> BB, JB, KST, MS, NG<br>
 	<div class="ssTitle">The Farm's Finest Mini Purple Shimmer Refractor (#/250):</div> BB, JB, MS, NG<br>
-	<div class="ssTitle">Scout's Top 100:</div> 1, 26, 48, 51, 82<br>
+	<div class="ssTitle">Scout's Top 100:</div> 1, 26, 48, 82<br>
 	<div class="ssTitle">Scout's Top 100 Die Cut (#/99):</div> 1, 8, 26, 48, 51, 82</p>
 
 	<br>
@@ -1219,6 +1530,7 @@
 	<div class="ssTitle">Orange (#/25):</div> 48, 128, 136, 148, 198<br>
 	<div class="ssTitle">Silver (#/499):</div> 48, 128, 136, 148, 198<br>
 	<div class="ssTitle">Chrome:</div> 48, 128, 148, 198<br>
+	<div class="ssTitle">Chrome Black Refractor:</div> 48, 128, 148<br>
 	<div class="ssTitle">Chrome Blue Refractor (#/150):</div> 48, 128, 136, 148, 198<br>
 	<div class="ssTitle">Chrome Gold Refractor (#/50):</div> 48, 128, 136, 148, 198<br>
 	<div class="ssTitle">Chrome Green Refractor (#/99):</div> 48, 128, 136, 148, 198<br>
@@ -1370,7 +1682,7 @@
 	<div class="ssTitle">Base:</div> 399, 415b (sparkle SP), 426, 457, 509, 590b (sparkle SP), 700b (dugout view SP)<br>
 	<div class="ssTitle">Black (#/64):</div> 373, 415, 426, 457, 499, 504, 509, 590, 604, 632, 632, 700<br>
 	<div class="ssTitle">Gold (#/2015):</div> 373, 399, 415, 457, 499, 504, 509, 590, 604, 632, 632, 700<br>
-	<div class="ssTitle">Rainbow Foil:</div> 373, 399, 415, 426, 457, 499, 504, 509, 590, 604, 632, 632, 700<br>
+	<div class="ssTitle">Rainbow Foil:</div> 373, 399, 415, 426, 457, 499, 504, 509, 604, 632, 632, 700<br>
 	<div class="ssTitle">Snow Camo (#/99):</div> 373, 399, 415, 426, 457, 499, 504, 509, 590, 604, 632, 632, 700<br>
 	<div class="ssTitle">Toys-R-Us Purple:</div> 373, 399, 415, 426, 457, 499, 504, 509, 590, 604, 632, 632, 700<br>
 	<div class="ssTitle">First Home Run:</div> 16<br>
@@ -1408,9 +1720,9 @@
 	<div class="ssTitle">Gold Refractors (#/50):</div> 4, 109, 118, 156, 167, 185<br>
 	<div class="ssTitle">Green Refractors (#/99):</div> 4, 109, 118, 156, 167<br>
 	<div class="ssTitle">Orange Refractors (#/25):</div> 4, 109, 118, 156, 185<br>
-	<div class="ssTitle">Pink Refractors:</div> 4, 109<br>
-	<div class="ssTitle">Prism Refractors:</div> 4, 109, 118, 156, 185<br>
-	<div class="ssTitle">Purple Refractors (#/250):</div> 4, 109, 118, 156, 167<br>
+	<div class="ssTitle">Pink Refractors:</div> 4<br>
+	<div class="ssTitle">Prism Refractors:</div> 4, 118, 156, 185<br>
+	<div class="ssTitle">Purple Refractors (#/250):</div> 4, 109, 118, 167<br>
 	<div class="ssTitle">Sepia Refractors:</div> 4, 109, 118, 156, 167, 185<br>
 	<div class="ssTitle">Chrome Culminations:</div> DO, JM</p>
 
@@ -1527,11 +1839,11 @@
 	<p><div class="title">2015 Topps Update</div><br>
 	<i>Completed- Highlight of the Year, Rarities</i><br>
 	<div class="ssTitle">Base:</div> 25b (sparkle), 141b (Saber stats SP), 341b (sparkle)<br>
-	<div class="ssTitle">Rainbow Foil:</div> 25, 136, 141, 206, 223, 258, 341, 345<br>
+	<div class="ssTitle">Black (#/64):</div> 1, 25, 62, 136, 152, 206, 211, 223, 258, 341, 345<br>
 	<div class="ssTitle">Gold (#/2015):</div> 1, 25, 62, 136, 141, 152, 211, 258, 341, 345<br>
+	<div class="ssTitle">Pink (#/50):</div> 1, 25, 62, 136, 141, 152, 206, 211, 223, 258, 341<br>
+	<div class="ssTitle">Rainbow Foil:</div> 25, 136, 141, 206, 223, 258, 341, 345<br>
 	<div class="ssTitle">Snow Camo (#/99):</div> 1, 25, 62, 136, 141, 152, 206, 211, 223, 258, 341, 345<br>
-	<div class="ssTitle">Black (#/64):</div> 1, 25, 62, 136, 141, 152, 206, 211, 223, 258, 341, 345<br>
-	<div class="ssTitle">Pink (#/50):</div> 1, 25, 62, 136, 141, 152, 206, 211, 223, 258, 341, 345<br>
 	<div class="ssTitle">Saber Stats SP:</div> 141<br>
 	<div class="ssTitle">Sparkle SP:</div> 25, 341<br>
 	<div class="ssTitle">First Home Run:</div> 26<br>

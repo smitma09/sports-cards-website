@@ -1709,7 +1709,7 @@
 	<br>
 
 	<p><div class="title">1996 SPx</div><br>
-	<div class="ssTitle">Base:</div> 36, 37, 38<br>
+	<div class="ssTitle">Base:</div> 37, 38<br>
 	<div class="ssTitle">Gold:</div> 36, 37, 38</p>
 
 	<br>
@@ -1914,9 +1914,9 @@
 
 	<br>
 
-	<p><div class="title">1995 Pacific</div><br>
+	<p><div class="title">1995 Pacific Crown Collection</div><br>
+	<i>Complete- Gold Crown Die Cuts</i><br>
 	<div class="ssTitle">Base:</div> 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259<br>
-	<div class="ssTitle">Gold Crown Die Cuts:</div> 14<br>
 	<div class="ssTitle">Gold Prisms:</div> 26<br>
 	<div class="ssTitle">Prisms:</div> 79, 80, 81, 82<br>
 	</p>
@@ -1988,13 +1988,13 @@
 	<br>
 
 	<p><div class="title">1995 Stadium Club</div><br>
+	<i>Completed- Crunch Time</i><br>
 	<div class="ssTitle">Base:</div> 8, 52, 76, 93, 137, 177, 207, 249, 292, 319, 352, 362, 450, 471, 518, 538, 560, 579<br>
 	<div class="ssTitle">First Day Issue:</div> 8, 52, 76, 93, 137, 177, 207, 249<br>
 	<div class="ssTitle">Members Only:</div> 8, 52, 76, 93, 137, 177, 207, 249, 292, 319, 352, 362, 450, 471, 518, 538, 560, 579<br>
 	<div class="ssTitle">Super Team World Series:</div>  8, 52, 76, 93, 137, 177, 207, 249, 292, 319, 352, 362, 450, 471, 518, 538, 560, 579<br>
 	<div class="ssTitle">Clear Cut (CC):</div> 12<br>
 	<div class="ssTitle">Clear Cut Members Only (CC):</div> 12<br>
-	<div class="ssTitle">Crunch Time:</div> 2<br>
 	<div class="ssTitle">Crystal Ball (CB):</div> 9, 15<br>
 	<div class="ssTitle">Crystal Ball Members Only(CB):</div> 9, 15<br>
 	<div class="ssTitle">Members Only 50:</div> 26, 39<br>
@@ -2017,15 +2017,20 @@
 	<p><div class="title">1995 Topps</div><br>
 	<div class="ssTitle">Base:</div> 390, 553, 639<br>
 	<div class="ssTitle">Cyberstats:</div> 6, 29, 47, 77, 138, 168, 229, 265, 304, 319, 332, 347, 385<br>
-	<div class="ssTitle">D3:</div> 8, 18<br>
-	<div class="ssTitle">D3 Zone:</div> 2<br>
 	<div class="ssTitle">Finest Inserts:</div> 13<br>
 	<div class="ssTitle">League Leaders:</div> 12, 44<br>
 	</p>
 
 	<br>
 
-	<p><div class="title">1995 UC3</div><br>
+	<p><div class="title">1995 Topps DIII</div><br>
+	<i>Completed- Zone</i><br>
+	<div class="ssTitle">Base:</div> 8, 18<br>
+	</p>
+
+	<br>
+
+	<p><div class="title">1995 UD3</div><br>
 	<div class="ssTitle">Base:</div> 33, 38, 118<br>
 	<div class="ssTitle">Artist's Proofs:</div> 33, 38, 118, 138<br>
 	<div class="ssTitle">Cyclone Squad (CS):</div> 8<br>
@@ -2119,11 +2124,11 @@
 	<br>
 
 	<p><div class="title">1994 Donruss</div><br>
+	<i>Completed- Dominators</i><br>
 	<div class="ssTitle">Base:</div> 55, 85, 115, 139, 168, 225, 253, 281, 336, 343, 392, 437, 443, 477, 503, 530, 550,620<br>
 	<div class="ssTitle">Award Winner Jumbos (#ed/10,000):</div> 5<br>
 	<div class="ssTitle">Diamond Kings (DK):</div> 29<br>
 	<div class="ssTitle">Diamond Kings Jumbos (DK, #ed/10,000):</div> 29<br>
-	<div class="ssTitle">Dominators (B):</div> 5<br>
 	<div class="ssTitle">Dominators  Jumbos (B, #ed/10,000):</div> 5<br>
 	<div class="ssTitle">MVPs:</div> 23<br>
 	<div class="ssTitle">Spedial Edition:</div> 28, 56, 63<br>

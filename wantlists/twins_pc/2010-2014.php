@@ -29,7 +29,7 @@
 	<p><div class="title">2014 Bowman</div><br>
 	<i>Completed- Base, Chrome Prospects</i><br>
 	<div class="ssTitle">Black (#/25):</div> 6, 173, 189<br>
-	<div class="ssTitle">Blue (#/500):</div> 173, 189<br>
+	<div class="ssTitle">Blue (#/500):</div> 173<br>
 	<div class="ssTitle">Gold (#/50):</div> 6, 173, 189<br>
 	<div class="ssTitle">Green (#/150):</div> 6, 173<br>
 	<div class="ssTitle">Hometown:</div> 173, 189<br>
@@ -118,7 +118,7 @@
 	<br>
 
 	<p><div class="title">2014 Bowman Draft</div><br>
-	<i>Completed- Future of the Franchise Mini</i><br>
+	<i>Completed- Draft Picks Chrome Refractors, Future of the Franchise Mini</i><br>
 	<div class="ssTitle">Draft Picks (DP):</div> 44, 126<br>
 	<div class="ssTitle">Draft Picks Blue (DP, #/399):</div> 44, 93, 121, 126<br>
 	<div class="ssTitle">Draft Picks Green (DP, #/75):</div> 44, 93, 121, 126<br>
@@ -130,7 +130,6 @@
 	<div class="ssTitle">Draft Picks Orange Ice (DP, #/25):</div> 44, 93, 121, 126<br>
 	<div class="ssTitle">Draft Picks White Ice (DP, #/???):</div> 44, 93, 121, 126<br>
 	<div class="ssTitle">Draft Picks Chrome (CDP):</div> 44, 93, 121, 126<br>
-	<div class="ssTitle">Draft Picks Chrome Refractors (CDP):</div> 126<br>
 	<div class="ssTitle">Draft Picks Chrome Black Refractors (CDP, #/75):</div> 44, 121, 126<br>
 	<div class="ssTitle">Draft Picks Chrome Black Wave Refractors (CDP):</div> 44, 93, 121, 126<br>
 	<div class="ssTitle">Draft Picks Chrome Blue Refractors (CDP, #/399):</div> 44, 93, 121, 126<br>
@@ -149,10 +148,10 @@
 	<div class="ssTitle">Top Prospects Red Ice (TP, #/150):</div> 1, 2, 19, 69<br>
 	<div class="ssTitle">Top Prospects White Ice (TP, #/???):</div> 1, 2, 19, 69<br>
 	<div class="ssTitle">Top Prospects Chrome (CTP):</div> 1, 2, 19<br>
-	<div class="ssTitle">Top Prospects Chrome Refractors (CTP):</div> 1, 2, 69<br>
+	<div class="ssTitle">Top Prospects Chrome Refractors (CTP):</div> 1, 2<br>
 	<div class="ssTitle">Top Prospects Chrome Black Refractors (CTP, #/75):</div> 1, 2, 19, 69<br>
 	<div class="ssTitle">Top Prospects Chrome Black Wave Refractors (CTP):</div> 1, 2, 19, 69<br>
-	<div class="ssTitle">Top Prospects Chrome Blue Refractors (CTP, #/399):</div> 1, 2, 19, 69<br>
+	<div class="ssTitle">Top Prospects Chrome Blue Refractors (CTP, #/399):</div> 1, 2, 19<br>
 	<div class="ssTitle">Top Prospects Chrome Blue Wave Refractors (CTP):</div> 1, 2, 19, 69<br>
 	<div class="ssTitle">Top Prospects Chrome Gold Refractors (CTP, #/50):</div> 1, 2, 19, 69<br>
 	<div class="ssTitle">Top Prospects Chrome Green Refractors (CTP, #/150):</div> 1, 2, 19, 69<br>
@@ -482,10 +481,8 @@
 	<br>
 
 	<p><div class="title">2013 Bowman</div><br>
-	<i>Completed- Base, Prospects (BP), Chrome Prospects (BCP)</i><br>
+	<i>Completed- Base, Gold, Hometown/International, Prospects (BP), Chrome Prospects (BCP)</i><br>
 	<div class="ssTitle">Blue:</div> 95, 163, 180<br>
-	<div class="ssTitle">Gold:</div> 180<br>
-	<div class="ssTitle">Hometown/International:</div> 180<br>
 	<div class="ssTitle">Orange:</div> 23, 95, 180, also need a replacement 163 without edge chipping<br>
 	<div class="ssTitle">Red Ice:</div> 23, 95, 163<br>
 	<div class="ssTitle">Silver Ice:</div> 95, 163<br>
@@ -494,7 +491,7 @@
 	<div class="ssTitle">Prospects Orange:</div> 1, 43, 80<br>
 	<div class="ssTitle">Prospects Purple:</div> 1, 180<br>
 	<div class="ssTitle">Prospects Red Ice:</div> 1, 43, 80<br>
-	<div class="ssTitle">Prospects Silver Ice:</div> 1, 43<br>
+	<div class="ssTitle">Prospects Silver Ice:</div> 1<br>
 	<div class="ssTitle">Chrome Prospects Refractors:</div> 1, 80<br>
 	<div class="ssTitle">Chrome Prospects Black Refractors:</div> 1, 43, 80<br>
 	<div class="ssTitle">Chrome Prospects Blue Refractors:</div> 1, 43, 80<br>
@@ -558,7 +555,7 @@
 	<div class="ssTitle">Draft Picks Red Ice (BDPP, #/25):</div> 2, 49, 58, 76, 85, 96, 100, 118<br>
 	<div class="ssTitle">Draft Picks Silver Ice (BDPP):</div> 2, 49, 58, 76, 85, 96, 100, 111, 118<br>
 	<div class="ssTitle">Draft Picks Chrome (BDPP):</div> 2, 76, 118<br>
-	<div class="ssTitle">Draft Picks Chrome Refractors (BDPP):</div> 2, 49, 58, 76, 85, 111, 118<br>
+	<div class="ssTitle">Draft Picks Chrome Refractors (BDPP):</div> 2, 58, 76, 85, 111, 118<br>
 	<div class="ssTitle">Draft Picks Chrome Black Refractors (BDPP #/35):</div> 2, 49, 58, 76, 85, 96, 100, 111, 118<br>
 	<div class="ssTitle">Draft Picks Chrome Black Wave Refractors (BDPP):</div> 2, 76, 85, 96, 100, 111, 118<br>
 	<div class="ssTitle">Draft Picks Chrome Blue Refractors (BDPP #/99):</div> 2, 49, 58, 85, 96, 100, 111, 118<br>
@@ -594,7 +591,7 @@
 	<br>
 
 	<p><div class="title">2013 Bowman Chrome Mini</div><br>
-	<div class="ssTitle">Base:</div> 1, 57, 59, 66, 107, 110, 151, 168, 241, 244, 280, 281, 293<br>
+	<div class="ssTitle">Base:</div> 1, 57, 66, 107, 110, 168, 241, 281, 293<br>
 	<div class="ssTitle">Refractors (#/125):</div> 1, 57, 59, 66, 107, 110, 151, 168, 241, 244, 280, 281, 293<br>
 	<div class="ssTitle">Black Refractors (#/25):</div> 1, 57, 59, 66, 107, 110, 151, 168, 241, 244, 280, 281, 293<br>
 	<div class="ssTitle">Blue Refractors (#/99):</div> 1, 57, 59, 107, 110, 151, 168, 241, 280, 281, 293<br>
@@ -602,7 +599,7 @@
 	<div class="ssTitle">Green Refractors (#/75):</div> 1, 57, 59, 66, 107, 110, 151, 168, 244, 280, 281, 293<br>
 	<div class="ssTitle">Orange Refractors (#/15)- HAVE:</div> 293<br>
 	<div class="ssTitle">Red Refractors (#/10)- HAVE:</div> 151<br>
-	<div class="ssTitle">X-Fractors (#/100):</div> 1, 57, 59, 66, 110, 151, 168, 241, 244, 281</p>
+	<div class="ssTitle">X-Fractors (#/100):</div> 1, 57, 59, 66, 110, 151, 168, 241, 281</p>
 
 	<br>
 
@@ -843,9 +840,9 @@
 
 	<p><div class="title">2013 Topps Chrome</div><br>
 	<i>Completed- 1972 Chrome</i><br>
-	<div class="ssTitle">Base:</div> 38b (Mauer fielding SP), 87, 217<br>
+	<div class="ssTitle">Base:</div> 38b (Mauer fielding SP), 217<br>
 	<div class="ssTitle">Refractors:</div> 38, 179, 186<br>
-	<div class="ssTitle">Black Refractors (#/100):</div> 87, 186<br>
+	<div class="ssTitle">Black Refractors (#/100):</div> 87<br>
 	<div class="ssTitle">Blue Refractors (#/199):</div> 87, 186, 217<br>
 	<div class="ssTitle">Gold Refractors:</div> 87, 186<br>
 	<div class="ssTitle">Orange Refractors:</div> 87, 179, 186, 217<br>
@@ -986,7 +983,7 @@
 	<br>
 
 	<p><div class="title">2012 Bowman</div><br>
-	<i>Completed- Base, Prospects</i><br>
+	<i>Completed- Base, Prospects, Bowman's Best Prospects</i><br>
 	<div class="ssTitle">Blue:</div> 65, 87, 208, 215, 219<br>
 	<div class="ssTitle">Gold:</div> 73, 208, 219<br>
 	<div class="ssTitle">International:</div> 65, 73, 87, 208, 215, 219<br>
@@ -996,7 +993,6 @@
 	<div class="ssTitle">Bowman's Best:</div> 9<br>
 	<div class="ssTitle">Bowman's Best Die Cut Refractors:</div> 9<br>
 	<div class="ssTitle">Bowman's Best Die Cut X-Fractors:</div> 9<br>
-	<div class="ssTitle">Bowman's Best Prospects:</div> 12<br>
 	<div class="ssTitle">Bowman's Best Prospects Die Cut Refractors:</div> 12<br>
 	<div class="ssTitle">Bowman's Best Prospects Die Cut X-Fractors:</div> 12<br>
 	<div class="ssTitle">Chrome Prospects (BCP):</div> 85<br>
@@ -1020,7 +1016,7 @@
 	<i>Completed- Prospects (BCP)</i><br>
 	<div class="ssTitle">Base:</div> 18, 170, 206<br>
 	<div class="ssTitle">Refractors:</div> 18, 39, 137, 170<br>
-	<div class="ssTitle">Blue Refractors:</div> 18, 39, 91, 137<br>
+	<div class="ssTitle">Blue Refractors:</div> 18, 39, 137<br>
 	<div class="ssTitle">Gold Refractors:</div> 18, 39, 137, 170<br>
 	<div class="ssTitle">Green Refractors:</div> 18, 137, 170, 206<br>
 	<div class="ssTitle">Orange Refractors:</div> 18, 39, 137, 170, 206<br>
@@ -1222,7 +1218,7 @@
 	<div class="ssTitle">Purple Refractors:</div> 50, 94, 154, 158, 162<br>
 	<div class="ssTitle">Red Refractors:</div> 50, 94, 154, 158, 162, 198<br>
 	<div class="ssTitle">Sepia Refractors:</div> 50, 94, 154, 158, 162, 198<br>
-	<div class="ssTitle">X-Fractors:</div> 50, 94, 154, 158, 162, 198</p>
+	<div class="ssTitle">X-Fractors:</div> 50, 94, 154, 158, 162</p>
 
 	<br>
 
@@ -1233,7 +1229,7 @@
 
 	<p><div class="title">2012 Topps Gypsy Queen</div><br>
 	<i>Completed- Glove Stories</i><br>
-	<div class="ssTitle">Base:</div> 73, 119, 121, 140<br>
+	<div class="ssTitle">Base:</div> 121<br>
 	<div class="ssTitle">Framed Black:</div> 73, 119, 121, 140<br>
 	<div class="ssTitle">Framed Blue:</div> 73, 119, 121, 140<br>
 	<div class="ssTitle">Framed Gold:</div>73, 119, 121<br>
@@ -1504,8 +1500,8 @@
 	<div class="ssTitle">Cognac Diamond Anniversary:</div> 54, 99, 109, 132, 186, 272, 281, 293, 293b (Killebrew), 339, 350, 366, 408, 485, 501, 550, 657<br>
 	<div class="ssTitle">Factory Set Diamond Anniversary:</div> 253, 272, 293b (Killebrew), 304, 550, 570b (Blyleven), 614<br>
 	<div class="ssTitle">Factory Set Red Border:</div> 4, 21, 54, 99, 109, 132, 186, 253, 272, 281, 288, 293, 293b (Killebrew), 304, 339, 350, 354, 366, 387, 390, 408, 485, 501, 550, 570b (Blyleven), 614, 657<br>
-	<div class="ssTitle">Gold (#/2,011):</div> 4, 54, 99, 109, 132, 186, 253, 272, 281, 288, 293b (Killebrew), 339, 350, 354, 366, 390, 485, 501, 550, 570b (Blyleven), 657<br>
-	<div class="ssTitle">Hope Diamond Anniversary (#ed/60):</div> 4, 21, 54, 99, 109, 132, 186, 253, 272, 281, 288, 293b (Killebrew), 304, 339, 350, 354, 366, 387, 390, 485, 501, 550, 570b (Blyleven), 614, 657<br>
+	<div class="ssTitle">Gold (#/2,011):</div> 4, 54, 99, 109, 132, 186, 272, 281, 288, 293b (Killebrew), 339, 350, 354, 366, 390, 485, 501, 550, 570b (Blyleven), 657<br>
+	<div class="ssTitle">Hope Diamond Anniversary (#ed/60):</div> 4, 21, 54, 99, 109, 186, 253, 272, 281, 288, 293b (Killebrew), 304, 339, 350, 354, 366, 387, 390, 485, 501, 550, 570b (Blyleven), 657<br>
 	<div class="ssTitle">Wal-Mart Black:</div> 4, 21, 54, 99, 109, 186, 253, 272, 281, 288, 293, 293b (Killebrew), 339, 350, 354, 366, 387, 390, 408, 485, 501, 550, 570b (Blyleven), 614, 657<br>
 	<div class="ssTitle">60 Years of Topps:</div> 109<br>
 	<div class="ssTitle">60 Years of Topps Original Backs:</div> 21, 58, 109<br>
@@ -1651,7 +1647,7 @@
 	<div class="ssTitle">Black:</div> 177, 275, 279, 311<br>
 	<div class="ssTitle">Cognac Diamond Anniversary:</div> 177, 275, 311<br>
 	<div class="ssTitle">Diamond Anniversary:</div> 177, 279, 311<br>
-	<div class="ssTitle">Gold:</div> 177, 275, 311<br>
+	<div class="ssTitle">Gold:</div> 177, 311<br>
 	<div class="ssTitle">60:</div> 136<br>
 	<div class="ssTitle">Kimball Champions:</div> 123<br>
 	<div class="ssTitle">Toppstown:</div> 2</p>
@@ -1731,10 +1727,9 @@
 	<br>
 
 	<p><div class="title">2010 Bowman Platinum</div><br>
-	<i>Completed- Base</i><br>
+	<i>Completed- Base, Prospects (PP)</i><br>
 	<div class="ssTitle">Refractors (#/999):</div> 14, 77, 94<br>
 	<div class="ssTitle">Gold Refractors (#/549):</div> 14, 77<br>
-	<div class="ssTitle">Prospects (PP):</div> 20, 28<br>
 	<div class="ssTitle">Prospects Refractors Thick Stock (PP, #/999):</div> 20, 28<br>
 	<div class="ssTitle">Prospects Refractors Thin Stock (PP, #/999):</div> 20, 28<br>
 	<div class="ssTitle">Prospects Blue Refractors (PP, #/99):</div> 20, 28<br>
@@ -1793,7 +1788,7 @@
 	<div class="ssTitle">Base:</div> 11, 101, 413<br>
 	<div class="ssTitle">Black:</div> 8, 11, 22, 93, 101, 102, 150, 161, 172, 273, 313, 360, 407, 413, 434, 464, 468, 469, 471, 519, 537, 548, 626, 635, 659<br>
 	<div class="ssTitle">Copper:</div> 360, 407, 413, 434, 464, 468, 469, 471, 519, 537, 548, 626, 635, 659<br>
-	<div class="ssTitle">Gold:</div> 8, 11, 22, 93, 101, 102, 150, 161, 172, 273, 313, 360, 407, 413, 434, 468, 469, 471, 519, 537, 548, 635<br>
+	<div class="ssTitle">Gold:</div> 11, 22, 93, 101, 102, 150, 161, 172, 273, 313, 360, 407, 413, 434, 468, 469, 471, 519, 537, 548, 635<br>
 	<div class="ssTitle">Red Border:</div> 8, 11, 22, 93, 101, 102, 150, 161, 172, 273, 313, 360, 407, 413, 434, 464, 468, 469, 471, 519, 537, 548, 626, 635, 659<br>
 	<div class="ssTitle">Target:</div> 8, 11, 22, 93, 101, 102, 150, 161, 172, 273, 313, 360, 407, 413, 434, 464, 468, 469, 471, 519, 537, 548, 626, 635, 659<br>
 	<div class="ssTitle">Wal-Mart Black:</div> 8, 11, 22, 161, 172, 360, 407, 413, 434, 464, 468, 469, 471, 519, 537, 548, 626, 659<br>

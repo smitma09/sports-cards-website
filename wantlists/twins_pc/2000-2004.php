@@ -165,7 +165,7 @@
 	<p><div class="title">2004 Donruss Elite</div><br>
 	<div class="ssTitle">Base:</div> 36, 37, 38, 39<br>
 	<div class="ssTitle">Aspirations (numbering varies):</div> 37, 38, 39, 180<br>
-	<div class="ssTitle">Elite Status (numbering varies):</div> 37, 38, 39, 180<br>
+	<div class="ssTitle">Status (numbering varies):</div> 37, 38, 180<br>
 	<div class="ssTitle">Turn of the Century (#/750):</div> 37, 38, 39<br>
 	</p>
 
@@ -800,7 +800,7 @@
 	<br>
 
 	<p><div class="title">2004 Upper Deck Power Up</div><br>
-	<div class="ssTitle">Base:</div> 26, 45, 49, 84<br>
+	<div class="ssTitle">Base:</div> 45, 49, 84<br>
 	<div class="ssTitle">Blue:</div> 26, 45, 49, 84<br>
 	<div class="ssTitle">Lavender:</div> 26, 45, 49, 84<br>
 	<div class="ssTitle">Orange:</div> 26, 45, 49, 84<br>
@@ -1562,7 +1562,7 @@
 	<br>
 
 	<p><div class="title">2003 Upper Deck Vintage</div><br>
-	<div class="ssTitle">Base:</div> 199, 334<br>
+	<div class="ssTitle">Base:</div> 199<br>
 	</p>
 
     <hr>
@@ -1587,7 +1587,7 @@
 	<br>
 
 	<p><div class="title">2002 Bowman</div><br>
-	<div class="ssTitle">Base:</div> 21, 285, 299, 302, 315, 304, 343, 360, 379, 388, 422<br>
+	<div class="ssTitle">Base:</div> 21, 285, 299, 302, 304, 343, 360, 379, 388, 422<br>
 	<div class="ssTitle">Gold:</div> 16, 21, 46, 81, 154, 285, 292, 302, 315, 304, 343, 360, 379, 388, 391, 422<br>
 	<div class="ssTitle">Uncirculated (PR 256):</div> 285, 360, 379, 388, 422<br>
 	</p>
@@ -1961,7 +1961,7 @@
 
 	<p><div class="title">2002 Topps</div><br>
 	<div class="ssTitle">Base:</div> 22, 341, 402, 439, 596, 622, 698<br>
-	<div class="ssTitle">Gold:</div> 22, 105, 120, 134, 233, 243, 254, 402, 423, 439, 459, 489, 512, 596, 622, 657, 698<br>
+	<div class="ssTitle">Gold:</div> 22, 105, 120, 134, 233, 243, 254, 402, 423, 439, 459, 489, 512, 622, 657, 698<br>
 	<div class="ssTitle">Home Team Advantage:</div> 22, 105, 120, 134, 233, 243, 254, 402, 423, 439, 459, 489, 512, 596, 622, 657, 698, 703<br>
 	<div class="ssTitle">Limited:</div> 22, 105, 120, 134, 233, 243, 254, 402, 423, 439, 459, 489, 512, 596, 622, 657, 698, 703<br>
 	<div class="ssTitle">Opening Day:</div> 43, 52, 79<br>
@@ -2120,8 +2120,8 @@
 	<p><div class="title">2002 Upper Deck</div><br>
 	<div class="ssTitle">Base:</div> 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 543, 612, 613, 614, 615, 616, 617<br>
 	<div class="ssTitle">Breakout Performers:</div> 3<br>
-	<div class="ssTitle">UD Plus Hobby:</div> 31, 32, 33, 34<br>
-	<div class="ssTitle">UD Plus Retail:</div> 31, 32, 33, 34<br>
+	<div class="ssTitle">Plus Hobby (White):</div> 31, 32, 33<br>
+	<div class="ssTitle">Plus Retail (Gold):</div> 31, 32, 33, 34<br>
 	<div class="ssTitle">World Series Heroes:</div> 71, 72, 134, 176, 177<br>
 	</p>
 
@@ -2946,7 +2946,7 @@
 	<br>
 
 	<p><div class="title">2000 Topps</div><br>
-	<div class="ssTitle">Base:</div> 14, 209, 420, 431<br>
+	<div class="ssTitle">Base:</div> 209, 420, 431<br>
 	<div class="ssTitle">Limited (PR 4,000):</div> 14, 57, 118, 153, 177, 209, 262, 302, 408, 420, 431, 437<br>
 	<div class="ssTitle">MVP Promos (PR 100):</div> 14, 57, 118, 153, 177, 209, 262, 302, 408, 420, 431, 437<br>
 	<div class="ssTitle">Opening Day:</div> 70, 153<br>

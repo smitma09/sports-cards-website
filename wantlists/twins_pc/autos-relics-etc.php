@@ -16,15 +16,48 @@
 
 	<p><u>Quick stats</u><br>
 		A quick look at how many autographed, relic, or similar cards I have in my Twins collection. Note to self, write a short script to have this update automatically in the future:<br>
-		Autographs: 185<br>
-		Game used/relics: 106<br>
-		Patches: 35<br>
+		Autographs: 202<br>
+		Game used/relics: 108<br>
+		Patches: 36<br>
 		Manufactured relics: 32<br>
 		1/1s: 29<br>
 		Superfractors: 3<br>
-		Total Unique Cards: 353</p>
+		Total Unique Cards: 373</p>
+
+	<!-- -------------------- 2018 -------------------- -->
+
+	<h1>2018</h1><p>
+
+	2018 Topps 1983 Topps Autographs Max Kepler 83A-MK (auto)<br>
+	2018 Topps 1983 Topps Autographs Black Zack Granite 83A-ZG (auto)<br>
+	2018 Topps Major League Material Miguel Sano MLM-MS (relic)<br>
+
+	<br>
+
+	2018 Topps Gypsy Queen Autographs Jose Berrios GQA-JB (auto)<br>
+
+	<br>
+
+	2018 Topps Inception Rookie and Emerging Stars Autographs Red Zack Granite RED-ZG #ed 44/75 (auto)</p>
+
+	<hr>
+
+	<!-- -------------------- 2017 -------------------- -->
 
 	<h1>2017</h1><p>
+
+	2017 Bowman Chrome Prospect Autographs Fernando Romero CPA-FRO (auto)<br>
+
+	<br>
+
+	2017 Bowman Draft Chrome Draft Picks Autographs Brent Rooker CDA-BR (auto)<br>
+
+	<br>
+
+	2017 Bowman Platinum Top Prospects Autographs Alex Kirilloff TPA-AK (auto)<br>
+
+	<br>
+
 	2017 Topps Jackie Robinson Day Commemorative Pin Miguel Sano JRPC-MSA (manu pin)<br>
 	2017 Topps Major League Material Autograph Relics Miguel Sano MLMA-MSA #ed 48/50 (auto relic)<br>
 
@@ -37,9 +70,7 @@
 
 	2017 Topps Tier One Breakout Autograps Max Kepler BOA-MK #ed 035/300 (auto)<br>
 	2017 Topps Tier One Breakout Autograps Copper Ink Max Kepler BOA-MKE #ed 06/25 (auto)<br>
-	2017 Topps Tier One Prime Performers Autograps Copper Ink Rod Carew PPA-RC #ed 11/25 (auto)<br>
-
-	</p>
+	2017 Topps Tier One Prime Performers Autograps Copper Ink Rod Carew PPA-RC #ed 11/25 (auto)</p>
 
 	<hr>
 
@@ -51,7 +82,8 @@
 
 	<br>
 
-	2016 Bowman Chrome Rookie Autographs Orange Refractors Miguel Sano BCAR #ed 16/25 (auto)<br>
+	2016 Bowman Chrome Rookie Autographs Refractors Jose Berrios BCAR-JBE #ed 053/499 (auto)<br>
+	2016 Bowman Chrome Rookie Autographs Orange Refractors Miguel Sano BCAR-MS #ed 16/25 (auto)<br>
 
 	<br>
 
@@ -85,9 +117,13 @@
 	2016 Topps Chrome Rookie Autographs Max Kepler RA-MK (auto)<br>
 	2016 Topps Chrome Rookie Autographs Tyler Duffey RA-TD (auto)<br>
 	2016 Topps Chrome Rookie Autographs Refractors Jose Berrios RA-JOS #ed 312/499 (auto)<br>
+	2016 Topps Chrome Rookie Autographs Blue Refractors Tyler Duffey RA-TD #ed 061/150 (auto)<br>
 	2016 Topps Chrome Rookie Autographs Gold Refractors Tyler Duffey RA-TD #ed 33/50 (auto)<br>
 	2016 Topps Chrome Rookie Autographs Green Refractors Tyler Duffey RA-TD #ed 60/99 (auto)<br>
 	2016 Topps Chrome Rookie Autographs Orange Refractors Tyler Duffey RA-TD #ed 12/25 (auto)<br>
+	2016 Topps Chrome Rookie Autographs Purple Refractors Jose Berrios RA-JOS #ed 101/250 (auto)<br>
+	2016 Topps Chrome Rookie Autographs Purple Refractors Tyler Duffey RA-TD #ed 242/250 (auto)<br>
+	2016 Topps Chrome Rookie Autographs Red Refractors Tyler Duffey RA-TD #ed 1/5 (auto)<br>
 
 	<br>
 
@@ -114,6 +150,10 @@
 
 	<br>
 
+	2016 Topps Stadium Club Autographs Byung-Ho Park SCA-BHP (auto)<br>
+
+	<br>
+
 	2016 Topps Tier One Breakout Autographs Copper Ink Miguel Sano BOA-MSN (auto)<br>
 	2016 Topps Tier One Prime Performers Autographs Kurt Suzuki PP-KSU #ed 274/299 (auto)<br>
 
@@ -135,6 +175,7 @@
 
 	2015 Bowman Chrome Prime Position Autographs Byron Buxton PPA-BB (auto)<br>
 	2015 Bowman Chrome Prospect Autographs Amaurys Minier BCAP-AM (auto)<br>
+	2015 Bowman Chrome Prospect Autographs Refractors Stephen Gonsalves BCAP-SG #ed 316/499 (auto)<br>
 
 	<br>
 
@@ -199,7 +240,12 @@
 
 	<br>
 
-	2015 Topps Museum Collection Signature Swatches Dual Relic Autographs Gold Kennys Vargas SSD-KV #ed 12/25 (dual patch auto)</p>
+	2015 Topps Museum Collection Signature Swatches Dual Relic Autographs Gold Kennys Vargas SSD-KV #ed 12/25 (dual patch auto)<br>
+
+	<br>
+
+	2015 Topps Update All-Star Jumbo Patches Brian Dozier ASJP-BD #e 6/6 (patch)<br>
+	2015 Topps Update All-Star Stitches Brian Dozier STIT-BD (relic)</p>
 
 	<hr>
 
@@ -255,7 +301,12 @@
 
 	<br>
 
+	2013 Bowman Chrome Prospect Autographs Jose Berrios BCP-JB (auto)<br>
 	2013 Bowman Chrome Prospect Autographs Oswaldo Arcia BCP-OA (auto)<br>
+
+	<br>
+
+	2013 Bowman Chrome Prospect Autographs Jorge Polanco BCP-JPO (auto)<br>
 
 	<br>
 
@@ -696,6 +747,7 @@
 	<br>
 
 	2007 Bowman Printing Plates Magenta Michael Cuddyer 94 #ed 1/1 (printing plate)<br>
+	2007 Bowman Prospects Chris Parmelee BP121 (auto)<br>
 
 	<br>
 
@@ -918,6 +970,12 @@
 	<br>
 
 	2005 Upper Deck Classics Classic Materials Jack Morris MA-JM (relic)<br>
+
+	<br>
+
+	2005 Upper Deck Pro Sigs Signature Sensations Nick Punto SS-NP (auto)<br>
+
+	<br>
 
 	2005 Zenith Z-Bats Shannon Stewart ZB-22 (bat)</p>
 

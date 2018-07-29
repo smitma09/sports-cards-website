@@ -59,9 +59,9 @@
 	<div class="ssTitle">Base (BDP):</div> 7<br>
 	<div class="ssTitle">Blue (#/399, BDP):</div> 2, 7<br>
 	<div class="ssTitle">Gold (BDP):</div> 2, 7<br>
-	<div class="ssTitle">Prospects (BDPP):</div> 16, 52, 55, 57, 60<br>
-	<div class="ssTitle">Prospects Blue (#/399, BDPP):</div> 52, 55, 57, 60<br>
-	<div class="ssTitle">Prospects Gold (BDPP):</div> 52, 55, 57, 60<br>
+	<div class="ssTitle">Prospects (BDPP):</div> 16, 52, 55, 60<br>
+	<div class="ssTitle">Prospects Blue (#/399, BDPP):</div> 52, 55, 60<br>
+	<div class="ssTitle">Prospects Gold (BDPP):</div> 52, 55, 60<br>
 	<div class="ssTitle">Chrome (BDP):</div> 2, 7<br>
 	<div class="ssTitle">Chrome Refractors (BDP):</div> 2, 7<br>
 	<div class="ssTitle">Chrome Blue Refractors (#/99, BDP):</div> 2, 7<br>
@@ -69,8 +69,8 @@
 	<div class="ssTitle">Chrome Orange Refractors (#/25, BDP):</div> 2, 7<br>
 	<div class="ssTitle">Chrome Purple Refractors (BDP):</div> 2, 7<br>
 	<div class="ssTitle">Chrome X-fractors (#/199, BDP):</div> 2, 7<br>
-	<div class="ssTitle">Prospects Chrome (BDPP):</div> 16, 52, 55, 57, 60<br>
-	<div class="ssTitle">Prospects Chrome Refractors (BDPP):</div> 52, 55, 57, 60<br>
+	<div class="ssTitle">Prospects Chrome (BDPP):</div> 16, 52, 55, 60<br>
+	<div class="ssTitle">Prospects Chrome Refractors (BDPP):</div> 52, 55, 60<br>
 	<div class="ssTitle">Prospects Chrome Blue Refractors (#/99, BDPP):</div> 16, 52, 55<br>
 	<div class="ssTitle">Prospects Chrome Gold Refractors (#/50, BDPP):</div> 16, 52, 55, 60<br>
 	<div class="ssTitle">Prospects Chrome Orange Refractors (#/25, BDPP):</div> 16, 52, 55, 60<br>
@@ -137,7 +137,7 @@
 	<i>Completed- Toppstown</i><br>
 	<div class="ssTitle">Base:</div> 43, 146, 176, 445, 656<br>
 	<div class="ssTitle">Black (#/58):</div> 36, 43, 90, 105, 117, 146, 161, 176, 212, 304, 340a (Mauer), 366, 402, 420, 427, 445, 469, 489, 544, 602, 656<br>
-	<div class="ssTitle">Gold (#/2009:</div> 36, 43, 90, 105, 117, 146, 161, 176, 212, 304, 366, 402, 420, 427, 445, 469, 489, 544, 602, 656<br>
+	<div class="ssTitle">Gold (#/2009:</div> 36, 43, 90, 105, 146, 161, 176, 212, 304, 366, 402, 420, 427, 445, 469, 489, 544, 602, 656<br>
 	<div class="ssTitle">Target:</div> 36, 43, 90, 105, 117, 146, 161, 176, 212, 304, 340, 366, 402, 420, 427, 445, 469, 489, 544, 602, 656<br>
 	<div class="ssTitle">Wal-Mart Black:</div> 36, 43, 90, 105, 117, 146, 161, 176, 212, 304, 366, 402, 420, 427, 445, 469, 489, 544, 602, 656<br>
 	<div class="ssTitle">Legends of the Game:</div> 24<br>
@@ -937,7 +937,7 @@
 	<div class="ssTitle">Base:</div> 29, 86, 91, 198, 248, 321, 430, 480, 543<br>
 	<div class="ssTitle">Copper:</div> 29, 80, 86, 91, 96, 119, 171, 179, 198, 248, 293, 307, 321, 323, 325, 358, 388, 418, 430, 449, 480, 503, 512, 543, 569, 602, 621<br>
 	<div class="ssTitle">First Edition:</div> 29, 80, 86, 91, 96, 119, 171, 179, 198, 248, 293, 307, 321, 323, 325, 358, 388, 418, 430, 449, 480, 503, 512, 543, 569, 602, 621<br>
-	<div class="ssTitle">Gold:</div> 29, 80, 86, 91, 96, 119, 171, 179, 198, 248, 293, 307, 321, 323, 325, 358, 388, 418, 430, 449, 480, 503, 512, 543, 569, 602, 621<br>
+	<div class="ssTitle">Gold:</div> 29, 80, 86, 91, 96, 119, 171, 179, 248, 293, 307, 321, 323, 325, 358, 388, 418, 430, 449, 480, 503, 512, 543, 569, 602, 621<br>
 	<div class="ssTitle">Red Back (P):</div> 29, 91, 96, 119, 171, 179, 198, 248, 293, 307, 321, 323, 325, 358, 388, 418, 430, 449, 480, 503, 543, 569, 602, 621<br>
 	<div class="ssTitle">All-Star Rookies:</div> 9<br>
 	<div class="ssTitle">Flashback Fridays:</div> 13<br>
@@ -1056,8 +1056,7 @@
 	<br>
 
 	<p><div class="title">2007 Topps Turkey Red</div><br>
-	<i>Not sure if 159b exists or not- if you have info, please let me know!</i><br>
-	<div class="ssTitle">Base:</div> 8, 74, 159, 159b (is this card real?)<br>
+	<div class="ssTitle">Base:</div> 74, 159b (ad back)<br>
 	<div class="ssTitle">Chrome:</div> 8, 74, 90, 147, 148, 159, 159b (is this card real?)<br>
 	<div class="ssTitle">Chrome Refractors:</div> 8, 74, 90, 147, 148, 159, 159b (is this card real?)<br>
 	<div class="ssTitle">Chrome Black Refractors:</div> 8, 74, 90, 147, 148, 159, 159b (is this card real?)<br>
@@ -1075,7 +1074,7 @@
 	<div class="ssTitle">Base:</div> 173<br>
 	<div class="ssTitle">1st Edition:</div> 29, 173, 231, 236, 266, 285, 295<br>
 	<div class="ssTitle">Copper (#/56):</div> 29, 173, 231, 236, 266, 285, 295<br>
-	<div class="ssTitle">Gold (#/2007):</div> 29, 173, 231, 236, 266, 285, 295<br>
+	<div class="ssTitle">Gold (#/2007):</div> 29, 173, 231, 236, 266, 285<br>
 	<div class="ssTitle">Red Back:</div> 29, 173, 231, 236, 266, 285, 295</p>
 
 	<br>
@@ -1379,13 +1378,13 @@
 	<br>
 
 	<p><div class="title">2006 Topps</div><br>
-	<div class="ssTitle">Base:</div> 309, 468, 506, 598<br>
+	<div class="ssTitle">Base:</div> 309, 506, 598<br>
 	<div class="ssTitle">Black:</div> 334, 350, 458, 468, 479, 489, 506, 539, 576, 598, 643, 647<br>
 	<div class="ssTitle">Gold:</div> 55, 78, 86, 96, 122, 127, 194, 234, 248, 282, 309, 334, 350, 458, 468, 479, 489, 506, 539, 576, 598, 643, 647<br>
 	<div class="ssTitle">Box Bottoms:</div> 194 (Hunter), 468 (Santana)<br>
 	<div class="ssTitle">Factory Set Rookie Bonus:</div> 8, 19<br>
 	<div class="ssTitle">Hit Parade:</div> 17<br>
-	<div class="ssTitle">Opening Day:</div> 31, 55, 127, 128, 148<br>
+	<div class="ssTitle">Opening Day:</div> 55, 127, 128, 148<br>
 	<div class="ssTitle">Opening Day Red Foil:</div> 31, 55, 94, 127, 128, 148<br>
 	<div class="ssTitle">Sports Illustrated for Kids:</div> 13<br>
 	<div class="ssTitle">Team vs. Team:</div> JT<br>
@@ -1578,7 +1577,7 @@
 	<br>
 
 	<p><div class="title">2005 Absolute Memorabilia</div><br>
-	<div class="ssTitle">Base:</div> 4, 12, 69, 88, 138, 147, 150<br>
+	<div class="ssTitle">Base:</div> 4, 12, 69, 138, 147, 150<br>
 	<div class="ssTitle">Black:</div> 4, 12, 69, 88<br>
 	<div class="ssTitle">Blue:</div> 4, 12, 69, 88<br>
 	<div class="ssTitle">Red:</div> 4, 12, 69, 88<br>
@@ -1856,6 +1855,13 @@
 	<div class="ssTitle">Club Box (#/50):</div> 11, 34, 68, 94<br>
 	<div class="ssTitle">General Admission (#/100):</div> 11, 34, 68, 94<br>
 	<div class="ssTitle">Mezzanine (#/75):</div> 11, 34, 68, 94</p>
+
+	<br>
+
+	<p><div class="title">2005 Fleer Classic Clippings</div><br>
+	<i>Completed- Press Clippings</i><br>
+	<div class="ssTitle">Base:</div> 24, 46, 52, 69, 79, 85, 121<br>
+	<div class="ssTitle">First Edition (#/150):</div> 24, 46, 52, 69, 79, 85, 121</p>
 
 	<br>
 
@@ -2273,7 +2279,7 @@
 
 	<p><div class="title">2005 Topps</div><br>
 	<div class="ssTitle">Base:</div> 654<br>
-	<div class="ssTitle">Black:</div> 3, 59, 116, 144, 165, 192, 202, 241, 283, 317, 341, 342, 364, 417, 447, 467, 510, 523, 544, 562, 585, 628, 654, 672, 679, 703, 713<br>
+	<div class="ssTitle">Black:</div> 3, 59, 116, 144, 165, 192, 202, 241, 283, 317, 341, 342, 417, 447, 467, 510, 523, 544, 562, 585, 628, 654, 672, 679, 703, 713<br>
 	<div class="ssTitle">First Edition:</div> 3, 59, 116, 144, 165, 192, 202, 241, 283, 317, 341, 342, 364, 447, 467, 544, 562, 628, 654, 672, 679, 703, 713<br>
 	<div class="ssTitle">Gold:</div> 3, 59, 116, 144, 165, 192, 202, 241, 283, 317, 341, 342, 364, 417, 447, 467, 510, 523, 544, 562, 585, 628, 654, 672, 679, 703, 713<br>
 	<div class="ssTitle">Box Bottoms:</div> 510 (Mauer)<br>
@@ -2294,7 +2300,7 @@
 	<br>
 
 	<p><div class="title">2005 Topps Chrome</div><br>
-	<div class="ssTitle">Base:</div> 3, 116, 144, 165, 165, 192, 291, 315, 332, 368, 395, 406, 427, 461<br>
+	<div class="ssTitle">Base:</div> 3, 116, 165, 165, 192, 291, 315, 332, 368, 395, 427, 461<br>
 	<div class="ssTitle">Refractors:</div> 3, 116, 144, 165, 165, 192, 291, 315, 332, 368, 395, 406, 427, 461<br>
 	<div class="ssTitle">Black Refractors:</div> 3, 116, 144, 165, 165, 192, 291, 315, 332, 368, 395, 406, 427, 461<br>
 	<div class="ssTitle">Red X-Fractors:</div> 3, 116, 144, 165, 165, 192, 291, 315, 332, 368, 395, 406, 427, 461</p>
