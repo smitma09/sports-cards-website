@@ -1695,6 +1695,7 @@
 	<div class="ssTitle">Samples Gold:</div> 10, 26, 71, 90, 95<br>
 	<div class="ssTitle">Status:</div> 10 (#/52), 26 (#/75), 71 (#/53), 90 (#/78), 95 (#/79), 192 (#/63), 193 (#/95)<br>
 	<div class="ssTitle">Turn of the Century:</div> 192 (#/1,500), 193 (#/1,500)<br>
+	<div class="ssTitle">Passing the Torch (PT):</div> 5 (#/500), 17 (#/1,000)<br>
 	</p>
 
 	<br>

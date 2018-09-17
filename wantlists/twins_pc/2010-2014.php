@@ -170,7 +170,7 @@
 	<i>(This set listing looks wierd to me. Going to have to review it and make sure it is accurate when this set has been out for awhile longer)</i><br>
 	<i>Completed- Prospects, Cutting Edge Stars</i><br>
 	<div class="ssTitle">Chrome Prospects Refractors:</div> 5, 10, 11, 34, 36<br>
-	<div class="ssTitle">Chrome Prospects Blue Refractors (#/199):</div> 5, 10, 11, 34, 36<br>
+	<div class="ssTitle">Chrome Prospects Blue Refractors (#/199):</div> 5, 10, 11, 34<br>
 	<div class="ssTitle">Chrome Prospects Gold Refractors (#/50):</div> 5, 10, 11, 34, 36<br>
 	<div class="ssTitle">Chrome Prospects Green Refractors (#/399):</div> 5, 10, 11, 34, 36<br>
 	<div class="ssTitle">Chrome Prospects Japan Fractors (#/35):</div> 5, 10<br>
@@ -556,7 +556,7 @@
 	<div class="ssTitle">Draft Picks Silver Ice (BDPP):</div> 2, 49, 58, 76, 85, 96, 100, 111, 118<br>
 	<div class="ssTitle">Draft Picks Chrome (BDPP):</div> 2, 76, 118<br>
 	<div class="ssTitle">Draft Picks Chrome Refractors (BDPP):</div> 2, 58, 76, 85, 111, 118<br>
-	<div class="ssTitle">Draft Picks Chrome Black Refractors (BDPP #/35):</div> 2, 49, 58, 76, 85, 96, 100, 111, 118<br>
+	<div class="ssTitle">Draft Picks Chrome Black Refractors (BDPP #/35):</div> 2, 58, 76, 85, 96, 100, 111, 118<br>
 	<div class="ssTitle">Draft Picks Chrome Black Wave Refractors (BDPP):</div> 2, 76, 85, 96, 100, 111, 118<br>
 	<div class="ssTitle">Draft Picks Chrome Blue Refractors (BDPP #/99):</div> 2, 49, 58, 85, 96, 100, 111, 118<br>
 	<div class="ssTitle">Draft Picks Chrome Blue Wave Refractors (BDPP):</div> 2, 49, 76, 85, 96, 100, 111, 118<br>
@@ -1312,7 +1312,7 @@
 	<div class="ssTitle">Black:</div> 7, 67, 112, 140, 158, 161, 163, 274, 330<br>
 	<div class="ssTitle">Gold:</div> 7, 67, 112, 140, 161, 163, 330<br>
 	<div class="ssTitle">Gold Sparkle:</div> 7, 67, 112, 140, 158, 161, 163, 274, 330<br>
-	<div class="ssTitle">Target Red:</div> 7, 67, 112, 140, 158, 161, 163, 274, 330<br>
+	<div class="ssTitle">Target Red:</div> 7, 67, 140, 158, 161, 163, 274, 330<br>
 	<div class="ssTitle">Wal-Mart Blue:</div> 7, 67, 112, 140, 158, 161, 163, 274, 330<br>
 	<div class="ssTitle">Golden Moments:</div> 28</p>
 

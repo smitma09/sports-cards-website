@@ -15,18 +15,59 @@
 	<p>This page holds my list of all the Twins autos, relics, patches, 1/1s, manufactured relics, and other such items that I currently have in my collection. If you have a card that is not on this list, I would love to have for it!</p>
 
 	<p><u>Quick stats</u><br>
-		A quick look at how many autographed, relic, or similar cards I have in my Twins collection. Note to self, write a short script to have this update automatically in the future:<br>
-		Autographs: 202<br>
-		Game used/relics: 108<br>
-		Patches: 36<br>
-		Manufactured relics: 32<br>
-		1/1s: 29<br>
-		Superfractors: 3<br>
-		Total Unique Cards: 373</p>
+	<?php
+		include("/var/www/admin.php");
+		//These PHP commands counts different types of cards I have and displays them on screen (i.e. reads database to see I have X number of autographed cards and displays that number)
+            $conn = mysqli_connect($dbServername, $publicdbUsername, $publicdbPass, $dbName);
+            if (!$conn) {
+                die('Could not connect: ' . mysqli_error($conn));
+            }
+            //Autographs
+            $sql = "select count(*) from twins_pc where auto = 1";
+            $result = mysqli_query($conn, $sql);
+            $row = mysqli_fetch_array($result);
+            echo "Autographs: " . $row[0] . "<br>";
+            //Relics
+            $sql = "select count(*) from twins_pc where relic = 1";
+            $result = mysqli_query($conn, $sql);
+            $row = mysqli_fetch_array($result);
+            echo "Game used/relics: " . $row[0] . "<br>";
+            //Patches
+            $sql = "select count(*) from twins_pc where patch = 1";
+            $result = mysqli_query($conn, $sql);
+            $row = mysqli_fetch_array($result);
+            echo "Patches: " . $row[0] . "<br>";
+            //Manufactured relics
+            $sql = "select count(*) from twins_pc where manuRelic = 1";
+            $result = mysqli_query($conn, $sql);
+            $row = mysqli_fetch_array($result);
+            echo "Manufactured relics: " . $row[0] . "<br>";
+            //1/1s
+            $sql = "select count(*) from twins_pc where oneofone = 1";
+            $result = mysqli_query($conn, $sql);
+            $row = mysqli_fetch_array($result);
+            echo "1/1s: " . $row[0] . "<br>";
+            //Superfractors
+            $sql = "select count(*) from twins_pc where fullCardInfo like '%Superfractor%'";
+            $result = mysqli_query($conn, $sql);
+            $row = mysqli_fetch_array($result);
+            echo "Superfractors: " . $row[0] . "<br>";
+            //Total unique
+            $sql = "select count(*) from twins_pc where auto = 1 or relic = 1 or oneofone = 1";
+            $result = mysqli_query($conn, $sql);
+            $row = mysqli_fetch_array($result);
+            echo "Total unique autos, relics, 1/1s, etc: " . $row[0] . "</p>";
+
+            mysqli_close($conn);
+    ?>
 
 	<!-- -------------------- 2018 -------------------- -->
 
 	<h1>2018</h1><p>
+
+	2018 Panini Immaculate Collection Jumbo Mitch Garver (relic)<br>
+
+	<br>
 
 	2018 Topps 1983 Topps Autographs Max Kepler 83A-MK (auto)<br>
 	2018 Topps 1983 Topps Autographs Black Zack Granite 83A-ZG (auto)<br>
@@ -34,11 +75,19 @@
 
 	<br>
 
+	2018 Topps Chrome Rookie Autographs Zack Granite RA-ZG (auto)<br>
+
+	<br>
+
 	2018 Topps Gypsy Queen Autographs Jose Berrios GQA-JB (auto)<br>
 
 	<br>
 
-	2018 Topps Inception Rookie and Emerging Stars Autographs Red Zack Granite RED-ZG #ed 44/75 (auto)</p>
+	2018 Topps Inception Rookie and Emerging Stars Autographs Red Zack Granite RED-ZG #ed 44/75 (auto)<br>
+
+	<br>
+
+	2018 Topps Stadium Club Autographs Jose Berrios SCA-JBE (auto)</p>
 
 	<hr>
 
@@ -47,6 +96,7 @@
 	<h1>2017</h1><p>
 
 	2017 Bowman Chrome Prospect Autographs Fernando Romero CPA-FRO (auto)<br>
+	2017 Bowman Chrome Prospect Autographs Purple Refractors Fernando Romero CPA-FRO #ed 224/250 (auto)<br>
 
 	<br>
 
@@ -134,10 +184,12 @@
 
 	2016 Topps Gypsy Queen Autographs Max Kepler GQA-MK (auto)<br>
 	2016 Topps Gypsy Queen Mini Autographs Byron Buxton GMA-BB #ed 15/25 (auto)<br>
+	2016 Topps Gypsy Queen Mini Framed Printing Plates Black Tyler Duffey 221 #ed 1/1 (printing plate)<br>
 	2016 Topps Gypsy Queen Mini Framed Printing Plates Magenta Tyler Duffey 221 #ed 1/1 (printing plate)<br>
 
 	<br>
 
+	2016 Topps Heritage High Number Real One Autographs Red Ink Max Kepler ROA-MK #ed 51/67 (auto)<br>
 	2016 Topps Heritage High Number Real One Autographs Red Ink Jose Berrios ROA-JBER #ed 06/67 (auto)<br>
 
 	<br>
@@ -175,6 +227,7 @@
 
 	2015 Bowman Chrome Prime Position Autographs Byron Buxton PPA-BB (auto)<br>
 	2015 Bowman Chrome Prospect Autographs Amaurys Minier BCAP-AM (auto)<br>
+	2015 Bowman Chrome Prospect Autographs Stephen Gonsalves BCAP-SG (auto)<br>
 	2015 Bowman Chrome Prospect Autographs Refractors Stephen Gonsalves BCAP-SG #ed 316/499 (auto)<br>
 
 	<br>
@@ -755,10 +808,6 @@
 
 	<br>
 
-	2007 SP Legendary Cuts Masterful Material Kirby Puckett MM-KP (jersey)<br>
-
-	<br>
-
 	2007 Donruss Elite Extra Edition Turn of the Century Autographs Paul Kelly 36 #ed 497/500 (auto)<br>
 
 	<br>
@@ -768,6 +817,14 @@
 	<br>
 
 	2007 Just Minors Just Autographs Joe Benson JA-03 (IP/TTM auto)<br>
+
+	<br>
+
+	2007 SP Authentic By the Letter Justin Morneau BL-52 #ed 03/15 (letter auto "E")<br>
+
+	<br>
+
+	2007 SP Legendary Cuts Masterful Material Kirby Puckett MM-KP (jersey)<br>
 
 	<br>
 
@@ -1141,6 +1198,14 @@
 	<br>
 
 	1999 Upper Deck MVP ProSign Corey Koskie CK (auto)</p>
+
+	<hr>
+
+	<!-- -------------------- 1998 -------------------- -->
+
+	<h1>1998</h1><p>
+
+	1996 Donruss Signature Series Significant Signatures Harmon Killebrew NNO #ed 1,046/2,000 (auto)</p>
 
 	<hr>
 

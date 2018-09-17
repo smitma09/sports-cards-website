@@ -1,5 +1,17 @@
 <?php
 	include_once("./../php/navbar.php");
-
-	echo"<html><body><h1>Hello</h1></body></html>";
 ?>
+
+<html>
+<head>
+	<link href="/css/siteTheme.css" rel="stylesheet">
+</head>
+
+<body>
+<div class="content">
+	<h1><a href="/">Return home</a></h1>
+</div> <!-- End content tag -->
+</body>
+
+</html>";
+

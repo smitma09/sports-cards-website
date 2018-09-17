@@ -97,7 +97,7 @@
 	<div class="ssTitle">Orange (#/25):</div> 18, 33<br>
 	<div class="ssTitle">Purple (#/250):</div> 18, 33<br>
 	<div class="ssTitle">Sky Blue:</div> 18, 33<br>
-	<div class="ssTitle">Top Prospects:</div> 5, 28<br>
+	<div class="ssTitle">Top Prospects:</div> 28<br>
 	<div class="ssTitle">Top Prospects Blue (#/150):</div> 5, 28<br>
 	<div class="ssTitle">Top Prospects Green (#/99):</div> 5, 28<br>
 	<div class="ssTitle">Top Prospects Ice:</div> 5, 28<br>
@@ -130,7 +130,7 @@
 	<br>
 
 	<p><div class="title">2018 Topps Series 1</div><br>
-	<i>Completed- Legends in the Making, Opening Day</i><br>
+	<i>Completed- Legends in the Making, Opening Day, Superstar Sensations</i><br>
 	<div class="ssTitle">Base:</div> 127b (with glove and ball SP), 130a (baserunning), 262<br>
 	<div class="ssTitle">Black (#/67):</div> 49, 94, 107, 115, 127, 130, 231, 262, 277, 288, 334<br>
 	<div class="ssTitle">Blue (#/50):</div> 49, 94, 107, 115, 127, 130, 231, 262, 277, 288, 334<br>
@@ -156,18 +156,17 @@
 	<div class="ssTitle">Legends in the Making Black (LTM):</div> MS<br>
 	<div class="ssTitle">Legends in the Making Blue (LTM):</div> MS<br>
 	<div class="ssTitle">Legends in the Making Gold (LTM, #/50):</div> MS<br>
-	<div class="ssTitle">MLB Awards (MLBA):</div> 18, 26<br>
+	<div class="ssTitle">MLB Awards (MLBA):</div> 26<br>
 	<div class="ssTitle">MLB Awards Black (MLBA, #/299):</div> 18, 26<br>
 	<div class="ssTitle">MLB Awards Blue (MLBA):</div> 18, 26<br>
 	<div class="ssTitle">MLB Awards Gold (MLBA, #/50):</div> 18, 26<br>
 	<div class="ssTitle">Opening Day Black (OD):</div> 4<br>
 	<div class="ssTitle">Opening Day Blue (OD):</div> 4<br>
 	<div class="ssTitle">Opening Day Gold (OD, #/50):</div> 4<br>
-	<div class="ssTitle">Superstar Sensations (SSS):</div> 13<br>
 	<div class="ssTitle">Superstar Sensations Black (SSS):</div> 13<br>
 	<div class="ssTitle">Superstar Sensations Blue (SSS, #/299):</div> 13<br>
 	<div class="ssTitle">Superstar Sensations Gold (SSS, #/50):</div> 13<br>
-	<div class="ssTitle">Salute (TS):</div> 48, 67, 96<br>
+	<div class="ssTitle">Salute (TS):</div> 48, 67<br>
 	<div class="ssTitle">Salute Black (TS, #/299):</div> 48, 67, 96<br>
 	<div class="ssTitle">Salute Blue (TS):</div> 48, 67, 96<br>
 	<div class="ssTitle">Salute Gold (TS, #/50):</div> 48, 67, 96</p>
@@ -184,7 +183,7 @@
 	<div class="ssTitle">Pink (#/50):</div> 410, 419, 448, 493, 494, 506, 533, 537, 538, 540, 595, 602, 614, 681, 697<br>
 	<div class="ssTitle">Purple:</div> 410, 419, 448, 493, 494, 506, 533, 537, 538, 540, 595, 602, 614, 681, 697<br>
 	<div class="ssTitle">Rainbow Foil:</div> 419, 448, 493, 494, 506, 533, 537, 538, 540, 595, 602, 681, 697<br>
-	<div class="ssTitle">Vintage Stock (#/99):</div> 410, 419, 448, 494, 533, 537, 538, 540, 595, 602, 614, 681, 697<br>
+	<div class="ssTitle">Vintage Stock (#/99):</div> 410, 419, 448, 494, 533, 537, 538, 540, 602, 614, 681, 697<br>
 	<div class="ssTitle">1983 Topps (83):</div> 9, 44<br>
 	<div class="ssTitle">1983 Topps Black (83, #/299):</div> 9, 44<br>
 	<div class="ssTitle">1983 Topps Blue (83):</div> 9, 44<br>
@@ -214,9 +213,9 @@
 	<br>
 
 	<p><div class="title">2018 Topps Allen & Ginter</div><br>
-	<div class="ssTitle">Base:</div> 12, 111, 163, 193, 209, 268, 279, 306, 332<br>
+	<div class="ssTitle">Base:</div> 12, 111, 163, 193, 209, 268, 279, 306<br>
 	<div class="ssTitle">Silver Glossy:</div> 12, 111, 163, 193, 209, 268, 279, 306, 332, 379<br>
-	<div class="ssTitle">Minis:</div> 12, 111, 163, 193, 209, 268, 279, 306, 332<br>
+	<div class="ssTitle">Minis:</div> 12, 111, 163, 193, 209, 268, 279, 306<br>
 	<div class="ssTitle">Minis A&G Back:</div> 12, 111, 163, 193, 209, 268, 279, 306, 332<br>
 	<div class="ssTitle">Minis Black:</div> 12, 111, 163, 193, 209, 268, 279, 306, 332<br>
 	<div class="ssTitle">Minis Brookyln Back (#/25):</div> 12, 111, 163, 193, 209, 268, 279, 306, 332<br>
@@ -226,6 +225,25 @@
 	<div class="ssTitle">Rip cards (ripped or unripped is fine):</div> 5<br>
 	<div class="ssTitle">Fantasy Goldmine:</div> 46<br>
 	<div class="ssTitle">World Talent:</div> 21, 33</p>
+
+	<br>
+
+	<p><div class="title">2018 Topps Finest</div><br>
+	<div class="ssTitle">Base:</div> 27, 47, 127, 140, 153, 154, 187<br>
+	<div class="ssTitle">Refractors:</div> 27, 127, 140, 153, 154, 187<br>
+	<div class="ssTitle">Blue Refractors (#/150):</div> 27, 47, 127, 140, 153, 154, 187<br>
+	<div class="ssTitle">Blue Wave Refractors (#/75):</div> 27, 47, 127, 140, 153, 154, 187<br>
+	<div class="ssTitle">Gold Refractors (#/50):</div> 27, 47, 127, 140, 153, 154, 187<br>
+	<div class="ssTitle">Gold Wave Refractors (#/50):</div> 27, 47, 127, 140, 153, 154, 187<br>
+	<div class="ssTitle">Green Refractors (#/99):</div> 27, 47, 127, 140, 153, 154, 187<br>
+	<div class="ssTitle">Green Wave Refractors (#/99):</div> 27, 47, 127, 140, 153, 154, 187<br>
+	<div class="ssTitle">Negative Refractors:</div> 27, 47, 127, 140, 153, 154, 187<br>
+	<div class="ssTitle">Orange Refractors (#/25):</div> 27, 47, 127, 140, 153, 154, 187<br>
+	<div class="ssTitle">Pink Refractors:</div> 27, 47, 127, 153, 187<br>
+	<div class="ssTitle">Prism Refractors:</div> 27, 47, 127, 140, 153, 154, 187<br>
+	<div class="ssTitle">Purple Refractors (#/299):</div> 27, 47, 127, 140, 153, 187<br>
+	<div class="ssTitle">Sepia Refractors:</div> 47, 140<br>
+	<div class="ssTitle">X-Fractors:</div> 47, 127, 140, 153, 187</p>
 
 	<br>
 
@@ -246,7 +264,7 @@
 
 	<p><div class="title">2018 Topps Gypsy Queen</div><br>
 	<div class="ssTitle">Base:</div> 24, 86b (Jackie Robinson day), 231, 269<br>
-	<div class="ssTitle">Bazkooka Back:</div> 10, 24, 33, 61, 86, 88, 104, 168, 231, 269<br>
+	<div class="ssTitle">Bazkooka Back:</div> 24, 33, 61, 86, 88, 104, 168, 231, 269<br>
 	<div class="ssTitle">Black and White (#/50):</div> 10, 24, 33, 61, 86, 88, 104, 168, 231, 269<br>
 	<div class="ssTitle">Green:</div> 10, 24, 33, 61, 86, 88, 104, 168, 231, 269<br>
 	<div class="ssTitle">Logo Swap:</div> 10, 24, 33, 61, 86a, 86b (Jackie Robinson day), 88, 104, 168, 231, 269<br>
@@ -317,7 +335,7 @@
 	<br>
 
 	<p><div class="title">2018 Topps Stadium Club</div><br>
-	<div class="ssTitle">Base:</div> 17, 76, 82, 97, 126, 128, 194, 245, 281, 295<br>
+	<div class="ssTitle">Base:</div> 76, 82, 97, 126, 128, 194, 245, 281, 295<br>
 	<div class="ssTitle">Black Foil:</div> 17, 76, 82, 97, 126, 128, 194, 245, 281, 295<br>
 	<div class="ssTitle">Black & White:</div> 17, 76, 82, 97, 126, 128, 194, 245, 281, 295<br>
 	<div class="ssTitle">Rainbow Foilboard (#/25):</div> 17, 76, 82, 97, 126, 128, 194, 245, 281, 295<br>
@@ -622,7 +640,7 @@
 	<div class="ssTitle">Blue Refractors (#/150):</div> 49, 54, 190<br>
 	<div class="ssTitle">Blue Wave Refractors (#/75):</div> 49, 54, 190<br>
 	<div class="ssTitle">Green Refractors (#/99):</div> 49, 54, 190<br>
-	<div class="ssTitle">Gold Refractors (#/50):</div> 49, 54, 190<br>
+	<div class="ssTitle">Gold Refractors (#/50):</div> 54, 190<br>
 	<div class="ssTitle">Negative Refractors:</div> 49, 54, 190<br>
 	<div class="ssTitle">Orange Refractors (#/25):</div> 49, 54, 190<br>
 	<div class="ssTitle">Pink Refractors:</div> 49, 54<br>
@@ -827,13 +845,12 @@
 	<br>
 
 	<p><div class="title">2017 Topps Opening Day</div><br>
+	<i>Complete- Mascots</i><br>
 	<div class="ssTitle">Base:</div> 73, 134a (salute), 134b (sitting SP), 162, 167<br>
 	<div class="ssTitle">Rainbow Foil:</div> 73, 134, 162, 167<br>
-	<div class="ssTitle">Mascots:</div> 6<br>
 	<div class="ssTitle">Opening Day Stars:</div> 32<br>
 	<div class="ssTitle">Stadium Signatures:</div> 25<br>
-	<div class="ssTitle">Superstar Celebrations:</div> 1<br>
-	</p>
+	<div class="ssTitle">Superstar Celebrations:</div> 1</p>
 
 	<br>
 
