@@ -120,6 +120,7 @@
 		}
 	} if ($playerFirst != "All") {
 		if ($clauses == 0) {
+			$playerFirst = str_replace("'", "''", $playerFirst);
 			$sql = $sql . " where (playerFirst = '" . $playerFirst . "' or allPlayers like '%" . $playerFirst . " %') and";
 			$clauses = $clauses + 1;
 		} else {
@@ -128,6 +129,7 @@
 	}
 	if ($playerLast != "All") {
 		if ($clauses == 0) {
+			$playerLast = str_replace("'", "''", $playerLast);
 			$sql = $sql . " where (playerLast = '" . $playerLast . "' or allPlayers like '% " . $playerLast . "%') and";
 			$clauses = $clauses + 1;
 		} else {
@@ -222,6 +224,10 @@
 	// Need to chop of the last ' and' from the sql statement
 	$sql = substr($sql, 0, -4);
 	$sql = $sql . ' order by year desc, cardset asc, subset asc, cast(cardNum as signed) asc';
+
+	if ($playerFirst) {
+		echo $playerLast;
+	}
 
 	$result = mysqli_query($conn, $sql);
 	$num_cards = mysqli_num_rows($result);

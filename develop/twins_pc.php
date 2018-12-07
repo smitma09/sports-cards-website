@@ -153,7 +153,7 @@
 	        $result = mysqli_query($conn, $sql);
 	        while ($row = mysqli_fetch_array($result)) {
 			if ($row['playerFirst'] != "") {
-	                	echo '<option value="' . $row['playerFirst'] . '">' . $row['playerFirst'] . "</option>";
+	                	echo "<option value=" . $row['playerFirst'] . ">" . $row['playerFirst'] . "</option>";
 			}
        		}
         	mysqli_close($conn);
@@ -172,7 +172,7 @@
                 $result = mysqli_query($conn, $sql);
                 while ($row = mysqli_fetch_array($result)) {
 			if ($row['playerLast'] != "") {
-                        	echo '<option value="' . $row['playerLast'] . '">' . $row['playerLast'] . "</option>";
+                        	echo "<option value=" . $row['playerLast'] . ">" . $row['playerLast'] . "</option>";
 			}
                 }
 	        mysqli_close($conn);

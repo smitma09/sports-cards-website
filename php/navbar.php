@@ -101,6 +101,7 @@
 			    <li><a href="/wantlists/twins_pc">Twins PC</a></li>
 			    <li><a href="/wantlists/chris_herrmann">Chris Herrmann</a></li>
 			    <li><a href="/wantlists/paul_molitor">Paul Molitor</a></li>
+			    <li><a href="/wantlists/sets">Sets</a></li>
 			</ul></li> <!-- End dropdown parent -->
 			<li><a href="/about">About</a></li>
                 </ul>

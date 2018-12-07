@@ -1246,7 +1246,7 @@
 	<div class="ssTitle">Draft Picks Chrome Blue Refractors (#/199):</div> 4, 18, 26, 57<br>
 	<div class="ssTitle">Draft Picks Chrome Gold Refractors (#/50):</div> 4, 18, 26, 57<br>
 	<div class="ssTitle">Draft Picks Chrome Orange Refractors (#/25):</div> 4, 18, 26, 57<br>
-	<div class="ssTitle">Draft Picks Chrome Blue X-Fractors (#/299):</div> 4, 18, 26, 57<br>
+	<div class="ssTitle">Draft Picks Chrome X-Fractors (#/299):</div> 18, 26, 57<br>
 	<div class="ssTitle">Future's Game Prospects (FG):</div> 20<br>
 	<div class="ssTitle">Future's Game Prospects Gold (FG):</div> 20<br>
 	<div class="ssTitle">Future's Game Prospects White (FG, #/225):</div> 20<br>

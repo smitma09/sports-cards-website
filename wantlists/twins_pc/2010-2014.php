@@ -849,7 +849,7 @@
 	<div class="ssTitle">Purple Refractors:</div> 87, 186<br>
 	<div class="ssTitle">Red Refractors:</div> 38, 87, 179, 186, 217<br>
 	<div class="ssTitle">Sepia Refractors (#/75):</div> 38, 186<br>
-	<div class="ssTitle">X-Fractors:</div> 87, 179</p>
+	<div class="ssTitle">X-Fractors:</div> 87</p>
 
 	<br>
 

@@ -65,6 +65,10 @@
 
 	<h1>2018</h1><p>
 
+	2018 Diamond Kings DK Rookie Materials Signatures Mitch Garver RMS-MG #ed 065/299 (dual relic auto)<br>
+
+	<br>
+
 	2018 Panini Immaculate Collection Jumbo Mitch Garver (relic)<br>
 
 	<br>
@@ -72,6 +76,10 @@
 	2018 Topps 1983 Topps Autographs Max Kepler 83A-MK (auto)<br>
 	2018 Topps 1983 Topps Autographs Black Zack Granite 83A-ZG (auto)<br>
 	2018 Topps Major League Material Miguel Sano MLM-MS (relic)<br>
+
+	<br>
+
+	2018 Topps Allen & Ginter Relic Miguel Sano FSRB-MS (relic)<br>
 
 	<br>
 
@@ -267,6 +275,12 @@
 
 	<br>
 
+	2015 Panini Elite 21st Century Signatures Kennys Vargas 32 (auto)<br>
+	2015 Panini Elite Future Threads Kennys Vargas 2 (relic)<br>
+	2015 Panini Elite Future Threads Trevor May 29 (relic)<br>
+
+	<br>
+
 	2015 Panini Immaculate Swatches Prime Trevor May 61 #ed 38/99 (patch)<br>
 
 	<br>
@@ -360,6 +374,7 @@
 	<br>
 
 	2013 Bowman Chrome Prospect Autographs Jorge Polanco BCP-JPO (auto)<br>
+	2013 Bowman Chrome Prospect Autographs Refractors Jorge Polanco BCP-JPO #ed 167/500 (auto)<br>
 
 	<br>
 
@@ -576,6 +591,10 @@
 	<!-- -------------------- 2010 -------------------- -->
 
 	<h1>2010</h1><p>
+
+	2010 Bowman Chrome Prospect Autographs Kyle Gibson BCP202 (auto)<br>
+
+	<br>
 
 	2010 Bowman Sterling Dual Relics Refractors Joe Mauer-Brian McCann BL-3 #ed 83/99 (dual relic)<br>
 
@@ -1119,6 +1138,10 @@
 	<!-- -------------------- 2002 -------------------- -->
 
 	<h1>2002</h1><p>
+
+	2002 Bowman Chrome Joe Mauer 391 (auto)<br>
+
+	<br>
 
 	2002 Bowman Draft Signs of the Future Jake Mauer SOF-JM (auto)<br>
 	2002 Bowman Draft Signs of the Future Justin Morneau SOF-JEM (auto)<br>
