@@ -225,10 +225,6 @@
 	$sql = substr($sql, 0, -4);
 	$sql = $sql . ' order by year desc, cardset asc, subset asc, cast(cardNum as signed) asc';
 
-	if ($playerFirst) {
-		echo $playerLast;
-	}
-
 	$result = mysqli_query($conn, $sql);
 	$num_cards = mysqli_num_rows($result);
 	if ($num_cards == 0 or $clauses == 0) {
