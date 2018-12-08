@@ -11,10 +11,10 @@
 	        display: none;
 	}
 	table tr td:hover div img {
-	        display: block;
-	        position: absolute;
-	        border: 10px solid black;
-	        height: 350px;
+        display: block;
+        position: absolute;
+        border: 10px solid black;
+        height: 350px;
 	}
 	#aCard .text {
 		position: absolute;
@@ -232,7 +232,6 @@
 	} else {
 		echo "<p>" . $num_cards . " cards matched your query.</p>";
 		echo "<div class=results>";
-		echo "<div>";
 		while ($row = mysqli_fetch_array($result)) {
 		$pic = $row['pathToPic'];
 		$wwwImg = substr($pic, 13);
@@ -240,7 +239,7 @@
 			//echo "<span class=text>" . $row['fullCardInfo'] . "</span></span>";
 			echo "<div class=fullContainer><div class=imgContainer><img class=image src=" . $wwwImg ."></div><p class=text>" . $row['fullCardInfo'] . "</p></div>";
 		}
-		echo "</div></div>";
+		echo "</div>";
 	}
 	mysqli_close($conn);
 ?>

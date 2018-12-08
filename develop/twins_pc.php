@@ -5,9 +5,66 @@
 <html>
 <head>
 	<link href="/css/siteTheme.css" rel="stylesheet">
+	<link href="/css/modal.css" rel="stylesheet">
 	<style>
 		.attributes span {
 			margin-right: 1rem;
+		}
+		/* From getCard.php */
+		table {
+			border-collapse: collapse;
+		}
+		td {
+			border: 1px solid black;
+		}
+		table tr td div img {
+		    display: none;
+		}
+		table tr td:hover div img {
+	        display: block;
+	        position: absolute;
+	        border: 10px solid black;
+	        height: 350px;
+		}
+		#aCard .text {
+			position: absolute;
+			visibility: hidden;
+		}
+		#aCard:hover .text {
+			visibility: visible;
+			background-color: white;
+			border: 2px solid black;
+		}
+		.results {
+			text-align: center;
+		}
+
+		.fullContainer {
+			width: 200px;
+			display: inline-block;
+			margin-right: 5px;
+			vertical-align: top;
+		}
+		.imgContainer {
+			height: 280px;
+			width: 200px;
+			background-color: black;
+			position: relative;
+		}
+		.image {
+			max-height: 92%;
+			max-width: 92%;
+			position: absolute;
+			margin: auto;
+			left: 0;
+			right: 0;
+			top: 0;
+			bottom: 0;
+			/*max-height: 270px;
+			max-width: 190px;*/
+		}
+		.text {
+			text-align: center;
 		}
 	</style>
 	<script>
@@ -19,9 +76,86 @@
 	}
 	xmlhttp.onreadystatechange = function() {
 		if (this.readyState == 4 && this.status == 200) {
-			document.getElementById("test").innerHTML = this.responseText;
+			var results = JSON.parse(this.responseText);
+			console.log("Results:", results);
+
+			var num = results['numResults'];
+
+			// Show number of results
+			if (num == 0) {
+				document.getElementById("test").innerHTML = "<p>No cards matched your query. Try refining your search terms to get some results.</p>";
+			} else if (num == 1) {
+				document.getElementById("test").innerHTML = "<p>1 card matched your query.</p>";
+			} else if (num > 1) {
+				document.getElementById("test").innerHTML = "<p>" + num + " cards matched your query.</p>";
+			} else {
+				document.getElementById("test").innerHTML = "<p>Choose some filters to see some results!</p>";
+			}
+
+			// Display results
+			if (num > 0) {
+				// resultsDiv is section for all results after displaying # of cards
+				var resultsDiv = document.createElement("div");
+				resultsDiv.setAttribute('class', 'results');
+				
+				// Set up each image
+				for (i=0; i<num; i++) {
+					// fullContainerDiv is section for an individual image and description
+					var fullContainerDiv = document.createElement("div");
+					fullContainerDiv.setAttribute('class', 'fullContainer');
+					fullContainerDiv.addEventListener('click', modal);
+					resultsDiv.appendChild(fullContainerDiv); //fullContainerDiv
+
+					// imgContainer is section for an individual image
+					var imgContainer = document.createElement("div");
+					imgContainer.setAttribute('class', 'imgContainer');				
+
+					// Getting img src and <img> tags set up
+					var wwwImg = results['results'][i]['pic'];
+					var img = document.createElement('img');
+					img.setAttribute('src', wwwImg);
+					img.setAttribute('class', 'image');
+					imgContainer.appendChild(img);
+					
+					// Getting description and <p> tags set up
+					var fullCardInfo = results['results'][i]['info'];
+					var p = document.createElement('p');
+					p.setAttribute('class', 'text');
+					p.innerHTML = fullCardInfo;
+
+					//Append individual image container and fullCardInfo to full container
+					fullContainerDiv.appendChild(imgContainer);
+					fullContainerDiv.appendChild(p);
+				}
+				// Add results section to body
+				document.getElementById("test").appendChild(resultsDiv);
+			} // End if num cards > 0
+
 		}
+	}; // End changeParams()
+	function closeModal() {
+		console.log("trying to close modal");
+		var theModal = document.getElementById("theModal");
+		theModal.style.display = "none";
 	};
+	function modal() {
+		// modalTop is the main <span> that holds modal elements
+		var modalTop = document.getElementById("theModal");
+		modalTop.style.display = "block";
+
+		// Set img src and card info variables
+		var img = this.querySelector("img").src; // i.e. http://104.236.240.123/images/twins_pc/2018/Bowman/9_Zack_Granite.jpg
+		var pieces = img.split("images");
+		var wwwImg = "/images" + pieces[1];
+		var fullCardInfo = "<h4>" +  this.querySelector("p").innerHTML + "</h4>"; // i.e. 2018 Bowman Zack Granite 9
+
+		// Set modal image and caption
+		modalTop.querySelector("img").setAttribute('src', wwwImg);
+		document.getElementById("modalCaption").innerHTML = fullCardInfo;
+
+		document.getElementById("closeButton").addEventListener("click", closeModal);
+	};
+	
 		year = document.getElementById("years_select").value;
 		playerFirst = document.getElementById("players_select_first").value;
 		playerLast = document.getElementById("players_select_last").value;
@@ -211,31 +345,43 @@
 	        mysqli_close($conn);
         ?>
 		</select></span>
-		</span>
+		</span> <!-- End attributes -->
 
 		<br>
 
 		<!-- -------------------- Searchbar -------------------- -->
 		<input type="text" size="50" onkeyup="changeParams()" name="search" id="search" placeholder="Search"></input>
 
-
-<!--
-Potentially adding sections for serial first/last, as well as grading details (first/last as input, grader as dropdown, card/auto grade as dropdown), authentic as checkbox
-		Relic: <input type="checkbox" onchange="changeParams()" name="relic" id="relic" value="True">
-		Manu. relic: <input type="checkbox" onchange="changeParams()" name="manuRelic" id="manuRelic" value="True">
-		RC: <input type="checkbox" onchange="changeParams()" name="rc" id="rc" value="True">
-		Numbered: <input type="checkbox" onchange="changeParams()" name="numbered" id="numbered" value="True">
-		1/1: <input type="checkbox" onchange="changeParams()" name="oneofone" id="oneofone" value="True">
-		HOF: <input type="checkbox" onchange="changeParams()" name="hof" id="hof" value="True">
-		SP/VAR: <input type="checkbox" onchange="changeParams()" name="spVar" id="spVar" value="True">
-		Graded/Slabbed: <input type="checkbox" onchange="changeParams()" name="graded" id="graded" value="True">
--->
-
-
 	</form>
+
 	<div id="test">Choose some filters to see some results!</div>
 
-	</form>
+	<span id="theModal" class="modal">
+
+		<table><tr>
+				<td class="top"><p id="modalCaption"></p><hr></td>
+			</tr>
+			<tr>
+				<td class="bottom"><img class="modalImgContainer"></td>
+			</tr>
+			<!--<td class="right">right<p id="modalCaption"></p></td>->
+		</tr></table>
+
+
+		<!--<div class="modalContainer">
+			<div class="modalImgContainer">
+				<img class="modalImg">
+			</div>
+			<p id="modalCaption"></p>
+		</div>-->
+		<span class="close" id="closeButton">&times;</span>
+	</span>
+
 </div> <!-- Ends content div -->
 </body>
 </html>
+
+
+<!-- Change up modal section so that it mimics the gallery page, just bigger
+		-Container for image and text so they stay attached
+-->
