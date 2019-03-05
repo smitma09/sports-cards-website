@@ -82,7 +82,7 @@
 	<div class="ssTitle">Base:</div> 12, 33, 40, 46, 90, 91, 9, 104, 107, 137, 152<br>
 	<div class="ssTitle">Refractors:</div> 12, 33, 40, 46, 90, 91, 9, 104, 107, 137, 152<br>
 	<div class="ssTitle">Gold Refractors (#/50):</div> 12, 33, 40, 46, 90, 91, 9, 104, 107, 137, 152<br>
-	<div class="ssTitle">Xfractors (#/125):</div> 12, 33, 40, 46, 90, 91, 9, 104, 107, 137, 152<br>
+	<div class="ssTitle">Xfractors (#/125):</div> 12, 33, 40, 46, 90, 91, 9, 104, 107, 152<br>
 	</p>
 
 	<br>
@@ -1314,7 +1314,7 @@
 	<i>Completed- Opening Day</i><br>
 	<div class="ssTitle">Base:</div> 26, 57, 433, 481, 501, 588, 616, 617, 693<br>
 	<div class="ssTitle">Black (#/52):</div> 9, 26, 57, 58, 112, 148, 206, 238, 239, 278, 310, 319, 329, 350, 360, 384, 433, 434, 451, 481, 501, 525, 545, 588, 616, 617, 625, 646, 680, 693<br>
-	<div class="ssTitle">Gold (#/2,003):</div> 9, 26, 57, 58, 112, 148, 206, 238, 239, 278, 310, 319, 329, 350, 360, 384, 433, 451, 481, 501, 525, 545, 588, 603, 616, 617, 625, 646, 680, 693<br>
+	<div class="ssTitle">Gold (#/2,003):</div> 9, 26, 57, 58, 112, 148, 206, 238, 239, 278, 310, 319, 329, 350, 360, 384, 433, 451, 481, 501, 525, 545, 588, 603, 616, 617, 625, 646, 693<br>
 	<div class="ssTitle">Home Team Advantage:</div> 9, 26, 57, 58, 112, 148, 206, 238, 239, 278, 310, 319, 329, 350, 360, 384, 433, 434, 451, 481, 501, 525, 545, 588, 603, 616, 617, 625, 646, 680, 693<br>
 	<div class="ssTitle">All-Stars:</div> 19<br>
 	<div class="ssTitle">Box Bottoms:</div> 433 (Hunter)<br>
@@ -1358,8 +1358,8 @@
 	<br>
 
 	<p><div class="title">2003 Topps Chrome</div><br>
-	<div class="ssTitle">Base:</div> 2, 25, 36, 42, 67, 99, 135, 173, 215, 218, 233, 269, 310, 326, 344, 360, 395, 412, 436<br>
-	<div class="ssTitle">Refractors (#/699):</div> 2, 25, 36, 42, 67, 99, 135, 173, 215, 218, 233, 269, 270, 310, 326, 344, 360, 395, 412, 436<br>
+	<div class="ssTitle">Base:</div> 2, 25, 36, 42, 67, 99, 135, 173, 215, 218, 233, 269, 310, 326, 344, 360, 395, 412<br>
+	<div class="ssTitle">Refractors (#/699):</div> 2, 25, 36, 42, 67, 99, 135, 173, 215, 218, 233, 269, 270, 310, 326, 344, 360, 395, 412<br>
 	<div class="ssTitle">Black Refractors (#/199):</div> 2, 25, 36, 42, 67, 99, 135, 173, 215, 218, 233, 269, 270, 310, 326, 344, 360, 395, 412, 436<br>
 	<div class="ssTitle">Gold Refractors (#/449):</div> 2, 25, 36, 42, 67, 99, 135, 173, 215, 218, 233, 269, 270, 310, 326, 344, 360, 395, 412, 436<br>
 	<div class="ssTitle">Silver Refractors:</div> 2, 25, 36, 42, 67, 99, 135, 173, 215, 218, 233, 269, 270, 310, 326, 344, 360, 395, 412, 436<br>
@@ -1387,7 +1387,7 @@
 	<br>
 
 	<p><div class="title">2003 Topps Heritage</div><br>
-	<div class="ssTitle">Base:</div> 14, 15, 139b (Black background), 184, 264, 339, 364, 394, 425<br>
+	<div class="ssTitle">Base:</div> 15, 139b (Black background), 184, 264, 339, 364, 394, 425<br>
 	<div class="ssTitle">Chrome:</div> 43, 60<br>
 	<div class="ssTitle">Chrome Refractors:</div> 43, 60<br>
 	</p>
@@ -1587,7 +1587,7 @@
 	<br>
 
 	<p><div class="title">2002 Bowman</div><br>
-	<div class="ssTitle">Base:</div> 21, 285, 299, 302, 304, 343, 360, 379, 388, 422<br>
+	<div class="ssTitle">Base:</div> 21, 285, 302, 304, 343, 360, 379, 388, 422<br>
 	<div class="ssTitle">Gold:</div> 16, 21, 46, 81, 154, 285, 292, 302, 315, 304, 343, 360, 379, 388, 391, 422<br>
 	<div class="ssTitle">Uncirculated (PR 256):</div> 285, 360, 379, 388, 422<br>
 	</p>
@@ -2212,7 +2212,7 @@
 	<br>
 
 	<p><div class="title">2001 Bowman</div><br>
-	<div class="ssTitle">Base:</div> 34, 78, 92, 106, 132, 169, 179, 186, 197, 227, 294, 310, 331, 335, 361, 384, 412, 415, 422<br>
+	<div class="ssTitle">Base:</div> 34, 78, 92, 106, 132, 169, 179, 186, 197, 227, 294, 310, 331, 335, 384, 412, 415, 422<br>
 	<div class="ssTitle">Gold:</div> 34, 78, 92, 106, 132, 169, 179, 186, 197, 227, 259, 294, 310, 331, 335, 361, 384, 412, 415, 422<br>
 	</p>
 
@@ -2220,6 +2220,7 @@
 
 	<p><div class="title">2001 Bowman Chrome</div><br>
 	<div class="ssTitle">Base:</div> 61, 105, 122, 124, 157, 169, 177, 192, 216, 229, 302, 323, 327<br>
+	<div class="ssTitle">Refractors:</div> 58, 61, 82, 105, 122, 124, 157, 177, 192, 216, 229, 241, 302, 323, 327<br>
 	<div class="ssTitle">Gold Refractors (#/99):</div> 58, 61, 82, 105, 122, 124, 157, 169, 177, 192, 216, 229, 241, 302, 323, 327<br>
 	<div class="ssTitle">X-Fractors:</div> 58, 61, 82, 105, 122, 124, 157, 169, 177, 192, 216, 229, 241, 302, 323, 327<br>
 	</p>
@@ -2493,7 +2494,7 @@
 
 	<p><div class="title">2001 Topps Chrome Traded</div><br>
 	<div class="ssTitle">Base:</div> 20, 76, 204, 235, 245, 254<br>
-	<div class="ssTitle">Retrofractors:</div> 20, 76, 204, 235, 245, 254<br>
+	<div class="ssTitle">Retrofractors:</div> 20, 76, 204, 245, 254<br>
 	</p>
 
 	<br>
@@ -2679,7 +2680,7 @@
 
 	<p><div class="title">2000 Bowman Chrome</div><br>
 	<div class="ssTitle">Base:</div> 3, 25, 33, 43, 131, 169, 257, 322, 351, 354, 422<br>
-	<div class="ssTitle">Refractors:</div> 3, 25, 33, 43, 131, 169, 257, 322, 351, 354, 422<br>
+	<div class="ssTitle">Refractors:</div> 3, 25, 33, 43, 131, 169, 257 351, 354, 422<br>
 	<div class="ssTitle">Retro/Future:</div> 3, 25, 33, 43, 131, 169, 257, 322, 351, 354, 422<br>
 	<div class="ssTitle">Retro/Future Refractors:</div> 3, 25, 33, 43, 131, 169, 257, 322, 351, 354, 422<br>
 	</p>
@@ -2724,7 +2725,7 @@
 	<br>
 
 	<p><div class="title">2000 Finest</div><br>
-	<div class="ssTitle">Base:</div> 19, 104 (#/2,000), 119 (#/2,000), 178, 262 (#/3,000)<br>
+	<div class="ssTitle">Base:</div> 19, 104 (#/2,000), 119 (#/2,000), 178<br>
 	<div class="ssTitle">Refractors:</div> 19, 34, 54, 104 (#/500), 119 (#/500), 178, 184, 221, 231, 262 (#/1,000)<br>
 	<div class="ssTitle">Gold Refractors:</div> 19, 34, 54, 104 (#/100), 119 (#/100), 178, 184, 221, 231, 262 (#/100)<br>
 	</p>

@@ -70,7 +70,8 @@
 
 	<p>Below is a list of all cards I have of Chris Herrmann. Again, I am interested in trading for doubles (triples, x4, etc :) ) of Twins cards, but I like to keep a list of what all I have in addition to what all I need- It just helps me be a bit more accurate with my lists. I'm currently working on a page where you can view all of these cards, so stay tuned for that! For now, feel free to take a look at the Herrmann cards I've acquired so far:</p>
 
-	<p>2017 Topps Now 159 (PR 220)<br><br>
+	<p>2017 Topps Now 159 (PR 220)<br>
+	2017 Topps Now Players Weekend PW-4 (PR 123)<br>
 
 	2016 Topps Heritage High Number 695<br>
 	2016 Topps Heritage High Number Flip Stock 695<br>

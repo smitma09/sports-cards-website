@@ -398,7 +398,7 @@
  	<br>
 
 	<p><div class="title">1973 Topps</div><br>
-	<div class="ssTitle">Base:</div> 49a (solid backgrounds for players on right of card), 61, 80, 98, 122, 148, 170, 199, 228, 259, 284, 311, 330, 358, 385, 411, 469, 516, 530, 555, 577, 598, 622, 638, 654<br>
+	<div class="ssTitle">Base:</div> 49a (solid backgrounds for players on right of card), 61, 80, 98, 122, 148, 170, 199, 228, 259, 284, 311, 330, 358, 385, 411, 469, 516, 555, 577, 598, 622, 638, 654<br>
 	<div class="ssTitle">Blue Team Checklists:</div> 14<br>
 	<div class="ssTitle">Candy Lids:</div> 9, 25<br>
 	<div class="ssTitle">Comics:</div> 9<br>

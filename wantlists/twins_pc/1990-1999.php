@@ -2532,13 +2532,18 @@
 	<div class="ssTitle">Triple Crown:</div> TC-6<br>
 	</p>
 
-        <hr>
+	<br>
 
-        <h1 id="1992">1992</h1>
+	<p><div class="title">1993 Upper Deck</div><br>
+	<i>Complete- Base</i></p>
 
-        <br>
+    <hr>
 
-        <!-- image -->
+    <h1 id="1992">1992</h1>
+
+    <br>
+
+    <!-- image -->
 
 	<br><br><br>
 
@@ -2831,8 +2836,8 @@
 	<br>
 
 	<p><div class="title">1991 Ultra</div><br>
+	<i>Completed- Ultra Team</i><br>
 	<div class="ssTitle">Base:</div> 193, 194, 195<br>
-	<div class="ssTitle">Gold:</div> 8<br>
 	<div class="ssTitle">Update:</div> 34, 35, 36, 37, 38, 39<br>
 	</p>
 
@@ -2844,13 +2849,13 @@
 	<div class="ssTitle">Heroes of Baseball:</div> 1<br>
 	</p>
 
-        <hr>
+    <hr>
 
-        <h1 id="1990">1990</h1>
+    <h1 id="1990">1990</h1>
 
-        <br>
+    <br>
 
-        <!-- image -->
+    <!-- image -->
 
 	<br><br><br>
 
