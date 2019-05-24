@@ -523,7 +523,8 @@
 	<div class="ssTitle">Prospects Blue Refractors (BCP):</div> 121, 191, 212<br>
 	<div class="ssTitle">Prospects Gold Refractors (BCP):</div> 121, 137, 191, 212<br>
 	<div class="ssTitle">Prospects Green Refractors (BCP):</div> 191, 212<br>
-	<div class="ssTitle">Prospects Magenta Refractors (BCP):</div> 121, 137, 191, 212<br>
+	<div class="ssTitle">Prospects Magenta Refractors (BCP):</div> 121, 137, 191<br>
+	<div class="ssTitle">Prospects Orange Refractors (BCP, #/25):</div> 121, 191, 212<br>
 	<div class="ssTitle">Prospects Purple Refractors (BCP):</div> 121, 191, 212<br>
 	<div class="ssTitle">Prospects X-Fractors (BCP):</div> 121, 191, 212<br>
 	<div class="ssTitle">Blue Sapphire Rookie Reprints:</div> David Ortiz<br>
@@ -562,7 +563,7 @@
 	<div class="ssTitle">Draft Picks Chrome Blue Refractors (BDPP #/99):</div> 2, 49, 58, 85, 96, 100, 111, 118<br>
 	<div class="ssTitle">Draft Picks Chrome Blue Wave Refractors (BDPP):</div> 2, 49, 76, 85, 96, 100, 111, 118<br>
 	<div class="ssTitle">Draft Picks Chrome Gold Refractors (BDPP #/50):</div> 2, 49, 58, 76, 85, 100, 111, 118<br>
-	<div class="ssTitle">Draft Picks Chrome Green Refractors (BDPP #/75):</div> 2, 49, 58, 76, 85, 96, 100, 111, 118<br>
+	<div class="ssTitle">Draft Picks Chrome Green Refractors (BDPP #/75):</div> 2, 49, 58, 76, 96, 100, 111, 118<br>
 	<div class="ssTitle">Draft Picks Chrome Orange Refractors (BDPP #/25):</div> 2, 49, 58, 76, 85, 96, 100, 111, 118<br>
 	<div class="ssTitle">Draft Picks Chrome Red Refractors (#/5, BDPP)- HAVE:</div> 96<br>
 	<div class="ssTitle">Draft Picks Chrome Red Wave Refractors (BDPP #/25):</div> 2, 49, 58, 76, 85, 96, 100, 111, 118<br>
@@ -842,8 +843,9 @@
 	<p><div class="title">2013 Topps Chrome</div><br>
 	<i>Completed- 1972 Chrome</i><br>
 	<div class="ssTitle">Base:</div> 38b (Mauer fielding SP), 217<br>
-	<div class="ssTitle">Refractors:</div> 38, 179, 186<br>
+	<div class="ssTitle">Refractors:</div> 179, 186<br>
 	<div class="ssTitle">Black Refractors (#/100):</div> 87<br>
+	<div class="ssTitle">Camo Refractors (#/15)- HAVE:</div> 87<br>
 	<div class="ssTitle">Blue Refractors (#/199):</div> 87, 186, 217<br>
 	<div class="ssTitle">Gold Refractors:</div> 87, 186<br>
 	<div class="ssTitle">Orange Refractors:</div> 87, 179, 186, 217<br>
@@ -939,7 +941,7 @@
 	<p><div class="title">2013 Topps Triple Threads</div><br>
 	<div class="ssTitle">Base:</div> 76<br>
 	<div class="ssTitle">Amber (#/125):</div> 39, 94<br>
-	<div class="ssTitle">Amethyst (#/650):</div> 39, 76, 94<br>
+	<div class="ssTitle">Amethyst (#/650):</div> 39, 94<br>
 	<div class="ssTitle">Emerald (#/250):</div> 39, 76, 94<br>
 	<div class="ssTitle">Gold (#/99):</div> 39, 76, 94<br>
 	<div class="ssTitle">Onyx (#/50):</div> 39, 76, 94<br>
@@ -1070,7 +1072,7 @@
 	<div class="ssTitle">Prospects:</div> 36<br>
 	<div class="ssTitle">Prospects Refractors:</div> 36, 39<br>
 	<div class="ssTitle">Prospects Blue Refractors:</div> 36, 39, 62<br>
-	<div class="ssTitle">Prospects Gold Refractors:</div> 36, 39, 62<br>
+	<div class="ssTitle">Prospects Gold Refractors:</div> 36, 39<br>
 	<div class="ssTitle">Prospects Green Refractors:</div> 36, 39<br>
 	<div class="ssTitle">Prospects Purple Refractors:</div> 36, 39, 62<br>
 	<div class="ssTitle">Prospects Red Refractors:</div> 36, 39, 62<br>
@@ -1503,7 +1505,7 @@
 	<div class="ssTitle">Factory Set Diamond Anniversary:</div> 253, 272, 293b (Killebrew), 304, 550, 570b (Blyleven), 614<br>
 	<div class="ssTitle">Factory Set Red Border:</div> 4, 21, 54, 99, 109, 132, 186, 253, 272, 281, 288, 293, 293b (Killebrew), 304, 339, 350, 354, 366, 387, 390, 408, 485, 501, 550, 570b (Blyleven), 614, 657<br>
 	<div class="ssTitle">Gold (#/2,011):</div> 4, 54, 99, 109, 132, 186, 272, 281, 288, 293b (Killebrew), 339, 350, 354, 366, 390, 485, 501, 550, 570b (Blyleven), 657<br>
-	<div class="ssTitle">Hope Diamond Anniversary (#ed/60):</div> 4, 21, 54, 109, 186, 253, 272, 281, 288, 293b (Killebrew), 304, 339, 350, 354, 366, 387, 390, 485, 501, 550, 570b (Blyleven), 657<br>
+	<div class="ssTitle">Hope Diamond Anniversary (#ed/60):</div> 4, 21, 54, 109, 186, 253, 272, 288, 293b (Killebrew), 304, 339, 350, 354, 366, 387, 390, 485, 501, 550, 570b (Blyleven), 657<br>
 	<div class="ssTitle">Target Throwback:</div> 4, 21, 54, 99, 109, 132, 186, 253, 272, 281, 288, 293, 293b (Killebrew), 304, 339, 350, 354, 366, 387, 390, 408, 485, 501, 550, 570b (Blyleven), 614, 657<br>
 	<div class="ssTitle">Wal-Mart Black:</div> 4, 21, 54, 99, 109, 186, 253, 272, 281, 288, 293b (Killebrew), 339, 350, 354, 366, 387, 390, 408, 485, 501, 550, 570b (Blyleven), 614, 657<br>
 	<div class="ssTitle">60 Years of Topps:</div> 109<br>
@@ -1922,11 +1924,11 @@
 	<br>
 
 	<p><div class="title">2010 Topps Triple Threads</div><br>
-	<div class="ssTitle">Base:</div> 90, 105<br>
-	<div class="ssTitle">Emerald:</div> 90, 105<br>
-	<div class="ssTitle">Gold:</div> 90, 105<br>
-	<div class="ssTitle">Sapphire:</div> 90, 105<br>
-	<div class="ssTitle">Sepia:</div> 90, 105</p>
+	<div class="ssTitle">Base:</div> 105<br>
+	<div class="ssTitle">Emerald:</div> 105<br>
+	<div class="ssTitle">Gold:</div> 105<br>
+	<div class="ssTitle">Sapphire:</div> 105<br>
+	<div class="ssTitle">Sepia:</div> 105</p>
 
 	<br>
 

@@ -11,6 +11,10 @@
 		$password = $_POST["pswd"];
 		if (password_verify($password, $uploadPass)) {
 
+		// Set timezone to central and get current date
+			date_default_timezone_set("America/Chicago");
+			$current_date = date('Y-m-d', strtotime(str_replace('-', '/', $current_date)));
+
 			$year = $_POST["year"];
 			$set = $_POST["set"];
 			$set = str_replace("'", "\'", $set);
@@ -363,9 +367,9 @@
 					}
 
 					if ($numbered) {
-						$sql = "insert into twins_pc (year, cardSet, subset, playerFirst, playerLast, allPlayers, cardNum, auto, relic, patch, manuRelic, rc, numbered, serialFirst, serialLast, oneofone, hof, spVar, graded, grader, cardGrade, autoGrade, authentic, fullCardInfo, pathToPic) values ($year, '$set', '$subset', '$playerFirst', '$playerLast', '$multiPlayers', '$cardNum', $autoDB, $relicDB, $patchDB, $manuRelicDB, $rcDB, $numberedDB, $serialFirst, $serialLast, $oneofoneDB, $hofDB, $spVarDB, $gradedDB, '$grader', '$cardGrade', '$autoGrade', $authenticDB, '$fullCardInfo', '$finalPath')";
+						$sql = "insert into twins_pc (year, cardSet, subset, playerFirst, playerLast, allPlayers, cardNum, auto, relic, patch, manuRelic, rc, numbered, serialFirst, serialLast, oneofone, hof, spVar, graded, grader, cardGrade, autoGrade, authentic, fullCardInfo, pathToPic, date_added) values ($year, '$set', '$subset', '$playerFirst', '$playerLast', '$multiPlayers', '$cardNum', $autoDB, $relicDB, $patchDB, $manuRelicDB, $rcDB, $numberedDB, $serialFirst, $serialLast, $oneofoneDB, $hofDB, $spVarDB, $gradedDB, '$grader', '$cardGrade', '$autoGrade', $authenticDB, '$fullCardInfo', '$finalPath', '$current_date')";
 					} else {
-						$sql = "insert into twins_pc (year, cardSet, subset, playerFirst, playerLast, allPlayers, cardNum, auto, relic, patch, manuRelic, rc, numbered, oneofone, hof, spVar, graded, grader, cardGrade, autoGrade, authentic, fullCardInfo, pathToPic) values ($year, '$set', '$subset', '$playerFirst', '$playerLast', '$multiPlayers', '$cardNum', $autoDB, $relicDB, $patchDB, $manuRelicDB, $rcDB, $numberedDB, $oneofoneDB, $hofDB, $spVarDB, $gradedDB, '$grader', '$cardGrade', '$autoGrade', $authenticDB, '$fullCardInfo', '$finalPath')";
+						$sql = "insert into twins_pc (year, cardSet, subset, playerFirst, playerLast, allPlayers, cardNum, auto, relic, patch, manuRelic, rc, numbered, oneofone, hof, spVar, graded, grader, cardGrade, autoGrade, authentic, fullCardInfo, pathToPic, date_added) values ($year, '$set', '$subset', '$playerFirst', '$playerLast', '$multiPlayers', '$cardNum', $autoDB, $relicDB, $patchDB, $manuRelicDB, $rcDB, $numberedDB, $oneofoneDB, $hofDB, $spVarDB, $gradedDB, '$grader', '$cardGrade', '$autoGrade', $authenticDB, '$fullCardInfo', '$finalPath', '$current_date')";
 					}
 
 					if ($conn->query($sql) === TRUE) {

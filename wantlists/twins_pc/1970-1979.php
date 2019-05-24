@@ -350,7 +350,7 @@
 	<br>
 
 	<p><div class="title">1974 Topps</div><br>
-	<div class="ssTitle">Base:</div> 50, 122, 190, 201, 296, 333, 400, 469, 602<br>
+	<div class="ssTitle">Base:</div> 50, 122, 190, 201, 296, 400, 469, 602<br>
 	<div class="ssTitle">Deckle Edge:</div> 32, 47, 62<br>
 	<div class="ssTitle">Stamp Albums:</div> 14<br>
 	<div class="ssTitle">Stamps:</div> 14, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210<br>

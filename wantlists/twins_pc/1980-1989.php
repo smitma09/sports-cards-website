@@ -173,7 +173,7 @@
 	<br>
 
 	<p><div class="title">1989 Score</div><br>
-	<div class="ssTitle">Base:</div> 8, 20, 62, 107, 134, 159, 191, 212, 215, 244, 280, 290, 305, 381, 382, 394, 408, 414, 421, 432, 479, 482, 493, 501<br>
+	<div class="ssTitle">Base:</div> 8, 20, 62, 107, 159, 191, 212, 215, 244, 280, 290, 305, 381, 394, 408, 414, 421, 432, 479, 482, 493, 501<br>
 	<div class="ssTitle">Hottest 100 Rookies:</div> 49<br>
 	<div class="ssTitle">Hottest 100 Stars:</div> 5, 11, 14, 21, 24<br>
 	<div class="ssTitle">Rookies/Traded (#T):</div> 23, 34, 67, 91<br>
@@ -520,7 +520,7 @@
 	<div class="ssTitle">Base:</div> 533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 633<br>
 	<div class="ssTitle">Glossy:</div> 533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 633<br>
 	<div class="ssTitle">All-Stars:</div> 5<br>
-	<div class="ssTitle">Award Winners:</div> 3, 30<br>
+	<div class="ssTitle">Award Winners:</div> 30<br>
 	<div class="ssTitle">Baseball All-Stars:</div> 32<br>
 	<div class="ssTitle">Exciting Stars:</div> 29<br>
 	<div class="ssTitle">Game Winners:</div> 15<br>
@@ -530,7 +530,7 @@
 	<div class="ssTitle">Mini:</div> 9, 40, 57, 83<br>
 	<div class="ssTitle">Record Setters:</div> 9<br>
 	<div class="ssTitle">Sluggers/Pitchers:</div> 31<br>
-	<div class="ssTitle">Star Stickers:</div> 10, 17, 43, 64, 92<br>
+	<div class="ssTitle">Star Stickers:</div> 17, 43, 64, 92<br>
 	<div class="ssTitle">Stickers Wax Bos Cards (S):</div> 3<br>
 	<div class="ssTitle">Team Stickers:</div> 12, 28, 29<br>
 	<div class="ssTitle">Wax Box Cards (C):</div> 11<br>
@@ -669,7 +669,7 @@
 	<div class="ssTitle">Mini:</div> 82, 83, 84, 85<br>
 	<div class="ssTitle">Sluggers/Pitchers:</div> 1, 17<br>
 	<div class="ssTitle">Sluggers/Pitchers Box Cards (M):</div> 5<br>
-	<div class="ssTitle">Star Stickers:</div> 6, 15, 64, 90, 104, 124<br>
+	<div class="ssTitle">Star Stickers:</div> 6, 64, 90, 104, 124<br>
 	<div class="ssTitle">Team Stickers:</div> 6, 10, 21<br>
 	<div class="ssTitle">Update:</div> 11, 68, 95</p>
 
@@ -1070,7 +1070,7 @@
 	<br>
 
 	<p><div class="title">1982 K-Mart</div><br>
-	<div class="ssTitle">Base:</div> 7, 15, 31</p>
+	<div class="ssTitle">Base:</div> 31</p>
 
 	<br>
 

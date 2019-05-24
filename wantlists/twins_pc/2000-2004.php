@@ -226,7 +226,7 @@
 	<div class="ssTitle">Base:</div> 21, 45, 60<br>
 	<div class="ssTitle">Die Cuts (#/150):</div> 45, 60<br>
 	<div class="ssTitle">Essential Credentials Future:</div> 21 (#/45), 45 (#/21), 60 (#/6)<br>
-	<div class="ssTitle">Essential Credentials Now:</div> 21 (#/21), 45 (#/45), 60 (#/60)<br>
+	<div class="ssTitle">Essential Credentials Now:</div> 21 (#/21), 60 (#/60)<br>
 	</p>
 
 	<br>
@@ -648,7 +648,7 @@
 
 	<p><div class="title">2004 Topps</div><br>
 	<i>Completed- Opening Day</i><br>
-	<div class="ssTitle">Base:</div> 32, 115, 177, 243, 259, 261, 265, 283, 372, 464, 559, 596, 628, 704<br>
+	<div class="ssTitle">Base:</div> 32, 115, 177, 243, 259, 261, 265, 372, 464, 559, 596, 628, 704<br>
 	<div class="ssTitle">Black:</div> 32, 60, 91, 115, 131, 148, 177, 243, 259, 261, 265, 283, 372, 379, 416, 557, 559, 596, 628, 654, 673<br>
 	<div class="ssTitle">First Edition:</div> 32, 60, 91, 115, 131, 148, 177, 243, 259, 261, 265, 283, 372, 379, 416, 557, 559, 596, 628, 654, 673, 704<br>
 	<div class="ssTitle">Gold:</div> 32, 60, 91, 115, 131, 148, 177, 243, 259, 261, 265, 283, 372, 379, 416, 557, 559, 596, 628, 654, 673<br>
@@ -2664,7 +2664,7 @@
 
 	<p><div class="title">2000 Black Diamond Rookie Edition</div><br>
 	<div class="ssTitle">Base:</div> 32, 33, 34<br>
-	<div class="ssTitle">Gold (#/1,000):</div> 32, 33, 34<br>
+	<div class="ssTitle">Gold (#/1,000):</div> 33, 34<br>
 	</p>
 
 	<br>

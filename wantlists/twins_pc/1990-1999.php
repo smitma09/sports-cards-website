@@ -117,7 +117,7 @@
 	<br>
 
 	<p><div class="title">1999 Fleer Tradition</div><br>
-	<div class="ssTitle">Base:</div> 88, 98, 130, 162, 189, 222, 248, 265, 285, 332, 389, 421, 453, 487, 511, 533, 563<br>
+	<div class="ssTitle">Base:</div> 88, 98, 130, 162, 189, 222, 248, 265, 285, 332, 389, 421, 453, 487, 533, 563<br>
 	<div class="ssTitle">Millenium:</div> 88, 98, 130, 162, 189, 222, 248, 265, 285, 332, 389, 421, 453, 487, 511, 533, 563<br>
 	<div class="ssTitle">Warning Track (W):</div> 88, 98, 130, 162, 189, 222, 248, 265, 285, 332, 389, 421, 453, 487, 511, 533, 563</p>
 
@@ -1310,7 +1310,7 @@
 	<br>
 
 	<p><div class="title">1997 Pinnacle X-Press</div><br>
-	<div class="ssTitle">Base:</div> 18, 59, 94, 118<br>
+	<div class="ssTitle">Base:</div> 18, 94, 118<br>
 	<div class="ssTitle">Men of Summer:</div> 59, 94, 118<br>
 	<div class="ssTitle">Swing for the Fences:</div> 53<br>
 	<div class="ssTitle">Swing for the Fences Upgrade:</div> 53</p>
@@ -1331,7 +1331,7 @@
 	<br>
 
 	<p><div class="title">1997 Select</div><br>
-	<div class="ssTitle">Base:</div> 10, 15, 103, 116, 124, 155, 188<br>
+	<div class="ssTitle">Base:</div> 10, 15, 103, 155, 188<br>
 	<div class="ssTitle">Artist's Proofs:</div> 10, 15, 103, 116<br>
 	<div class="ssTitle">Company:</div> 10, 15, 103, 116, 124, 155, 188<br>
 	<div class="ssTitle">Registered Gold:</div> 10, 15, 103, 116<br>
@@ -1631,7 +1631,7 @@
 	<br>
 
 	<p><div class="title">1996 Pinnacle</div><br>
-	<div class="ssTitle">Base:</div> 8, 121, 155, 177, 185, 203, 268, 318, 335<br>
+	<div class="ssTitle">Base:</div> 121, 155, 177, 203, 268, 318, 335<br>
 	<div class="ssTitle">Essence of the Game:</div> 8<br>
 	<div class="ssTitle">FanFest:</div> 14<br>
 	<div class="ssTitle">First Rate:</div> 6<br>
@@ -1787,7 +1787,7 @@
 	<br>
 
 	<p><div class="title">1996 Ultra</div><br>
-	<div class="ssTitle">Base:</div> 88, 89, 91, 92, 93, 95, 96, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 593<br>
+	<div class="ssTitle">Base:</div> 88, 89, 91, 92, 93, 95, 96, 371, 373, 374, 375, 376, 377, 378, 379, 380, 593<br>
 	<div class="ssTitle">Gold Medallion:</div> 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 593<br>
 	<div class="ssTitle">Diamond Producers:</div> 8<br>
 	<div class="ssTitle">Diamond Producers Gold Medallion:</div> 8<br>
@@ -1924,9 +1924,9 @@
 	<br>
 
 	<p><div class="title">1995 Pinnacle</div><br>
-	<div class="ssTitle">Base:</div> 6, 44, 91, 125, 157, 163, 190, 211, 252, 296, 323, 340, 403<br>
-	<div class="ssTitle">Artist's Proofs:</div> 6, 44, 91, 125, 157, 163, 190, 211, 252, 296, 323, 340, 403<br>
-	<div class="ssTitle">Museum Collection:</div> 6, 44, 91, 125, 157, 163, 190, 211, 252, 296, 323, 340, 403<br>
+	<div class="ssTitle">Base:</div> 6, 91, 125, 163, 190, 252, 296, 323, 340, 403<br>
+	<div class="ssTitle">Artist's Proofs:</div> 6, 44, 91, 125, 157, 163, 190, 211, 252, 296, 323, 335, 340, 403<br>
+	<div class="ssTitle">Museum Collection:</div> 6, 44, 91, 125, 157, 163, 190, 211, 252, 296, 323, 335, 340, 403<br>
 	<div class="ssTitle">Gate Attractions (GA):</div> 7<br>
 	<div class="ssTitle">Pinnacle Performers (PP):</div> 14<br>
 	<div class="ssTitle">Pin Redemption:</div> 18<br>
@@ -1940,8 +1940,8 @@
 	<br>
 
 	<p><div class="title">1995 Score</div><br>
-	<div class="ssTitle">Base:</div> 27, 43, 100, 122, 142, 178, 237, 265, 279, 296, 331, 347, 375, 404, 431, 490, 500, 536, 545, 559, 585, 595<br>
-	<div class="ssTitle">Gold Rush:</div> 27, 43, 100, 122, 142, 178, 237, 265, 279, 296, 331, 347, 375, 404, 431, 490, 500, 536, 545, 559, 585, 595<br>
+	<div class="ssTitle">Base:</div> 27, 43, 100, 122, 178, 237, 265, 279, 296, 331, 347, 375, 404, 431, 490, 500, 536, 545, 559, 585, 595<br>
+	<div class="ssTitle">Gold Rush:</div> 27, 43, 100, 122, 142, 178, 237, 279, 296, 331, 347, 375, 404, 431, 490, 500, 536, 545, 559, 585, 595<br>
 	<div class="ssTitle">Platinum Team Sets:</div> 27, 43, 100, 122, 142, 178, 237, 265, 279, 296, 331, 347, 375, 404, 431, 490, 500, 536, 545, 559, 585, 595<br>
 	<div class="ssTitle">Double Gold Champs (GC):</div> 11<br>
 	<div class="ssTitle">Hall of Gold (HG):</div> 11, 54, 80<br>
@@ -1989,7 +1989,7 @@
 
 	<p><div class="title">1995 Stadium Club</div><br>
 	<i>Completed- Crunch Time</i><br>
-	<div class="ssTitle">Base:</div> 8, 52, 76, 93, 137, 177, 207, 249, 292, 319, 352, 362, 450, 471, 518, 538, 560, 579<br>
+	<div class="ssTitle">Base:</div> 8, 52, 93, 137, 177, 207, 249, 292, 319, 352, 362, 450, 471, 518, 538, 560, 579<br>
 	<div class="ssTitle">First Day Issue:</div> 8, 52, 76, 93, 137, 177, 207, 249<br>
 	<div class="ssTitle">Members Only:</div> 8, 52, 76, 93, 137, 177, 207, 249, 292, 319, 352, 362, 450, 471, 518, 538, 560, 579<br>
 	<div class="ssTitle">Super Team World Series:</div>  8, 52, 76, 93, 137, 177, 207, 249, 292, 319, 352, 362, 450, 471, 518, 538, 560, 579<br>
@@ -2240,7 +2240,7 @@
 	<br>
 
 	<p><div class="title">1994 Select</div><br>
-	<div class="ssTitle">Base:</div> 29, 84, 122, 144, 154, 160, 162, 171, 261, 274, 301, 379, 390, 410<br>
+	<div class="ssTitle">Base:</div> 29, 84, 122, 154, 160, 162, 171, 261, 274, 301, 379, 390, 410<br>
 	<div class="ssTitle">Rookie Surge (RS):</div> 14<br>
 	<div class="ssTitle">Salute (SS):</div> 2 (Winfield)<br>
 	</p>
@@ -2266,7 +2266,7 @@
 	<br>
 
 	<p><div class="title">1994 Stadium Club</div><br>
-	<div class="ssTitle">Base:</div> 9, 22, 117, 183, 210, 224, 275, 288, 359, 416, 429, 477, 479, 484, 501, 561, 624, 637, 688<br>
+	<div class="ssTitle">Base:</div> 9, 22, 117, 183, 210, 224, 275, 288, 359, 416, 429, 477, 479, 484, 501, 561, 637, 688<br>
 	<div class="ssTitle">First Day Issue:</div> 9, 22, 117, 134, 183, 210, 224, 275, 288, 359, 416, 429, 477, 479, 484, 501, 561, 584, 624, 637, 670, 688<br>
 	<div class="ssTitle">Golden Rainbow:</div> 9, 22, 117, 134, 183, 210, 224, 275, 288, 359, 416, 429, 477, 479, 484, 501, 561, 584, 624, 637, 670, 688<br>
 	<div class="ssTitle">Members Only:</div> 9, 22, 117, 134, 183, 210, 224, 275, 288, 359, 416, 429, 477, 479, 484, 501, 561, 584, 624, 637, 670, 688, ST-23<br>
@@ -2316,7 +2316,7 @@
 	<br>
 
 	<p><div class="title">1994 Upper Deck</div><br>
-	<div class="ssTitle">Base:</div> 4, 81, 114, 152, 200, 289, 302, 322, 325, 439, 501, 503<br>
+	<div class="ssTitle">Base:</div> 4, 152, 200, 289, 302, 322, 325, 439, 501, 503<br>
 	<div class="ssTitle">Electric Diamond:</div> 4, 81, 98, 114, 141, 197, 200, 289, 302, 322, 325, 439, 501, 503, 548<br>
 	<div class="ssTitle">Electric Diamond Silver Back:</div> 81, 98, 114, 141, 152, 197, 200, 302, 322, 325, 439, 501, 503, 548<br>
 	<div class="ssTitle">All-Star Jumbos:</div> 14<br>
@@ -2342,7 +2342,7 @@
 
 	<br>
 
-<p><div class="title">1993 Bowman</div><br>
+	<p><div class="title">1993 Bowman</div><br>
 	<div class="ssTitle">Base:</div> 17, 45, 73, 76, 101, 129, 157, 185, 241, 269, 297, 325, 335, 345, 369, 397, 425, 453, 509, 537, 565, 593, 621, 649, 677<br>
 	</p>
 
@@ -2429,7 +2429,7 @@
 	<br>
 
 	<p><div class="title">1993 Pinnacle</div><br>
-	<div class="ssTitle">Base:</div> 27, 54, 78, 107, 135, 163, 192, 267, 307, 334, 361, 372, 386, 408, 426, 465, 508, 578, 594<br>
+	<div class="ssTitle">Base:</div> 54, 78, 107, 135, 163, 267, 307, 334, 361, 372, 386, 408, 465, 508, 578, 594<br>
 	<div class="ssTitle">Cooperstown:</div> 12<br>
 	<div class="ssTitle">Cooperstown Dufex:</div> 12<br>
 	<div class="ssTitle">Home Run Club:</div> 45<br>
@@ -2442,7 +2442,7 @@
 	<br>
 
 	<p><div class="title">1993 Score</div><br>
-	<div class="ssTitle">Base:</div> 19, 45, 64, 72, 98, 130, 148, 178, 206, 233, 235, 245, 287, 337, 444, 458, 471, 497, 505, 533, 550, 606<br>
+	<div class="ssTitle">Base:</div> 19, 45, 64, 72, 98, 130, 148, 178, 206, 233, 235, 245, 287, 337, 444, 458, 471, 497, 505, 533, 550<br>
 	<div class="ssTitle">Franchise:</div> 9<br>
 	<div class="ssTitle">Gold Dream Team:</div> 2<br>
 	</p>
@@ -2450,10 +2450,10 @@
 	<br>
 
 	<p><div class="title">1993 Select</div><br>
-	<div class="ssTitle">Base:</div> 4, 36, 80, 104, 130, 154, 206, 251, 253, 314, 324, 352, 370<br>
+	<div class="ssTitle">Base:</div> 4, 36, 80, 104, 130, 154, 253, 314, 324, 352, 370<br>
 	<div class="ssTitle">Aces:</div> 24<br>
 	<div class="ssTitle">Chase Stars:</div> 18<br>
-	<div class="ssTitle">Rookie/Traded (T):</div> 9, 45, 52, 67, 74, 115, 144<br>
+	<div class="ssTitle">Rookie/Traded (T):</div> 9, 45, 52, 67, 74, 115<br>
 	<div class="ssTitle">Stat Leaders:</div> 2, 7, 68<br>
 	</p>
 
@@ -2466,7 +2466,7 @@
 	<br>
 
 	<p><div class="title">1993 Stadium Club</div><br>
-	<div class="ssTitle">Base:</div> 42, 74, 95, 117, 146, 170, 182, 254, 283, 314, 336, 354, 380, 420, 443, 492, 525, 550, 569, 597, 740<br>
+	<div class="ssTitle">Base:</div> 42, 74, 95, 117, 146, 182, 254, 283, 569, 597, 740<br>
 	<div class="ssTitle">First Day Issue:</div> 42, 74, 95, 117, 146, 170, 182, 254, 283, 314, 336, 354, 380, 420, 443, 492, 525, 550, 569, 597, 740<br>
 	<div class="ssTitle">Members Only:</div> 42, 74, 95, 117, 146, 170, 182, 254, 283, 314, 336, 354, 380, 420, 443, 492, 525, 550, 569, 597, 740<br>
 	<div class="ssTitle">Master Photos:</div> 6<br>
@@ -2519,7 +2519,7 @@
 	<br>
 
 	<p><div class="title">1993 Upper Deck</div><br>
-	<div class="ssTitle">Base:</div> 28, 34, 50, 110, 212, 313, 337, 442, 447, 450, 462, 65, 628, 648, 686, 733, 806, 837<br>
+	<div class="ssTitle">Base:</div> 28, 34, 50, 110, 212, 313, 337, 442, 447, 462, 65, 628, 648, 733, 806, 837<br>
 	<div class="ssTitle">Gold Hologram:</div> 28, 34, 50, 74, 110, 212, 236, 239, 254, 268, 303, 306, 313, 337, 341, 397, 399, 442, 447, 450, 462, 540, 565, 628, 648, 686, 697, 733, 786, 806, 837<br>
 	<div class="ssTitle">Clutch Performers:</div> R-17<br>
 	<div class="ssTitle">Diamond Gallery:</div> 26<br>
@@ -2621,7 +2621,7 @@
 	<br>
 
 	<p><div class="title">1992 Pinnacle</div><br>
-	<div class="ssTitle">Base:</div> 20, 46, 68, 73, 106, 119, 139, 176, 211, 246, 262, 276, 285, 289, 307, 333, 365, 435, 472, 491, 501, 511, 544, 575<br>
+	<div class="ssTitle">Base:</div> 20, 46, 68, 73, 119, 139, 176, 211, 246, 262, 276, 285, 289, 307, 333, 365, 435, 472, 491, 501, 511, 544, 575<br>
 	<div class="ssTitle">Rookie Idols:</div> 6<br>
 	<div class="ssTitle">Rookies:</div> 11<br>
 	<div class="ssTitle">Slugfest:</div> 13<br>
@@ -2631,7 +2631,7 @@
 	<br>
 
 	<p><div class="title">1992 Score</div><br>
-	<div class="ssTitle">Base:</div> 17, 28, 42, 60, 94, 164, 173, 182, 215, 272, 284, 296, 320, 357, 377, 438, 473482, 507, 514, 530, 572, 600, 652, 663, 669, 697, 720, 731, 792, 796, 798, 886, 889<br>
+	<div class="ssTitle">Base:</div> 17, 28, 42, 60, 94, 164, 173, 182, 215, 272, 284, 296, 320, 357, 377, 438, 473482, 507, 514, 530, 572, 652, 663, 669, 697, 720, 731, 792, 798, 886, 889<br>
 	<div class="ssTitle">100 Rising Stars:</div> 11, 74, 95<br>
 	<div class="ssTitle">100 Superstars:</div> 2, 4, 7, 98<br>
 	<div class="ssTitle">Coke/Hardees Discs:</div> 6, 14<br>
@@ -2693,7 +2693,7 @@
 	<br>
 
 	<p><div class="title">1992 Ultra</div><br>
-	<div class="ssTitle">Base:</div> 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403<br>
+	<div class="ssTitle">Base:</div> 88, 89, 90, 92, 93, 94, 96, 97, 98, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403<br>
 	<div class="ssTitle">All-Rookies:</div> 9<br>
 	<div class="ssTitle">All-Stars:</div> 8<br>
 	<div class="ssTitle">Award Winners:</div> 2, 23<br>
@@ -2702,11 +2702,11 @@
 	<br>
 
 	<p><div class="title">1992 Upper Deck</div><br>
-	<div class="ssTitle">Base:</div> 14, 89, 126, 146, 293, 509, 548, 624, 764, 776, 781, 785<br>
+	<i>Complete- Homerun Heroes</i><br>
+	<div class="ssTitle">Base:</div> 14, 89, 126, 293, 509, 548, 624, 764, 776, 781, 785<br>
 	<div class="ssTitle">Gold Hologram:</div> 14, 89, 109, 126, 130, 146, 168, 187, 254, 293, 311, 313, 315, 332, 334, 426, 428, 446, 506, 509, 527, 548, 604, 622, 624, 764, 776, 781, 785<br>
 	<div class="ssTitle">FanFest:</div> 35<br>
 	<div class="ssTitle">FanFest Gold:</div> 35<br>
-	<div class="ssTitle">Home Run Heroes (HR):</div> 12<br>
 	<div class="ssTitle">Minors:</div> 245<br>
 	<div class="ssTitle">Scouting Report (SR):</div> 2, 16<br>
 	<div class="ssTitle">Sheets:</div> 8, 29<br>
@@ -2729,7 +2729,7 @@
 	<br>
 
 	<p><div class="title">1991 Bowman</div><br>
-	<div class="ssTitle">Base:</div> (1), 2, 3, 319, 320, 322, 325, 326, 328, 330, 331, 333, 334, 337, 338, 339, 341<br>
+	<div class="ssTitle">Base:</div> (1), 2, 319, 320, 322, 325, 326, 328, 331, 333, 334, 337, 338, 339, 341<br>
 	</p>
 
 	<br>
@@ -2789,7 +2789,7 @@
 
 	<p><div class="title">1991 Score</div><br>
 	<i>Completed- Rookies/Traded</i><br>
-	<div class="ssTitle">Base:</div> 60, 76, 111, 135, 151, 163, 170, 200, 283, 284, 288, 292, 325, 332, 363, 370, 424, 429, 438, 471, 556, 574, 608, 678, 778, 796, 812, 855, 891<br>
+	<div class="ssTitle">Base:</div> 60, 76, 111, 135, 151, 163, 170, 200, 283, 284, 288, 292, 325, 332, 363, 370, 424, 429, 471, 556, 574, 608, 678, 778, 796, 812, 855, 891<br>
 	<div class="ssTitle">100 Rising Stars:</div> 44, 52, 95<br>
 	<div class="ssTitle">100 Superstars:</div> 7, 46, 67, 78<br>
 	<div class="ssTitle">All-Star Fanfest:</div> 10<br>
@@ -2837,8 +2837,8 @@
 
 	<p><div class="title">1991 Ultra</div><br>
 	<i>Completed- Ultra Team</i><br>
-	<div class="ssTitle">Base:</div> 193, 194, 195<br>
-	<div class="ssTitle">Update:</div> 34, 35, 36, 37, 38, 39<br>
+	<div class="ssTitle">Base:</div> 193, 195<br>
+	<div class="ssTitle">Update:</div> 34, 35, 36, 38, 39<br>
 	</p>
 
 	<br>
@@ -2882,7 +2882,7 @@
 	<br>
 
 	<p><div class="title">1990 Bowman</div><br>
-	<div class="ssTitle">Base:</div> 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 422, 423, 424<br>
+	<div class="ssTitle">Base:</div> 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 422, 423, 424<br>
 	<div class="ssTitle">Tiffany:</div> 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424<br>
 	</p>
 
@@ -2949,7 +2949,7 @@
 	<div class="ssTitle">Base:</div> 71, 102, 123, 145, 223, 276, 278, 381, 391, 519, 568, 573, 588, 647, 672, 690<br>
 	<div class="ssTitle">100 Superstars:</div> 1<br>
 	<div class="ssTitle">Rising Stars:</div> 15, 81, 98<br>
-	<div class="ssTitle">Rookie/Traded (#T):</div> 43, 54, 66, 82, 103<br>
+	<div class="ssTitle">Rookie/Traded (#T):</div> 54, 82<br>
 	<div class="ssTitle">Young Superstars II:</div> 26, 31<br>
 	</p>
 
@@ -3000,7 +3000,7 @@
 	<br>
 
 	<p><div class="title">1990 Upper Deck</div><br>
-	<div class="ssTitle">Base:</div> 15, 48, 236, 240, 281, 284, 438, 440, 452, 454, 475, 493, 720, 728</p>
+	<div class="ssTitle">Base:</div> 48, 236, 240, 281, 284, 438, 440, 452, 454, 475, 720, 728</p>
 
 	<br>
 
